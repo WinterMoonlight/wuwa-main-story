@@ -1,0 +1,596 @@
+{
+  "schema_version": 1,
+  "title": "风消雪霁",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 13,
+      "dialogue": 54
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 7,
+          "title": "往岁乘霄醒惊蛰",
+          "act": "第七幕",
+          "notes": [
+            "《行路遇新知》的前置是上一幕任务 `140800000` 的子任务 `330`。"
+          ],
+          "tasks": [
+            {
+              "sequence": 18,
+              "quest_id": 125000124,
+              "title": "风消雪霁",
+              "reading_status": "ordered_draft",
+              "notes": [
+                "【已定位的正文按章节回顾排列】"
+              ],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今汐已无大碍，少时我便将其送回今州休养，您无需过虑。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "现今尘埃落定，按照约定，是该我与您面对之时。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "心中有何疑虑，悉数问罢。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（关于自己的过去。）",
+                  "text_id": "Chengxiaoshan_main_1_1_405_4",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "我乃岁主「角」，是今州文明的引导者，关于今州的万事万物，皆存于我的思绪之中。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_9"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "而您，漂泊者，您是我的御者，亦即，曾经的掌控者。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_10"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今州是您昔日携我所创，您命我驻守于此，保此地文明兴盛，不衰不替。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_11"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "所以我为什么会失忆？",
+                  "text_id": "Chengxiaoshan_main_1_1_405_12",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "……还请见恕，我并非全知全能，我所知晓的一切，皆由您赐予。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_14"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "心中有何疑虑，悉数问罢。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_3"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（关于选择与权限。）",
+                  "text_id": "Chengxiaoshan_main_1_1_405_5",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:3",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "开启声之领域的“钥匙”是往昔的您所遗留的。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_15"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "您曾说，您要作为历史的参与者，介入、选择、见证文明的发展。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_16"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "而我询问您，是否可将时序之能传继给今汐，则是我的机制所致。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_17"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "我的能力转移、我的生、我的死，皆要御者予以准许。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_18"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "心中有何疑虑，悉数问罢。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_3"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（关于今汐的现状。）",
+                  "text_id": "Chengxiaoshan_main_1_1_405_6",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:3",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今汐承袭时序之能后，已补全时序之法，今州再无时流隐患。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_19"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "如今的今汐已然接过权柄，是真正的今州之主，从今往后，我仅尽辅佐之责，助其执政。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_20"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么一开始不和今汐说明？",
+                  "text_id": "Chengxiaoshan_main_1_1_405_21",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "这一情形我曾有过推演，但变数颇多，难有定论。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_22"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "达成此局，既需力足、亦需心笃，若我早先向今汐表露实情，只会徒增其烦恼，无益于济其实力，定其心念。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_23"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "而今时今日，本非我预言的时机。是残星会的干预，无形中加速了这一刻的到来。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_24"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "心中有何疑虑，悉数问罢。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_3"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（关于虹镇的现状。）",
+                  "text_id": "Chengxiaoshan_main_1_1_405_7",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:3",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "乘霄山已不受时流所扰，进出无碍。但之于当世的虹镇人，时间代偿并未消解。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_25"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "幸为今汐的共鸣之力庇佑，虹镇黎民若不离开乘霄山，则不必偿还寿数。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_26"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "现如今……亦当是权宜之计。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_27"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "千百年来，乘霄山山石不移、风雪难消，而今春雷乍动，正是万物复苏时。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_28"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "虹镇人的未来，仍有长路漫漫，若能得良主，不日便可步入正轨。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_29"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "心中有何疑虑，悉数问罢。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_3"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没什么要问的了。",
+                  "text_id": "Chengxiaoshan_main_1_1_405_8",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:3",
+                  "selected_index": 4
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "您的声痕……有异状。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_50"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是在问阿布吗？",
+                  "text_id": "Chengxiaoshan_main_1_1_405_30",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "呼啊……怎、怎么了？！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_405_32"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "漂泊者，让我看看，是谁欺负你了！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_405_33"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "好哇！是这个大块头吗！看我三两下就……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_405_34"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "不对……感觉祂好像没啥恶意诶……而且祂闻起来，好像我之前在今州闻到的那种“不自然”的味道……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_405_35"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "祂就是我要找的岁主。",
+                  "text_id": "Chengxiaoshan_main_1_1_405_36",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "原来是岁主啊，嘿嘿，你好哇！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_405_37"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "漂泊者，你怎么现在才叫我起来，感觉错过了很多好玩的事呢……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_405_38"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "……祂虽与我气息相近，却也有所不同。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_39"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你知道它是什么吗？",
+                  "text_id": "Chengxiaoshan_main_1_1_405_40",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "……不在我所知之内。但它寄居于您的声痕之中，应当是您有意为之。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_41"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那谁能解答我的疑问？",
+                  "text_id": "Chengxiaoshan_main_1_1_405_42",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:30",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "御者，您可否听过黑海岸？",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_43"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "黑海岸？有点印象。",
+                  "text_id": "Chengxiaoshan_main_1_1_405_44",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:31",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "黑海岸是您此世的来处，若心存疑问，不如至此地一访。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_46"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我记下了。",
+                  "text_id": "Chengxiaoshan_main_1_1_405_47",
+                  "choice_key": "剧情_1_1_乘宵山主线_8_1:32",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "不必烦忧。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_48"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "潮水泱泱，自会将您送往原点。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_405_49"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "御者，不妨回虹镇与友人相聚。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_407_1"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "乘霄山如今不再是禁地，今后虹镇的气象定会与以往大不相同。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_407_2"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "上回书说到……那乘霄山之巅霞光千丈，霎时间，云消雪霁，碧空万里。",
+                  "speaker_id": 735,
+                  "text_id": "Chengxiaoshan_main_1_1_410_1"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "但见一鹤发少女居于其间，恍如神女降世。",
+                  "speaker_id": 735,
+                  "text_id": "Chengxiaoshan_main_1_1_410_2"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "她只消双指一挥，千峰万壑时节流转，街巷阡陌气象一新。",
+                  "speaker_id": 735,
+                  "text_id": "Chengxiaoshan_main_1_1_410_3"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "若问那鹤发少女是何人，正是那死而复生的今州令尹。",
+                  "speaker_id": 735,
+                  "text_id": "Chengxiaoshan_main_1_1_410_4"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "正所谓春雷乍动，开云见日。",
+                  "speaker_id": 735,
+                  "text_id": "Chengxiaoshan_main_1_1_410_5"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "常言道“置之死地而后生”，若未有这绝处，又如何迎得焕然新生。",
+                  "speaker_id": 735,
+                  "text_id": "Chengxiaoshan_main_1_1_410_6"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "",
+                  "speaker_id": 83,
+                  "text_id": "Chengxiaoshan_main_1_1_410_15"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "没关系，毕竟，我们的目的并不在这里。",
+                  "speaker_id": 560,
+                  "text_id": "Chengxiaoshan_main_1_1_410_7"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我们想要得到的答案，已然揭晓。",
+                  "speaker_id": 560,
+                  "text_id": "Chengxiaoshan_main_1_1_410_8"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "——借由二次共鸣，即便是岁主的力量，也并非如此遥不可及......更何况，人工共鸣也不再是妄想。",
+                  "speaker_id": 560,
+                  "text_id": "Chengxiaoshan_main_1_1_410_9"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "还有，关于那位漂泊者……",
+                  "speaker_id": 560,
+                  "text_id": "Chengxiaoshan_main_1_1_410_11"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "收获满满，全是美妙的音符，不是吗？",
+                  "speaker_id": 560,
+                  "text_id": "Chengxiaoshan_main_1_1_410_12"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "时间不早了。",
+                  "speaker_id": 560,
+                  "text_id": "Chengxiaoshan_main_1_1_410_13"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "走吧，别让有些人在囚室里待得太久。",
+                  "speaker_id": 560,
+                  "text_id": "Chengxiaoshan_main_1_1_410_14"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 8
+        }
+      ]
+    }
+  ]
+}

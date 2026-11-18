@@ -1,0 +1,604 @@
+{
+  "schema_version": 1,
+  "title": "未知的既感",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 9,
+      "dialogue": 52,
+      "omission": 1,
+      "subtitle": 7
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 1,
+          "title": "未知的既感",
+          "act": "序幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 46,
+              "quest_id": 915700000,
+              "title": "未知的既感",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "漂泊者……你还好吗？",
+                  "speaker_id": 750019,
+                  "text_id": "Main_LahaiRoi_3_1_1_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "通往拉海洛的空间隧道趋于稳定，现在已经是随时能够启程的状态。",
+                  "speaker_id": 750019,
+                  "text_id": "Main_LahaiRoi_3_1_1_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "如果你准备好了，我在列车长咖啡厅这里等你。",
+                  "speaker_id": 750019,
+                  "text_id": "Main_LahaiRoi_3_1_1_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "……随时都可以。",
+                  "speaker_id": 750019,
+                  "text_id": "Main_LahaiRoi_3_1_1_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "漂泊者，你来了。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_1"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "已经可以前往拉海洛了？",
+                  "text_id": "Main_LahaiRoi_3_1_2_2",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_1_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "嗯，在波仔的努力下，黑海岸已经成功确定了拉海洛与穗波市的相对坐标，搭建起了一条足够稳定的单向隧道。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_3"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "……如果你准备好了的话，随时都可以出发。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_4"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……怎么了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_2_5"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "这个吗？千咲教给我制作这种饮品的方法，在尝试过程中，我发现将牛奶和糖的比例增加，味道也会更好……",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_6"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "我刚刚做了一杯，你想……尝试一下吗？",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_7"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……当然。",
+                  "text_id": "Main_LahaiRoi_3_1_2_8",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_1_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "嗯……好。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_10"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "（醇香在口中蔓延，只是……基本没有咖啡的味道了。）",
+                  "speaker_id": 83,
+                  "text_id": "Main_LahaiRoi_3_1_2_11"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你刚才是在担心些什么吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_2_12"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "关于你即将前往的拉海洛……这次「虚质磁暴」的持续时间，与以往的周期相比更长。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_15"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "这是一个相对反常的状态，但目前黑海岸无法通过裂隙探测到更多那边的情况。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_16"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你认为拉海洛可能出现了意外状况？",
+                  "text_id": "Main_LahaiRoi_3_1_2_17",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_1_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "与索拉里斯的其他地区不同，拉海洛并不存在引导文明的岁主，在国际性科研组织「深空联合」抵达前，它一直被认为只是一片人迹罕至的冰原。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_18"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "但鸣式始终盘踞于这片冰原之下，「虚质磁暴」就是因鸣式而产生的海蚀现象之一。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_19"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "人类一旦接触到「虚质磁暴」，自身频率会开始衰减，直至消逝……这只是我的推测，但你的频率流失，或许也与异常的虚质磁暴周期有关。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_20"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "不过……「深空联合」对稳定频率的研究也处于世界前列，到了那里，你应该能够得到更细致的检查和处理。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_21"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看来，不论是问题的源头还是解决的方法……都只有在那里才能找到了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_2_22"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "嗯，现在前往拉海洛的道路已经敞开，也到了该回去的时候了。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_23"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这些是……",
+                  "text_id": "Main_LahaiRoi_3_1_2_24",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_1_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "前往星炬学院所必须的一些文书资料。进入拉海洛需要通过严格的审批程序，黑海岸为你准备的方式……是作为“学生”直接入学。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_25"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "这封录取通知书，是你曾经留下的，如今仍然有效，它是你这次通行拉海洛的证明，请务必保管好。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_26"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谢谢你为我准备这些。",
+                  "text_id": "Main_LahaiRoi_3_1_2_27",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_1_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看来这次出远门，是要“重返校园”了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_2_28"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "进入拉海洛之后，我会暂时无法通过通讯联系到你，但我仍然会在这里守望你，等你把新的故事带回来，讲给我听。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_29"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "别担心，会顺利的。",
+                  "text_id": "Main_LahaiRoi_3_1_2_30",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_1_1:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "嗯……请务必小心。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_32"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "抱歉，我来晚了……",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_2_34"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "……嗯，是时候出发了。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_2_35"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "波仔",
+                  "text": "哎呀呀……还是来到这一天了啊。",
+                  "speaker_id": 50180,
+                  "text_id": "Main_LahaiRoi_3_1_4_1"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "波仔",
+                  "text": "坐标已经校准完毕了哦，保证让你们安安全全地落地。",
+                  "speaker_id": 50180,
+                  "text_id": "Main_LahaiRoi_3_1_4_2"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "空间隧道已经准备完毕，只是……现在宽度是一次能够容纳一个人通过的状态。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_4_3"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "那……请让我先过去吧。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_4_4"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "波仔，守岸人……谢谢你们这段时间的照顾。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_4_5"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "波仔",
+                  "text": "哎呀……不要这么严肃，放假的时候还是可以回来看看我的。",
+                  "speaker_id": 50180,
+                  "text_id": "Main_LahaiRoi_3_1_4_6"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "……嗯，我会常回来看看的。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_4_7"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "那么……漂泊者，我们学院见。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_4_8"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "学院见。",
+                  "text_id": "Main_LahaiRoi_3_1_4_9",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_4_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "空间隧道状态稳定……她会平安抵达的。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_4_10"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我也准备好了。",
+                  "text_id": "Main_LahaiRoi_3_1_4_11",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_4_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "……准备好了吗？我明白了。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_4_12"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "守岸人",
+                  "text": "漂泊者……一路平安。",
+                  "speaker_id": 1398,
+                  "text_id": "Main_LahaiRoi_3_1_4_13"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，我出发了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_4_14"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "………！",
+                  "text_id": "Main_LahaiRoi_3_1_6_1"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "实……实在对不起！！",
+                  "text_id": "Main_LahaiRoi_3_1_6_2"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "你怎么样？",
+                  "text_id": "Main_LahaiRoi_3_1_6_6"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "有没有哪里受伤？！",
+                  "text_id": "Main_LahaiRoi_3_1_6_7"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "你也是星炬学院的学生吧？我先带你去医务……",
+                  "text_id": "Main_LahaiRoi_3_1_6_3"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "是虚诞虫……先离开这里！",
+                  "text_id": "Main_LahaiRoi_3_1_6_4"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "抓稳了！",
+                  "text_id": "Main_LahaiRoi_3_1_6_5"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "需要一个能利用地形把它挡住的地方……",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_1_8_1"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那边如何？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_8_2"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "哈……没问题！交给我。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_1_8_3"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "好机会，就是现在！",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_1_8_4"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "哈，安全搞定！",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_1_8_5"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那边的建筑是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_8_6"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "嗯？那个啊……就是我们的目的地，星炬学院，怎么样，很壮观吧？",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_1_8_7"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "的确……有些超乎想象。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_8_8"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "刚才太匆忙，没来得及自我介绍，我叫琳奈！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_8_9"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "我刚才看到了你的录取通知书……你是新入学的学生？可以告诉我你的名字吗？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_8_10"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "漂泊者。",
+                  "text_id": "Main_LahaiRoi_3_1_8_11",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_8_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "嗯，我记住了，漂泊者。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_8_12"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "这里还不是完全安全，我们边走边说。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_8_13"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【演出过程略】"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 29
+        }
+      ]
+    }
+  ]
+}

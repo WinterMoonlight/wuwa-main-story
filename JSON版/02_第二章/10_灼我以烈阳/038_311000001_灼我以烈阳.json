@@ -1,0 +1,4132 @@
+{
+  "schema_version": 1,
+  "title": "灼我以烈阳",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 57,
+      "dialogue": 445,
+      "omission": 1,
+      "subtitle": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 10,
+          "title": "灼我以烈阳",
+          "act": "第八幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 38,
+              "quest_id": 311000001,
+              "title": "灼我以烈阳",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哎哟，天气真不错呀。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_5_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "漂泊者，今天总督那边有消息了吗？还是说咱们和前几天一样，一起到处逛逛？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_5_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "总督宫侍从",
+                  "text": "日安，漂泊者阁下。",
+                  "speaker_id": 350071,
+                  "text_id": "Main_Linaxita_2_9_5_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "总督宫侍从",
+                  "text": "在下总督宫侍从，德米安，今日特奉总督之命为阁下呈上这封亲笔信。",
+                  "speaker_id": 350071,
+                  "text_id": "Main_Linaxita_2_9_5_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "总督宫侍从",
+                  "text": "事关要务，还望阁下过目。",
+                  "speaker_id": 350071,
+                  "text_id": "Main_Linaxita_2_9_5_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（接过信件。）",
+                  "text_id": "Main_Linaxita_2_9_5_6",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_2_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "还真是说啥来啥……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_5_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "上面写的什么来着？给我也看看。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_5_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "大概是说——奥古斯塔那边的情况已经处理好了，按照之前的约定，她邀请我到总督宫见面。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_5_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……应该是为了狩猎有关的事吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_5_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "事不宜迟……阿布，我们走吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_5_11"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "诶，现在就要出发吗？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_5_12"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "说正事的话，嘿嘿，我就不跟着凑热闹了。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_5_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "待会儿你们慢慢聊，有什么事叫我就行。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_5_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "前面就是总督宫了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_10_1"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看起来奥古斯塔已经提前做好了安排……进去吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_20_1"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "哈哈哈哈哈！漂亮的身手！",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_2"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "虽然早有准备，但你刚才的表现，还是比我预想的要惊人。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_3"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "果然，站在大竞技场的高台上，看不清一个战士的灵魂。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_4"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "面对面的交锋，才真正让我感受到你骨血中咆哮的战意。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_5"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "过来吧，与我站得近些。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_6"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "拉古那的「桂冠」、七丘的「冠军」、受至高无上的亚狮诺索〔荣耀狮像〕垂青的角斗者——以荣耀之名，你理当与我并肩共行。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_7"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "七丘的现任总督奥古斯塔，向你献上我的敬意。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_8"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "很特别的打招呼方式。",
+                  "text_id": "Main_Linaxita_2_9_25_9",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "呵呵，直接有效，而且没有麻烦的礼节。在七丘，角斗士们习惯用剑代替话语去彼此了解。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_10"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "不过我很确信，我们今后有的是相互熟悉的机会。所以这次邀你前来，是为了另一件事——",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_11"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我以我个人的名义，也以总督宫的名义，为之前未能按时赴约一事向你致歉。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_12"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我由衷地希望这次意外，不会影响到你对于狩猎的热情。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_13"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你有要务缠身，不必感到抱歉。",
+                  "text_id": "Main_Linaxita_2_9_25_14",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "哈哈哈哈，宽容且强大，和我听说的一样，你的确拥有英雄一般的美德。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_16"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "那么，既然你没有否认对狩猎的兴趣，我们来聊聊它吧。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_17"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "愿闻其详。",
+                  "text_id": "Main_Linaxita_2_9_25_18",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "狩猎——在七丘人漫长的生存斗争史上，意义非凡……",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_19"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "它是荣誉，是责任，百年以来，无数角斗士自狩猎踏上角斗的征程，又以狩猎结束了自己辉煌的一生。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_20"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "毫不夸张地说，角斗士们沸腾的热血几乎灼烧着桑古伊斯狩原每一寸猩红的土地——",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_21"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我们的祖辈在狩原筑起猎场和防线，至今，那里仍是七丘人对抗黑潮的前沿。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_22"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "你或许知道，桑古伊斯狩原的高空，盘桓着一片永恒不散的黑潮云。自黎那汐塔第一次黑潮爆发始，狩原就不幸沦为滋生黑潮造物的温床。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_23"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "如你所想，我们的猎物正是诞生于黑潮的残象，角斗士们的猎刃只会挥向那些亵渎了七丘的敌人。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_24"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "涨潮期就要来了……这会是场汹涌的大潮。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_25"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我的队伍需要所向披靡的勇将，即便流血在所难免，我坚信，漂泊者，你会是一面屹立不倒的旗帜。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_26"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "七丘不乏出色的角斗士……",
+                  "text_id": "Main_Linaxita_2_9_25_27",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 42,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么会想邀请我参加狩猎呢？",
+                  "text_id": "Main_Linaxita_2_9_25_28",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我赞同你的看法，七丘确实从不缺少优秀的角斗士，然而你，恰是他们之中的佼佼者。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_29"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "等待我们的将会是一场盛大的狩猎，我和我的勇士们渴望与你这样的强者并肩作战。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_30"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "当然，卓越者的意愿，理应被倾听。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_31"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我想要知道你的想法，漂泊者。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_32"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我同意加入狩猎，但我有我的目的。",
+                  "text_id": "Main_Linaxita_2_9_25_33",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "不错，坦率的回答。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_34"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "关于你所说的“目的”……",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_35"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（告知岁主旧物及巡游天国的情报。）",
+                  "text_id": "Main_Linaxita_2_9_25_36",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "「巡游天国」？我听过这个荒谬的名字，但是很遗憾，狩猎的存在恰是为了粉碎黑潮的妄念。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_37"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "至于岁主的旧物……",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_38"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "……去彻地之楔看看吧，那是岁主英白拉多在桑古伊斯狩原的降临地，也是历来狩猎的“核心”所在。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_39"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "鉴于它的重要性，就算是七丘的要员也无权接近。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_40"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "可若是你的愿望……无需多言，我会让它实现的。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_41"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你似乎很相信我。",
+                  "text_id": "Main_Linaxita_2_9_25_42",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:35",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "这份相信，是以你对我的认可为前提的。我欣赏你的坦诚，而我，必将尽我所能回馈这份信赖。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_43"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "只有互相信任的双方，才能共同走得更远。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_44"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我很期待即将到来的狩猎，与你同行将是我的荣幸。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_45"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们什么时候出发？",
+                  "text_id": "Main_Linaxita_2_9_25_46",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_6_1:39",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我的朋友，拥有足够的耐心是成为猎人的第一步。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_47"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "当七丘城的东南方高天卷起怒涛般的风暴时，我会在风潮崖，静候你的到来。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_25_48"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哎呀，又吃得饱饱的……嘻，今天填饱肚子的任务完成啦。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_30_2"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "诶？漂泊者，快看！那边的天空！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_30_3"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那是……风暴……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_30_4"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……差不多是和奥古斯塔约定的时间了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_30_5"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "风潮崖，我记得这是我们见面的地点。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_30_6"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "那那那……你快点去吧！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_30_7"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "还是老样子哦，有事喊我，我肯定第一个冲出来！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_30_8"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "应该是……这个方向……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_35_2"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "？？？（阿维狄亚）",
+                  "text": "若阁下的目的地是风潮崖，请往东面走吧。这条路会引领你去往荣耀的前庭。",
+                  "speaker_id": 350037,
+                  "text_id": "Main_Linaxita_2_9_35_3"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "？？？（阿维狄亚）",
+                  "text": "或者，不知阁下是否愿意与我同路？",
+                  "speaker_id": 350037,
+                  "text_id": "Main_Linaxita_2_9_35_4"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "？？？（阿维狄亚）",
+                  "text": "你我要去的是同一个地方，尊敬的漂泊者，你的威名无人不晓。",
+                  "speaker_id": 350037,
+                  "text_id": "Main_Linaxita_2_9_35_5"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "角斗士阿维狄亚，乐意为你效劳。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_35_6"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你也是来参加狩猎的吗？",
+                  "text_id": "Main_Linaxita_2_9_35_7",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_8_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "“角斗”和“狩猎”是七丘城立于高地、铸就不朽的根基，能受邀的话，我想没有角斗士会拒绝这份殊荣。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_35_8"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "我当然也不例外。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_35_9"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "请随我来吧，远道而来的尊贵客人。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_35_10"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我听奥古斯塔说，我们面对的会是一场大潮。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_37_1"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "总督所言不错。",
+                  "speaker_id": 300041,
+                  "text_id": "Main_Linaxita_2_9_37_2"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "而且……今年的涨潮期来得比以往要迟，这的确是件不寻常的事。",
+                  "speaker_id": 300041,
+                  "text_id": "Main_Linaxita_2_9_37_3"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "可惜元老院老爷们锐利的耳朵，这次没能凿开四方殿的高墙，听到墙后隐秘的风声……",
+                  "speaker_id": 300041,
+                  "text_id": "Main_Linaxita_2_9_37_4"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "呵，这究竟是灾厄的前兆，还是新传奇的序幕呢……",
+                  "speaker_id": 300041,
+                  "text_id": "Main_Linaxita_2_9_37_5"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "将阁下顺利送到总督面前，我的使命暂时告一段落了。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_40_3"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "之后，我们会一同奔赴狩原，黑潮造物或许会随时现身。届时，若能够亲眼见证阁下不俗的表现，我将荣幸之至。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_40_4"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "祝你行猎愉快。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_40_5"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "漂泊者，加入队伍吧。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_40_6"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "狩猎的号角正在呼唤我们启程。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_40_7"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们从风潮崖出发？",
+                  "text_id": "Main_Linaxita_2_9_40_8",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_9_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "没错，这里正是征途的起点。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_40_9"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "前面是悬崖，没有路……",
+                  "text_id": "Main_Linaxita_2_9_40_10",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_9_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 92,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "难道……是要滑翔到对面？",
+                  "text_id": "Main_Linaxita_2_9_40_11",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_9_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "哈哈哈哈哈！拿出你的勇气吧，朋友。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_40_12"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "荣耀之路，自会在勇敢者的脚下展开。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_40_13"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_45_1"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "呵，就这么急不可待吗？",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_50_1"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "那是蚀脊龙，黑潮的造物……",
+                  "speaker_id": 300041,
+                  "text_id": "Main_Linaxita_2_9_50_2"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "漂泊者，请多加小心。",
+                  "speaker_id": 300041,
+                  "text_id": "Main_Linaxita_2_9_50_3"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "还不是时候",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_55_1"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "让它逃吧，这条路……只会将它引向猎网的更深处",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_55_2"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这个声音是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_60_1"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "是猎号，一种声骸。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_60_2"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "它的意思是“收队”，就这么简单。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_60_3"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "奥古斯塔，该带着你的人回狩猎者营地了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_62_1"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "当然，谕女大人。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_62_2"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "还有您的箭，来得真是及时。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_62_3"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "嘁，看在漂泊者的面子上，我就当这是夸奖，勉强收下了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_62_4"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "狩猎者营地，桑古伊斯狩原最为繁忙的角斗士驻地，几乎每一位猎人都需经由此地前往猎场。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_65_2"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "在下一次出猎前，阁下可以在此处稍作休息。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_65_3"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "不得不承认，确实是个相当壮观的地方呢。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_4"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "也是，我的前辈们舍弃了本该享有的宁静，甘愿与猎人们共享这片难得的净土。这样的繁荣，理所当然是四方殿应得的。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_5"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "呵，谕女的话不无道理。我自知承蒙福荫，四方殿为此所做的牺牲，我定会铭记在心。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_65_6"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "各位，不多做叨扰了。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_65_7"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "嘁……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_8"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "虽说之前见过面，但总之还是正式介绍一下好了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_9"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "我，尤诺，四方殿的谕女。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_10"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我听过，谕女拥有一言以决的权力。",
+                  "text_id": "Main_Linaxita_2_9_65_11",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_14_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "哦？消息还挺灵通的嘛。倒是这样没错，可这些无聊的事我早就做腻了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_13"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "漂泊者，不如为我找些更有趣的事情来做吧。比如……狩猎。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_14"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "直白一点说，在对付黑潮这方面，这里没几个角斗士能赢得过我。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_15"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "哈，又是这种无礼的眼神。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_16"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "我理解，毕竟太过耀眼是会惹人嫉妒的。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_17"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "我先回四方殿了，奥古斯塔。免得我的光芒待会儿又要灼伤某些人的眼睛。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_18"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "要是等下你闲着没事做，可以来四方殿找我哦。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_19"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "不是随便什么外邦人都有资格踏入四方殿的，所以，请好好享受这份优待吧。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_65_20"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "难得见到尤诺这么收敛。你对她来说，或许是不一样的存在。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_21"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们似乎关系很好。",
+                  "text_id": "Main_Linaxita_2_9_65_22",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_14_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "可能……是有些相似的地方吧。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_23"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "呵呵，别看她那副不着边际的样子，却是个很靠得住的同伴。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_24"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们刚才遇到的那个怪物……",
+                  "text_id": "Main_Linaxita_2_9_65_25",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_14_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "蚀脊龙。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_26"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "阿维狄亚说得没错，那是诞生自黑潮的残象。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_27"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "不过他没来得及告诉你的是，我们之前面对的，是所有蚀脊龙中最为危险的个体——黑潮的先锋，与狂涌的大潮一同降临的「暴君」。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_28"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "鸣式染指七丘的企图从未切实如愿，但这并不代表，我们的敌人会就此俯首称臣。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_29"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "黑潮不死不灭，贯彻着它的创造者——鸣式利维亚坦的意志。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_30"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "只有拥有岁主英白拉多力量的彻地之楔，可以切断黑潮与鸣式之间的那根脐带，将灾厄死死钉在桑古伊斯狩原的深渊之下。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_31"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "所谓“狩猎”，就是以猎捕、剿灭的方式，打散黑潮造物的频率。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_32"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "然而考虑到彻地之楔的能量能够辐射的区域有限，我们要做的，就是为猎物送上正确的死。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_33"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……也就是说，我们需要在彻地之楔附近猎杀那头怪物……这样才能阻止黑潮的扩张吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_65_34"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "嗯，至少不能超出赤林猎场的范围。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_35"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "这一次与「暴君」交手，尽管在狩猎队的预料之中，却不是大家愿意见到的事……",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_36"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "那家伙很清楚我们的目的，它是狡猾的猎物，或者从某种程度上说，是狡猾的猎手。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_37"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那我们现在要做什么？",
+                  "text_id": "Main_Linaxita_2_9_65_38",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_14_1:33",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "等待，等它进入赤林猎场。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_39"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "只有当饥饿的野兽徘徊在荒野中时，真正的狩猎才算开始。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_40"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "总督宫侍从",
+                  "text": "总督阁下，元老们在主帐等您。",
+                  "speaker_id": 350071,
+                  "text_id": "Main_Linaxita_2_9_65_41"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "总督宫侍从",
+                  "text": "是关于商讨狩猎计划的事宜……",
+                  "speaker_id": 350071,
+                  "text_id": "Main_Linaxita_2_9_65_42"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "看来要失陪一阵子了。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_43"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "放松点，先随意逛逛营地吧。下次出发前，猎号的呼嚎会响彻天地。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_44"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "那是狭渊对岸都能听到的呼嚎，你不会错过的。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_65_45"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "……",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_65_46"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "奇雷利",
+                  "text": "听说了吗，阿维狄亚和元老院的事……",
+                  "speaker_id": 750329,
+                  "text_id": "NPC_MAINSY_1_16_1"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "布拉内蒂",
+                  "text": "争权夺势嘛，不过对上奥古斯塔，我看阿维狄亚未必能有胜算。",
+                  "speaker_id": 750330,
+                  "text_id": "NPC_MAINSY_1_16_2"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "奇雷利",
+                  "text": "没有足够的共鸣天赋，奥古斯塔的力量终归是有极限的。",
+                  "speaker_id": 750329,
+                  "text_id": "NPC_MAINSY_1_16_3"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "奇雷利",
+                  "text": "更何况少了强大的共鸣资质，她既不符合预言中王的标准，也难以与历代英雄王相提并论。",
+                  "speaker_id": 750329,
+                  "text_id": "NPC_MAINSY_1_16_4"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "布拉内蒂",
+                  "text": "话不能这么说，按照奥古斯塔的行事风格，若不是她默许，阿维狄亚甚至没有被推到台前的机会。",
+                  "speaker_id": 750330,
+                  "text_id": "NPC_MAINSY_1_16_5"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "布拉内蒂",
+                  "text": "这份从容……我看正是为王应有的气度。",
+                  "speaker_id": 750330,
+                  "text_id": "NPC_MAINSY_1_16_6"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "扎罗",
+                  "text": "百年难遇的大潮……",
+                  "speaker_id": 750324,
+                  "text_id": "NPC_MAINSY_1_2_1"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "扎罗",
+                  "text": "你说，这次会不会是预言里的那场……七丘劫难……",
+                  "speaker_id": 750324,
+                  "text_id": "NPC_MAINSY_1_2_2"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "赫尔库斯",
+                  "text": "呵，管它大潮小潮，哪一次涨潮期出猎，咱们不是把脑袋掖在裤腰带上？",
+                  "speaker_id": 750325,
+                  "text_id": "NPC_MAINSY_1_2_3"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "赫尔库斯",
+                  "text": "把剑磨亮了，来啥打啥。别想太多。",
+                  "speaker_id": 750325,
+                  "text_id": "NPC_MAINSY_1_2_4"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "洛尔维诺",
+                  "text": "奥古斯塔竟然会让阿维狄亚介入狩猎，还如此……毫不设防。",
+                  "speaker_id": 750326,
+                  "text_id": "NPC_MAINSY_1_6_1"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "洛尔维诺",
+                  "text": "看来法尔科阁下您，为此花了不少心思。",
+                  "speaker_id": 750326,
+                  "text_id": "NPC_MAINSY_1_6_2"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "法尔科",
+                  "text": "我们的总督渴望挑战，而我，不过是满足她的小小愿望罢了。",
+                  "speaker_id": 850064,
+                  "text_id": "NPC_MAINSY_1_6_3"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "法尔科",
+                  "text": "至于她能不能守住位置……呵呵，光芒太盛，有时，会先灼伤了自己。",
+                  "speaker_id": 850064,
+                  "text_id": "NPC_MAINSY_1_6_4"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "米兰塔",
+                  "text": "阿维狄亚最近风头正盛啊……",
+                  "speaker_id": 750327,
+                  "text_id": "NPC_MAINSY_1_11_1"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "米兰塔",
+                  "text": "据说他才是那个最有资格当上英雄王的人——这是我从元老院那边听来的消息。",
+                  "speaker_id": 750327,
+                  "text_id": "NPC_MAINSY_1_11_2"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "里卡斯托",
+                  "text": "阿提留斯的后裔，还有四度穿越玛涅斯之底的功绩……要说他的共鸣力确实与英雄王的预言相合。",
+                  "speaker_id": 750328,
+                  "text_id": "NPC_MAINSY_1_11_3"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "里卡斯托",
+                  "text": "鹿死谁手……拭目以待吧。",
+                  "speaker_id": 750328,
+                  "text_id": "NPC_MAINSY_1_11_4"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "尤诺之前提起可以去四方殿找她……既然是空闲时间的话，去看看吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_66_1"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "泽拉",
+                  "text": "关于这次狩猎……",
+                  "speaker_id": 750331,
+                  "text_id": "NPC_MAINSY_1_21_1"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "泽拉",
+                  "text": "我看不到更加明确的未来……",
+                  "speaker_id": 750331,
+                  "text_id": "NPC_MAINSY_1_21_2"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "泽拉",
+                  "text": "一片阴影……我只能从焰光中窥见阴影，令人不安的阴影……",
+                  "speaker_id": 750331,
+                  "text_id": "NPC_MAINSY_1_21_3"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "梅丽娜",
+                  "text": "抛开关切和畏惧，静下心来吧。",
+                  "speaker_id": 750332,
+                  "text_id": "NPC_MAINSY_1_21_4"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "梅丽娜",
+                  "text": "遮蔽命运真容的，是你纷杂的情感。",
+                  "speaker_id": 750332,
+                  "text_id": "NPC_MAINSY_1_21_5"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "塞拉芙",
+                  "text": "我听见角斗士们在谈论英雄王。",
+                  "speaker_id": 750333,
+                  "text_id": "NPC_MAINSY_1_26_1"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "塞拉芙",
+                  "text": "哪怕没有焰光的指引，我也能预见未来在王座前，会有一场在所难免的纷争。",
+                  "speaker_id": 750333,
+                  "text_id": "NPC_MAINSY_1_26_2"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "内莉娅",
+                  "text": "可我们明明没能窥见英雄王的面目。王位的归属，现在谁也说不清。",
+                  "speaker_id": 750334,
+                  "text_id": "NPC_MAINSY_1_26_3"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "塞拉芙",
+                  "text": "正是因为含混不明，原本指引人心的预言才会为人所用。",
+                  "speaker_id": 750333,
+                  "text_id": "NPC_MAINSY_1_26_4"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "塞拉芙",
+                  "text": "有时我也在想，预言究竟是照亮前路的辉光，还是将人们囚困在欲望中的枷锁。",
+                  "speaker_id": 750333,
+                  "text_id": "NPC_MAINSY_1_26_5"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "没想到在狩原这种远离城区的地方，还能有这么气派的建筑……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_67_1"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好像……没看到尤诺。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_67_2"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "墙上那些是……壁画吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_68_1"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_90_5"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“唯有手握非凡力量、自黑色浪潮中崛起的英雄王能使七丘永恒。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_90_1"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“他将平息汹涌的暗流与风波，以旧王的血为无上的荣耀加冕。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_90_2"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "此时，你注意到壁画的画面并不完整，它的中央有着一片突兀的剥落痕迹……",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_90_3"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "你不明白这到底意味着什么，但直觉告诉你，它存在的意义，远在虚无与空白之外。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_90_4"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "日安，漂泊者阁下。看来阁下也与我一样，对四方殿的壁画兴味盎然。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_2"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这些壁画是……",
+                  "text_id": "Main_Linaxita_2_9_100_3",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_21_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "它们出自历代谕女之手，描绘的尽是谕女们自圣火的焰光中窥见的预言——已然发生的和尚未到来的，并存于此。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_4"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "总之，这里的壁画皆指向两则关键的预言。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_5"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "一是昔日的拉古那人，因岁主信仰的纷争而降下的诅咒般的预言：",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_6"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "“听吧，七丘的无信者们，高天的神已怒不可遏。倘使七丘的君主再次藐视神的旨意，毁灭即是七丘命运。”",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_7"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "另一则，恰是谕女们对拉古那人预言的延续——",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_8"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "“唯有手握非凡力量、自黑色浪潮中崛起的英雄王能使七丘永恒。他将平息汹涌的暗流与风波，以旧王的血为无上的荣耀加冕”。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_9"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "阁下似乎对这幅壁画格外留心……它所刻的就是未来某日降临在七丘的灾厄，一如既往，力挽狂澜的英雄王会来到我们之中。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_10"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "然而关于那位英雄王的身份，我们至今仍一无所知，而且巧合的是，就像壁画上剥落的痕迹，预言中那场抵抗厄难的战争，它的结果也是空白的……",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_11"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "是谕女们没能窥视到应至的命运，还是预言的真实内容不便为人所知……这个问题，的确值得琢磨。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_12"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "哎呀，准英雄王阁下又在做白日梦了？盯着那面空荡荡的墙，是在幻想哪天自己的英姿也能被刻上去吗？",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_13"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "我不过是偶然路过，随意消磨些时间罢了。谕女不必费心留意我这样无足轻重的角色。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_14"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "无足轻重的角色？谁不知道你是元老院的宠儿。那些老家伙对我爱搭不理的，对你可是一副格外看重的样子呢。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_15"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "呃……尤诺……",
+                  "text_id": "Main_Linaxita_2_9_100_16",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_21_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "等我多久了？啧，被这家伙捷足先登还真是不爽。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_17"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "敬仰英雄是人之常情，谕女又何必与我置气？",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_18"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "嘁，别以为我不清楚你在打什么算盘，真以为漂泊者会站在你们那边？",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_19"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "让我想想看啊……打算借着狩猎的名义，抢先解决掉「暴君」和黑潮，好证明你才是预言中的英雄王是吗？",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_20"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "哼，以为靠着什么四度穿越玛涅斯之底的名号和槲叶勋章，就能取代奥古斯塔的位置。别开玩笑了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_21"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "玛涅斯之底是什么？",
+                  "text_id": "Main_Linaxita_2_9_100_22",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_21_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "啊？好像不是该解释这些的时候吧……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_24"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "两位，我从不否认我是个对权力有所图谋的野心家，但同样，捍卫七丘的荣耀也是我的使命所在。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_25"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "若我能攀上英雄王的王座，七丘便可在下一次灾难来临时逃离毁灭的命运。这不正是四方殿的预言吗？",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_26"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "你……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_27"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "万一奥古斯塔才是英雄王呢？",
+                  "text_id": "Main_Linaxita_2_9_100_28",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_21_1:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "她拥有诸多成就英雄王的品格，唯独缺少了预言中那所谓的“非凡力量”。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_29"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "作为共鸣者，奥古斯塔能力平平，可在七丘的历史上，历任英雄王无一不是天资卓绝之人。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_30"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "她或许有的是挥剑的气力，却终究无法如其他共鸣者一般，抵得住无尽的伤痛与漫长岁月的磋磨。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_31"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "很遗憾，在七丘这个由预言构建的城邦里，奥古斯塔是那个规则的破坏者。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_32"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "我可以向谕女保证，我绝不会暗中行事。奥古斯塔想要光明正大的挑战，我会给她应有的尊重。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_33"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "二位，恕我失陪，先行告辞了。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_34"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "或许……我们会在随后的狩猎中见证新王的诞生。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_100_35"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_36"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "情况你也看到了，反正就是这么回事咯……真是的，好不容易有点时间相处，居然被这种事情搅没了……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_37"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我不明白，以奥古斯塔的声望，元老院的人想要夺权根本占不到优势。他们为什么还要这么做？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_100_38"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "还不是因为奥古斯塔一坐上总督的位置就开始折腾，尤其是在整治角斗赛事腐败这件事上，她根本不在意那些元老的脸色。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_39"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "结果嘛，自然是有人哭天抢地，说什么“影响了角斗的根基”之类的……其实就是想赖在自家的小金库上不肯挪窝。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_40"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "更重要的是……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_41"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……现在这样的局面是奥古斯塔那个笨蛋想要看到的结果。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_42"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "那女人说什么“七丘的臣民只需忠于七丘，不必忠于她奥古斯塔”。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_43"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "还满不在乎地告诉我，只有强大的角斗士渴望成为总督，总督这个位置才有意义。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_44"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "真是个比我还要任性的家伙。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_45"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是在担心奥古斯塔的实力吗？",
+                  "text_id": "Main_Linaxita_2_9_100_46",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_21_1:39",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "我怎么会担心这个？奥古斯塔那柄大剑你应该见过吧？剑身上那些剑骸，可是她战胜了无数角斗士征服来的战利品。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_47"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "像阿维狄亚那样共鸣力还算拿得出手的人，早就不知道打败多少个了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_48"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "只是……那个阿维狄亚，总让我觉得不太舒服。不是立场上的，是……直觉。他有一种……不太真实的感觉……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_49"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……也许是我想多了吧……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_50"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "是狩王鹫！看样子我们的猎物总算有动静了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_51"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "晚些时候再见面吧，但是下次，你的注意力要全部放在我身上哦。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_100_52"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那位长辈……是在看我这边吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_100_53"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "去问声好吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_100_54"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_1"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（查看上方左一壁画。）",
+                  "text_id": "Main_Linaxita_2_9_70_2",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_15_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“与岁主英白拉多同行的法比乌，预言之中的英雄王。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_7"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“那黑色怒潮无可驯服的领袖，挥舞着强健的臂膀。他以磐石般坚实的双手，引领吾等穿越风暴，攀上永恒的高地。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_8"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“胜利者的旌旗在狂风中猎猎作响：我之足下的大地，自此归于七丘。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_9"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_1"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（查看上方左二壁画。）",
+                  "text_id": "Main_Linaxita_2_9_70_3",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_15_1:1",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“‘丰碑’阿提留斯，预言之中的英雄王。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_10"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“不屈的英魂，悍勇的征服者。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_11"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“当漆黑的潮水自高天坠落，他是横亘在七丘与灾厄间的不灭长城。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_12"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_1"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（查看上方左三壁画。）",
+                  "text_id": "Main_Linaxita_2_9_70_4",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_15_1:1",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“‘不锈的锋刃’薇利芮尔，预言之中的英雄王。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_13"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“她是追逐与猎杀之地的独一君主。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_14"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“吾等尊贵的王将高擎利刃及长枪，割开怒兽的项颈，自黑潮的枯喉中，为七丘夺回辉煌的不朽。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_15"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_1"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（查看下方大型壁画。）",
+                  "text_id": "Main_Linaxita_2_9_70_5",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_15_1:1",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "模糊不清的壁画，画面……似乎与对面那幅相似。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_16"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_1"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（离开。）",
+                  "text_id": "Main_Linaxita_2_9_70_6",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_15_1:1",
+                  "selected_index": 4
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画不会离去，它们只在岁月中无声地等待着你的回眸。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_70_17"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_1"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（查看上方左一壁画。）",
+                  "text_id": "Main_Linaxita_2_9_85_2",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_16_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "一面空置的墙。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_9"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "它缄默地等候着命运的潮汐，在它干涸的滩涂上留下潮湿的痕迹。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_10"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_1"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（查看上方左二壁画。）",
+                  "text_id": "Main_Linaxita_2_9_85_3",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_16_1:1",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“听吧，七丘的████，高天的█已████。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_7"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“倘使█████再次██████，██即是七丘的命运。”",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_8"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_1"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（查看上方左三壁画。）",
+                  "text_id": "Main_Linaxita_2_9_85_4",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_16_1:1",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "一面空置的墙。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_11"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "它缄默地等候着命运的潮汐，在它干涸的滩涂上留下潮湿的痕迹。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_12"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_1"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（离开。）",
+                  "text_id": "Main_Linaxita_2_9_85_6",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_16_1:1",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "壁画不会离去，它们只在岁月中无声地等待着你的回眸。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_85_13"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "莉莉贝",
+                  "text": "……",
+                  "speaker_id": 350003,
+                  "text_id": "Main_Linaxita_2_9_105_1"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "莉莉贝",
+                  "text": "漂泊的英雄，我们等你很久了。",
+                  "speaker_id": 350003,
+                  "text_id": "Main_Linaxita_2_9_105_2"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "莉莉贝",
+                  "text": "让我看看，嗯……一片空白，不可知的命运……",
+                  "speaker_id": 350003,
+                  "text_id": "Main_Linaxita_2_9_105_3"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "莉莉贝",
+                  "text": "我的孩子，不必为此而烦忧。空白的意义从来不是乌有。",
+                  "speaker_id": 350003,
+                  "text_id": "Main_Linaxita_2_9_105_4"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "莉莉贝",
+                  "text": "请循着它的指引前行吧，它将引领我们步入无垠的可能，穿越迷雾，抵达未曾触及的彼岸……",
+                  "speaker_id": 350003,
+                  "text_id": "Main_Linaxita_2_9_105_5"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我好像没太听明白……",
+                  "text_id": "Main_Linaxita_2_9_105_6",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_23_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "这位年长的女性没有回答你的疑问，她的双眸注视着炽热的焰光，灵魂似乎不在此处。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_105_7"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "时间刚好。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_115_1"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "差不多是该活动活动了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_115_2"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "漂泊者是在和莉莉贝婆婆聊些什么吗……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_115_3"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "算了，之后再说吧。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_115_4"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "阿奎拉，拜托你了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_115_5"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "荣耀之地的英魂，请回应我的祈愿。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_115_6"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "愿燃烧不息的圣火，赐予我们无尽的视野。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_115_7"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "巴蒂斯特",
+                  "text": "年轻人，这把剑可是我这段时间打的最好的一把了。",
+                  "speaker_id": 750275,
+                  "text_id": "NPC_MAINSY_1_450_1"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "巴蒂斯特",
+                  "text": "狩猎黑潮造物，人和武器缺一不可，只是，人去剑去，剑归人不归，这种事我看得太多了……",
+                  "speaker_id": 750275,
+                  "text_id": "NPC_MAINSY_1_450_2"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "巴蒂斯特",
+                  "text": "希望这把剑能带给你好运，年轻人！",
+                  "speaker_id": 750275,
+                  "text_id": "NPC_MAINSY_1_450_3"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "费德里科",
+                  "text": "师傅，请问这把剑有名字么？",
+                  "speaker_id": 750276,
+                  "text_id": "NPC_MAINSY_1_450_4"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "巴蒂斯特",
+                  "text": "不，还没有。年轻人，你叫什么名字？",
+                  "speaker_id": 750275,
+                  "text_id": "NPC_MAINSY_1_450_5"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "费德里科",
+                  "text": "我叫费德里科，师傅。",
+                  "speaker_id": 750276,
+                  "text_id": "NPC_MAINSY_1_450_6"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "巴蒂斯特",
+                  "text": "费德里科……不错的名字。如果你能带着这把剑归来，那么就由你为它冠名吧。",
+                  "speaker_id": 750275,
+                  "text_id": "NPC_MAINSY_1_450_7"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "费德里科",
+                  "text": "……我会把握住这份殊荣的，师傅。",
+                  "speaker_id": 750276,
+                  "text_id": "NPC_MAINSY_1_450_8"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "费德里科",
+                  "text": "赌上家族的荣耀，我会证明自己配得上这把剑。",
+                  "speaker_id": 750276,
+                  "text_id": "NPC_MAINSY_1_450_9"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那是出猎的号角声……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_130_1"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "去找奥古斯塔吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_130_2"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "就是那边。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_2"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "在那面高崖的后面，岁主英白拉多遗存的彻地之楔和这片土地一样古老。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_3"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "那里会是你此行的终点，也是我所承诺的，我与你共同的目标。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_4"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这是……",
+                  "text_id": "Main_Linaxita_2_9_135_5",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_28_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "利用彻地之楔伴生的黑石制造的定向锚。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_6"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "这种东西天然带有彻地之楔的残余力场，虽然不能用来防身，但起码可以帮我们暂时斥退黑潮，或者是黑潮的造物。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_7"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "待会儿，我们需要在赤林猎场提前标定好的三个位置插下定向锚，借助定向锚产生的特殊磁场，将猎物驱赶到更下层的往世花平野。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_8"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "那片开满往世花的原野是狩猎队能相对安全到达的下层区域，在高度上，它接近彻地之楔的深根。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_9"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我们会在那个荣耀之所，为「暴君」送上应有的死。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_10"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那些黑雾是……",
+                  "text_id": "Main_Linaxita_2_9_135_11",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_28_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "是「暴君」作为黑潮先锋的标记。我们的猎物可不怎么安分啊。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_12"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "赤林猎场就在悬崖的对面，那家伙笃定我们会乘上狩王鹫或者其他什么走空路，索性布下埋伏，等着把我们拖入深渊。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_13"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "……一头蚀脊龙，却懂得如何巧妙地设下陷阱，等待狩猎者自投罗网……呵，还真是个有趣的对手。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_14"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "诸位，请随我一同步行前往猎场。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_15"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "让圣火的焰光点燃你们的决心吧，七丘的敌人会见识到，何为无畏！",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_16"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "……",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_135_17"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "……它……在等你……",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_135_18"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你还好吗，奥古斯塔？",
+                  "text_id": "Main_Linaxita_2_9_135_19",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_28_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "出发吧。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_135_20"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这里……",
+                  "text_id": "Main_Linaxita_2_9_320_2",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_29_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "尸横遍野，很可怕的场面是吧。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_320_3"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "其实这片原野，原本就是「暴君」的诞生地，也是它引以为傲的残酷王国。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_320_4"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "过去的每一次狩猎，我们都会在这里迎来最终的死战。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_320_5"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "角斗士们千方百计将黑潮造物驱逐到往世花平野，同样，黑潮造物也会不择手段地把追猎者引到这儿来。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_320_6"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "这注定会是一场势均力敌的生死游戏，猎人与猎物？呵，谁是猎人，谁是猎物，只有活到最后的人说了算。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_320_7"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "英雄王阿提留斯的后裔，因四度穿越玛涅斯之底而授勋的阿维狄亚。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_320_8"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我在你身上看到了渴望，对权力的渴望。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_320_9"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "不过想要做我的对手，这点觉悟还远远不够。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_320_10"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "来吧，站到我的身边来，放手追逐你的欲望吧。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_320_11"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "让野心之火烧得更旺一些。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_320_12"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "如您所愿，总督阁下。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_320_13"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "总算有点不无聊的了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_320_14"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "漂泊者，你就老老实实待在旁边陪我休息吧。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_320_15"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "奥古斯塔和角斗士之间的事，暂时还不需要我们插手。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_320_16"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "一切就绪",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_330_1"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "「它」会咬钩的",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_330_2"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "漂泊者，走吧，跟上那家伙。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_335_1"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "费了不少力气才备好的诱饵。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_335_2"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "这份“礼物”，「它」……最好给我乖乖接受。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_335_3"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "就是那边。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_600_1"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "「暴君」",
+                  "text": "*凄厉而痛苦的嗥叫声*",
+                  "speaker_id": 750323,
+                  "text_id": "Main_Linaxita_2_9_336_1"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处有一句尚未取得的文字】"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "错愕的角斗士",
+                  "text": "这、这是什么声音……",
+                  "speaker_id": 350045,
+                  "text_id": "Main_Linaxita_2_9_340_1"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "……",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_340_2"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "就是……现在……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_340_3"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "尤诺……尤诺……",
+                  "text_id": "Main_Linaxita_2_9_345_1"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "到底发生什么事了，刚才那种黑色的雾……黏糊糊的……怎么吃都吃不完……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_350_2"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "嗝……不行了不行了，一下子吃掉太多，脑袋晕晕的。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_350_3"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "漂泊者，唔……我先去缓缓……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_9_350_4"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "……还撑得住吗？",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_350_5"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "？？？（“低语”）",
+                  "text": "奥古斯塔……",
+                  "speaker_id": 750338,
+                  "text_id": "Main_Linaxita_2_9_350_6"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "奥古斯塔……",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_350_7"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "……看吧，她的一只小小声骸，就能轻易平息汹涌的黑潮……这就是强大的、堪称完美的共鸣力。",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_350_8"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "以人类弱小的能力，你几乎什么都做不了。",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_350_9"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "你差点又失去了一切……就和曾经一样。",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_350_10"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "奥古斯塔……这次，请不要再拒绝“神的恩赐”，跟随我们的指引回到呓语镇吧……",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_350_11"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "回到……你的故乡……",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_350_12"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "奥古斯塔……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_350_13"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "奥古斯塔……咳咳……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_350_14"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "如果，我是说如果……七丘的命运早就已经是注定的……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_350_15"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "你还要……继续战斗下去吗……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_350_16"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "……",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_350_17"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "王之所以为王，就是要为臣民……完成不可能完成的事。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_350_18"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "这里不安全，我会带队把大家送到附近的临时营地，但在此之前，我得确保没有人落下。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_350_19"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "漂泊者，你们先走，尤诺就拜托你了。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_350_20"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "嗯，放心吧。",
+                  "text_id": "Main_Linaxita_2_9_350_21",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_85_2:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_355_4"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "怎么样？要不要中途休息一下？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_355_5"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "关心的话我收下了，不过这点路……我还没脆弱到那种程度……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_355_6"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……放我在这里就好。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_2"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "真是的……别在我面前露出那种一脸担忧的表情，又不是什么大不了的事。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_3"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……嗯，你先好好休息吧。",
+                  "text_id": "Main_Linaxita_2_9_360_4",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_5"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "等等，你有话想要问我，对吧。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_6"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "有什么就说什么，一点点小伤，我还能应付得过来。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_7"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我刚才看到了你坠入黑潮之中。",
+                  "text_id": "Main_Linaxita_2_9_360_8",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_11"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "已经“窥见”到了这种程度吗？还是说，不止是这些……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_12"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "呵，你这家伙到底还要让我惊讶多少次……不过也对，这种事情，也只有你能办得到吧。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_13"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "莉莉贝婆婆……就是你在四方殿见过的那位谕女之首——和我提起过，命运在你身上是一片“不可知的空白”。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_14"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "虽然我还没有完全搞懂婆婆所说的“空白”的意思，但至少说明，你是最特别的那一个。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_15"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那些画面是什么？",
+                  "text_id": "Main_Linaxita_2_9_360_16",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "那是……我曾经在圣火的焰光中，窥见的……七丘的命运……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_17"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "就像你看到的那样，黑潮会带来七丘的毁灭，以及……奥古斯塔的死。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_18"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "我不知道拉古那人的预言到底是不是真的，可命运却没有回应我除了悲哀之外的结局。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_19"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……事到如今，哪怕再不甘心也得承认，黑潮的确是种可怕的东西。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_20"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "它的可怕之处不在于向我展示幻境、编造谎言，而在于……它总是能敏锐地找到被我们隐藏起来的，心中最不愿面对的那一部分。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_21"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "假如你窥见的命运并非真相呢？",
+                  "text_id": "Main_Linaxita_2_9_360_22",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "不会的，我的预言从不出错。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_23"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "所以……我恨透了这种无能为力的感觉，明明知道一切，却什么都做不了……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_24"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……既然都说到这里了，姑且告诉你一个秘密好了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_25"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……现在的我，早就看不见命运的流迹了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_26"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "我用窥视命运的能力，“换”来了对抗黑潮的共鸣力。不为别的，只是不想再做命运的喉舌，听凭那种高高在上的东西摆布。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_27"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "可是到头来……就算拼尽全力，我们却还是没能逃得过命运的操控……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_28"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "之前我们在往世花平野遭遇的黑色人形，事实上是黑潮化生的实体，我们叫它“伪作的神王”。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_29"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "那家伙和其他的黑潮造物不一样，它会吞噬、重塑黑潮散逸的力量。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_30"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "我不清楚这样发展下去究竟会怎么样，可我很确定，它就是预言里覆灭七丘的罪源。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_31"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "在这次狩猎开始前，我和奥古斯塔提前调查了桑古伊斯狩原，确认了这次涨潮的不寻常。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_32"
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "于是我们打算利用神王的特质，将蚀脊龙当做诱饵，引出它还未完全成型的实体。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_33"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "也许这样，七丘的悲剧就能在它诞生之前被改写。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_34"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "当然，结果你也看到了，我们失败了……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_35"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "预言和命运，真的不能被改写吗？",
+                  "text_id": "Main_Linaxita_2_9_360_36",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:28",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 404,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……我不知道……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_37"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "命运很诚实，或许在死亡面前，我们真的没得选。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_38"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "但如果是奥古斯塔的话……那个笨蛋绝对会一如既往地战斗到底。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_39"
+                },
+                {
+                  "sequence": 407,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "不过……有件事我不太确定，不知道为什么，我总感觉之前黑潮向我展示的命运，和我在记忆中看到的有些不太一样。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_40"
+                },
+                {
+                  "sequence": 408,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……是哪里不一样呢……唔……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_41"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你的身体……",
+                  "text_id": "Main_Linaxita_2_9_360_42",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:34",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 410,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "共鸣力的副作用罢了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_43"
+                },
+                {
+                  "sequence": 411,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "很多时候黑潮不会以稳定的形态出现，而我的共鸣能力恰好能够以我的“存在”，换取黑潮造物显化，大概就是……等价交换之类的。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_44"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "呃……听起来是有些复杂，你的话，只需要知道这些副作用可以通过睡眠来缓解就足够了。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_45"
+                },
+                {
+                  "sequence": 413,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "厘清问题需要时间。",
+                  "text_id": "Main_Linaxita_2_9_360_46",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:38",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 414,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在此之前，重要的是恢复好身体。",
+                  "text_id": "Main_Linaxita_2_9_360_47",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:39",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 415,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "说得也对。等我之后有力气了，搞明白这些疑点，还不是动动手指的事？",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_48"
+                },
+                {
+                  "sequence": 416,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "对了，这个，你拿着。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_49"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这是……",
+                  "text_id": "Main_Linaxita_2_9_360_50",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:42",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 418,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "能够封存一小部分共鸣力的月石手镯，是我成为谕女时，从前辈手中继承的。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_51"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "这枚手镯可是很珍贵的哦，你要好好保管，弄丢了别指望再有第二个。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_52"
+                },
+                {
+                  "sequence": 420,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "我不在的这段时间，好好地拜托它吧，说不定它能勉强代替我，帮到你和奥古斯塔呢。",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_53"
+                },
+                {
+                  "sequence": 421,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谢谢你，尤诺。",
+                  "text_id": "Main_Linaxita_2_9_360_54",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_36_1:45",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 422,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "……干嘛突然说这种话……",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_55"
+                },
+                {
+                  "sequence": 423,
+                  "kind": "dialogue",
+                  "speaker": "尤诺",
+                  "text": "那什么……我不会睡得太久的！你，还有奥古斯塔，你们两个谁也别想抛下我，明白了吗？",
+                  "speaker_id": 250024,
+                  "text_id": "Main_Linaxita_2_9_360_56"
+                },
+                {
+                  "sequence": 424,
+                  "kind": "dialogue",
+                  "speaker": "托马斯",
+                  "text": "看现在的形势，恐怕这次狩猎凶多吉少……",
+                  "speaker_id": 750278,
+                  "text_id": "NPC_MAINSY_1_485_1"
+                },
+                {
+                  "sequence": 425,
+                  "kind": "dialogue",
+                  "speaker": "托马斯",
+                  "text": "唉……好想再喝一杯「饮心」啊，不知道还有没有机会回去……",
+                  "speaker_id": 750278,
+                  "text_id": "NPC_MAINSY_1_485_2"
+                },
+                {
+                  "sequence": 426,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（不交付）",
+                  "text_id": "NPC_MAINSY_1_485_4",
+                  "choice_key": "剧情_主线生态npc对话（上）_1_13:2",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 427,
+                  "kind": "dialogue",
+                  "speaker": "安娜丽莎",
+                  "text": "尤诺……虽然之前听过她狩猎时的事迹，但亲眼见到还是第一次……",
+                  "speaker_id": 750277,
+                  "text_id": "NPC_MAINSY_1_475_1"
+                },
+                {
+                  "sequence": 428,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "尤诺的伤势怎么样了？",
+                  "text_id": "NPC_MAINSY_1_475_2",
+                  "choice_key": "剧情_主线生态npc对话（上）_1_12:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 429,
+                  "kind": "dialogue",
+                  "speaker": "安娜丽莎",
+                  "text": "暂时没有什么大碍……",
+                  "speaker_id": 750277,
+                  "text_id": "NPC_MAINSY_1_475_3"
+                },
+                {
+                  "sequence": 430,
+                  "kind": "dialogue",
+                  "speaker": "安娜丽莎",
+                  "text": "只不过，她的共鸣能力有些使用过度……",
+                  "speaker_id": 750277,
+                  "text_id": "NPC_MAINSY_1_475_4"
+                },
+                {
+                  "sequence": 431,
+                  "kind": "dialogue",
+                  "speaker": "安娜丽莎",
+                  "text": "现在就让她好好休息吧。",
+                  "speaker_id": 750277,
+                  "text_id": "NPC_MAINSY_1_475_5"
+                },
+                {
+                  "sequence": 432,
+                  "kind": "dialogue",
+                  "speaker": "安娜丽莎",
+                  "text": "我想，在目睹了她今天的表现后，很多人都会对她改观的。",
+                  "speaker_id": 750277,
+                  "text_id": "NPC_MAINSY_1_475_6"
+                },
+                {
+                  "sequence": 433,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "去看看奥古斯塔那边的情况吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_365_1"
+                },
+                {
+                  "sequence": 434,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "眼前的局势，远比我以往经历的任何时刻都更为危急。为了七丘，我也该暂时放下权力的纷争了……",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_1"
+                },
+                {
+                  "sequence": 435,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（询问尤诺之前在四方殿提起的那件事。）",
+                  "text_id": "Main_Linaxita_2_9_367_2",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_81_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 436,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "四度穿越玛涅斯之底吗？",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_3"
+                },
+                {
+                  "sequence": 437,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "现在恐怕不是谈论这些过往的时候，但如果这是阁下的要求……",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_4"
+                },
+                {
+                  "sequence": 438,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "这要追溯到四年前的涨潮期……那时，我们被狂怒的黑潮逼入了狩原下层的受蚀地。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_5"
+                },
+                {
+                  "sequence": 439,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "我原本无意效仿三位英雄王征服玛涅斯之底的壮举，但为了突破黑潮的封锁，我不得不一次次带队，冒险深入那座埋藏在地下的前代文明遗迹。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_6"
+                },
+                {
+                  "sequence": 440,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "好在运气没有背弃我们，最终在那幽暗的险境中，我和我的同伴们辟出了一条艰难的生路。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_7"
+                },
+                {
+                  "sequence": 441,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你的那些同伴也来参加这次狩猎了吗？",
+                  "text_id": "Main_Linaxita_2_9_367_8",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_81_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 442,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "……命运无常，如今仍在猎场上搏杀的，只剩下我一个人了。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_9"
+                },
+                {
+                  "sequence": 443,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "彼时我的诸多同伴都遭受了黑潮的侵蚀。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_10"
+                },
+                {
+                  "sequence": 444,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "我们靠着一种生长在玛涅斯之底、对黑潮具有天然抗性的特殊植株——醒真草，才勉强扛过黑潮对意志的腐化。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_11"
+                },
+                {
+                  "sequence": 445,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "纵然如此，我们当中的许多人如今仍终日受病痛折磨，只得被迫早早结束了自己的角斗士生涯。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_12"
+                },
+                {
+                  "sequence": 446,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "这枚珍贵的槲叶勋章，是前任总督在那场危机之后赐予我的嘉许。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_13"
+                },
+                {
+                  "sequence": 447,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "那是场辉煌而沉痛的胜利，可无论如何，我的同伴们，不该被黑潮的屈辱所囚。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_367_14"
+                },
+                {
+                  "sequence": 448,
+                  "kind": "dialogue",
+                  "speaker": "总督宫侍从",
+                  "text": "……已经通知到了主营地以及主岛各区，防御措施也按照您的安排部署下去了。",
+                  "speaker_id": 350071,
+                  "text_id": "Main_Linaxita_2_9_370_2"
+                },
+                {
+                  "sequence": 449,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "辛苦了，有其他消息及时告诉我。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_3"
+                },
+                {
+                  "sequence": 450,
+                  "kind": "dialogue",
+                  "speaker": "总督宫侍从",
+                  "text": "谨遵使命。",
+                  "speaker_id": 350071,
+                  "text_id": "Main_Linaxita_2_9_370_4"
+                },
+                {
+                  "sequence": 451,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你这边怎么样？",
+                  "text_id": "Main_Linaxita_2_9_370_5",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_38_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 452,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "事情先交代下去了，至少在战备的层面上，我们得做好最坏的打算。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_6"
+                },
+                {
+                  "sequence": 453,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "另外，和黑海岸那边的沟通也在推进。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_7"
+                },
+                {
+                  "sequence": 454,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "总督宫先前与黎那汐塔一带的客卿搭上了线，双方谈妥了，狩猎期间，黑海岸可以占用七丘的中枢，监测、收集黑潮数据。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_8"
+                },
+                {
+                  "sequence": 455,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "相应的，一旦狩猎计划出现意外，黑海岸需要履约，为七丘提供必要的技术支持。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_9"
+                },
+                {
+                  "sequence": 456,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "在黎那汐塔一带活动的客卿？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_370_10"
+                },
+                {
+                  "sequence": 457,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "没错，名字叫卜灵。有趣的小姑娘，我印象很深。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_11"
+                },
+                {
+                  "sequence": 458,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "原来是她啊……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_370_12"
+                },
+                {
+                  "sequence": 459,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "奥古斯塔，联络黑海岸的事交给我来吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_370_13"
+                },
+                {
+                  "sequence": 460,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我和他们之间……有一些往来，事情处理起来应该会更顺利一些。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_9_370_14"
+                },
+                {
+                  "sequence": 461,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "嗯，那就拜托你了。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_15"
+                },
+                {
+                  "sequence": 462,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（联系卜灵。）",
+                  "text_id": "Main_Linaxita_2_9_370_16",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_38_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 463,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "情况嘛，我大致搞清楚了……唉，这位漂泊者老板怎么又卷入到这种麻烦事里了，难办、难办哦。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_17"
+                },
+                {
+                  "sequence": 464,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "你的意思是……",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_18"
+                },
+                {
+                  "sequence": 465,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "这么说吧，中枢这阵子传回来的数据可不太妙，桑古伊斯狩原的黑潮不对劲得很，我记得以前可没那么邪门。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_19"
+                },
+                {
+                  "sequence": 466,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "本来嘛，七丘这些黑潮在涨潮期闹腾一两下也就算了，结果现在不知道撞上了什么邪祟，一下子改头换面有了人形。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_20"
+                },
+                {
+                  "sequence": 467,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "嘶……我帮老板们捋一遍泰缇斯系统的报告啊——那人形，就是那个叫“神王”的邪物，这会儿正发了疯似的吞吃频率呢。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_21"
+                },
+                {
+                  "sequence": 468,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "什么黑潮造物、残象、声骸，凡是带点能量的，它全都照收不误，搞不好还盯上了别的乱七八糟的东西。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_22"
+                },
+                {
+                  "sequence": 469,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "说白了，神王压根没打算直接对七丘或者是拉古那动手，它约莫是想把自己养肥，等攒够了劲儿，一口气拿下彻地之楔。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_23"
+                },
+                {
+                  "sequence": 470,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "要是彻地之楔失了灵，狩原底下原先被封着的黑潮不得一股子冲出来，到时候三煞临门，你们黎那汐塔人就算是有三头六臂也跑不掉咯。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_24"
+                },
+                {
+                  "sequence": 471,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（提起奥古斯塔和尤诺的计划。）",
+                  "text_id": "Main_Linaxita_2_9_370_56",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_38_1:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 472,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "你回想起尤诺曾向你透露，她与奥古斯塔原先暗中筹划过一项狩猎神王的计划。尽管那一计策终告失败，你仍依奥古斯塔的意思将其转告给了卜灵。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_9_370_57"
+                },
+                {
+                  "sequence": 473,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "风行水上，雷动山前……老板，这办法灵的啊。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_25"
+                },
+                {
+                  "sequence": 474,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "要我说，这蚀脊龙八成是个引大鱼上钩的钓饵，老板真正打的主意，是先发制人，趁神王没成气候把它按得翻不了身。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_26"
+                },
+                {
+                  "sequence": 475,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "我猜得没错吧？",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_27"
+                },
+                {
+                  "sequence": 476,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "嗯，你说得不错。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_28"
+                },
+                {
+                  "sequence": 477,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "天地交泰……看这卦象，老板的计划不应当出什么大岔子才对。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_29"
+                },
+                {
+                  "sequence": 478,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "但……太顺了反而不是啥好事，泰极必否、枝节横生……泰缇斯系统这边也确实在狩猎中途捕捉到了一段颇有些古怪的频率。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_30"
+                },
+                {
+                  "sequence": 479,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "啧，那道频率简直是横空入局的变数，硬是让神王抢在命数之前成了形，把原本四平八稳的局势搅得天翻地覆。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_31"
+                },
+                {
+                  "sequence": 480,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "能够追溯到那段频率的来源吗？",
+                  "text_id": "Main_Linaxita_2_9_370_32",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_38_1:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 481,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "呃……这个嘛，我再算算……气机有些乱，看得不太真切。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_33"
+                },
+                {
+                  "sequence": 482,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "……怎么感觉是有人故意遮了天机似的……",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_34"
+                },
+                {
+                  "sequence": 483,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "所以无论如何，我们必须赶在事态失控前找到神王，阻止它融合更多的频率……这可能是目前唯一可行的办法。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_35"
+                },
+                {
+                  "sequence": 484,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "是这个理，就算神王有上天入地的能耐，也逃不过泰缇斯系统的眼睛，我看看啊……它眼下就在频率最集中的地方转悠呢……",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_36"
+                },
+                {
+                  "sequence": 485,
+                  "kind": "dialogue",
+                  "speaker": "卜灵",
+                  "text": "……好像是桑古伊斯狩原的东边，唔……那地界阴气不散，怕是之前出过大事，折过不少厉害人物呢。",
+                  "speaker_id": 250004,
+                  "text_id": "Main_Linaxita_2_9_370_37"
+                },
+                {
+                  "sequence": 486,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "呓语镇……",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_38"
+                },
+                {
+                  "sequence": 487,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "了解了，我会去阻止它的。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_39"
+                },
+                {
+                  "sequence": 488,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "神王盯上了彻地之楔，我不能坐视不理。",
+                  "text_id": "Main_Linaxita_2_9_370_40",
+                  "choice_key": "剧情_2_6_狄斯台地主线_上半_1_38_1:36",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 489,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "总督阁下。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_370_42"
+                },
+                {
+                  "sequence": 490,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "请允许我与您一同前往呓语镇。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_370_43"
+                },
+                {
+                  "sequence": 491,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "提出这一冒昧的请求，并非是我妄自尊大不知此行危险，只是作为七丘的战士，请原谅我做不到袖手旁观。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_370_44"
+                },
+                {
+                  "sequence": 492,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "诸位，我们今天是为捍卫七丘的荣耀而团结在此。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_370_45"
+                },
+                {
+                  "sequence": 493,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "我无权要求各位同行，不过以我浅见，在场之人无不荣冠累累，我们的所作所为，必须对得起这份嘉许。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_370_46"
+                },
+                {
+                  "sequence": 494,
+                  "kind": "dialogue",
+                  "speaker": "年长的角斗士",
+                  "text": "说得好，年轻人。七丘的角斗士从不畏惧挑战，翱翔在高天的鹰鹫，又怎么能在风雨将至时甘心做英雄羽翼下的雏鸟？",
+                  "speaker_id": 350006,
+                  "text_id": "Main_Linaxita_2_9_370_49"
+                },
+                {
+                  "sequence": 495,
+                  "kind": "dialogue",
+                  "speaker": "年长的角斗士",
+                  "text": "总督阁下，我等愿意追随你的脚步。",
+                  "speaker_id": 350006,
+                  "text_id": "Main_Linaxita_2_9_370_50"
+                },
+                {
+                  "sequence": 496,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "很好，你们以觉悟向七丘宣誓了忠诚，不仅是我，沉眠在卡庇托山的英灵亦会因你们的无畏而赞叹自豪。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_51"
+                },
+                {
+                  "sequence": 497,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "既然诸君渴望并肩作战，那么，这般高涨的热情，我会给予它应有的回应。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_52"
+                },
+                {
+                  "sequence": 498,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "来吧，拿起你们的剑——为了七丘，为了英雄之名永恒不朽。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_370_53"
+                },
+                {
+                  "sequence": 499,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "明智的选择，奥古斯塔……",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_370_54"
+                },
+                {
+                  "sequence": 500,
+                  "kind": "dialogue",
+                  "speaker": "“低语”",
+                  "text": "回来吧，回到那应去之所，法比亚纳早已渴望着你的回归……",
+                  "speaker_id": 350005,
+                  "text_id": "Main_Linaxita_2_9_370_55"
+                },
+                {
+                  "sequence": 501,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "呓语镇就在狩原下层的受蚀地，十六年前那里曾遭受黑潮侵蚀，后来几乎成了禁地。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_380_1"
+                },
+                {
+                  "sequence": 502,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "走吧，漂泊者，让高天讯使带我们一程。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_380_2"
+                },
+                {
+                  "sequence": 503,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "阿维狄亚，准备好定向锚，我们需要在呓语镇筑起防线。",
+                  "speaker_id": 250022,
+                  "text_id": "Main_Linaxita_2_9_375_1"
+                },
+                {
+                  "sequence": 504,
+                  "kind": "dialogue",
+                  "speaker": "阿维狄亚",
+                  "text": "遵从您的指令。",
+                  "speaker_id": 1580,
+                  "text_id": "Main_Linaxita_2_9_375_2"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "黎那汐塔 第二章",
+          "source_act_id": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "schema_version": 1,
+  "title": "时序之主",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 6,
+      "dialogue": 105,
+      "omission": 3
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 7,
+          "title": "往岁乘霄醒惊蛰",
+          "act": "第七幕",
+          "notes": [
+            "《行路遇新知》的前置是上一幕任务 `140800000` 的子任务 `330`。"
+          ],
+          "tasks": [
+            {
+              "sequence": 17,
+              "quest_id": 125000123,
+              "title": "时序之主",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [
+                "【已定位的正文按章节回顾排列】",
+                "【部分流程或交互暂略，详情见同名JSON】"
+              ],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【演出过程略】"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今汐，许久未见。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_1"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "还有御者，或者，我该唤您为漂泊者。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_2"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "我不曾知晓您是因何种缘法才出现于此，但您既已现身，必定意味着今州的未来已行至分歧点。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_3"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "失去记忆的“稚子”，是会拿起为命运而战的锋刃，还是会躲进安稳的襁褓沉眠？",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_4"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "未来的种子，将从此刻落下。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_5"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "“御者”是？我要做什么？",
+                  "text_id": "Chengxiaoshan_main_1_1_380_6",
+                  "choice_key": "剧情_1_1_乘宵山主线_10_2:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "待诸事落幕，我自会予您一个解释。您现在要做的唯有介入、选择，而后见证。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今汐，你千里迢迢赶赴乘霄险境，除了助我脱困，应当另有他事求问罢。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "今汐此程不敢妄求，只愿岁主能将实情坦言告知。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如今乘霄山时流肆虐，生灵涂炭。箭在弦上……关于时流、关于您的伤，您与我之间不该再有隐瞒……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_11"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "我已知晓你的意愿。此时此刻本非“良机”，但险象丛生，我亦需因势而动。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_12"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "我，已大限将至。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "……",
+                  "speaker_id": 83,
+                  "text_id": "Chengxiaoshan_main_1_1_380_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "我族本应与天地同寿，无寿命之限。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_15"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "然我于太古之时蒙受不愈之伤，能苟存至今皆仰赖眠龙庭。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_16"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "但这并非万全之法……",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_17"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "长久以来，我唯有借眠龙庭强行填补能量，只求尽可能推迟死期。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_18"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "奈何天意难违，残星会设计毁伤于我。现如今，我伤情加剧，纵然是眠龙庭，亦无法再为我度命。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_19"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "如果你身故，今州怎么办？",
+                  "text_id": "Chengxiaoshan_main_1_1_380_20",
+                  "choice_key": "剧情_1_1_乘宵山主线_10_2:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今州……瑝珑之内，再无今州。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_21"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "……",
+                  "speaker_id": 83,
+                  "text_id": "Chengxiaoshan_main_1_1_380_22"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "自我降临于乘霄山，以时序之能抵御残象潮时，时流便因我的创伤而逸散。自那时起，今州的覆灭便已成定局。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_23"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "千百年来，我逆天而行，以自身命数哺养今州，强撑至今。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_24"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "如若不然……逸散的时流将无人可驭。届时不单是乘霄山，今州一脉皆会被失控的时流裹挟，无一幸免。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_25"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "被卷入时间乱流会怎么样？",
+                  "text_id": "Chengxiaoshan_main_1_1_380_26",
+                  "choice_key": "剧情_1_1_乘宵山主线_10_2:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今州将永远受困于时间之巇，过去即是未来，生即是死。庆典与战争不断重复、纠缠，欢愉与苦楚再无分别。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_27"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "要而论之，凡是今州界内的生灵即要永生永世受此煎熬，直至时间不复存在。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_28"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "……此事皆因我而起，亦当由我而止。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_29"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "不日之后，我将调用我的全部力量，用我这条残命换今州的时间暂停。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_30"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "彼时今州将陷于沉寂，却不至陨灭。在未来之时，瑝珑文明或可寻得对抗时间乱流的方法，解救今州于危难。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_31"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "难道除此以外，我们就没有其它办法了吗？",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_32"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "此计虽不周全，但亦算是一种解法。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_33"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "请原谅……我无法遵从您的选择。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_34"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "十年，百年……倘若后人没有寻到援救今州的对策呢？如此数年，今州早已被世人遗忘……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_35"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……到了那时，又怎么会有人甘愿为寰宇间的盈尺之地穷尽山海？",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_36"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "今州的命途，不该交给一个不确定的未来。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_37"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "我虽不能至将来，但亦可窥见无数未至的可能。在我的推演中，此法最为行之有效，也最为稳妥无虞。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_38"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "若今令尹心有疑虑……你又当如何破局？",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_39"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "而今乘霄山时流肆行，是我勉力维持才不至恶化。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_40"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "如若我不凝结今州时流，我身死之后，将来的今州，只会比你所见的乘霄山，再可怖百倍、千倍。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_41"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……您曾预言过，我与您之间，会有命中注定的一战……是吗？",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_42"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "确有此事。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_43"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……我起初参不透这预言的深意，直到我了解了您与稷廷曾经的作为——",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_44"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "彼此共鸣的两方能量碰撞所带来的二次共鸣，可令我超越自身能力限度，施展时序之能，接替您，纠正一切时流带来的错误。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_45"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……尽管，我为此不得不与您短兵相接……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_48"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "荒谬至极！",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_49"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "若你强行冲撞我的共鸣之力，稍有差池，便会堕入超频，沦为一具空壳。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_50"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "而你应当极为清楚超频带来的痛楚非常人所能忍受，即便你当下承受了诸般痛苦，比起真正的超频仍不值一提。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_51"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "更有甚者，你将被拖入时序裂隙，不论是形骸亦或精神，日复一日被撕裂而后重构，永世不得安宁。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_52"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但我能补救时序偏差。这不正是您当年救下我的原因吗？我想，我要做的事，与您一直以来逆天而为保下今州，并无分别。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_380_53"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今汐，我仍予你最后的选择。由我凝结时间，你将不损分毫。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_54"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "一定还有别的办法。",
+                  "text_id": "Chengxiaoshan_main_1_1_380_55",
+                  "choice_key": "剧情_1_1_乘宵山主线_10_2:50",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "时机到来之前，您的到访，只为见证。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_58"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "但您亦非全然旁观。若您有意介入，或许可让今汐生还的可能，多上一成。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_59"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "只需在必要时，您准许我将时序之能让渡于今汐，她的性命或可保下。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_60"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "——而那切要关头，即是今汐耗尽共鸣能力，超频至极限，濒于生死一线之时。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_61"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "届时，哪怕您有极微小的差错，今汐的结局，都不会有分毫改变。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_380_62"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我会拼尽全力保护今汐。",
+                  "text_id": "Chengxiaoshan_main_1_1_380_63",
+                  "choice_key": "剧情_1_1_乘宵山主线_10_2:55",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……汐，本是早该死去的人……何其幸运当年能被您救下，如今才有机会，亲眼见到今州的万家灯火。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_1"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……这其中的因果，也当有我这一环。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_2"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "今州是生我、养我的故土，若今州告危，我只想尽我所能，守护我所珍视的......纵使是要赌上自己的性命。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_3"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "好一个舍生忘死！",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_4"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "你可清楚这选择的重量吗？",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_5"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我明白您的顾虑，可倘若我心甘情愿走入您的预言，用那场命定的交锋达成二次共鸣，回正时序。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_6"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "您，可愿再行一步险棋？",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_7"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "哦，承袭我的时序之能？你何来这等自信？",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_21"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "你是我的共鸣者，然而你的力量却不及我之万分。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_8"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "这场战斗，你全身而退的可能，微乎其微。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_9"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但也能争得一线生机！",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_10"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "灵识消散也好，万劫不复也罢，简简单单一死了之非我所愿。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_11"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "只要我有一息尚存，纵然只有一刹来承载您的时序之能，也足以为今州换来一个不存在于您预言中的未来，护您周全。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_12"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "若有一人能够与您匹敌......那人，只可能是您的共鸣者。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_13"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我，即为您落在今州的......最后一子。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_14"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "哈哈哈哈哈哈！",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_15"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "你当真有此决心，以凡人之力挑战尔等奉为神明之辈？哪怕是粉身碎骨、万劫不复？",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_16"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "哪怕是粉身碎骨、万劫不复。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_383_17"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "好，今汐，今令尹！",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_18"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "那便随我至乘霄山之巅，尽数拿出你的本事吧。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_19"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "向我证明，你这一子，足以决胜。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_383_20"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "御者，我很好奇，这一次您会如何抉择？",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_390_1"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "无论未来潮水涌向何处，这一战将由您来见证。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_390_2"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "为政以德。汐，你可记在心里？",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_390_3"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "汐明白。为政也好、为商为学也罢，德是根本，意在为民。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_390_4"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "从今往后，你名为“今汐”，自任令尹始，便要以今州为名。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_390_5"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "你认为，这世间如何？",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_390_6"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "很黑，又很亮。就像此地，一切都黑沉沉的，却仍有几处烛火闪着光。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_390_7"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "燃烛并非易事。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_390_8"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "就是因为不容易，所以烛火才能在黑暗中，显得格外亮吧。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_390_9"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "此门可通往我的声之领域，我将于领域之中静候今令尹的挑战。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_395_1"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "漂泊者，此战，关乎今州之命运，而领域之门唯有您方可开启，未来的钥匙在您手中。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_395_2"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……如果我打开这扇门，今汐就必须要完成和你命定的那一战。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_395_3"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "最好的结果，是今汐能在最后时刻继承你的力量，恢复时间之序，无人伤亡。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_395_18"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "最差的结果，则是今汐透支使用共鸣之力，恢复时间之序，超频身死。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_395_19"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "而假如我袖手旁观，不去启用领域之门，你就会调用最后的力量，凝结整个今州的时流。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_395_4"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "您的理解，并无偏差。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_395_5"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "来罢，请让我知晓您的选择。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_395_6"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "漂泊者……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_395_7"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你做好准备，我就开门。",
+                  "text_id": "Chengxiaoshan_main_1_1_395_8",
+                  "choice_key": "剧情_1_1_乘宵山主线_5_2:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "为了这一刻，我一直都在准备着。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_395_10"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "只是想到也许今后无法再见到今州的春日晴好、冬日霜雪，不免觉得有些可惜。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_395_12"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但，我来到这里不正是为了这个吗？为了今州的大家能永远看到那些美好的景致。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_395_13"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "自今州建州至今日，今州百姓见证过无数次边关的日出日落，他们用自己的血泪，守护了瑝珑的安定。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_395_14"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "今州的未来，应当是光明的。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_395_15"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "现在，我想用我自己的方式守护今州，作为今汐、作为今州生民、作为今州令尹。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_395_16"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "漂泊者，开始吧。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_395_17"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处回顾片段暂略】"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "今令尹，你能坚持至此，的确出人意料。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_398_1"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "但想回正时序、逆转局势，还差得远。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_398_2"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "「角」",
+                  "text": "你现在翻悔，还有回转的余地。",
+                  "speaker_id": 1345,
+                  "text_id": "Chengxiaoshan_main_1_1_398_3"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "既已决定，今汐……决不反悔。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_398_4"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "您曾说过“世间晦暗，燃烛并非易事”……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_398_5"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "而我，偏想试一试，看我这小小的烛火，能否点亮今州的天光。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_398_6"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处回顾片段暂略】"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 8
+        }
+      ]
+    }
+  ]
+}

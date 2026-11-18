@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "title": "捕梦于神秘园中",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 1,
+      "dialogue": 31
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 8,
+          "title": "捕梦于神秘园中",
+          "act": "第七幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 35,
+              "quest_id": 147000005,
+              "title": "捕梦于神秘园中",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这不在我们原本的计划中吧？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_112_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "被干扰了，我也没有来过这里。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_112_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那就尽快离开吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_112_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "接引教士（女）",
+                  "text": "亲爱的兄弟姐妹，来到这里的你们，将是拯救黎那汐塔不可或缺的力量。",
+                  "speaker_id": 700208,
+                  "text_id": "Main_Linaxita_2_7_113_1"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "接引教士（女）",
+                  "text": "让我们团结在一起，为更多人带来光明，在联结中度过那场终将来临的「天难」。",
+                  "speaker_id": 700208,
+                  "text_id": "Main_Linaxita_2_7_113_2"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是芬莱克属下的教士……？",
+                  "text_id": "Main_Linaxita_2_7_113_3",
+                  "choice_key": "剧情_2_5_隐海试验场_朝拜圣所_1_2:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "接引教士（女）",
+                  "text": "噢，来吧，来吧，来吧！向最纯粹的净土朝拜吧——",
+                  "speaker_id": 700208,
+                  "text_id": "Main_Linaxita_2_7_113_4"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "接引教士（女）",
+                  "text": "在枯燥繁忙的研究中，永远不要忘记你的信仰，不要忘记时刻承受祂的审视！",
+                  "speaker_id": 700208,
+                  "text_id": "Main_Linaxita_2_7_113_5"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（他们的眼睛一片空洞，只剩下异常的狂热……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_113_6"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "这些疯子已经无法回答你了。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_113_7"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "为什么这里会有这么多陷入疯狂的教士？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_114_1"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们去前面看看情况。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_114_2"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "好。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_114_3"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "虔诚的教士",
+                  "text": "我们如何让人敬拜您？",
+                  "speaker_id": 300053,
+                  "text_id": "Main_Linaxita_2_7_117_1"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "虔诚的教士",
+                  "text": "我们让人走近您的厚恩。",
+                  "speaker_id": 300053,
+                  "text_id": "Main_Linaxita_2_7_117_2"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "虔诚的教士",
+                  "text": "我们如何让人相信您？",
+                  "speaker_id": 300053,
+                  "text_id": "Main_Linaxita_2_7_117_3"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "虔诚的教士",
+                  "text": "我们让人触碰您的灵魂。",
+                  "speaker_id": 300053,
+                  "text_id": "Main_Linaxita_2_7_117_4"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "虔诚的教士",
+                  "text": "走近，走近。",
+                  "speaker_id": 300053,
+                  "text_id": "Main_Linaxita_2_7_117_5"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "虔诚的教士",
+                  "text": "触碰，触碰。",
+                  "speaker_id": 300053,
+                  "text_id": "Main_Linaxita_2_7_117_6"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "虔诚的教士",
+                  "text": "直至，与祂同行。",
+                  "speaker_id": 300053,
+                  "text_id": "Main_Linaxita_2_7_117_7"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "台子上有刻字。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_117_8"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "“我不再是祂。我将带领众人走下去。”",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_117_9"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "没有了英白拉多的雕像……这是芬莱克的野心吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_117_10"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "下一句是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_117_11"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "“它使我们记得，岁主永远与我们同行，以智慧之光照亮前行之路。”",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_117_12"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "岁主……这个提灯难道是……故事里提到的，那不盖勒二世的提灯？当年岁主赐予力量让他得以击退黑潮的那盏提灯？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_117_13"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（刚才那盏灯不是实体……这里又是……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_118_1"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（……弗洛洛不见了？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_118_2"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "他想把我们永远困在这里。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_120_2"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "弗洛洛？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_120_3"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我在。按我说的做。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_120_4"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "红色的门可以通过。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_119_1"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "黎那汐塔 第二章",
+          "source_act_id": 18
+        }
+      ]
+    }
+  ]
+}

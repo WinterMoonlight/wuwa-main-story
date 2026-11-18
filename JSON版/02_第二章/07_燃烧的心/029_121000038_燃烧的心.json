@@ -1,0 +1,3718 @@
+{
+  "schema_version": 1,
+  "title": "燃烧的心",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 18,
+      "dialogue": 402,
+      "subtitle": 37
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 7,
+          "title": "燃烧的心",
+          "act": "第六幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 29,
+              "quest_id": 121000038,
+              "title": "燃烧的心",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "你来啦，搭档！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "英武的守护者、我们的女武神——亚狮诺索不是那种喜爱亲近人群的声骸。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "狮像喜欢坚韧不屈、高洁善战之人。只有对它认可的人，才不会抗拒接触。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "不过……它仍旧是声骸，不会说话。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这些声音……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_1_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "怎么样？你有感觉到什么吗？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "只听到了异样的声音。它刚才看向的那个方向是哪里？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_1_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "那是「荣耀之间」。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "所有获得了铁与火铸成之荣光的英雄们，都会被埋葬在那里。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "但行猎之途漫漫，许多躯壳伴随死亡消散，有不少人只有武器被送回那里。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "亚狮诺索的频率由英魂厮杀之声组成，那些战痕斑驳的兵刃会受到它的影响，低语自身主人曾经的愿景。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_11"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "触碰它们，对能被狮像认可的大角斗赛的胜利者而言，是很重要，也很有意义的仪式！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_12"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "能在亚狮诺索的陪伴下聆听祖辈过去的声音，对七丘人来说是莫大的激励。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（遇到卜灵前，我在那个村落中触碰声骸时，曾感到一种“层层叠叠、模糊不清的异样频率”。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_1_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（那种感觉与阿布来七丘路上的形容很像，但这一路我都没能完全确认其来源。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_1_15"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（现在……终于找到了。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_1_16"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（那股力量的源头就在荣耀之间，且随着狮像飞去而愈发强烈、明显。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_1_17"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "它应该已经在那里等我们了，我们……一起去？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_18"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "就是不知道你对七丘人的仪式感不感兴趣，但——也许还能发现些别的线索，对吧？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_19"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在这方面，我的确很感兴趣。",
+                  "text_id": "MAIN_YGDX_1_20",
+                  "choice_key": "剧情_2_4_七丘主线_下半_1_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "哈哈，真好！那我们出发吧！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_22"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "唔……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_23"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_1_24"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "不知道……就是……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_25"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "……可能是有点恍惚？刚拿到冠军，兴奋过度……之类的。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_26"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "总之，没什么大问题。走吧。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_1_27"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "这几天发生了好多开心的事！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_2_1"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "拿到冠军，得偿所愿……都是因为有你。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_2_2"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "奇怪……为什么会突然出现这么多残象？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_3_1"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我记得，它们平常主要出现在分界山那里啊。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_4_1"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这些残象不是由自然环境聚拢而来的，更像是……凭空生成。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_4_2"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "就在前面了。「荣耀之间」，英雄的埋骨地。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_4_3"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "……你……是……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_5_1"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "……我故乡的……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_5_3"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "七丘……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_5_2"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（刚才的那位少女，是蜜芽。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_1"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（越是靠近荣耀之间，正常和异常的重叠就越明显。无论那里有什么等着，一定就是整件事的关键所在。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_2"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（在去之前，从头开始梳理吧。七丘、露帕、卡提希娅、蜜芽、荣耀狮像……一切。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_3"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（卡提希娅独自来到七丘。她没有选择等我或联系我，说明当时发生了无暇通讯的突发事件。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_4"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（黎那汐塔能让她失去联系的对象，除了残星会，就是本该消亡的鸣式。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_5"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（七丘不存在对岁主的信仰，因此鸣式没能在这里建立属于它的影响区——果真如此吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_6"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（通过信仰，鸣式能够控制信徒的精神……蜜芽是拉古那移民，她有很大概率也是隐海修会的信徒。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_7"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（如果前往荣耀之间是冠军被认可的重要仪式，或许蜜芽当年也去了，甚至就是在那里失踪的。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_8"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（蜜芽赛场失态的癔症、幻觉、无法自控，都是鸣式精神侵蚀的表现。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_9"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（弗洛洛曾说，“在一个故事里，身份越接近主角的人，就拥有更大的权力……改变故事情节的权力。”）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_10"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（现在的大角斗赛，主角是露帕，而多年前……则是蜜芽。这一路，我曾不止一次看到蜜芽和露帕的身影在交替。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_11"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（如果我看到的蜜芽处在鸣式控制中，这是否说明获得主角位置能达成的事对祂很重要？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_12"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（初次见面时，我曾从露帕身上感觉到了属于卡提希娅的频率，后来又从她身上感觉到了鸣式的频率。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_13"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（她们已经接触过了吗？如果卡提希娅也在这个「故事」中，可能性是很大的。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_14"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（也许露帕遗忘了这件事，也许是她无意识间接触的，也可能是她有意说谎，也许她此刻也正受到鸣式的影响。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_15"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（究竟是如弗洛洛所言，是露帕作为始作俑者引发了黑潮……还是她也是黑潮的受害者？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_16"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "搭档，你看起来忧心忡忡。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_17"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "有什么是我能为你做的吗？如果……你想告诉我的话。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_18"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（信任她，和她商量。）",
+                  "text_id": "MAIN_YGDX_6_19",
+                  "choice_key": "剧情_2_4_七丘主线_下半_1_5:18:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "抱歉，搭档，我的确不记得自己曾见过卡提希娅。但你说得有道理，或许是我遗忘了这点。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_21"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "这几天，有时候我会有些……恍惚，忘记自己刚才在做什么。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_22"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我不知道这是否受到了鸣式的影响，但如果真的出了什么问题，譬如它想腐化我的精神——",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_23"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "作为我的搭档，你会做出正确的判断，对吧？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_24"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "为我保留高贵和尊严。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_25"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "要保留的东西不止这些，露帕。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_26"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我听说过七丘人「渴望荣耀，无惧死亡」，但有时候，活着比死去更需要勇气。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_27"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "呵……那么，这样就好！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_28"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我相信你，搭档，正如你也愿意相信我。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_6_29"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（无论所谓故事的尾声是已经发生的事，还是尚未到来的未来……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_38"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（我都会根据自己的判断，矫正它的走向。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_6_39"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "地面上那些嵌入石体中的剑、枪、戟……就是英雄们曾经的兵器。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_7_1"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "依照七丘传统，现在的你我触摸它们，就能听到旧主的低语声。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_7_2"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "你伸出手，带着锈迹的铁器与指腹接触，严肃凛然的声音自枪身中发出震颤。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_8_1"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "在他漫长的战斗与厮杀中，在涌动起伏的黑潮间，手足与亲子俱被遗忘，一切温和的情感都消失殆尽。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_8_2"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "映入眼瞳深处的，只剩下开在原野上的白色小花。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_8_3"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "多么柔软、多么脆弱、多么美好啊……他叹息着，被残象碾碎颅骨。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_8_4"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "你伸出手，带着锈迹的铁器与指腹接触，平静哀愁的声音自斧身中发出震颤。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_9_1"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "无人知晓，她前往战场，只为离开另一个战场。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_9_2"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "抛弃那些金饰与宝石，扯断缚在脖颈上的荣耀，离被称为骄傲的家族越远越好，回绝一切凝视的目光。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_9_3"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "这寂静便是属于我的胜利！她笑着，冲向翻涌的黑潮。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_9_4"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这把剑属于谁？",
+                  "text_id": "MAIN_YGDX_10_1",
+                  "choice_key": "剧情_2_4_七丘主线_下半_1_10:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "这是特库斯的剑。还记得那片上城区的水域吗？你曾在那里寻找卡提希娅——他便是当时那座雕像的原型人物。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_10_2"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "数百年前拉古那爆发了黑潮，七丘也受到波及。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_10_3"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "特库斯是当年的总督之子，也是带领七丘的战士们抵御黑潮与残象的领头人，最后因力竭死在了黑潮中。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_10_4"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "他的剑也受到了黑潮的污染，但是被随行的人拼死带了回来。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_10_5"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "在七丘，强烈的情绪频率很容易和其他物质结合。荣耀狮像的诞生也来源于英雄们激烈的情感，所以它能影响这些武器。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_10_6"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "那时候，这把剑也有异化的倾向……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_10_7"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "不过，这么多年过去，它早已变为了一柄英雄的纪念物。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_10_8"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（顺着剑身向下，有一股强烈的、在泵动的力量。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_10_9"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（位置在地下，是位于山体内部？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_10_10"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "……频率……属于岁主英白拉多……",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_10_11"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "和拉古那一样，七丘也有起源信标……所以祂才想要……",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_10_12"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "……供能……增强……",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_10_13"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "又是这些突然冒出来的残象！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_11_1"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（刚才一瞬间，世界似乎又像是看到蜜芽时一样陷入异常的氛围中。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_11_2"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（每次正常和异常的世界重叠时，新的潮蚀和残象都会出现……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_11_3"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "这些潮蚀，是被黑潮蔓延过后的增生物。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_12_1"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "为什么会突然出现这些东西……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_12_2"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "得先把它们清理掉，再看看源头的那把剑是不是出了问题。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_12_3"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "那边有什么声音……搭档，一起去看看吧！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_13_1"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "露帕？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_14_1"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "这里……我好像不是第一次来了。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_14_2"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "走吧。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_14_3"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这里的频率，的确与英白拉多的一致。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_15_1"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "你身上……",
+                  "speaker_id": 849,
+                  "text_id": "MAIN_YGDX_16_1"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "有卡提希娅的气息。",
+                  "speaker_id": 849,
+                  "text_id": "MAIN_YGDX_16_2"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "不仅是智识……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_16_3"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你还融合了一部分岁主的权限吗！",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_16_4"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "从露帕的角色里——",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_16_5"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "滚出去！",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_16_6"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "那是……蜜芽选手？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_16_7"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是鸣式。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_16_8"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "露帕，接下来的这件事只有你能做。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_16_9"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我该怎么配合你？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_16_10"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "读完剧本，随机应变。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_16_11"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我相信你，搭档。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_16_12"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "对失去力量",
+                  "text_id": "MAIN_YGDX_17_2"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "七丘人总怀有至深的恐惧",
+                  "text_id": "MAIN_YGDX_17_29"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "骄傲愈甚，忧怖愈深",
+                  "text_id": "MAIN_YGDX_17_3"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我们不畏死",
+                  "text_id": "MAIN_YGDX_17_30"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "却不能忍受失望和耻辱",
+                  "text_id": "MAIN_YGDX_17_31"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "尤利娅女士是因此选择欺骗我吗？",
+                  "text_id": "MAIN_YGDX_17_4"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我没得到机会问她缘由",
+                  "text_id": "MAIN_YGDX_17_5"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "黑潮席卷一切",
+                  "text_id": "MAIN_YGDX_17_6"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "死亡吞没她",
+                  "text_id": "MAIN_YGDX_17_32"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "也吞没我",
+                  "text_id": "MAIN_YGDX_17_33"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "今日恰如昨日",
+                  "text_id": "MAIN_YGDX_17_8"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "将潮水下的时光编织",
+                  "text_id": "MAIN_YGDX_17_9"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "游吧，游吧",
+                  "text_id": "MAIN_YGDX_17_10"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "可悲可爱的鱼儿！",
+                  "text_id": "MAIN_YGDX_17_34"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "于我的虚构中酣梦",
+                  "text_id": "MAIN_YGDX_17_11"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "在反复念诵的故事中无数次登台",
+                  "text_id": "MAIN_YGDX_17_35"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "等待吞没世界的那一日",
+                  "text_id": "MAIN_YGDX_17_36"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "义人啊",
+                  "text_id": "MAIN_YGDX_17_14"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我将不告而别",
+                  "text_id": "MAIN_YGDX_17_37"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "孩提时曾听闻过的金色都市",
+                  "text_id": "MAIN_YGDX_17_15"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "已被可憎的潮水吞没",
+                  "text_id": "MAIN_YGDX_17_16"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我将一丝低语赠予短暂的同行者",
+                  "text_id": "MAIN_YGDX_17_17"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "纸页散乱，羽笔坠落",
+                  "text_id": "MAIN_YGDX_17_18"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "这剧幕即将失去作者的控制！",
+                  "text_id": "MAIN_YGDX_17_40"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "一枚错音落入变调的谱子",
+                  "text_id": "MAIN_YGDX_17_20"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "心怀悲悯的金色星辰啊",
+                  "text_id": "MAIN_YGDX_17_21"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "请告诉我",
+                  "text_id": "MAIN_YGDX_17_41"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "在过去与现在不断交错重叠的故事中……",
+                  "text_id": "MAIN_YGDX_17_22"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "你所选定的",
+                  "text_id": "MAIN_YGDX_17_23"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "是怎样的结局？",
+                  "text_id": "MAIN_YGDX_17_42"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "不必迟疑，搭档。",
+                  "text_id": "MAIN_YGDX_17_25"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "此刻你正是我选定的「主角」。",
+                  "text_id": "MAIN_YGDX_17_26"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "唯有你能穿透剧本",
+                  "text_id": "MAIN_YGDX_17_27"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "坠向新页",
+                  "text_id": "MAIN_YGDX_17_43"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "书写吧",
+                  "text_id": "MAIN_YGDX_17_28"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "为你渴望保留的高贵与尊严",
+                  "text_id": "MAIN_YGDX_17_44"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "为一切",
+                  "text_id": "MAIN_YGDX_17_45"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "呼……哈啊……呜！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_1"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "梦？不、不对……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_2"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "不是……梦。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_3"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我不是孤身一人，搭档把改变的希望托付给了我。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_4"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "呵……有人陪着而不是独自站在领奖台上，感觉真好！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_5"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（漂泊者没有得到相关的信息，但曾和卡提希娅同行的我可以确定，我仍旧不处在现实中。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_6"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（这里是残星会成员创造的索诺拉，是故事的世界。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_7"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（这个关于大角斗赛的故事时间只有三天，在卡提希娅来到这里前，我已经……在这重复的故事里徘徊了无数次。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_8"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（黑潮不断地吞没七丘，那条半人半鱼的怪物在潮水中越来越大……那就是残星会的目的？用毁灭的七丘做养料养大它？）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_9"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（「剧本」……没错，这个索诺拉空间的确像是一本书。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_10"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（索诺拉中每个世界都是一个重复的故事，每个世界都像是一张纸，层层叠叠重叠在一起。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_11"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（新的纸不断出现，叠上旧的纸，而上一个的故事中改变的情节，则会透过纸背映出痕迹。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_12"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（因此在卡提希娅行动后，原本被黑潮变为空城的七丘，在漂泊者到来的故事里已经趋向正常。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_13"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（她救了我，改变了我的命运，让我能够来到搭档身边。搭档在上一个故事里阻止了鸣式，所以这次我没有丢失记忆。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_14"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（那个怪物的力量因为漂泊者被极大削弱了，中枢对它的供能也已经切断。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_15"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（但那并不是完整的它。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_16"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（……我曾和卡提希娅一起寻找它的本体所在，我记得，最后的终点在下城区的水面上。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_17"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我绝不会辜负你的信任，漂泊者。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_18_18"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（因黑潮威胁，沉眠在水域下的七丘旧城……）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_19_1"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（啊，黑潮，就像盘旋不散的阴云，笼罩在七丘上空。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_19_2"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（漂泊者……会没事吗？我必须快些找到造成这一切的元凶。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_19_3"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（在之前的故事里，我曾和卡提希娅一起来过这里。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_72_2"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "你的状况……可能撑不了太久了。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_2"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "哈、哈哈……我也觉得……大概，只能到这里了……",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_3"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "真怪啊。明明我记得七丘的一切，却想不起……咳，想不起自己的名字。",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_4"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "不是你忘了。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_5"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "有人夺走了你在故事里的角色，所以就算我们找到赛场上的海报，也读不出你的名字。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_6"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "你的存在被抹掉了，只有破坏这幕故事才能找回它。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_7"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "呵……真可惜，我撑不到那时候了。",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_8"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "抱歉，卡提希娅，你救了我，我却没能帮到你什么。",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_9"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "小时候……很久之前，我曾经听过七丘的传言。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_10"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我听说这是一个热情而富有生命力的城市，人们喜爱痛饮，喜爱大笑，喜爱雕塑，喜爱狩猎。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_11"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "男人与女人都无畏死亡，如火般燃烧，在烧尽前迸发所有的光和热。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_12"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "但在我来到七丘时，它已被恶徒设计破坏，街道流淌着黑色的潮水，变成了一座空城。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_13"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "是啊……我的城市，它很美……",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_14"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "猎猎秋风吹过金橙色的旗帜和风铃时，时间都会慢下来……",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_15"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "鸣式利维亚坦……我不会再给它第二次让黎那汐塔人流泪流血的机会。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_16"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "无论设计这幕悲剧的人身在此地何方，我都会把他揪出来。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_17"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "咳！咳咳！七丘……可以托付给你吗？",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_18"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "不行。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_19"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "你说过了吧？这是你的城市。有些事，也只有你才能做到。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_20"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "在黑潮中留下痕迹的怪物，我能感觉到……它的频率和我很像。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_21"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "鸣式为了制造能承载它力量的共鸣者，创造了我。但除我之外，还有大量失败的“容器”。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_22"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "你是说——",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_23"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "现在还有很多事无法确定，我会继续调查。但无论如何，你一定有“特殊性”。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_24"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我曾经……想要以死亡结束一切，有个人阻止了我。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_25"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "即便是被戏弄的生命，仍旧能够破除诅咒。只要是想做的事，无论力量强弱，都该尽力而为。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_26"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我能从塔中离开回到人世，也是因为那个人的帮助。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_27"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "所以我相信，她也一定会来到这里，并改变这个品味糟糕的故事。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_28"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "那一定是个很有趣的人吧！呼……真想也见见那个人，看看她怎么做到的……",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_29"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "那就亲眼去看吧。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_30"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "胜利往往无法一蹴而就，需要耐心与坚持。也许此刻的你我还无法办到，但总有人会接续这份努力。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_31"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "如果你想拯救自己的城市，就坚持下去吧。无论多么痛苦，哪怕自我怀疑，都坚持下去。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_32"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "就像你在我来之前，在七丘徘徊至精疲力竭，想要离开这座城市去为它呼救那样。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_33"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "去新的故事中找她吧，将我的讯息带给那个人。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_34"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "呵呵……哈哈哈！好啊，卡提希娅，我会……咳，像你说的那样，尽量撑住……咳咳！",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_35"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "无名之人",
+                  "text": "说吧！告诉我——那个人的名字是什么？",
+                  "speaker_id": 250038,
+                  "text_id": "MAIN_YGDX_20_36"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "距离那异样的频率已经很近了……",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_37"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "……你，在水下的地宫中啊。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_20_38"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "水下地宫……我记得西尔瓦家的资料中曾记载，过去七丘的确修建过一条通向平原水域的地下水道。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_1"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "但现在旧城区已被淹没，要想进入水道，就必须先将水泄尽。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_2"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（在我的「角色」被彻底替代而消失后，卡提希娅应该找到了那个半人半鱼的怪物和残星会的人。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_3"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（和漂泊者一样，她也选择了留在那页剧本的尾端，为之后的故事创造新机会。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_4"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（所以……在遇到搭档时，我才重新拥有了自己的名字。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_5"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（搭档路上看到的世界交叠，是因为那个怪物——蜜芽选手在尝试夺取我的「角色」，再次从中枢污染七丘。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_6"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（只有我能彻底抹消它在故事里的存在。只有我能证明，我是真，她是伪。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_7"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "……数十年前蜜芽选手前往荣耀之间失踪后，到底发生了什么？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_8"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "对被压迫的你而言，七丘这座城市……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_73_9"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（我记得，通向地下水道的入口位于旧城区的钟楼。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_21_1"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（呵……这么一想，是啊！这片水域的维护，本就在西尔瓦家的职权范围内。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_21_2"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（也许，可以让这尊沉睡的荣耀巨像重新动起来。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_21_3"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（遵照七丘传统，它持剑守望出城行猎的战士时，城门与各个关窍都会打开。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_21_4"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（尽管许多地方已经因为搬迁而堵塞废弃，但通过剩余的关窍将水泄出并非不可能。值得一试！）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_21_5"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（要进入地宫深处，就得通过这道门。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_24_1"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（闸门现在打不开……先去其他地方看看吧。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_24_2"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（那枚铜镜在响。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_25_1"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（搭档曾用它“看见”过去的世界，这里也有相关的痕迹吗……）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_25_2"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "尤利娅",
+                  "text": "人我已经帮你们从海里捞上来了。",
+                  "speaker_id": 850351,
+                  "text_id": "MAIN_YGDX_26_1"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "很好，尤利娅女士，守信是建立良好合作的第一步。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_2"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "我知道、我知道，现任七丘的总督不太听元老院的话，这件事我们会处理好的。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_3"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "一杯毒酒，一只飞虫，一柄匕首……一次巧合。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_4"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "有你这样聪慧理性的家主，西尔瓦家不必担心自己的存续。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_5"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "尤利娅",
+                  "text": "我和你们合作不是为了西尔瓦家，而是为了七丘！",
+                  "speaker_id": 850351,
+                  "text_id": "MAIN_YGDX_26_6"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "尤利娅",
+                  "text": "……有些七丘人已经忘了在海上流亡的恐惧。为求在潮涌中生存下去，必须做正确的选择。",
+                  "speaker_id": 850351,
+                  "text_id": "MAIN_YGDX_26_7"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "尤利娅",
+                  "text": "剩下的事，之后再谈吧。但，你们为什么想要一个坠海的死人？",
+                  "speaker_id": 850351,
+                  "text_id": "MAIN_YGDX_26_8"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "死人……啊~你是说蜜芽？",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_9"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "事实上，她正是我曾说过的，要在这地下水道的深处建起的设备的核心。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_10"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "无论生死，这副躯壳里都有我们想要的信息，残星会在这里的实验会持续很长时间。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_11"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "在此期间，掩盖这处实验场的存在还需你的帮助，女士。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_12"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "尤利娅",
+                  "text": "……实验核心？这个软弱的女人共鸣能力可不强。蜜芽资质平平……场上的表现也一样。",
+                  "speaker_id": 850351,
+                  "text_id": "MAIN_YGDX_26_13"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "尤利娅",
+                  "text": "哼，如果不是因为元老院的那群废物想要把她抬上去制造噱头，转移平民的注意力和怒火，她根本不可能杀进决赛！",
+                  "speaker_id": 850351,
+                  "text_id": "MAIN_YGDX_26_14"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "别生气，亲爱的女士，你说得完全正确。这位少女如此无力，以至于完全无法抵抗她的创造者。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_15"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "获得大角斗赛的胜利，恰恰为她带来了死亡的阴影。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_16"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "幸运与不幸，高贵与低贱，软弱和坚强……有时候，人的秉性正如硬币的两面。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_17"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "而我，总是钟爱那些必然发生的悲剧。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_26_18"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "……原来，蜜芽选手早就死了。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_27_1"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "她失踪后没有离开七丘，而是沉在了冰冷的海水里。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_27_2"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "地宫里的实验装置你已经看过了，感觉如何？",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_29"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "如果没有那柄断裂在她胸膛中的剑，那具躯壳几乎像是活着。",
+                  "speaker_id": 560,
+                  "text_id": "MAIN_YGDX_28_1"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "是啊，几十年过去，蜜芽仍是从海里被打捞出时的样子。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_2"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "她为我们提供了不少实验数据——作为被鸣式制造出的失败品共鸣者，这位死者可称得上优秀。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_3"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "前不久，在那位漂泊者介入后，圣女卡提希娅已经从塔中走出。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_4"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "而我则发现……鸣式残存在蜜芽体内的一小部分力量，因塔与外界重新连接而活性化了。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_5"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "听起来，你有了新的灵感。",
+                  "speaker_id": 560,
+                  "text_id": "MAIN_YGDX_28_6"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "是的，七丘的大角斗赛即将开幕，我有一个有趣的点子。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_7"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "蜜芽死前也正举办大赛，以此为虚构的锚点，可以创造一份完美覆写现实的「剧本」。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_8"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "所以，我和祂谈了谈，达成一份小小的合作。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_9"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "……和鸣式谈？利维亚坦已经醒了？",
+                  "speaker_id": 560,
+                  "text_id": "MAIN_YGDX_28_10"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "只是祂一小部分活性化的碎片——虚弱、狡猾，强烈渴望壮大自身的力量。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_11"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "我会为这条鱼儿虚构一个「故事」，让它完成当初未竟之事：以黑潮吞没七丘。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_12"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "鸣式当年想通过蜜芽找到七丘的中枢，污染信标系统；即便失败，也能控制这位冠军的心灵，进入七丘上层。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_13"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "可惜！全都失败了。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_14"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "无力抵抗祂精神侵蚀的少女宁死也不愿妥协，把剑插进自己的胸膛，在被血呛死前跳了海。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_15"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "很有趣不是吗？面对相同的境况，力量的强与弱仍会带来区别。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_16"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "那位圣女能一力阻止鸣式在拉古那的阴谋，而这位死者除了自杀别无他法。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_17"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "富有戏剧性的死亡和强烈的悲怆之情，多么诗意，多么令人怜爱……",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_18"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我对你的品味不感兴趣，克里斯托弗。",
+                  "speaker_id": 560,
+                  "text_id": "MAIN_YGDX_28_19"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我只是好奇，你这次为七丘写了怎样的结局？",
+                  "speaker_id": 560,
+                  "text_id": "MAIN_YGDX_28_20"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "你还真是一位心急的读者，弗洛洛。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_21"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "这次的剧本只是一个“放大器”，用来培育鸣式残存的力量。等它长得足够大时，我就会将索诺拉和现实进行「覆盖」。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_22"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "只需要找尤利娅女士为我们挑一位合适的冠军就行，呵呵，为蓝本故事换个「主角」并不难。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_23"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "等那鱼儿在我用黑潮铸就的摇篮中不断长大后，高唱圣歌的「巡游天国」就将自七丘蔓延至整个黎那汐塔。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_24"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "你瞧，比起那些早就将蜜芽遗忘的七丘人，我为死者编写的故事要浪漫有趣多了！不是吗？",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_25"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "如果失败了呢？",
+                  "speaker_id": 560,
+                  "text_id": "MAIN_YGDX_28_26"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "那也无所谓。你知道的，弗洛洛，故事往往是人对命运的想象和预演。",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_27"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "能用一份剧本证明漂泊者具有成为我所写故事的主角的资格，证明其是通过试炼的英雄，难道不好吗？",
+                  "speaker_id": 50080,
+                  "text_id": "MAIN_YGDX_28_28"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "真恶心。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_29_1"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "把七丘当做手里的玩具，随意涂抹……不可原谅！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_29_2"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "一个人被逼死的故事，有什么诗意和浪漫可言！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_29_3"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_30_1"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "还未消失吗，蜜芽。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_2"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "一丝薄弱的残响，早该消融于海了。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_3"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "……你……要……去哪……里……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_30_4"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "夺冠。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_5"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "这不是你的未竟之愿吗？蜜芽。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_6"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "那不是属于……我的，赛场……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_30_7"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "……我不需要……这种……冠军……！",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_30_8"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "但我需要。没有冠军和狮像这两把钥匙，就无法进入英白拉多设置的中枢。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_9"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "你也好，卡提希娅也好……我的“女儿”们，我的造物们！为何总是徒劳反抗？",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_10"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "七丘何曾对你施以过恩惠？",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_11"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "他们不喜欢你，也不需要你——你早已被遗忘。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_12"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "我们是被……人类，养大的……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_30_13"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "你永远也不会……理解……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_30_14"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "善战而骄傲，勇武而慕强，我比你更了解七丘人的民族性。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_15"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "蜜芽，你只是不敢去看他们暴露的本性，选择自我欺骗。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_16"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "你不敢承认他们利用了你，又抛弃了你。不敢承认从始至终，你都无足轻重。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_17"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "蜜芽",
+                  "text": "不……荚蒾……我的，花……",
+                  "speaker_id": 250035,
+                  "text_id": "MAIN_YGDX_30_18"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "但……没关系。你怎么想，不重要。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_30_19"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "荚蒾……是七丘的血叶荚蒾？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_31_1"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "……啊，我明白了。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_31_2"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "那是追随者们常赠给角斗士的花……寓意胜利之花……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_31_3"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（我一直怀有羞愧。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_1"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（一种对自己天生便拥有的东西的羞愧，有时，这种羞愧会酿成自疑。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_2"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（我想尽量洒脱地活着！我的确这样做了，但我仍旧……能看到其他人的悲哀。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_3"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（失败离场的人、无法追上我脚步的人、将全部期望寄托在我身上的人……）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_4"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（我总想着——如果我没有这份天赋的垂青，是否早就无法坚持现在的底线。）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_5"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "（那些为了生存而践踏规则的人，我能够审判他们吗？还是说，这也是一种不自知的傲慢？）",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_6"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "但现在……我已不再这样想了。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_7"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "漂泊者比我强大许多，但仍旧对所有人平等相待，她没有选择独断，而是选择了相信我。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_8"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "卡提希娅曾因众人的期望在那座塔中困守多年，她从未踏足七丘的土地，却愿意渡海而来。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_9"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "蜜芽选手……蜜芽选手的共鸣能力并不出众，但她不曾自人生的赛场上逃走，一直战斗到了最后一刻。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_10"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "人的品性，并不因天生的获得而被塑形。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_11"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我……太看轻别人，也太看轻自己。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_12"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "而你——傲慢无比、自以为理解人心幽暗的你，不过是一头无血无泪的怪物。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_13"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "美丽的鹫巢石城，我的城市，七丘。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_14"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "它由七丘人自己一砖一瓦建成，和岁主无关，也和鸣式无关。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_15"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "盛光之下，必有幽影。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_16"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "但人们总是需要光，总会逐光，也总会习得如何与影共存。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_17"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "蜜芽、卡提希娅……她们被这片群岛养育长大，她们是黎那汐塔人的女儿，从不属于任何神明！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_32_18"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "向长照不灭的太阳起誓，我会宰了你。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_54_1"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "我从文明的恐惧和渴望中诞生，从千万个男人和女人、千万个稚童和老者的心灵中诞生。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_34_1"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "你们以尖刀和巧舌争夺利益，欣赏在赛场上互相杀戮的游戏，从过去到现在，从未改变。",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_34_2"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "哈！你有什么资格评判黎那汐塔人？",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_34_3"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "蜜芽选手是有尊严地选择了自己的结局，你的存在本身，就是对她的侮辱。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_34_4"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "如今的你，宁可缩在小小的甬中也要拼命回避消亡的命运，又怎么会懂如何面对死之恐惧！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_34_5"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "海之女",
+                  "text": "人类的一生，不过是在生死之间的一声嚎哭！",
+                  "speaker_id": 250036,
+                  "text_id": "MAIN_YGDX_52_1"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "太好了……你们平安无事真的太好了。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_36_1"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我感觉到鸣式的频率消失了。你做得很好，露帕。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_36_2"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "成功找到了漂泊者，守护了七丘，简直是完美的骑士故事——嗯~不对，角斗士故事？",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_36_3"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "呼啊！总算能探出头来了！漂泊者，你没事吧？！",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YGDX_36_4"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "阿布，我没事。你之前怎么了？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_36_5"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "我……咦，已经到七丘了？",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YGDX_36_6"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "我之前正和你说着话呢，突然！感觉有个薄膜一样的东西盖住了我！",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YGDX_36_7"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "本来就频率失衡晕乎乎，这下直接发不出声音，睡过去了……啊！卡提希娅！还有个不认识的女孩！",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YGDX_36_8"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "呵，好活泼啊，搭档的声骸比「啪嗒」还闹腾呢~",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_36_9"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "在、在我睡着的时候到底发生了什么呀！",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YGDX_36_10"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "嗯……我也觉得我们该交换一下信息，来补全这次经历的故事。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_36_11"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "在颠倒塔感受到七丘方向有鸣式力量的异动后，我立刻追向了其源头。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_1"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "事出突然，我顺着最后一丝缝隙进入了这个索诺拉内部，和外界的通讯也就此断绝。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_2"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "在七丘城中，我找到了丢失角色的露帕。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_3"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我和她同行了一段时间，找到了引发异常的元凶——残星会的剧作家克里斯托弗和鸣式。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_4"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "但露帕的存在最终还是被剧作家抹掉，我则进入了水下地宫，找到了寄宿于蜜芽残躯，并藏身在实验装置内的鸣式。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_5"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "但我没能完全解决掉祂，祂藏了起来。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_6"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "于是我想，你一定会察觉异常并来到七丘，我要为你的行动提供帮助。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_7"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我与剧作家进行了战斗，让他丢失了对剧本的控制。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_8"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "后来，他和其他残星会的会监一起从我面前逃离……此时，索诺拉也开始崩溃，于是你我再度重逢。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_9"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "漂泊者，还有什么想细问我的吗？",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_10"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于角色和故事。",
+                  "text_id": "MAIN_YGDX_56_11",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_4:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "这些是我和露帕在调查过程中做出的一些推测，不一定准确。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_15"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "在这个以故事为呈现形式的索诺拉中，角色就是其中人们的身份。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_16"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "如果丢失「角色」，就会同时丢掉名字和记忆。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_17"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "现实里蜜芽早已死去，因此并不存在，在三日大赛中真正夺冠的是露帕。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_18"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我想，被剧作家虚构出的故事是无法超脱蓝本太多的，这是他共鸣能力的限制。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_19"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "所以他才选择抹掉了露帕的名字，替换了露帕和“蜜芽”二者的存在，让后者在七丘引发黑潮。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_20"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还想问些别的。",
+                  "text_id": "MAIN_YGDX_56_21",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_4:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "漂泊者，还有什么想细问我的吗？",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_10"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于鸣式和中枢。",
+                  "text_id": "MAIN_YGDX_56_12",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_4:10",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "那处位于「荣耀之间」的中枢是岁主设置的，过去应该从未有人进入。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_22"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "它的开启起码需要两个条件：夺冠——或者说是获得岁主给予权限的荣耀狮像的认可，以及拥有岁主相关的频率。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_23"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "过去鸣式因此盯上了蜜芽，现在，又因此看向了露帕。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_24"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我在故事中重创了祂，但因为没能在更早的时候阻止祂污染中枢，祂依靠那股力量仍旧存活。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_25"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这一路，我时常看到露帕和蜜芽的身影在重叠……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_56_26"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "那应该就是鸣式还在试图顶替露帕的角色，再次污染中枢获得供能，毁灭黎那汐塔。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_27"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还想问些别的。",
+                  "text_id": "MAIN_YGDX_56_28",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_4:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "漂泊者，还有什么想细问我的吗？",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_10"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于其他会监。",
+                  "text_id": "MAIN_YGDX_56_13",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_4:10",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "除剧作家外，我还遭遇了两名残星会会监。一位用绷带蒙眼的女性，和一位脸上带着疤痕的男性。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_29"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（听起来，似乎是弗洛洛和……伤痕。为什么伤痕会出现在黎那汐塔？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_56_30"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "只可惜，我没能和另外两个人交手，他们只匆匆出现了一两次，就再未露面。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_31"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我不确定他们聚集在七丘是为了什么，但我们都需要为此做好准备。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_32"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还想问些别的。",
+                  "text_id": "MAIN_YGDX_56_33",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_4:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "漂泊者，还有什么想细问我的吗？",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_10"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我没什么想问的了。",
+                  "text_id": "MAIN_YGDX_56_14",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_4:10",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "鸣式的频率已经在七丘消失了，但这件事恐怕还没那么快了结。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_34"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "另外……或许是受到索诺拉中黑潮的影响，我能感觉到我体内的力量从原本的平衡，开始倾斜向更接近鸣式的一侧了。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_35"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……！",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_56_36"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "现在想来，或许这也是残星会目的的一部分。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_37"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……去黑海岸看看吧，卡提希娅。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_56_38"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那里有多年来应对鸣式的经验，我认为你应该去一趟进行检测，并确定后续如何控制。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_56_39"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "黑海岸……就是你的来处，是吗？",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_40"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "如果是你信任的地方，我会去的。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_56_41"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "最初引发黑潮的契机，应该是我的死亡。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_1"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "在那之后的故事，因为重复了太多次，我也有些记不清了……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_2"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我只知道自己在被黑潮污染毁灭的空城七丘徘徊了很久，一直无法离开——直到遇到卡提希娅。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_3"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "她救下了我，但在那个故事中，我们没能完全解决事件的元凶。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_4"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "后来，我又在新的故事中遇到了搭档你。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_5"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "和你分开后，我在又一个故事里于荣耀之间醒来，并在地下水道找到了鸣式的真身。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_6"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "祂……利用并占据了蜜芽选手的残躯，想要利用残星会设置的这个索诺拉壮大自己的力量。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_7"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "在击败祂后，索诺拉开始崩溃，我穿越了那些开始粉碎的纸页，总算和你们重逢啦！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_8"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "搭档还有什么想知道的吗？我一定知无不言~",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_9"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于你的“死亡”。",
+                  "text_id": "MAIN_YGDX_55_10",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_3:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我的“死亡”……嗯，那就从最开始的夺冠之旅开始说吧。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_14"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "那一次我没能戳破家族打假赛的事，在被尤利娅女士欺骗并独自夺冠后，我有一段时间的记忆很模糊……大概是被控制了。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_15"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我只记得最后自己站在「荣耀之间」内部的中枢，把枪插进了像是控制台一样的东西，黑潮涌了出来。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_16"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "最后，整个七丘都因此被黑潮吞没。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_17"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我不太确定上述发生的一切，究竟是从哪个阶段开始处于残星会成员创造的索诺拉中……现实和虚构的界限变得很模糊。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_18"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "在没有被卡提希娅救下的三日故事中，我总是在第一天就会死去，只能眼睁睁看着故乡不断毁灭。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_19"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还想问些别的。",
+                  "text_id": "MAIN_YGDX_55_20",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_3:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "搭档还有什么想知道的吗？我一定知无不言~",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_9"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于你和卡提希娅的同行。",
+                  "text_id": "MAIN_YGDX_55_11",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_3:9",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 399,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "卡提希娅救下了被夺走角色，并失去了记忆的我。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_21"
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我们一起在空城七丘调查了一段时间，察觉到了事件背后的主使是残星会和鸣式。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_22"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "但最后，我的角色还是被鸣式顶替，并因此在卡提希娅面前被抹去了痕迹。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_23"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "但在我消失前，卡提希娅将自己的一丝频率赠予了我……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_24"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我想就是因为那丝频率，我才会不自觉地向搭档你所在的方向靠近，并在故事中与你相遇！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_25"
+                },
+                {
+                  "sequence": 404,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还想问些别的。",
+                  "text_id": "MAIN_YGDX_55_26",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_3:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "搭档还有什么想知道的吗？我一定知无不言~",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_9"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于蜜芽和鸣式。",
+                  "text_id": "MAIN_YGDX_55_12",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_3:9",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 407,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "蜜芽选手……在许多年前，就为了抵抗鸣式的控制投海而亡了。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_27"
+                },
+                {
+                  "sequence": 408,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "但在她死后，尤利娅女士还是将她的残躯打捞上来，交给了残星会的人。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_28"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "残星会这些年一直在利用她的残躯进行某种实验，直到鸣式残存在那具躯壳中的力量在不久前复苏。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_29"
+                },
+                {
+                  "sequence": 410,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "控制着蜜芽选手残躯的鸣式，化身为半人半鱼的怪物，和残星会进行了合作。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_30"
+                },
+                {
+                  "sequence": 411,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "而蜜芽选手仅剩的那丝残响也一直被迫与之融合，饱受折磨……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_31"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还想问些别的。",
+                  "text_id": "MAIN_YGDX_55_32",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_3:25",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 413,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "搭档还有什么想知道的吗？我一定知无不言~",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_9"
+                },
+                {
+                  "sequence": 414,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我没什么想问的了。",
+                  "text_id": "MAIN_YGDX_55_13",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_3:9",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 415,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "对啦，搭档，你给我的剧本和铜镜，现在交还给你。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_33"
+                },
+                {
+                  "sequence": 416,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "真是一个漫长的故事啊——但结局还是很好的。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_34"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "只是想到蜜芽选手，总是有些难过。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_35"
+                },
+                {
+                  "sequence": 418,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "蜜芽选手被融合在那怪物躯体中的一丝残响，在这十多年里，一定都很痛苦……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_36"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你击败了鸣式，那丝残响一定也从束缚中得到了解脱。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_55_37"
+                },
+                {
+                  "sequence": 420,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "……是啊，能和她进行那场最后的比赛，真的很开心！",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_38"
+                },
+                {
+                  "sequence": 421,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "是你和卡提希娅帮助了我，让我能够改写这个悲剧故事的结局。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_39"
+                },
+                {
+                  "sequence": 422,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "搭档，谢谢你……愿意相信我。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_55_40"
+                },
+                {
+                  "sequence": 423,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "还有一件事——我们要再去一次七丘的中枢，我在那里发现了一些和你有关的讯息，漂泊者。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_57_1"
+                },
+                {
+                  "sequence": 424,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "中枢……正好，我也有一些想在荣耀之间做的事。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_57_2"
+                },
+                {
+                  "sequence": 425,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好，那我们一起去吧。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_57_3"
+                },
+                {
+                  "sequence": 426,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "在露帕消失，我斩裂实验装置追赶鸣式，并击败了被祂控制前来拦截我的荣耀狮像后，我曾来过这里一次。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_2"
+                },
+                {
+                  "sequence": 427,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "你还记得鸣式夺取了一部分岁主的智识和权限吧？",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_3"
+                },
+                {
+                  "sequence": 428,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "对岁主来说，被夺走的是信息，体现的形式则是祂的记忆。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_4"
+                },
+                {
+                  "sequence": 429,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "因此就连祂自己也忘了，祂曾在被鸣式融合前，转移了一部分智识和信息到七丘的中枢里。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_5"
+                },
+                {
+                  "sequence": 430,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "被英白拉多遗忘的信息……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_39_6"
+                },
+                {
+                  "sequence": 431,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "恐怕是因为这是在岁主看来必须保密、不可让鸣式发现的信息，才在最后的瞬息将之转移的。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_7"
+                },
+                {
+                  "sequence": 432,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我发现在其中储存着一份特殊的频率——其中缺损的部分，与你的频率相似。我想这是祂留给你的，于是将之分离了出来。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_8"
+                },
+                {
+                  "sequence": 433,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……！",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YGDX_39_9"
+                },
+                {
+                  "sequence": 434,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "你接过那缕散发着凛冽之风气息的频率。它在你掌心触之即散，但在消失前，那道频率隐隐指向了七丘远方某处。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YGDX_39_24"
+                },
+                {
+                  "sequence": 435,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "看来它只是一道指引……岁主真正要为你保留下的秘密讯息不在此处，而是在那个方向。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_10"
+                },
+                {
+                  "sequence": 436,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "刚才我来这里与你们汇合前，经过了七丘城区。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_11"
+                },
+                {
+                  "sequence": 437,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "被我斩裂的竞技场恢复了原状，但在人们的认知里，还是露帕和漂泊者你们两个人夺冠。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_12"
+                },
+                {
+                  "sequence": 438,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "那个残星会会监的能力能够让虚构对现实产生影响，影响程度比我们想得更深……这次的事恐怕只是一个开始。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_13"
+                },
+                {
+                  "sequence": 439,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我本以为鸣式的目的只是想在残星会的帮助下恢复力量，但祂一直想要侵入大中枢，我怀疑也和这份残缺信息有关。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_14"
+                },
+                {
+                  "sequence": 440,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "那个方向……是七丘的猎场。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_39_15"
+                },
+                {
+                  "sequence": 441,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "猎场上方一直有不散的「黑潮云」，每当「涨潮期」到来，七丘人都要开始行猎，剿杀蠢动的残象。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_39_16"
+                },
+                {
+                  "sequence": 442,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "黑潮，它是关联着这一切的媒介。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_17"
+                },
+                {
+                  "sequence": 443,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我无法定位岁主所留讯息的具体所在，恐怕你要亲自去一趟了，漂泊者。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_18"
+                },
+                {
+                  "sequence": 444,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "不过，风波告一段落，先休息片刻吧。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_19"
+                },
+                {
+                  "sequence": 445,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "露帕，能为我们当导游，带我们在七丘好好玩一趟吗？",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_20"
+                },
+                {
+                  "sequence": 446,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "我也很想听听看你之前所说的，带着凉意的风吹过金橙色的旗帜和风铃的声音。",
+                  "speaker_id": 50074,
+                  "text_id": "MAIN_YGDX_39_21"
+                },
+                {
+                  "sequence": 447,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "当然！我非常乐意。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_39_22"
+                },
+                {
+                  "sequence": 448,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "从这里离开之后，请稍等我一下，我……有件事想做。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_39_23"
+                },
+                {
+                  "sequence": 449,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这是……？",
+                  "text_id": "MAIN_YGDX_40_1",
+                  "choice_key": "剧情_2_4_七丘主线_下半_4_2:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 450,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "是蜜芽选手的剑，我勉强把它带了回来。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_40_2"
+                },
+                {
+                  "sequence": 451,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "那个怪物已经消失了，就像七丘很多失去了躯壳的英雄。至少……该把遗物带回。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_40_3"
+                },
+                {
+                  "sequence": 452,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "这是她自裁的地方。我无法知道，蜜芽选手对于七丘究竟是憎恶更多，还是喜爱更多。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_40_4"
+                },
+                {
+                  "sequence": 453,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "但……她曾提到血叶荚蒾，那是角斗士的追随者们常赠予的礼物。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_40_5"
+                },
+                {
+                  "sequence": 454,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "所以我想，她还是愿意睡在这儿的。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_40_6"
+                },
+                {
+                  "sequence": 455,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "真美啊……",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_40_7"
+                },
+                {
+                  "sequence": 456,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "我们的城市，荣光之都。人们喜爱痛饮，喜爱大笑，喜爱雕塑，喜爱狩猎。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_40_8"
+                },
+                {
+                  "sequence": 457,
+                  "kind": "dialogue",
+                  "speaker": "露帕",
+                  "text": "如火般燃烧，浸透了胜利和失败，蕴藏一切失望，一切希冀。",
+                  "speaker_id": 250009,
+                  "text_id": "MAIN_YGDX_40_9"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "黎那汐塔 第二章",
+          "source_act_id": 17
+        }
+      ]
+    }
+  ]
+}

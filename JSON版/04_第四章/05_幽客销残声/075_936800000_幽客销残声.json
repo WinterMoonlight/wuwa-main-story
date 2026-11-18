@@ -1,0 +1,809 @@
+{
+  "schema_version": 1,
+  "title": "幽客销残声",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 6,
+      "dialogue": 89
+    }
+  },
+  "chapters": [
+    {
+      "number": 4,
+      "title": "第四章",
+      "sections": [
+        {
+          "number": 5,
+          "title": "幽客销残声",
+          "act": "幕间",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 75,
+              "quest_id": 936800000,
+              "title": "幽客销残声",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "漂泊者，最近还好吗？我们有一阵子没见了。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_Mengzhou_3_6_2_1_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你的身体情况怎么样？",
+                  "text_id": "Main_Mengzhou_3_6_2_1_2",
+                  "choice_key": "剧情_3_6_后日谈2_2_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "已经养好了。上回的战斗有秧秧在，我们配合得很好，最后也是有惊无险。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_Mengzhou_3_6_2_1_4"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "说正事，我是烟舒婆婆托来给你带话的。她说，“阿景回来了，你要不要去见见？”",
+                  "speaker_id": 350101,
+                  "text_id": "Main_Mengzhou_3_6_2_1_5"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好，等下我就过去。",
+                  "text_id": "Main_Mengzhou_3_6_2_1_6",
+                  "choice_key": "剧情_3_6_后日谈2_2_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "清宵司骑在给军策府的报告中提到有一位寻幽客帮了很大的忙……我猜，那就是景燃吧？",
+                  "speaker_id": 350101,
+                  "text_id": "Main_Mengzhou_3_6_2_1_7"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你认识他？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_1_8"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "衔翎村不大，同一个村子长大的孩子，总归是会认识的。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_Mengzhou_3_6_2_1_9"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "你来了啊，阿景刚回来看望过我。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_2_10_1"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "这孩子也不知道这几年在外面忙活什么，军策府都送来了嘉奖状。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_2_10_2"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "他气色怎么样？",
+                  "text_id": "Main_Mengzhou_3_6_2_10_3",
+                  "choice_key": "剧情_3_6_后日谈2_4_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "哎，算不上好，但一见面就笑得贼兮兮的。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_2_10_4"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "当年我和三刀收留他时，他就像只憋着满肚子火的野猫，除了性子野，什么都没有。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_2_10_5"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "在这里住了些时日，脾气才算是收敛了些，也没闹着要去梦州城为了父母的事寻死觅活了。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_2_10_6"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……他的父母？",
+                  "text_id": "Main_Mengzhou_3_6_2_10_7",
+                  "choice_key": "剧情_3_6_后日谈2_4_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "唉，年纪一大就话多起来了。这事还是问本人比较好。他就在附近林子里的那片荒地。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_2_10_8"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "正好，我也有东西要还给他。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_10_9"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "请把这个替我捎给他吧，免得等下又没人影了。他爱吃这口。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_2_10_10"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（我身上还带着景燃的青蚨挂饰，是时候去还给他了。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_2_1"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "（嗅嗅……你身上带的是什么？闻上去好香呀。）",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_2_20_1"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "先说好，这份是要拿给别人的，你就不要惦记了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_20_2"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "（啊——怎么这样！）",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_2_20_3"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "……",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_1"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "哎，又见面了。本打算这的事结束了，再来找你。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_2"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "景燃，你的眼睛……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_40_3"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "噢，前阵子熬夜看书用眼过度了，多滴点华胥研究院的眼药水就好了。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_4"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说实话。",
+                  "text_id": "Main_Mengzhou_3_6_2_40_5",
+                  "choice_key": "剧情_3_6_后日谈2_7_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "我都习惯了，只是让“大咪”多收了一点债，过段时间就会好的。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_7"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "大咪？（山猫妖）",
+                  "text": "小子，都这样了还贫嘴。之前要不是我出手，你早就下去和你师父打牌了。",
+                  "speaker_id": 400103,
+                  "text_id": "Main_Mengzhou_3_6_2_40_8"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "嚯，一看就知道是我那师娘让你捎来的，谢啦。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_9"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "估计你也猜到了，这就是我之前说的，要向木禺讨要的旧账。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_10"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这里，是你父母的……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_40_11"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "不用小心翼翼，这里头是空的。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_12"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "当年梦州城出过一次琢钧堂刃偶的失控事故，死者里有一对工匠夫妇，也就是我父母。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_13"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "后来我无亲无故，流落街头。师父把我捡了，将我带回了玄方地界。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_14"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "那时候，我天天想着回梦州城找人报仇，是师父教训了我一顿，带我在这立了两座空坟。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_15"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "他说，臭小子先向前看，长大点再报仇也不迟。后来我每次想不明白事了，就会来这静静。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_16"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "等年纪再大点，我才重回梦州城查当年的事故。巡尉的卷宗里明写了那几只刃偶上有残响的痕迹。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_17"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "循着这一条线查着查着……我就查到了木禺。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_18"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "现在我算是能来告慰父母了，只可惜，没法给师父一个“当面”的交代。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_19"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……为什么？",
+                  "text_id": "Main_Mengzhou_3_6_2_40_20",
+                  "choice_key": "剧情_3_6_后日谈2_7_1:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "那糟老头子让我发誓，他哪天死了千万别给他立坟。啧，他倒是活得通透，最后连人带灯封在了蜃境里。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_21"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "景燃，这个挂饰……也该物归原主了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_40_22"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "你留着吧，就当作纪念。这东西本身不值钱，上头附的共鸣力也是用完就没了。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_23"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "不过，你要是想要续一点的话，最多……再续三个月的。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_24"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "以后可别再随便花自己的命了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_40_25"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "我啊，在这世上留恋的东西很少，但最近总算还是遇到了一位有趣的人。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_26"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看起来，这次大名鼎鼎的寻幽客「鬼猫挈灯」没捞到什么宝贝，反而搭上了一件饰品。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_40_27"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "这可难说，我从不做赔本买卖。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_28"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "大咪？（山猫妖）",
+                  "text": "哼。",
+                  "speaker_id": 400103,
+                  "text_id": "Main_Mengzhou_3_6_2_40_29"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "……已经是最后一罐了。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_30"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这是……残响？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_2_40_31"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "它们曾活过。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_40_32"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "？？？（木禺）",
+                  "text": "……要活下去……真理近在眼前了……",
+                  "speaker_id": 350130,
+                  "text_id": "Main_Mengzhou_3_6_2_50_1"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "？？？（木禺）",
+                  "text": "一切仍有转机……我的道还没有断绝……",
+                  "speaker_id": 350130,
+                  "text_id": "Main_Mengzhou_3_6_2_50_2"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "唷，这是准备去哪呢——",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_3"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "前渐水舵舵主，木禺？",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_4"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "叛徒……你是怎么找到我的？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_Mengzhou_3_6_2_50_5"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "这好像是哪本小人书里讲过的“兵解”之法？",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_6"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "你借助外力破掉了旧躯壳，趁乱逃到了这里，真是一招妙计。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_7"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "不过你都堕落到把意识变成残响了，我还能找不到你？别忘了寻幽客是干什么的。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_8"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我认输了……那颗核心里存着岁主的数据，价值不可估量……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_Mengzhou_3_6_2_50_9"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "它大可以交给你……这对寻幽客……不，对玄方城有莫大意义……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_Mengzhou_3_6_2_50_25"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我需要的只有时间……只要再给我一点时间……岁主的秘密就能展露无遗……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_Mengzhou_3_6_2_50_10"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "你好像搞错了两件事。第一，你没有和我谈判的条件。第二，这玩意确实不错，但没你想的那么……吸引我。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_11"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "说起来，你还记得十多年前，在梦州城的那次刃偶事故嘛？",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_12"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "刃偶事故……那是什么？我……不记得了……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_Mengzhou_3_6_2_50_13"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "啧，真是贵人多忘事啊，还是说，你兵解的时候把脑袋都解坏了？",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_14"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "……你到底是什么人？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_Mengzhou_3_6_2_50_15"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "算了，想不起来就想不起来吧。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_16"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "但你现在要记住，了结你的，只是一名普通的玄方地界百姓。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_17"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "……人类……本可以……完美……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_Mengzhou_3_6_2_50_18"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "都不做人了，算个哪门子完美。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_19"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "……刚才怎么不阻止我？如果留着它，你说不定还能从它嘴里撬出什么来。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_20"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "恩仇之事，唯有当事人能定夺。",
+                  "speaker_id": 1563,
+                  "text_id": "Main_Mengzhou_3_6_2_50_21"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "况且，它的尸身也并非全无用处。",
+                  "speaker_id": 1563,
+                  "text_id": "Main_Mengzhou_3_6_2_50_22"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "景燃",
+                  "text": "这东西，还是交给你们更合适。",
+                  "speaker_id": 400049,
+                  "text_id": "Main_Mengzhou_3_6_2_50_23"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "多疑的工匠",
+                  "text": "已经过去这么久了……接引人怎么还没到？难道前舵主的安排有误……",
+                  "speaker_id": 400062,
+                  "text_id": "Main_Mengzhou_3_6_2_60_1"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "冷静的工匠",
+                  "text": "不要自乱阵脚。若是出了变故，我们大不了亲自去总舵复命。",
+                  "speaker_id": 400063,
+                  "text_id": "Main_Mengzhou_3_6_2_60_2"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "？？？（吟霖）",
+                  "text": "……我这不是来了吗？",
+                  "speaker_id": 400064,
+                  "text_id": "Main_Mengzhou_3_6_2_60_3"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "冷静的工匠",
+                  "text": "你就是之江舵的那位接引人？",
+                  "speaker_id": 400063,
+                  "text_id": "Main_Mengzhou_3_6_2_60_4"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "吟霖",
+                  "text": "这点小伎俩就免了吧，你们等的分明是渐水舵。怎么，我看上去不像？",
+                  "speaker_id": 370,
+                  "text_id": "Main_Mengzhou_3_6_2_60_5"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "多疑的工匠",
+                  "text": "呃……“曲水流觞”？",
+                  "speaker_id": 400062,
+                  "text_id": "Main_Mengzhou_3_6_2_60_6"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "吟霖",
+                  "text": "“百戏杂陈”。",
+                  "speaker_id": 370,
+                  "text_id": "Main_Mengzhou_3_6_2_60_7"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "冷静的工匠",
+                  "text": "冒犯了，您来得正好。我们手上有前舵主〔木禺〕在玄方城天工期间留下的手稿，以及不久前的一封密信。",
+                  "speaker_id": 400063,
+                  "text_id": "Main_Mengzhou_3_6_2_60_8"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "吟霖",
+                  "text": "好啊，堂主想必会对你们赏识有加的。事不宜迟，你们随我启程吧。只是……",
+                  "speaker_id": 370,
+                  "text_id": "Main_Mengzhou_3_6_2_60_9"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "吟霖",
+                  "text": "要稍微限制一下你们的自由了。",
+                  "speaker_id": 370,
+                  "text_id": "Main_Mengzhou_3_6_2_60_10"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "冷静的工匠",
+                  "text": "你是……？！",
+                  "speaker_id": 400063,
+                  "text_id": "Main_Mengzhou_3_6_2_60_11"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "吟霖",
+                  "text": "嘘，为了健康着想，建议你们不要多话。",
+                  "speaker_id": 370,
+                  "text_id": "Main_Mengzhou_3_6_2_60_12"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "吟霖",
+                  "text": "原来……是锁暝女士。你怎么来了玄方地界？",
+                  "speaker_id": 370,
+                  "text_id": "Main_Mengzhou_3_6_2_60_13"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "你就是那名借调梦州的今巡尉？",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_6_2_60_18"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "别误会，我不是为了琢钧堂的事来的。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_6_2_60_14"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "吟霖",
+                  "text": "听说谛天鉴司掌的是岁主事务，你来这里，莫非……",
+                  "speaker_id": 370,
+                  "text_id": "Main_Mengzhou_3_6_2_60_15"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "你已知道该知道的了。珍重。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_6_2_60_16"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "吟霖",
+                  "text": "漂泊者，有机会……我们再见吧。",
+                  "speaker_id": 370,
+                  "text_id": "Main_Mengzhou_3_6_2_60_17"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "梦州 第四章",
+          "source_act_id": 44
+        }
+      ]
+    }
+  ]
+}

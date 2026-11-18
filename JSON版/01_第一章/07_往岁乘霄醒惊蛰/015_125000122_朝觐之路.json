@@ -1,0 +1,681 @@
+{
+  "schema_version": 1,
+  "title": "朝觐之路",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 6,
+      "dialogue": 71,
+      "scene_heading": 2
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 7,
+          "title": "往岁乘霄醒惊蛰",
+          "act": "第七幕",
+          "notes": [
+            "《行路遇新知》的前置是上一幕任务 `140800000` 的子任务 `330`。"
+          ],
+          "tasks": [
+            {
+              "sequence": 15,
+              "quest_id": 125000122,
+              "title": "朝觐之路",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [
+                "【已定位的正文按章节回顾排列】",
+                "【部分流程或交互暂略，详情见同名JSON】"
+              ],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "是心核……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_242_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "漂泊者，可要好好看着心核哦。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "这之后的路，便交予你与今汐了。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那你呢？",
+                  "text_id": "Chengxiaoshan_main_1_1_245_4",
+                  "choice_key": "剧情_1_1_乘宵山主线_3_6:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "别忘了，我是你的“引路人”——我与你同乘一船，伴你入山，将你送至今汐面前……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "自此地往后，便是你与今汐一起，去往「角」的身前。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "促成这一局，即是我能做的所有。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "引路，而非干涉。结局终会走向何处，还需由你来决定。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "更何况残星会这一路上纠缠不休，碍手碍脚。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "你与今汐去见岁主的路，还是干净些好。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "他们跟了一路，是因为我。",
+                  "text_id": "Chengxiaoshan_main_1_1_245_11",
+                  "choice_key": "剧情_1_1_乘宵山主线_3_6:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "不错，我与你提起过，残星会最是对你感兴趣。无论你去哪里、做什么，你的一举一动都逃不过他们的监视。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_12"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "总之，乘霄山这一遭缺你不可，而我——",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "应该停留在这盘棋上，最合适的位置。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "啊呀，人这就来了。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_245_15"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "用这种方式打招呼，可有些不礼貌呢。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_250_1"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "不如由我来教教你们瑝珑的礼数。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_250_2"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【进入步骤时调用的局部对白，实际播放完成时机待确认】"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "长离她……",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_255_1"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "那些造匠不足为惧，漂泊者不必担忧，老师这么做定有她的打算。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_255_2"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "想必在接下来的路程中，不会再有伏寇阻扰。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_255_3"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【完成步骤时调用的局部对白，实际播放完成时机待确认】"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "秉戈",
+                  "text": "是今令尹，今令尹他们回来了！",
+                  "speaker_id": 1343,
+                  "text_id": "Chengxiaoshan_main_1_1_265_1"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "秉戈",
+                  "text": "我去告诉辛夷大人！",
+                  "speaker_id": 1343,
+                  "text_id": "Chengxiaoshan_main_1_1_265_2"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "辛夷携心核来到控制机枢近旁，并将心核置于机枢之上。",
+                  "text_id": "Chengxiaoshan_main_1_1_272_40"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "眠龙庭既开，是该启程的时候了。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_1"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "不过在二位出发前，我还有一要事相告。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_2"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于残星会囚禁岁主的事？",
+                  "text_id": "Chengxiaoshan_main_1_1_272_3",
+                  "choice_key": "剧情_1_1_乘宵山主线_3_5:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "不错。正如长离所料，残星会的确是借稷廷的研究，将岁主束缚在了休眠地。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_4"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "他们是怎么做到的？",
+                  "text_id": "Chengxiaoshan_main_1_1_272_5",
+                  "choice_key": "剧情_1_1_乘宵山主线_3_5:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "是「溯流仪」。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_6"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "照我们俘虏的造匠交代，残星会先是派遣了一批死卒入侵乘霄山，此举意在一箭双雕。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_7"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "一来，这伙贼人可以趁机将运行中的「溯流仪」置于眠龙庭；二来，外敌当前，岁主不得不返回乘霄山。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_8"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "尽管那批死卒绝不是岁主的对手，但只需引诱岁主出招，祂的共鸣能力便会与「溯流仪」的能量冲撞，反伤自身。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_9"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这样就能困住岁主了吗？",
+                  "text_id": "Chengxiaoshan_main_1_1_272_10",
+                  "choice_key": "剧情_1_1_乘宵山主线_3_5:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "假如是经过残星会特殊改制的「溯流仪」呢？",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_12"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "大量超载的「溯流仪」，发挥出远超自身限度的威力，但求一击。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_13"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "当然，这些还远不足以牵制岁主。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_14"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "折伤岁主后，与「溯流仪」一同提前布置好的特制「曜纹」在眠龙庭内形成了一种特殊力场。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_15"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "正是这一力场，致使岁主无法借助眠龙庭来补充能量，最终限制了岁主的行动与感应。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_16"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "也就是，我们要先设法让岁主摆脱力场……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_17"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "……此事看似简单，实则不然。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_18"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "虹镇人与岁主朝夕共处，岁主的近况好或不好，虹镇人即便不知全貌，也多少能瞧出些眉目。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_19"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "残星会既然意在岁主，就不可能只觊觎乘霄山这方寸之地。令尹此番来乘霄山，应当不只为解决眼前事吧……",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_20"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "我与虹镇人，希望令尹能与我们交个底。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_21"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "好，今汐言无不尽。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_22"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "今汐将在叩天关的发现、以及自己的猜测与决定告知辛夷。",
+                  "text_id": "Chengxiaoshan_main_1_1_272_23"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "岁主竟有伤在身，而且已经严重到了这种地步……旧疾未愈又添新伤，残星会这一计，几乎直击了命门……",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_24"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "而令尹你……居然想到了这一步……",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_25"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "岁主心意难测，但当年边庭内对此却也多有猜测。不然，我实在想不通，岁主为何要煞费苦心将你从乘霄山带回边庭抚养。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_26"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "现在想来，祂之所以选定你为继承人，正是为了有朝一日能补全时序之法，保今州文明存续。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_27"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "只是我没想到……你竟愿遵从那则预言......",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_28"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我与岁主第一次见面，应当就是在乘霄山吧。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_30"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "可惜我那时太小了……什么也记不得，甚至连乘霄山的模样都忘记了。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_31"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但我这次来乘霄山，却觉得周围的一切都那么熟悉。好像被埋藏在记忆深处的回忆，一下子涌了上来。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_32"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "辛夷大人，自我诞生之时，我就与岁主命蒂相连。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_33"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但我的选择，却并不是出于“岁主共鸣者”这个身份。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_34"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……那是出于汐的心愿，是出于乘霄山的雪落到脸颊上就会开心得合不拢嘴的小孩子的内心。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_35"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我这粒“诞生”在乘霄山的小小种子，飘洋过海随风去到了今州各处，如今，又回到了起点。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_36"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "是时候让这粒种子生根发芽了……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_272_37"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "罢了，无论最后是何种结果，你又做何抉择，我需要你明白，虹镇还有虹镇的百姓，始终与你站在一起。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_38"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "乘霄山已经太久没有过变化了……或许，我们真的需要一道贯天长雷，来拨开乘霄山这漫天云雾。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_272_39"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "穿过虹镇，北面的山崖上有一处洞窟，那是通向眠龙庭的捷径。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_275_1"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "辛夷",
+                  "text": "眠龙庭就在乘霄山龙形山柱的下方。愿二位此行，诸事顺遂。",
+                  "speaker_id": 558,
+                  "text_id": "Chengxiaoshan_main_1_1_275_2"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "今汐，到目前为止，关于岁主的事，都还只是我们的推论。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_280_1"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "你说的没错。可我与岁主间的感应，还有不断流逝的共鸣能力，容不得我不去相信……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_280_2"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "不管是真是假，是虚是实……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_280_3"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我都会到岁主面前一一求证。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_280_4"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "眠龙庭应该就在洞窟深处。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_285_1"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "一起进去吧。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_285_2"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "……",
+                  "speaker_id": 83,
+                  "text_id": "Chengxiaoshan_main_1_1_290_1"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……这里就是眠龙庭。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_290_2"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "按照计划，我们要设法帮助岁主摆脱「曜纹」造成的力场。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_290_3"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这水，像是被定住了。",
+                  "text_id": "Chengxiaoshan_main_1_1_290_4",
+                  "choice_key": "剧情_1_1_乘宵山主线_4_6:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "也许是附近的「溯流仪」凝滞了潭水，又或者这样的景象是乘霄山的时间乱流所致。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_290_5"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "重要的是——我们可以以这片潭水为捷径，从水面上走过去。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_290_6"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……这里太远了，看不清状况。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_290_7"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "漂泊者，我们到对面去吧。我需要更多信息，才好判断我们下一步该做些什么。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_290_8"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我能感受到岁主就在此处……但我听不到祂的回应。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_295_1"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 8
+        }
+      ]
+    }
+  ]
+}

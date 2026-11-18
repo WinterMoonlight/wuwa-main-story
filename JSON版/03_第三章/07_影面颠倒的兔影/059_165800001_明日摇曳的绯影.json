@@ -1,0 +1,521 @@
+{
+  "schema_version": 1,
+  "title": "明日摇曳的绯影",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 6,
+      "dialogue": 53
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 7,
+          "title": "影面颠倒的兔影",
+          "act": "幕间",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 59,
+              "quest_id": 165800001,
+              "title": "明日摇曳的绯影",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "抱歉，漂泊者，耽误了你一整天。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你的确应该道歉。",
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_2",
+                  "choice_key": "剧情_3_2_拉海洛主线_下半_9_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 3,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不过不是因为这个。",
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_3",
+                  "choice_key": "剧情_3_2_拉海洛主线_下半_9_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "从最初你找到我时，你就猜到这是残星会为你设下的陷阱，而你早就想好以身入局。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "这是我作为校长应该做的，而且……最后结果也不差，对吧。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "万一遇到危险……",
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_6",
+                  "choice_key": "剧情_3_2_拉海洛主线_下半_9_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "放心，我知道暗面会诱导进入者走向自己逃避、烦恼的一面，但我早已能坦率地面对过去。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在暗面究竟发生了什么？",
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_8",
+                  "choice_key": "剧情_3_2_拉海洛主线_下半_9_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "我吗？",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前你不是说要开设《星炬指南：从陌生人到亲密无间》的课程吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "师生间互相的了解，这算不算是第一堂课？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_11"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "唉，没想到从一开始我就给自己挖坑了，那……",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_12"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "在我20岁前，因为能力的缘故，我分辨不清读取的记忆哪些属于自己。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "随着读取的记忆增多，我见证了太多新生、太多消亡……那时的我深感自己渺小无知。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "暗面正是利用这一点重现我曾经遭遇的困境，也是残星会在质问着作为星炬学院代表的我……",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_15"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "面对没有答案的未来，存在终将消逝，渺小无知的我们所做的一切还有意义吗？",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_16"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "漂泊者同学，你也是星炬学院的一分子，你觉得呢？",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_17"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没有答案就去创造答案。",
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_18",
+                  "choice_key": "剧情_3_2_拉海洛主线_下半_9_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "哈哈，还真是符合你个性的回答。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_19"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "那时的我就这样浑浑噩噩地进入了深空联合，和你们一样，我也遇见了一位好老师。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_20"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "我的老师很普通，他只是冰原上担任观测工作的罗伊人，我们都在各自的领域观测、记录……",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_22"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "但他从未将自己当作单纯的观测工具，而是一次次主动向他观测的人、事物伸出手，架起桥梁。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_23"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "就像此时，我们在星空划线一样。危险的冰原之下，每个人就是对方的星光。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_24"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "过去的我，也许一直站得太高了，从未站在普通人的角度去感受记忆中那些需要时间消化的情绪。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_25"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "当我重新拾起读取的记忆后，我发现它们可以笼统地概括为一样东西——每个人一生都在寻找答案。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_26"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "而正是这个答案，给予我们前往未来的意义，哪怕最后一无所获。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_27"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "所以，你找到了属于自己的答案？",
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_28",
+                  "choice_key": "剧情_3_2_拉海洛主线_下半_9_1:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "不……我也还在寻找答案的路上，在这个问题上，我和你们一样，都是学生中的一员。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_29"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "所以放心，在找到它前，残星会无法动摇我的内心。另外，我知道你好奇着那位巫女的身份……",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_30"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "我还不能告诉你，这是出于我校长的职责，也是遵从安全协约，但总有一天你会再次见到她的。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_31"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "关于暗面，我还得写一份处理报告，剩下的事就交给大人吧，那漂泊者同学，时间不早了，我们课上再见。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_32"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "……这场游戏真的结束了吗？",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_45_33"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "这里没有其他人了，在我面前就不用这么拘谨了，绯雪。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_1"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "先说好，那把刀的维修费从你这个月的工资扣哦。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_26"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "哪把？",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_27"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "暗面里你用的那把，这已经是第四把了，下次使用时力度可以稍微轻一点……",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_28"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "好，我自己那把刀呢？",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_29"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "检修快完成了，放心，你很快就能拿到了。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_30"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "要试试看吗？这可是在学生中很流行的小糖果。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_2"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "不饿。",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_3"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "糖果就是要在不饿的时候吃，才会好吃，尝尝。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_4"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "吞下去了吗？",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_5"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯，味道有些酸涩，舌头还有些刺痛感，我不太喜欢。",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_6"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "嗯？什么反应都没有吗？奇怪，西格莉卡他们吃完明明就……",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_7"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "什么？",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_8"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "真没意思。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_9"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "她见到了我，对你的安排有影响吗？",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_10"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "没关系，我想这次残星会设下的陷阱不仅仅针对我，也是为了引出你。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_11"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "他们察觉到了你的存在……",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_12"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "抱歉，一直限制你的自由，试图隐藏你的力量，最后还是暴露了。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_13"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我们都明白，这一天迟早会到来……",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_14"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "那，要暂时搬回学院住吗？如果有意外发生的话，你也能及时赶到。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_15"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "残星会这次大费周章修改了暗面，但事实上对学院并没有太大的威胁。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_17"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "最坏的情况是这次异变也与鸣式的力量有关，他们或许已经在筹备下一阶段的计划了。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_21"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "还需要我做什么？",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_22"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "还没到时候。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_23"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "你应该知道，深空联合是建立在鸣式之上，自然准备了大量的应急预案。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_24"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "即便当所有预案都失效，深空联合被鸣式的力量完全吞噬，我们还有一个“最终预案”。",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_25"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "实现愿望的巫女，你……",
+                  "speaker_id": 150057,
+                  "text_id": "Main_LahaiRoi_YMDDDTY_47_20"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 33
+        }
+      ]
+    }
+  ]
+}

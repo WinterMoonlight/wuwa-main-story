@@ -1,0 +1,3313 @@
+{
+  "schema_version": 1,
+  "title": "千里卷戎旌",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 33,
+      "dialogue": 371,
+      "scene_heading": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 6,
+          "title": "千里卷戎旌",
+          "act": "第六幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 8,
+              "quest_id": 140000004,
+              "title": "千里卷戎旌",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "这场雨，终于还是来了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_1_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "夜归士兵",
+                  "text": "将军。",
+                  "speaker_id": 1186,
+                  "text_id": "Huanglong_main_1_7_1_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "嗯。先前我吩咐的事情，已经办置妥当了吗？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_1_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "夜归士兵",
+                  "text": "目前可战斗人员还剩五百人，均已服用了研究院配备的抗溯洄雨药剂，队员们幻觉感明显减少，也没有出现任何不良反应。",
+                  "speaker_id": 1186,
+                  "text_id": "Huanglong_main_1_7_1_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "夜归士兵",
+                  "text": "但还是有一些从伍多年的士兵，声称自己时不时还是能看到一些溯洄雨的“幽灵”……",
+                  "speaker_id": 1186,
+                  "text_id": "Huanglong_main_1_7_1_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我知道了，一切按计划行事。继续加强警戒，如发现任何残象潮的征兆，立刻报告。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_1_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "等待雨停，即刻启程，进军北落野。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_1_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "夜归士兵",
+                  "text": "是！",
+                  "speaker_id": 1186,
+                  "text_id": "Huanglong_main_1_7_1_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "“与降雨区关联越紧密的人，看到的幻觉越真实”吗……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_91_1"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "再去巡察一遍营地吧，需要确保没有其他变数产生。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_91_2"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【检查营地 · 可选交谈】"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "激动的夜归士兵",
+                  "text": "这黑石武器可真厉害啊，像我这种没有共鸣能力的普通人使用，都能产生这么大的威力！如果我也能操控共鸣力，那还了得？",
+                  "speaker_id": 1191,
+                  "text_id": "Huanglong_main_1_7_5_1"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "警惕的夜归士兵",
+                  "text": "你也小心一点，黑石核心可不是那么好驾驭的。",
+                  "speaker_id": 1192,
+                  "text_id": "Huanglong_main_1_7_5_7"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "激动的夜归士兵",
+                  "text": "放心吧，在黑石核心爆炸之前，我一定会先把敌人们杀干净！",
+                  "speaker_id": 1191,
+                  "text_id": "Huanglong_main_1_7_5_8"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "……出于今州对抗残象的实际需要，天工曾为没有共鸣能力的普通人设计了一款简易的黑石武器。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_5_2"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "但由于缺少与共鸣力的相互作用，又考虑到黑石核心对普通人的负荷过大，天工对黑石核心的输出做了限制。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_5_3"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "这批武器也因此受到了制约，无法发挥出真正的威力。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_5_4"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "继任将军后，夜归重新构建了以共鸣者为主的作战模式，非共鸣者占比大大减少，转为投入支援性任务。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_5_5"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我仍记得那些普通人为今州捐躯时的决然与无畏，但……我不愿再看到如此之多的牺牲了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_5_6"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "啊，报告将军！",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_1"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "我军装备全部修理完毕，黑石武器校准也已经完成，已分发给了几位共鸣者，剩下的非共鸣者也已经准备就绪了。",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_2"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "只是……外面的雨势越来越大，我们是否应该暂时避战？",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_3"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "队内有位随行军医，坚持说这场雨不同寻常，建议我们不要贸然前进。",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_4"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "虽然他资历尚浅，但我相信将军您在先前的战斗中也已经见过了，他对局势的判断非常精准。",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_5"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "但……属下也认为，这的确是我们进攻的唯一机会。",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_6"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……这位军医，叫什么名字？",
+                  "text_id": "Huanglong_main_1_7_8_7",
+                  "choice_key": "剧情_新主线_第五章1_1_16:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "报告将军，军医名叫……",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_8"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "忌……炎……",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_9"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "将军……救……救救我……",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_8_10"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那么你的结论，是什么呢？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_11"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "也许你的想法是对的。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_12"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这场雨下得太过突然，太过不同寻常。但……",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_13"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这是我们唯一的机会。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_14"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我们长久以来，一直渴望消灭的敌人，现在正大张旗鼓地出现在我们的面前。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_15"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "而你，却因为担心那些所谓的“幽灵”，要劝我止步不前？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_16"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（沉默。）",
+                  "text_id": "Huanglong_main_1_7_8_17",
+                  "choice_key": "剧情_新主线_第五章1_1_16:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "保持沉默吗？还是在恐惧？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_18"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "是啊……你也一样。我们都会恐惧，会流血，会痛苦，更会因为战斗而死。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_19"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "但当你看见曾经的同胞，亲人，战友……在你面前接连死去时……",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_20"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "难道你要以沉默，去回应我们肩负着的那些生命？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_21"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你能做的，只有踏着无数尸体，不断发号施令，不断投身杀戮，直至消灭最后一个敌人。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_22"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "溯洄雨只可能复刻出昔日的景象。我绝不会允许我的士兵们，被区区溯洄雨幻觉所带来的恐惧所支配。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_23"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "任何妄图挡在我们面前的事物，全部格杀勿论。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_26"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我会用我的异能，为所有人开路。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_30"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这场战斗，即使付出更大的代价，十名，百名，千名……我们，也必须胜利。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_27"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "忌炎，我很好奇，如果我们互换位置……那时的你，会做出怎样的选择？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_28"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……但我，绝不会以懦弱与沉默，去回应我所肩负着的那些生命。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_8_29"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "向我证明自己吧，忌炎。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_112_1"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "猝不及防，是吗？就像那个雨夜……",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_113_1"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "没错……继续。继续战斗吧。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_114_1"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "战斗，直到消灭最后一个敌人。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_7_115_1"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "哥舒临将军……我们战斗的目的，是为了守护身边的一切。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_1"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "珍视身边之人，并不是出于懦弱或是恐惧，而是因为信任。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_2"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "将军，我无法保证，自己的选择就一定是正确的。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_3"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "但我们的胜利，绝不该建立在无止境的牺牲之上。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_4"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "哈哈，是吗？",
+                  "speaker_id": 800012,
+                  "text_id": "Huanglong_main_1_7_10_5"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "在我看来，你和我，本质上是一类人。",
+                  "speaker_id": 800012,
+                  "text_id": "Huanglong_main_1_7_10_6"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "也许吧，将军。至少，我和你有一点是相同的——我也会为了自己的信念而拔刀，永不停息。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_7"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "将军！",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_10_8"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_9"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "将军，您的脸色怎么看着不太好？",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_10_10"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "无事。继续说下去吧。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_11"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "方才，我们监测到前方无音区突然出现了高密度的频率反应。",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_10_12"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "那轮月相，也正如将军您所说的那样，逐渐变满了。",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_10_13"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "此时的景象，和“弯刀之役”那时别无二致了。",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_10_14"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "是时候了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_15"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "夜归全军已做好整备，随时可以出战。",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_10_16"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "传令下去，全军列阵，准备迎接残象潮！",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_17"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "军士",
+                  "text": "是！",
+                  "speaker_id": 800011,
+                  "text_id": "Huanglong_main_1_7_10_18"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "“月相完满之时，漂泊之人归来”……「角」的预言，也马上就要应验了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_19"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "果然来了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_20"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "没有进攻……是在防守？还是在等候指令？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_21"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "如此大规模，具有组织性的残象潮，必然有人在背后指挥。难道……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_10_22"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "错觉吗？",
+                  "text_id": "Huanglong_main_1_7_12_1",
+                  "choice_key": "剧情_新主线_第五章1_2_11:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "月相逐渐变满了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_12_3"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "还有这场溯洄雨……漂泊者，这会不会就是令尹所说的“那一时刻”？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_12_4"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "请各位不要慌乱，按照事前演练过的应急预案有序避险……",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_12_5"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "今汐？",
+                  "text_id": "Huanglong_main_1_7_12_6",
+                  "choice_key": "剧情_新主线_第五章1_2_11:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "是事先录好的全域影像。令尹曾预料过这一局面的到来，早已安排忌炎将军做好了准备。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_12_7"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这一波残象潮应该暂时过去了。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_12_8"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "虽然提前准备过了，但是这批残象数量也太多了。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_12_9"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "还好漂泊者你来得及时，不然我们可能还要和它们再打上好一阵子。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_12_10"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "桃祈事务长也在城门那边，可以去找她确认一下具体情况……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_12_11"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "防护罩的情况如何？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_1"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "防护罩已经在加急修复了，但如果残象潮接连来袭，防护罩可能也支撑不了太久。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_2"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "呀，是漂泊者啊。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_60"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "您就是……",
+                  "text_id": "Huanglong_main_1_7_19_56",
+                  "choice_key": "剧情_新主线_第五章1_2_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "嗯……或许，我们先前见过？",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_57"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "不过还是容我正式自我介绍一下。我是天工的事务长，桃祈，负责处理一切与边防工事相关的事务。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_59"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "感谢你们前来支援。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_58"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "防护罩是什么？",
+                  "text_id": "Huanglong_main_1_7_19_3",
+                  "choice_key": "剧情_新主线_第五章1_2_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "防护罩是今州用于抵御溯洄雨的防御工事，能够帮助今州城隔绝溯洄雨的影响。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_5"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "若是用来抵御溯洄雨的防护罩受损，残象潮可能会直接从今州城之内诞生……",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_7"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "溯洄雨和残象潮有什么关系？",
+                  "text_id": "Huanglong_main_1_7_19_8",
+                  "choice_key": "剧情_新主线_第五章1_2_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "漂泊者，还记得我之前和你提到过的吗？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_9"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "溯洄雨的本质，是来自天空海的高密度回音能量。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_10"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "仅仅是这些回音能量，就足以吸引各类残象大量聚集。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_11"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "另一方面，这些回音能量，又能使沾染溯洄雨的人看到昔日在此地发生过的一切事物的幻影。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_12"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "也就是我们经常提到的溯洄雨“幽灵”。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_13"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "它们的形成原理，与我们常说的“共鸣”类似。因而与降雨区关联越深的人，所能看到的幽灵也就越清晰，越真实。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_14"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "除此之外，溯洄雨还有一种特性：在雨区较大的情况下，溯洄雨可以在同一时间内，复刻出多个人记忆中的影像……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_15"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "代表战争的鸣式……",
+                  "text_id": "Huanglong_main_1_7_19_17",
+                  "choice_key": "剧情_新主线_第五章1_2_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "漂泊者，你的直觉很敏锐。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_19"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "今州是一片战场之地，要面对的是代表战争的鸣式，而战争，又意味着牺牲。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_20"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "一旦溯洄雨发展到最后阶段，那么复刻出的幽灵影像，应该有成千上万战斗着的士兵与残象。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_21"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "这正是今州一直以来，埋藏着的最大隐患。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_22"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "今州城的防护罩，就是令尹为应对这一情况而下令建造出来的。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_23"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "只是“幽灵”的话，没什么好怕的吧？",
+                  "text_id": "Huanglong_main_1_7_19_24",
+                  "choice_key": "剧情_新主线_第五章1_2_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "溯洄雨所形成的幽灵，只会机械般地重复某一瞬间的行为，且本不具备干涉现实的能力。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_25"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "但在鸣式力量的影响下，溯洄雨的效果受到了大幅增强。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_26"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "雨区中的“幽灵”也因而变得越来越真实，直至能够对人类造成实质性的伤害。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_55"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "“弯刀之役”那一日，夜归军与北落野的原生残象，溯洄雨形成的残象……以及无数士兵的“幽灵”，四方混战在一起。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_27"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "被溯洄雨复现而出的残象与夜归士兵不断重复着攻击的行为，对周围进行无差别攻击。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_28"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "分不清敌我，找不到方向……那场无情的大雨，甚至连过去士兵们凄惨的死状都清晰地复现了出来。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_29"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "北落野一时如同人间炼狱，时至今日，仍能听到那些绝望的回响……",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_30"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "“弯刀之役”，那也是人类第一次如此近距离地观测到“被鸣式力量所加强的溯洄雨”。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_31"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "那位将军传回来的影像记录，是一份十分具有价值的资料，也正是因此，各国才能加速对溯洄雨屏障的研发。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_32"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "黑海岸的成员们还有一种推测：鸣式，月相与溯洄雨三者，很可能是绑定关系。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_33"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "溯洄雨的规模预示着月相的变化。",
+                  "text_id": "Huanglong_main_1_7_19_34",
+                  "choice_key": "剧情_新主线_第五章1_2_1:31",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "大致如此。但由于缺少足够的样本支撑，这也只是我们的一种猜测。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_36"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "但我们至今还没有摸清溯洄雨的规律，只是知道它的规模与鸣式的复苏紧密相连。接连而至的残象潮，也是一种预兆。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_37"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "月相几乎是在一瞬之间完成了转变。如果黑海岸的猜想是真的，这就意味着……",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_38"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "鸣式复苏的征兆提前了。",
+                  "text_id": "Huanglong_main_1_7_19_39",
+                  "choice_key": "剧情_新主线_第五章1_2_1:34",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "嗯。今州此时所处的境遇，或许与三年前无异了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_40"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "天意难测。",
+                  "text_id": "Huanglong_main_1_7_19_41",
+                  "choice_key": "剧情_新主线_第五章1_2_1:35",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "鸣式的复苏绝非孤立的偶然事件，他们之间存在着某种深刻的血脉感应。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_43"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "今州鸣式的复苏，会引发一连串的连锁反应，其他国家也难以独善其身。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_44"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们现在必须要赶紧回到「泰缇斯」基地，重新校准悲鸣监测器，将今州发生的事情共享给其他国家，以做预警。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_45"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "总之，各位，保重了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_7_19_47"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "加油啊，大哥哥大姐姐们……",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_7_19_48"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "漂泊者，目前的情况，大抵就是这样了。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_49"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "只要溯洄雨没有停息，残象潮就随时都可能爆发，我们一刻也不能放松警惕。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_50"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "天工成员",
+                  "text": "报告！前方再次观测到残象潮来袭！",
+                  "speaker_id": 1210,
+                  "text_id": "Huanglong_main_1_7_19_51"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "唉，还真是说什么来什么啊。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_52"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "等这次战役结束后，我一定要好好睡上一觉。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_53"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "立即启动防事工程！",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_19_54"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "诸位，守住阵线！",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_125_1"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "这里的残象已经清理完毕了……前哨还在遭受残象的围攻，我们一起前去支援！",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_130_1"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "被解救的士兵",
+                  "text": "多谢你们！里面还有几位士兵在坚守，得把他们也解救出来！",
+                  "speaker_id": 800018,
+                  "text_id": "Huanglong_main_1_7_131_1"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "呼……终于……",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_155_1"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "被解救的士兵",
+                  "text": "得救了！谢谢你们！",
+                  "speaker_id": 800018,
+                  "text_id": "Huanglong_main_1_7_155_2"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "这里危险，我们先迅速撤出这里吧。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_155_3"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这下……总该结束了吧！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_21_1"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "漂泊者，你的身手还是这么老练，这么多残象竟然都不在话下。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_21_2"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "唯手熟尔。",
+                  "text_id": "Huanglong_main_1_7_21_3",
+                  "choice_key": "剧情_新主线_第五章1_2_12:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，你看见了吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_21_6"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "月亮更模糊了。",
+                  "text_id": "Huanglong_main_1_7_21_7",
+                  "choice_key": "剧情_新主线_第五章1_2_12:41",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "此时的月亮，和三年前“弯刀之役”那时几乎一模一样了。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_8"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "恐怕，留给今州的时间已经不多了。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_9"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "战况如何？",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_10"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "报告令尹，防护罩已经修复完毕，居民也已全部回归城内，已将损伤控制在最小范围内。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_11"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "嗯，做得很好。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_12"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好久不见。",
+                  "text_id": "Huanglong_main_1_7_21_13",
+                  "choice_key": "剧情_新主线_第五章1_2_12:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "好久不见了，漂泊者。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_16"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "事情的进展还算顺利。针对目前的状况，我已预先做好了对策。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_17"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是角的指示？",
+                  "text_id": "Huanglong_main_1_7_21_18",
+                  "choice_key": "剧情_新主线_第五章1_2_12:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "今州情况危急，我身为令尹，也不能总是习惯依赖于角的力量。这是我的决定，也是我的职责所在。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_20"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "此前我前往瑝都，已为今州申请到了一些实际性的援助。天工与研究院的几位，应该都已就位了。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_21"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "漂泊者，你还记得之前，角为你留下的信息吗？",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_22"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "溯洄的雨幕已经降下，夜归的将军，此刻正在北落野的前线，准备对战争的鸣式「无相燹主」，发起最后的进攻。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_23"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "这应当就是角所说的那一时刻了。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_24"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "漂泊者，此去凶险，可能……你将会与鸣式展开正面交锋。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_25"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我已做好觉悟。",
+                  "text_id": "Huanglong_main_1_7_21_26",
+                  "choice_key": "剧情_新主线_第五章1_2_12:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "你的眼神，还是一如既往的坚定。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_29"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "此役之后，无论如何，你都将是帮助今州抵御外敌的英雄。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_33"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "漂泊者，愿你穿越长夜，胜利归来。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_21_34"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "漂泊者，我已将你即将前往前线的消息告知各地关卡，现在你可以在今州境内畅行无阻了。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_35"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "秧秧，你是踏白小队的成员，这一路就拜托你与漂泊者同行了。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_37"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "前往荒石兵营需要穿越一片无音区，路途凶险，请多加小心。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_38"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "漂泊者，秧秧，我会担负好巡尉的责任，守护好今州城，等你们平安回来的！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_21_39"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "加油，炽霞。",
+                  "text_id": "Huanglong_main_1_7_21_40",
+                  "choice_key": "剧情_新主线_第五章1_2_12:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嗯！我会加油的！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_21_43"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "看来，这场雨还要下上一段时间呢。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_46"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "今州城这边……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_21_47"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "放心吧，这里，有我们呢！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_21_48"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "渊武",
+                  "text": "嗯，有我。",
+                  "speaker_id": 640,
+                  "text_id": "Huanglong_main_1_7_21_49"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "我……我也在！",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_7_21_50"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "凌阳",
+                  "text": "有瑞狮团的各位！",
+                  "speaker_id": 182,
+                  "text_id": "Huanglong_main_1_7_21_51"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "众士兵",
+                  "text": "还有我们！",
+                  "speaker_id": 800062,
+                  "text_id": "Huanglong_main_1_7_21_52"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "呵呵……你们也看到了。今州城的各位，可都在这里呢。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_53"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "漂泊者，秧秧，尽管放心去吧！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_21_57"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "桃祈",
+                  "text": "我也已将你们出城的消息告知忌炎将军，他会尽快赶来与你们汇合。",
+                  "speaker_id": 97,
+                  "text_id": "Huanglong_main_1_7_21_55"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "愿你们穿越长夜，胜利归来！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_7_21_56"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "守住南门！残象潮的攻势正在减弱，这波残象潮，马上就要结束了！",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_168_1"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "战斗的士兵",
+                  "text": "北门！又有残象冲过来了！",
+                  "speaker_id": 800019,
+                  "text_id": "Huanglong_main_1_7_169_1"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "敌人已是强弩之末，继续坚守！",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_169_2"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "战斗的士兵",
+                  "text": "结束了！",
+                  "speaker_id": 800019,
+                  "text_id": "Huanglong_main_1_7_170_1"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "营地中的残象，都已经清理完毕了。不知今州城那边……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_170_2"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "今州城情况如何？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_23_15"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "桃祈（通讯中）",
+                  "text": "按照令尹的吩咐，已开启防护罩，所有居民也均已撤回安全区域。",
+                  "speaker_id": 1213,
+                  "text_id": "Huanglong_main_1_7_23_16"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "桃祈（通讯中）",
+                  "text": "研究院和天工也都已经进入战备状态，白芷在研究院管控监测，莫特斐已经到达天工。今州城这边，你可以放心。",
+                  "speaker_id": 1213,
+                  "text_id": "Huanglong_main_1_7_23_19"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "桃祈（通讯中）",
+                  "text": "还有那位漂泊者，她和秧秧一起，正在前往军营的路上。",
+                  "speaker_id": 1213,
+                  "text_id": "Huanglong_main_1_7_23_20"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我知道了。破阵营这边，残象潮的攻势也已经平息。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_23_1"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我会尽快前去接应他们。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_23_21"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "雨势越来越大了……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_23_2"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "无音区那边也出现了不少残象复苏的痕迹，高密度的频率波动仍然存在……这是他们的必经之路。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_23_3"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "得快点为他们清出一条道路了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_23_4"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "果然，这里还有几只落单的残象……迅速清理掉吧。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_150_1"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "那是……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_24_1"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "云闪之鳞？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_24_2"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看来鸣式的复苏，对荒石高地周边的环境也产生了不可估量的影响……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_25_1"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "一路走来，野外的危险程度都高得吓人，越靠近北落野越是如此。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_25_2"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "流息中弥漫着恐惧与血腥味……荒石高地恐怕刚经历了一场大战。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_25_3"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "再往前，就是桃祈事务长先前所说的无音区了。只有穿过那片无音区，才能抵达忌炎将军所在的营地。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_25_4"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不知在这场溯洄雨之下，会有怎样的异象在等待着我们……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_25_5"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "前面那是……夜归的士兵？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_151_1"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这些士兵……是溯洄雨幽灵！小心，残象们包围过来了！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_27_1"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "溯洄雨形成的幽灵中蕴藏着高密度的回音能量，这些残象可能是因此被吸引过来的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_28_1"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "降雨区正在不断扩大，流息也变得越来越紊乱了……我们必须得抓紧时间了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_28_2"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "前面的这些夜归士兵……很可能也是溯洄雨幽灵，小心一些。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_152_1"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "又有残象出现了！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_152_2"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……溯洄雨的影响还在不断加深，贸然深入可能会有更大的危险。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_153_1"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那边，还有位受伤的夜归队员！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_153_2"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "流息逐渐稳定下来了，没有感应到异常……对方不是溯洄雨幽灵，我们快过去看看吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_153_3"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "奄奄一息的夜归士兵",
+                  "text": "你是……秧秧？太好了……",
+                  "speaker_id": 1202,
+                  "text_id": "Huanglong_main_1_7_34_1"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……这里发生什么了？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_34_11"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "奄奄一息的夜归士兵",
+                  "text": "是……是云闪之鳞复苏了……",
+                  "speaker_id": 1202,
+                  "text_id": "Huanglong_main_1_7_34_3"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "奄奄一息的夜归士兵",
+                  "text": "我是荒石高地物资运输队的一员……",
+                  "speaker_id": 1202,
+                  "text_id": "Huanglong_main_1_7_34_4"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "奄奄一息的夜归士兵",
+                  "text": "荒石高地既是防线，也是前线的补给站，对于前线来说，补给线就是生命线……",
+                  "speaker_id": 1202,
+                  "text_id": "Huanglong_main_1_7_34_5"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "奄奄一息的夜归士兵",
+                  "text": "想要抵达前线军营，就必须要穿过这片无音区……",
+                  "speaker_id": 1202,
+                  "text_id": "Huanglong_main_1_7_34_6"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "奄奄一息的夜归士兵",
+                  "text": "但由于溯洄雨的影响，云闪之鳞突然复苏，将我们的运输队击溃，也将我们的补给线切断了……",
+                  "speaker_id": 1202,
+                  "text_id": "Huanglong_main_1_7_34_7"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "奄奄一息的夜归士兵",
+                  "text": "我拼命逃了出来，只是……已经没有继续行动的力气了……",
+                  "speaker_id": 1202,
+                  "text_id": "Huanglong_main_1_7_34_8"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "奄奄一息的夜归士兵",
+                  "text": "这片区域……很危险……二位……小心……",
+                  "speaker_id": 1202,
+                  "text_id": "Huanglong_main_1_7_34_9"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "小心！",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_94_15"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是将军！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_94_16"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "……云闪之鳞。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_94_12"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "只有击败他，我们才能继续前进了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_94_13"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "……退散！",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_1"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "成功了！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_38_2"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "云闪之鳞，是吞噬了此处万千阵亡将士残响的“闪雷”所化。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_3"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "只要这里仍有战士死去，云闪之鳞就会再次复苏。更何况……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_4"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "无数战士的英魂，都被困在了这场暴雨里。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_5"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……将军。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_38_6"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "抱歉，我来晚了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_7"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "抱歉，我来晚了。",
+                  "text_id": "Huanglong_main_1_7_38_7"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "久仰。",
+                  "text_id": "Huanglong_main_1_7_38_8",
+                  "choice_key": "剧情_新主线_第五章1_3_6:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "客气了，漂泊者。或许，我才是该说“久仰”的那个人。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_12"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "令尹与桃祈已经将你出城前来支援的事情告知于我，感谢你前来。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_16"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "初次见面，本应是按瑝珑礼节招待，但眼下的情况已不允许我们耽搁，我会将我们的规划尽可能简洁地告知于你。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_17"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "直接和我聊军机吗？",
+                  "text_id": "Huanglong_main_1_7_38_18",
+                  "choice_key": "剧情_新主线_第五章1_3_6:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "你的事迹，我已经从令尹那里得知了一些。她口中的你，是一位值得信任的人才。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_19"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "这是研究院配备的抗溯洄雨药剂，你们且先服下。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_20"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "虽无法完全隔绝溯洄雨的影响，但至少能减轻因溯洄雨而产生的幻觉感。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_21"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你不怕我是溯洄雨幽灵？",
+                  "text_id": "Huanglong_main_1_7_38_22",
+                  "choice_key": "剧情_新主线_第五章1_3_6:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "溯洄雨所形成的幽灵，其对象需要满足两个条件。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_23"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "其一，是该人曾经受到过溯洄雨的影响，其二，则需要该人与降雨区的联系足够紧密。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_24"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "你不久前刚从云陵谷苏醒，亦是初到今州，并不具备这两点条件。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_25"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "而且……你有着与瑝珑传说中“能够吸收鸣式的英雄”相近的能力，角也曾亲口对我讲述了关于你的预言。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_26"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "在祂的预言之中，你会来到北落野。要从鸣式那里，取回你失去的力量。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_27"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我会尽可能地帮助你达成这一目的。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_28"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "角的预言？",
+                  "text_id": "Huanglong_main_1_7_38_29",
+                  "choice_key": "剧情_新主线_第五章1_3_6:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "此事或许今汐并不知晓。我继任夜归将军之时，今汐尚未就任令尹。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_31"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "也正是在我继任夜归将军的那一日，角曾如此对我说——",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_32"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "“月相完满之时，你将协助一位归来之人，直面鸣式，并从鸣式之中，取回击败鸣式的力量。”",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_33"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "如果你即是那位“归来之人”，我们这一次，也许真的能够一举消灭那头怪物。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_35"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "你们应该也注意到了这轮满月的异样，我们将这一现象称作“虚影之月”。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_36"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "当虚影之月完全形成，也就意味着——代表战争的鸣式，无相燹主，就要苏醒了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_37"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "它是盘亘在这片土地上的古老阴影，能够吞噬兵器频率，将其化为自身力量的存在。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_38"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "北落野在经历了无数场战争之后，已经成为了一座“万剑冢”。它的力量相比之前，恐怕又要增强几分。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_39"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "但如今“虚影之月”已现，若是再继续拖延下去，只会为它留出“以战养战”的喘息时间，积重难返。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_40"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "下一步计划是什么？",
+                  "text_id": "Huanglong_main_1_7_38_41",
+                  "choice_key": "剧情_新主线_第五章1_3_6:31",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "能在此等状况之下保持冷静，你的心性，果然非同一般。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_44"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "至于具体的事宜，我们回到营地再说吧。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_38_47"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那是……！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_40_1"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "那是无相燹主利用兵器、建筑与岩石的残片拼凑出的雕像。长久以来，它如巨人般从高空睥睨着整个今州，昭示着无相燹主的野心。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_41_1"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "将军，你们回来了。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_7_42_2"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "鉴心？你怎么……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_42_3"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "鉴心随补给队伍来到前线营地已有多日，她心性沉稳，帮我解决了不少麻烦事。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_42_4"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "将军过奖了。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_7_42_5"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道也曾听闻，每到滂霈时分，北落野都会传出无数呜咽嘶嚎，有如百鬼夜哭……",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_7_42_6"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "师父曾言，生死本有命，气化万物中，天地如巨室，魂去而复归。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_7_42_7"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "无数战士们的灵魂，都被无相燹主囚禁在了北落野之中……小道，也想帮助他们解脱。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_7_42_8"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "几位，请随我来。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_42_10"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "击败鸣式虽是这场战役的关键……但在此前的几场战役中，北落野的残象潮都曾或多或少出现过异常状况。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_42_11"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "研究院对此已有结论。北落野的残象并非是一种原生残象，而是基于某种力量的灌输而突然诞生的存在。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_42_12"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我曾分析过他们的形成规律，最后得出了一个结论：创造残象潮的力量源头，正是那尊雕像。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_42_14"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "如今无相燹主的力量尚未完全恢复，是破解这一秘密的最好机会。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_42_15"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "考虑到残象潮的威胁依然存在，军中也有不少伤员失去了作战能力，在正式进攻之前，我们需要先分配一下各自的职责以及任务。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_42_16"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我希望，你可以与我一同参与这次战略的规划。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_42_17"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "目前，我将破阵营的兵力划分为了三股。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_1"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "分别为具有远距离火力打击能力的远程作战中队，擅长近距离作战的近战作战中队，以及……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_2"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "由我，漂泊者，秧秧与鉴心四人为代表所组成的突击小队。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_3"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "这位是空麟，负责率领破阵营远程作战中队。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_4"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "岳辉，破阵营近战作战中队队长。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_5"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "这是目前我们所探查到的北落野的地形图。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_6"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "受制于鸣式力量的影响，踏白小队成员所能抵达的最深处，仅止步于北落山谷与腹地交界处的断崖。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_7"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "“弯刀之役”是我们最深入的一场战役。从当时获取的情报来看，北落野腹地位置，有一片废墟悬浮其中。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_8"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "北落野入口处地形狭窄，两侧悬崖林立，状如绝涧，仅有中部谷地可供大部队行进。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_9"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "同样的，敌人也只能沿这一路径对我方发起进攻。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_10"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "另一方面，无相燹主拥有着不断重组被打散的残象频率的能力。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_11"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "这也就意味着，残象们的攻势只会源源不断，而我们的每一次战斗，都可能成为无相燹主的养分。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_12"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "这一局势，已不允许我们再进行长时间的持久战。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_13"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "因此，我们需要优先考虑的，是如何将中坚力量安全快速地送入战场腹地，使之取得登上雕像，消灭敌人源头的机会。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_14"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "漂泊者，现在我们需要针对各分队不同的特性，为其选择合适的策略，充分发挥其优势，赢下这场战役。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_15"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "首先是远程作战中队。远程作战中队的成员均已配备了支持远距离火力打击的武器。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_20"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "在进行火力部署时，应考虑到地形地势及敌方火力威胁等各因素。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_21"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "若能巧借地形之利，则可以有效提高我方远程作战单位的火力有效性与覆盖范围。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_22"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "依你之见，该将远程作战中队部署在哪个位置？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_23"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "峡谷两侧山崖制高点。",
+                  "text_id": "Huanglong_main_1_7_43_24",
+                  "choice_key": "剧情_新主线_第五章1_9_5:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "利用北落野峡谷的地形特征，事先将远程单位部署在制高点，为近战部队提供火力支援……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_27"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "如此既能保证远程分队的安全，又能有效掩护我方近战部队，充分发挥了远程分队的远距离射程优势，不错的选择。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_28"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "接下来是近战作战中队。近战作战中队的队员们普遍装备了适合近距离战斗的武器，更适合与敌人进行正面搏杀。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_32"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "正面战场位于北落野谷地，敌我双方兵力均会在此处进行交汇，我们需要为其选择合理的进攻形式。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_33"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "依你之见，近战作战中队该采取何种方式进行攻击？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_34"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "正面进攻。",
+                  "text_id": "Huanglong_main_1_7_43_35",
+                  "choice_key": "剧情_新主线_第五章1_9_5:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "既然北落野的狭窄阵线已经决定了两军的正面交锋无可避免……",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_38"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "那么命我军进行冲阵，对敌人持续施加压力，使敌方出现防御缺口，为突击小队取得突破的机会……是合理的决定。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_39"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "最后……是突击小队。突击小队的各位，都是具有强大共鸣能力的共鸣者，具备更强的机动性与单兵作战能力。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_47"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "如果有机会……消灭无相燹主的重任，也会落在突击小队身上。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_48"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "依你之见，我们该选择何种战术？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_49"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "集中突破。",
+                  "text_id": "Huanglong_main_1_7_43_50",
+                  "choice_key": "剧情_新主线_第五章1_9_5:39",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "集中战力，利用敌方防线中的缺口进行突入，直击腹地，摧毁其力量来源，只有这样，才能将敌人彻底击溃。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_53"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "此举或有风险，但却是目前状况下，最合适的一种方案。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_54"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "感谢你，漂泊者。如此一来，整场战役的规划，又清晰了许多。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_62"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "那么，我总结一下本次战役的整体规划——",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_63"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "空麟，率领远程作战中队部署于两侧悬崖制高点，为正面战场提供火力支援。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_64"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "岳辉，率领近战作战中队对敌人发起冲阵，优先为突击小队提供掩护，制造敌方防线缺口。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_65"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "空麟&岳辉",
+                  "text": "是！",
+                  "speaker_id": 1215,
+                  "text_id": "Huanglong_main_1_7_43_66"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我将与漂泊者，秧秧，鉴心一同，带领突击小队突入腹地，为投入后续力量创造条件。全力以赴，消灭鸣式。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_43_67"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "好。如此一来，大家都应该明白各自的任务了吧？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_1"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "职能分配完毕，剩下的事情，就是夺回凿空，打开地波气障了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_4"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "凿空？",
+                  "text_id": "Huanglong_main_1_7_44_5",
+                  "choice_key": "剧情_新主线_第五章1_9_6:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "看到远处结界一样的屏障了吗？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_8"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "无相燹主为保证自己能够顺利吸收北落野残留武器的力量，建造出了这一层屏障。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_9"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我们目前的首要任务之一，是夺回被残象侵略的裂解炮，凿空。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_10"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "那是今州建州之时建造出来用以对抗鸣式的装置。只有夺回了它，才能将这一结界打开，继续深入。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_11"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "更详细的，就由他来说明吧。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_12"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "将军，漂泊者。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_13"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "莫特斐，你们那边准备得怎么样了？",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_14"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "好消息是，我已成功与凿空的控制终端建立了远程联系，天工这边已经万事俱备，只等你一声令下了。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_15"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "坏消息则是……我们发现凿空的充能装置遭到了破坏。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_16"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "简单来说，就是它“没电了”。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_17"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "但是好在，它还有备用的能源接口可以使用。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_18"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "想要使用凿空，我们得先修复那些备用能源接口，这样才能让凿空开始充能。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_19"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "还有什么疑问吗？",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_20"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可以用凿空直接轰击鸣式吗？",
+                  "text_id": "Huanglong_main_1_7_44_21",
+                  "choice_key": "剧情_新主线_第五章1_9_6:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "理论上，可以。但实际上，很难。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_25"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "且不说无相燹主能不能躲避这一攻击，就算命中了，顶多也只能重创敌人，并不足以致命。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_26"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "鸣式的力量，比我们想象中要强大许多。但是用它撕裂地波气障，创造一个入口，还是足够了。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_27"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "还有什么疑问吗？",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_20"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么用的还是旧时代的能源？",
+                  "text_id": "Huanglong_main_1_7_44_22",
+                  "choice_key": "剧情_新主线_第五章1_9_6:15",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "那是因为……凿空的创造年代至少要追溯到今州建州之时了。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_28"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "能在那种科技水平之下造出这种武器，不得不说，能造出这家伙的工程师……的确是位人才。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_29"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "要是用它对着今州城进行全功率输出，估计这今州城，都有可能被轰上天去，成为一座“天城”了。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_30"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "还有什么疑问吗？",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_20"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你能多造几个凿空吗？",
+                  "text_id": "Huanglong_main_1_7_44_23",
+                  "choice_key": "剧情_新主线_第五章1_9_6:15",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "……也不是不行，但是需要时间。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_31"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "就算我再怎么全速制造……今州都不可能撑到那个时候吧。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_32"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "还有什么疑问吗？",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_20"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我没什么问题了。",
+                  "text_id": "Huanglong_main_1_7_44_24",
+                  "choice_key": "剧情_新主线_第五章1_9_6:15",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "不过话说回来，这种需要严格战术规划的毁灭性武器……瑝都那边，管控得应该很严格吧？",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_44"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "它的使用权限，真的能够审批下来吗？",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_45"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "此事已纳入我与令尹的规划之中，无需担忧。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_46"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "好，那我们就静候佳音了。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_47"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "另外，现在还有一个不太好的消息……白芷。",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_44_33"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "白芷（通讯中）",
+                  "text": "我在。",
+                  "speaker_id": 1000,
+                  "text_id": "Huanglong_main_1_7_44_34"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "白芷（通讯中）",
+                  "text": "漂泊者，我会在研究院对北落野的残象活动进行监测，为你指出一条相对安全的路线。",
+                  "speaker_id": 1000,
+                  "text_id": "Huanglong_main_1_7_44_35"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "白芷（通讯中）",
+                  "text": "炮台处有位哨兵方才传来消息，已经有大批残象开始进攻凿空，士兵们正在拼命坚守。",
+                  "speaker_id": 1000,
+                  "text_id": "Huanglong_main_1_7_44_36"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "白芷（通讯中）",
+                  "text": "目前看来，凿空的炮台附近已经盘踞了不少残象，其他残象也正在往炮台处缓慢移动。",
+                  "speaker_id": 1000,
+                  "text_id": "Huanglong_main_1_7_44_37"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "白芷（通讯中）",
+                  "text": "夺回炮台之后，凿空的充能还需要一定的时间。在凿空充能的这段时间里，你们可能需要再坚持一下了。",
+                  "speaker_id": 1000,
+                  "text_id": "Huanglong_main_1_7_44_38"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "白芷（通讯中）",
+                  "text": "炮台和凿空备用能源接口的具体位置，我会通过终端发送给你。祝你们一切顺利，我们会等你们回来。",
+                  "speaker_id": 1000,
+                  "text_id": "Huanglong_main_1_7_44_39"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "情况各位应该已经清楚了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_40"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "漂泊者，秧秧，夺回凿空以及修复备用能源接口的任务，就交给你们了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_41"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "我去吸引其他残象的注意，尽可能帮你们减轻威胁。鉴心，你继续在这里，保护营地。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_42"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "兵贵神速，我们开始行动吧。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_44_43"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "夜归哨兵",
+                  "text": "你们是……",
+                  "speaker_id": 800020,
+                  "text_id": "Huanglong_main_1_7_85_1"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "踏白小队，秧秧。忌炎将军派我们前来支援，现在情况怎么样？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_85_2"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "夜归哨兵",
+                  "text": "几分钟前，残象潮突然来袭，占领了下方的炮台。",
+                  "speaker_id": 800020,
+                  "text_id": "Huanglong_main_1_7_85_3"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "夜归哨兵",
+                  "text": "炮台处还有几位士兵在坚守，为了不让残象潮深入军营，他们让我们封锁了这片区域……",
+                  "speaker_id": 800020,
+                  "text_id": "Huanglong_main_1_7_85_4"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "夜归哨兵",
+                  "text": "我会为二位打开通道，拜托了，请快去支援他们吧！",
+                  "speaker_id": 800020,
+                  "text_id": "Huanglong_main_1_7_85_5"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里已经被残象占领了……那边，还有一位幸存的士兵！得赶紧把这些残象解决掉！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_45_1"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "威胁暂时解除了，我们快去查看一下那位士兵的情况吧……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_172_1"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "重伤的夜归士兵",
+                  "text": "将军……是你吗……",
+                  "speaker_id": 1203,
+                  "text_id": "Huanglong_main_1_7_46_14"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们是将军派来的救兵。",
+                  "text_id": "Huanglong_main_1_7_46_15",
+                  "choice_key": "剧情_新主线_第五章1_4_5:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "重伤的夜归士兵",
+                  "text": "是吗……太好了……",
+                  "speaker_id": 1203,
+                  "text_id": "Huanglong_main_1_7_46_17"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "重伤的夜归士兵",
+                  "text": "我们知道……这门大炮……意义重大……",
+                  "speaker_id": 1203,
+                  "text_id": "Huanglong_main_1_7_46_18"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "重伤的夜归士兵",
+                  "text": "我们一直坚守在这里……没有让残象们占领……",
+                  "speaker_id": 1203,
+                  "text_id": "Huanglong_main_1_7_46_19"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "秧秧一直在尝试着为士兵进行治疗，但士兵的情况似乎已经不容乐观了。",
+                  "text_id": "Huanglong_main_1_7_46_26"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "重伤的夜归士兵",
+                  "text": "这是……修复密钥……请收好……",
+                  "speaker_id": 1203,
+                  "text_id": "Huanglong_main_1_7_46_20"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "重伤的夜归士兵",
+                  "text": "我可能没有办法坚持到胜利的那一刻了……",
+                  "speaker_id": 1203,
+                  "text_id": "Huanglong_main_1_7_46_21"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "重伤的夜归士兵",
+                  "text": "请……一定要击败那头怪物……",
+                  "speaker_id": 1203,
+                  "text_id": "Huanglong_main_1_7_46_22"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们都是伟大的战士。",
+                  "text_id": "Huanglong_main_1_7_46_23",
+                  "choice_key": "剧情_新主线_第五章1_4_5:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "重伤的夜归士兵",
+                  "text": "谢……谢……",
+                  "speaker_id": 1203,
+                  "text_id": "Huanglong_main_1_7_46_25"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我们一定会胜利，请安息吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_46_13"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "凿空已充能50%……又有残象攻过来了，小心，漂泊者！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_145_1"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "凿空已充能80%！残象们的攻势减弱了，漂泊者，再坚持一下！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_146_1"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "凿空已充能完毕！漂泊者，我们一起，将最后这批残象全部清理掉吧！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_147_1"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "将军！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_7_49_1"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "辛苦你们了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_49_2"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "……雨停了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_49_3"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "dialogue",
+                  "speaker": "白芷（通讯中）",
+                  "text": "将军，溯洄雨的影响已经逐渐消退，监测到北落野残象数量正在急剧减少。",
+                  "speaker_id": 1000,
+                  "text_id": "Huanglong_main_1_7_49_4"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "凿空也充能完毕，随时可以发射，只是……",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_49_5"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐（通讯中）",
+                  "text": "凿空的发射需要动用大量能源，一旦空炮……",
+                  "speaker_id": 636,
+                  "text_id": "Huanglong_main_1_7_49_6"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "……这是我们唯一的机会了。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_49_7"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "各位，能听见吗？",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_49_8"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "我已用今令尹的身份与权限，争取到了凿空的发射许可。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_49_9"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "动用凿空所需耗费的大量能源，空炮的可能，决策的合理与否……将由我全权负责。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_49_12"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "这场战役的结果，也都将由我一人承担。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_49_13"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "将军，漂泊者，你们只管向前吧。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_49_14"
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "愿你们穿越长夜，胜利归来。",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_49_20"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "……感谢您的信任，令尹大人。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_49_15"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "将军言重了。你我自始至终，都只有一个相同的目的……",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_49_16"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "dialogue",
+                  "speaker": "今汐（通讯中）",
+                  "text": "各部门，为漂泊者与忌炎将军无条件提供支援，允许发射凿空！",
+                  "speaker_id": 1212,
+                  "text_id": "Huanglong_main_1_7_49_21"
+                },
+                {
+                  "sequence": 404,
+                  "kind": "dialogue",
+                  "speaker": "忌炎",
+                  "text": "目标，北落野。",
+                  "speaker_id": 92,
+                  "text_id": "Huanglong_main_1_7_49_22"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "忌炎&今汐",
+                  "text": "全力守卫今州！",
+                  "speaker_id": 1240,
+                  "text_id": "Huanglong_main_1_7_49_23"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 7
+        }
+      ]
+    }
+  ]
+}

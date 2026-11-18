@@ -1,0 +1,4083 @@
+{
+  "schema_version": 1,
+  "title": "欲知天将雨",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 60,
+      "dialogue": 433,
+      "narration": 3,
+      "omission": 2
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 5,
+          "title": "欲知天将雨",
+          "act": "第五幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 7,
+              "quest_id": 114000020,
+              "title": "欲知天将雨",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我知道了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_4_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我也能感受到……风中的流息潜藏着不安的躁动。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_4_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "今州……恐怕是要变天了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_4_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "漂泊者！你来啦！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_4_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "久等了。",
+                  "text_id": "Huanglong_main_1_6_4_5",
+                  "choice_key": "剧情_新主线_第四章_72_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "研究院最近频繁侦测到无音区异动，各位最近如果要出城的话，一定要小心。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_6_4_7"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谢谢提醒。",
+                  "text_id": "Huanglong_main_1_6_4_8",
+                  "choice_key": "剧情_新主线_第四章_72_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "终端通讯一定要保持畅通，研究院给予的防护装置也一定要按标准佩戴。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_6_4_10"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "日常记得多喝热水，我先继续实验了，各位保重。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_6_4_21"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "该不会是自动回复……",
+                  "text_id": "Huanglong_main_1_6_4_11",
+                  "choice_key": "剧情_新主线_第四章_72_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嗨，她这人就这样，表达关心的方式比较别扭，但我觉得她这样还挺可爱的？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_4_13"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哎呀，漂泊者，现在就别在意这些了！赶紧说说你之前都听到了什么吧？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_4_14"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "你稍加思索，将角失踪的信息隐去，简单讲述了之前与今汐的对话内容……",
+                  "text_id": "Huanglong_main_1_6_4_15"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "……残星会这群人，真是太可恶了！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_4_16"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于忌炎……",
+                  "text_id": "Huanglong_main_1_6_4_17",
+                  "choice_key": "剧情_新主线_第四章_72_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "忌炎与今汐，角之间有什么特殊联系吗？",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_6_4_18"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "特殊联系？这个我就不知道了……不过我听说，忌炎将军曾经还是一名军医呢。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_4_19"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯……其实，如果要提到他们之间的特殊联系，就不得不提到一段今州的历史了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_4_20"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我曾经在剧院附近的一位说书人口中如此听说……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_4_22"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【演出过程略】"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "原来还有这样的故事……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_1"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么角会选择今汐作为令尹？",
+                  "text_id": "Huanglong_main_1_6_6_2",
+                  "choice_key": "剧情_新主线_第四章_3_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "可能…… 岁主有祂自己的选任标准吧？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_3"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "又或许，神和人的区别，正是在于这种“不可知性”呢？祂们的标准总是常人难以捉摸的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_4"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "是啊，所以就算角某天选中了本姑娘做令尹，我也不会觉得意外！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_5"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "角会过问人们自己的意愿吗？",
+                  "text_id": "Huanglong_main_1_6_6_6",
+                  "choice_key": "剧情_新主线_第四章_3_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我明白你的意思。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_7"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "在豆蔻之年被毫无预兆地选为令尹，很难想象今汐当时是一种什么样的心情……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_8"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我记得今汐刚刚就任的那段时间里，坊间有很多针对今汐的质疑之声。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_9"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "很多人都认为那时的今汐资历尚浅，即使有实绩，也并不能完全服众。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_10"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "人们愿意尊重今汐的根本原因，还是因为相信角……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_36"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "但是角选人还是很有眼光的，今州历史上的令尹们个个本领高强，谋略了得。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_11"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "今汐能在这么短的时间里把今州治理得井井有条，已经完全证明了自己啦！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_12"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "换做是我，估计光是处理那些文书工作，脑袋就要“超频”了吧……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_13"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那句话怎么说的来着？对！假以时日，必成大器！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_37"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你会好奇这些……是今汐给你留下什么关于自己身份的线索了吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_14"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "角要我在某一时刻前往北落野寻找忌炎。",
+                  "text_id": "Huanglong_main_1_6_6_15",
+                  "choice_key": "剧情_新主线_第四章_3_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "北落野？！那可是一片古战场啊……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_18"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "北落野太过凶险，是今州抵御鸣式的最前线。我建议我们还是谨慎为好。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_19"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你会好奇这些……是今汐给你留下什么关于自己身份的线索了吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_14"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "残星会还有会监蛰伏在今州境内。",
+                  "text_id": "Huanglong_main_1_6_6_16",
+                  "choice_key": "剧情_新主线_第四章_3_1:14",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "竟然出动了不止一位会监……看来残星会的阴谋远比我们想象中还要庞大。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_20"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "残星会虽然掌握着很多与你有关的情报，但他们的手段和理念都太过激进危险。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_21"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "当下我们在明，敌人在暗，就这样贸然寻找，无异于自投罗网……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_22"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你会好奇这些……是今汐给你留下什么关于自己身份的线索了吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_14"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "有个名为黑海岸的组织一直在关注我。",
+                  "text_id": "Huanglong_main_1_6_6_17",
+                  "choice_key": "剧情_新主线_第四章_3_1:14",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "黑海岸？没听说过呢……在瑝珑的地理图志上也没有见过这样一个地方。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_23"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这朵黑花……如果只是一张照片的话，我也没办法用能力感知它的归属。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_24"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "黑海岸是一个研究悲鸣的组织。",
+                  "text_id": "Huanglong_main_1_6_6_25",
+                  "choice_key": "剧情_新主线_第四章_3_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯……残星会的底牌不明，北落野又太过凶险。那黑海岸，就是我们目前唯一的线索了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_27"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "可是，仅凭一张照片找人的话，又像是在大海捞针……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_28"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "如果要从这朵黑花入手……不如我们去找林奶奶问问吧！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_29"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "林奶奶在商业街经营一家盆景店。她对各类花卉颇有见地，见多识广，一定能为我们提供一些线索。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_6_31"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嘿嘿，突然被这么夸还是挺不好意思的。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_34"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "林奶奶也很喜欢听书。刚才听书的时候，我好像还看见过她……我们就在附近找找吧。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_6_35"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "距离下场说书还有一段时间，小友若是等得无聊，不妨先来几本书看看？",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_6_76_1"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于“弯刀之役”……",
+                  "text_id": "Huanglong_main_1_6_76_2",
+                  "choice_key": "剧情_新主线_第四章_77_7:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "小友原来是好奇这“弯刀之役”啊。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_6_76_3"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "都说这说书呢，难免带点主观色彩，得为了故事的跌宕起伏服务。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_6_76_4"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "唯独这“弯刀之役”，咱是不敢妄加评价，只能主打一个还原历史，原汁原味。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_6_76_5"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "但仅是复原这段历史，就足以让人觉得气势磅礴，惊心动魄了。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_6_76_6"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "那哥舒将军真就是那十恶不赦的罪人？忌炎将军又真岂是那般完美无缺？",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_6_76_7"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "突如其来的天雨，角的所为和行动的时机……其中深意……",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_6_76_8"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "全待后世人自行评说了，哈哈哈……",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_6_76_9"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "哎呀，是炽霞和秧秧呀，你们怎么也来听书啦？",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_1"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嘿嘿，林奶奶，今天我们是陪一位朋友来听书的！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_10_2"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "当当！能够手撕残象，碳烤声骸，脚踢燎照之骑，拳打飞廉之猩的……大名鼎鼎的漂泊者！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_10_3"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "正是在下。",
+                  "text_id": "Huanglong_main_1_6_10_4",
+                  "choice_key": "剧情_新主线_第四章_4_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "哈哈，原来你就是那位漂泊者，还真是后生可畏啊。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_7"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "林奶奶，您见多识广，我们有个东西想请您看看……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_10_10"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（出示黑花图像。）",
+                  "text_id": "Huanglong_main_1_6_10_11",
+                  "choice_key": "剧情_新主线_第四章_4_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "就是这朵黑花了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_10_12"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "嗯……如果是今州这边生长的植物，我都会有印象，这可不像是今州这边的花朵。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_13"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "即使是在今州的植物志里，我也没有见到过类似的品种……",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_14"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "啊，如果连您都不知道的话……今州还有谁能知道呢？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_10_15"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "炽霞，别抬举我啦。今州可是有一位通晓植物的植物系共鸣者呢。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_16"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "您说的，是那位远道而来的姑娘吧？经常能看到她在您的店里做帮工呢。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_10_17"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "是呀，那孩子手脚勤快，又熟知各类植物的习性，帮了我不少忙呢。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_18"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "小小的，白白的，嫩嫩的……笑起来也很可爱，一双大眼睛忽闪忽闪的……像一束星星花一样。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_19"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "有时我喊她“小星星花，来吃饭啦”，她都会答应，多可爱啊。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_20"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在哪里可以找到她呢？",
+                  "text_id": "Huanglong_main_1_6_10_21",
+                  "choice_key": "剧情_新主线_第四章_4_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "她现在应该是在后山那边做生态调研吧。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_24"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "之前我随口提了一下，想在后山开垦一片花田，这孩子马不停蹄地就去帮我实地考察了。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_29"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "从广场那边出去，就能看到一片瀑布，从这里穿过去就可以到后山了。",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_30"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我们知道了，谢谢你，林奶奶。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_10_31"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "林素",
+                  "text": "不用谢，没事记得常来我的盆景店玩啊！",
+                  "speaker_id": 786,
+                  "text_id": "Huanglong_main_1_6_10_32"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里是通往后山的捷径，从瀑布后面穿过去，就能到达今州城的后山——屏庭山了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_11_1"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这朵小花，像是在为我们指引方向呢，我们跟上去吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_58_2"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "由鲜花构成的桥梁……好神奇……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_12_1"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "请问……几位是迷路了吗？",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_1"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是维里奈吗？",
+                  "text_id": "Huanglong_main_1_6_14_2",
+                  "choice_key": "剧情_新主线_第四章_10_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "啊，不好意思，差点忘记了！我应该先自我介绍一下的，这是瑝珑这边的礼节……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_4"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "那个，久仰大名，在下维里奈，今日得见几位，幸好幸好……诶，是这么说的吧？",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_7"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是“幸会”啦。",
+                  "text_id": "Huanglong_main_1_6_14_8",
+                  "choice_key": "剧情_新主线_第四章_10_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "不好意思，我之前一直在新联邦生活，对瑝珑这边的语言了解的不是很多……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_11"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "你好，维里奈！我是炽霞，她是秧秧，还有这位是漂泊者！我们是林奶奶介绍过来的！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_14_15"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "我听林奶奶提到过你们，这朵小花，就是我留下给林奶奶指引路线的。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_16"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "几位现在是遇到什么困难了吗？有什么我可以帮助的？",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_17"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是这样的，我们正在寻找一种特殊的花朵……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_14_18"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（出示照片。）",
+                  "text_id": "Huanglong_main_1_6_14_19",
+                  "choice_key": "剧情_新主线_第四章_10_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "这种花卉的确很奇特。自然界中很少会存在纯黑色的花朵，但也不能排除人工染色的可能。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_20"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "我想想，与这朵花的形态结构相似的花卉应该有这几种……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_21"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "首先是鸢尾花，它的花瓣虽然和这朵黑花一样，也是近椭圆形，但却是一种复瓣类花朵。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_22"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "地丁堇的花瓣尖端上有着明显的花缺，也可以排除掉。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_23"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "而和崖仙子相比，这朵黑花的花蕊明显长了一截，它的花瓣也比崖仙子多出一瓣。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_24"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "还有一种近似的植物是香柠草，这种植物原产于新联邦，所以瑝珑本地人可能不太了解。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_25"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "它的花蕊长度倒是符合，但它的花序总状却是圆锥状的，花冠也像个小喇叭一样……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_26"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "对了，还有金阳凤！它也是一种五瓣单瓣类花朵，花蕊的长度也很符合！",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_27"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "也不对……金阳凤有着明显的花梗，这朵黑花明显没有这种结构……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_28"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "原来还有这么多门道，真是长了不少知识呢……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_14_29"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "总而言之！这朵黑花的性状非常奇特，在自然界中几乎找不到相似的植物。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_30"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "我姑且判断，它可能是一种人工培育的新品种。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_31"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "而且，它的花脉竟然是十字形……仔细观察的话，还能看到一些细小的频率波动痕迹，这是回音能量外溢的表现。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_32"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "那么，答案就只有一个了——这是一种非常特别的回音植物，它的形成可能与共鸣力有关。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_33"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "但至于它会在何种土质下形成，又是与哪种共鸣能力有关……拟态或是创生，我也无法根据一张照片轻易判定。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_14_34"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "唔……我们的线索似乎又中断了？既不知道是什么花，也没见到有人把这种花戴在身上……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_14_35"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "话又说回来，难道我把这朵花戴在身上，就能被当做那个组织的成员了不成？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_14_36"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "炽霞，你能再说一遍吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_14_37"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "啊？我刚刚说错什么了吗？我说难道我把这朵黑花戴在身上，就会被认作是他们的成员什么的……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_14_38"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "假设这朵黑花是黑海岸成员的信物，那么他们一定会注意到这朵黑花。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_14_39"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而对于普通人而言，它只是一朵性状比较奇特的花朵而已。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_14_40"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "再进一步假设，如果黑海岸的成员就在今州城里，那我们或许，只需要戴上这朵黑花，就能够“引蛇出洞”……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_14_41"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "我好像明白一点了……可是，要怎么才能做出一朵黑花呢？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_14_42"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "那、那个……如果只是仿制一个外形的话，我的共鸣力或许可以……不知道能不能帮到你们……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_15_4"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "加油维里奈……你可以的……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_15_5"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "真的假的？这也太神奇了！简直和照片上的黑花一模一样！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_15_1"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "能帮上大家就好。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_15_2"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "好厉害！还能再变一个出来吗？我还想看！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_15_3"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，你注意到了吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_53_1"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "从刚才开始，周围就一直散落着一些黑色的花瓣……它们并不属于维里奈小姐。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_53_2"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "风中的流息也被扰乱了……有人在跟踪我们。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_53_3"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "让我去会会他。",
+                  "text_id": "Huanglong_main_1_6_53_5",
+                  "choice_key": "剧情_新主线_第四章_35_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你想和我们分开行动？会不会太危险了？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_53_7"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "相信我。",
+                  "text_id": "Huanglong_main_1_6_53_8",
+                  "choice_key": "剧情_新主线_第四章_35_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……那我去知会一下炽霞，我们会按照刚才的提议，戴上黑花尝试找出黑海岸的成员。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_53_9"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你独自留在野外的话，千万要小心，有事情我们随时终端联络。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_53_10"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "漂泊者，你看到了吗！这么精巧的一朵黑花，维里奈小姐凭空就把它变出来了！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_68_1"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "而且，这朵黑花，看起来和照片上简直一模一样！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_68_2"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "也没有你说的那么厉害啦，只是我的共鸣力恰好能让我做到这一点而已……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_68_3"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "还能再变出来一朵吗！正好我和秧秧两个人一人一朵……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_68_4"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "我、我再试一下……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_68_5"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "喔……原来是这样。我刚才又请维里奈小姐帮我们做了一朵黑花，正好派上用场！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_69_1"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "不就是“引蛇出洞”嘛，这点小事，就交给我吧！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_69_2"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "维里奈小姐，你也早些回去吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_69_3"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "最近野外不太安全。",
+                  "text_id": "Huanglong_main_1_6_69_4",
+                  "choice_key": "剧情_新主线_第四章_77_2:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "诶？好的，我去收拾一下园艺工具……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_69_6"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（残星会？他们怎么会出现在这种地方？）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_6_16_1"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "残星会成员",
+                  "text": "可恶，那女人竟敢妨碍我们的计划……现在又来一个碍事的！",
+                  "speaker_id": 1008,
+                  "text_id": "Huanglong_main_1_6_16_2"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（……只能先打倒他们了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_6_16_3"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（奇怪的声响还在，应该是冲我来的。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_6_17_1"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（从这里上去，应该就能绕到那人的身后了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_6_18_1"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（就在这里，先隐蔽起来吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_6_19_1"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "椿",
+                  "text": "去哪里了呢？",
+                  "speaker_id": 567,
+                  "text_id": "Huanglong_main_1_6_20_1"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是在找我吗？",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_6_20_2"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "椿",
+                  "text": "找、到、你、了。",
+                  "speaker_id": 567,
+                  "text_id": "Huanglong_main_1_6_20_3"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "你真是充满惊喜。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_1"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是谁？",
+                  "text_id": "Huanglong_main_1_6_21_2",
+                  "choice_key": "剧情_新主线_第四章_16_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "这是什么被捉住就要乖乖回答问题的游戏吗……",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_4"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "呵呵……你生气了吗？激怒你，似乎会让我不由自主地兴奋起来。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_5"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "你是第一个让我产生这样兴趣的人。你，很有潜力……",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_6"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "回答我的问题。",
+                  "text_id": "Huanglong_main_1_6_21_7",
+                  "choice_key": "剧情_新主线_第四章_16_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "好嘛，我会收敛一些的~毕竟，你是黑海岸交给我的任务目标。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_8"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是黑海岸的人？",
+                  "text_id": "Huanglong_main_1_6_21_9",
+                  "choice_key": "剧情_新主线_第四章_16_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "是呀，我是黑海岸的「执花」。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_10"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "这朵黑花就是「执花」的标识，也象征着「执花」救世的职责与使命。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_11"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "黑海岸的规矩就是这样咯。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_12"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "黑海岸有什么目的？",
+                  "text_id": "Huanglong_main_1_6_21_13",
+                  "choice_key": "剧情_新主线_第四章_16_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "黑海岸的目的，是什么来着……尽可能招募更多的贤能，拯救危在旦夕的世界。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_14"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "怎么样，你有兴趣吗？",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_15"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你听起来并不像想拯救世界的样子。",
+                  "text_id": "Huanglong_main_1_6_21_16",
+                  "choice_key": "剧情_新主线_第四章_16_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "我对这个确实没什么兴趣啦。如果世界明天就爆炸，那为何不趁着今日尽兴？",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_17"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "无拘无束地追求强大，肆意地追踪、猎杀猎物，顺从欲望，找点乐子……",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_18"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这跟残星会有什么差别……",
+                  "text_id": "Huanglong_main_1_6_21_19",
+                  "choice_key": "剧情_新主线_第四章_16_1:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "虽然我是很想这么做啦，但人家也有不得不背负的使命呀~",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_20"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "「花园」〔黑海岸〕中孕育着无数青涩的果实，你将会是这座「花园」中最为特殊的「种子」……",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_21"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "而我的使命，就是保护、培育这样的种子，让其蓬勃生长。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_22"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "这样，待到果实成熟，才能够亲自采撷，品尝到果实的甜美。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_23"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "果实？",
+                  "text_id": "Huanglong_main_1_6_21_24",
+                  "choice_key": "剧情_新主线_第四章_16_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "和泰缇斯〔文明推演沙盘〕所说的一样，我能感受到你身体内蓄势待发的爆发力，未来的某天，你必定会结出丰饶美丽的果实。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_26"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "总之，你不用担心我对你做些什么，嗯……出格的事？",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_29"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "相反，这段时间我可是有好好保护你，替你清除各种暗中的障碍哦！",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_30"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "可别把我跟残星会相提并论。我并不在乎他们的立场，但如果他们妄图把手伸到你身上……哼，你可是我看中的人。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_31"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "只是用了点“小伎俩”就把他们的人绊得团团转，真没劲。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_32"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "小伎俩？",
+                  "text_id": "Huanglong_main_1_6_21_33",
+                  "choice_key": "剧情_新主线_第四章_16_1:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "哎呀，难道你没发现？",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_35"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "你和那个龙女的深夜会面能顺利进行，是我帮忙拖住了残星会的家伙哦。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_36"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "回答了你这么多……该轮到我了吧？",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_37"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你想知道什么？",
+                  "text_id": "Huanglong_main_1_6_21_38",
+                  "choice_key": "剧情_新主线_第四章_16_1:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "呵呵，我并没有什么想知道的。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_40"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "只是你用这种眼神看着我……不，没什么。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_41"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "我会继续关注着你哦，你是与众不同的种子，我很确信这一点。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_46"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "你身上，有一种熟悉的气息……",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_6_21_47"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "椿",
+                  "text": "我是椿。",
+                  "speaker_id": 567,
+                  "text_id": "Huanglong_main_1_6_21_48"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "椿",
+                  "text": "下次，别那么快再被我抓住哦……！",
+                  "speaker_id": 567,
+                  "text_id": "Huanglong_main_1_6_21_49"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "跑得真快……",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_6_21_50"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "秧秧（通讯中）",
+                  "text": "发生什么事了吗，怎么这么久才接起来……",
+                  "speaker_id": 1007,
+                  "text_id": "Huanglong_main_1_6_22_1"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "跟踪者现形了。",
+                  "text_id": "Huanglong_main_1_6_22_2",
+                  "choice_key": "剧情_新主线_第四章_38_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "秧秧（通讯中）",
+                  "text": "是敌是友？你有受伤吗？",
+                  "speaker_id": 1007,
+                  "text_id": "Huanglong_main_1_6_22_4"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是黑海岸的人。",
+                  "text_id": "Huanglong_main_1_6_22_5",
+                  "choice_key": "剧情_新主线_第四章_38_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "秧秧（通讯中）",
+                  "text": "是黑海岸的人？有得到什么情报吗？",
+                  "speaker_id": 1007,
+                  "text_id": "Huanglong_main_1_6_22_7"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可惜，让她逃了。",
+                  "text_id": "Huanglong_main_1_6_22_8",
+                  "choice_key": "剧情_新主线_第四章_38_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "秧秧（通讯中）",
+                  "text": "呼……你没受伤就好。",
+                  "speaker_id": 1007,
+                  "text_id": "Huanglong_main_1_6_22_9"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "秧秧（通讯中）",
+                  "text": "炽霞发现了一位鬼鬼祟祟的可疑人士，现在正在暗中盯梢。",
+                  "speaker_id": 1007,
+                  "text_id": "Huanglong_main_1_6_22_12"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我马上过去。",
+                  "text_id": "Huanglong_main_1_6_22_13",
+                  "choice_key": "剧情_新主线_第四章_38_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "秧秧（通讯中）",
+                  "text": "好，我们在商业街这里。",
+                  "speaker_id": 1007,
+                  "text_id": "Huanglong_main_1_6_22_14"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你来了！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_23_1"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "情况怎么样？",
+                  "text_id": "Huanglong_main_1_6_23_2",
+                  "choice_key": "剧情_新主线_第四章_11_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "方才我和炽霞按你说的，分别戴着黑花在大街上游走，可惜我没打听到什么有用的情报……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_23_4"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "具体都听到了什么？",
+                  "text_id": "Huanglong_main_1_6_23_5",
+                  "choice_key": "剧情_新主线_第四章_11_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没什么，都是一些寒暄之类的……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_23_7"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "和蔼的叔叔",
+                  "text": "呀，这不是刚才那位水灵灵的大姑娘吗？",
+                  "speaker_id": 800072,
+                  "text_id": "Huanglong_main_1_6_23_8"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "热情的女孩",
+                  "text": "是呀是呀，这位姐姐真的好漂亮呀！我可以再和你合一张影吗？刚才那张照片的角度没调好……",
+                  "speaker_id": 800073,
+                  "text_id": "Huanglong_main_1_6_23_9"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我已经听到了……",
+                  "text_id": "Huanglong_main_1_6_23_10",
+                  "choice_key": "剧情_新主线_第四章_11_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "啊……不要再说了！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_23_12"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "至于炽霞，她倒是觉得自己碰到了一位可疑人士……就是他了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_23_13"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "漂泊者，你来得正好！这家伙一直在商业街里探头探脑，没事就往老人小孩那里打听，我见他可疑，一直在观察他。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_1"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "之前他身边还跟着一个小女孩，看起来年龄不大，一直在东张西望，但现在却不见了……实在是太可疑了！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_2"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "我是今巡尉炽霞，这位先生，请你配合，出示一下你的执业许可。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_3"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "执……执业许可？噢！在下秋水，是一名情报商人，漂游四海，排忧解难……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_4"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "无证经营。听你这么说，你们也没有固定的经营场所咯？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_5"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "……经营场所？情报商人需要什么经营场所？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_6"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "现在请你再出示一下组织机构认证。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_7"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "小店诚信经营，明码标价，报酬给够，万事可谈！本店已连续多年获得大陆最佳情报商人证书……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_8"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "没有明确规范的业务内容……那就是非法经营……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_9"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_10"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那你们组织的相关负责人是谁？他的身份认证码总该有吧？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_11"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "负……负责人？哦！我们的负责人来头可大了！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_12"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "她是与我们这颗星球一同诞生的存在，是星球意志的化身，世间万物的回音……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_13"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "真的吗？",
+                  "text_id": "Huanglong_main_1_6_24_14",
+                  "choice_key": "剧情_新主线_第四章_52_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "所以你们到底有没有相关的组织负责人？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_16"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "不是，我都把我们老大的老底给透了，你们怎么就是不信呢？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_17"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嗯嗯，我信我信！情况我已经完全了解了！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_18"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那就请你跟我走一趟吧！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_19"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "长官！我真的没干坏事啊，我是在找人啊！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_21"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "就是一个长成这样这样的小姑娘……那种呆在人群里最显眼的！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_23"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这谁能看出来啊？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_24_24"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "哎呀，就是先前你看见过的那个！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_29"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "小小的个子？",
+                  "text_id": "Huanglong_main_1_6_24_25",
+                  "choice_key": "剧情_新主线_第四章_52_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "啊对对对，就是这样！你是怎么知道的？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_24_28"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "小心一点……这么走路很危险的……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_25_1"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "找到你啦！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_25_2"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "安可小祖宗啊！你可让我好找啊！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_1"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哎！你想做什么？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_26_2"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "长官，我一直都在找的人……就是她啊！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_3"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "小妹妹，你是叫安可吗？你认识这个人吗？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_26_4"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "嗯！安可认识！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_26_5"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "虽然他无证经营、喜欢当中间商赚差价、擅长窃听商业机密、又爱捉弄小孩……但是秋水叔叔不是坏人！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_26_6"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "安可！我上次怎么教你的！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_7"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "都说了在外面不要喊我叔叔！我没那么老！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_8"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这跟你的口供完全对不上啊。",
+                  "text_id": "Huanglong_main_1_6_26_9",
+                  "choice_key": "剧情_新主线_第四章_24_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "维里奈，你们是怎么遇见的？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_26_12"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "我从后山准备回来的时候，在悬崖边上碰到了她，当时她正在生吃一株毒蘑菇……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_26_13"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "还好我及时给她熬了药汤，不然后果不堪设想……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_26_14"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "不用担心安可，这种蘑菇安可已经吃过很多啦！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_26_15"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "可是，小安可，你怎么一个人跑到那么危险的地方去啦？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_26_16"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "小安可别怕，有什么说什么！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_26_17"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "因为……安可要盯梢这位大姐姐啊！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_26_18"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "啊哈哈哈哈，小孩子平时奇怪的东西看多了，不要在意，不要在意……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_19"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "喂，秋水……不是你让安可这么做的吗？他们的眼神……怎么看起来不太对劲啊？",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_26_20"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "安可……这种话可不能随随便便就说出去……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_21"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "唉，既然事态已经发展到了这一地步，那我只好告诉你们了……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_22"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们来到这里，的确是有些重要的事情要做，那就是——",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_23"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "安可！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_24"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "喂，秋水，等等安可呀——！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_26_25"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "再见了您嘞！我们还要忙着拯救世界呢！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_26_26"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "咳咳……站住！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_26_27"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "咳……决不能让他跑了……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_28_1"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "我、我去居民区的方向看看……",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_28_2"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "秋水模仿自己的样子，用雾气制成的“雾人”。面前的“雾人”摆出了一个“展翅飞翔”的奇怪造型。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_81_1"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "……是他故意留下来，用来挑衅我们的吗？",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_81_2"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“雾人”面前似乎还有一行用雾气留下的小字：“童叟无欺雾雾屋，新客惠顾享八折！”",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_81_3"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "好生气！这是在挑衅我们吗……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_29_1"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "我往巡宁尉的方向去追，这条路我最熟悉了！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_29_2"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "秋水模仿自己的样子，用雾气制成的“雾人”。面前的“雾人”摆出了一个“开怀相迎”的奇怪造型。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_83_1"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "……是他故意留下来，用来吸引我们注意力的吗？",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_83_2"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“雾人”面前似乎还有一行用雾气留下的小字：“相遇是缘，愿我们的友谊长长久久！”",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_83_3"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "又是一条岔路……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_30_1"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "广场这块就交给我吧，另一边就拜托你了！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_30_2"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "秋水模仿自己的样子，用雾气制成的“雾人”。面前的“雾人”摆出了一个“比心”的奇怪造型。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_85_1"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "……会是他故意留下来，用来混淆我们视线的吗？",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_85_2"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“雾人”面前似乎还有一行用雾气留下的小字：“不要心急，答案近在眼前！”",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_85_3"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“雾人”位置的间距变短了……有了，在巷子尽头那边！",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_6_86_1"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "……嘿，终于来了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_1"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你无处可逃了！",
+                  "text_id": "Huanglong_main_1_6_31_2",
+                  "choice_key": "剧情_新主线_第四章_28_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这哪能算得上逃跑呢？我们的目标，从一开始就是你啊。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_4"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "大姐姐，别跑啦！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_31_5"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "铛铛！安可和秋水叔叔不会把你怎么样的……",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_31_6"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们想干什么！",
+                  "text_id": "Huanglong_main_1_6_31_7",
+                  "choice_key": "剧情_新主线_第四章_28_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "好了，安可，你看你把客人都吓成什么样子了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_10"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "明明是秋水让安可这么做的，安可平时才不这样呢。",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_31_11"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "别怕，漂泊者，我们只是有些问题想要问问你……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_12"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "就是你出的主意，让那两位姑娘戴上假黑花，想以此来引起黑海岸成员的关注吧？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_13"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "不得不说，那朵黑花，倒是足够以假乱真，若非懂行的人，还真看不出来它和真品的差别。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_14"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "植物系共鸣者……有点意思……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_15"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "植物系共鸣者？我们好像也认识一位耶？",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_31_16"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "也是，的确没必要大惊小怪。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_17"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "那么说说吧，你……为什么要找黑海岸？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_18"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "和你们有什么关系？",
+                  "text_id": "Huanglong_main_1_6_31_19",
+                  "choice_key": "剧情_新主线_第四章_28_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "和我们有什么关系？如果我说，我们手上，掌握着你最想要知道的情报呢……？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_22"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "瑝珑有句古话，叫做“愿者上钩”。你的手段，还是成功地引起了我们的注意。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_25"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "你想要找的人……看似远在天边，实则近在眼前！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_26"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "如何？这个情报，够份量吧！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_27"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们是黑海岸的人？",
+                  "text_id": "Huanglong_main_1_6_31_28",
+                  "choice_key": "剧情_新主线_第四章_28_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "别露出这么失望的表情嘛，我们和你想象中的样子差距很大吗？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_30"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我知道，关于黑海岸，你一定有很多想问的事……不过你先别急。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_32"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我呢，如你先前所见，是一位“情报商人”。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_33"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "再怎么说，我也是个生意人，不是什么慈善家，情报这种事，还是得讲求一个“公平交换”。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_34"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们找你，其实也只是想要和你做一笔交易。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_35"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我希望你能和我们一同去一趟稷廷遗址，协助我们回收一个“数据信标”。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_36"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这次的任务结束后，作为报酬，我会将我们所知道的情报尽数分享给你。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_37"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我为什么要相信你们？",
+                  "text_id": "Huanglong_main_1_6_31_38",
+                  "choice_key": "剧情_新主线_第四章_28_1:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "顾客至上，诚信为本！我们的信用可是全大陆有目共睹，不然我们也不会有资格成为黑海岸的「客卿」。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_40"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "唉，念在你是我们新客户的份上，就额外赠送你一份见面礼吧。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_42"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "你应该已经知道这朵黑花对于黑海岸来说代表着什么，这份诚意，应该足够了吧？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_43"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "而我们的身份是真是假，只需将这朵黑花交给那位通晓植物的女士一看便知。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_44"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "实在不行……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_45"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "安可，快，给她扮个可爱点的表情……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_46"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你太卑鄙了！",
+                  "text_id": "Huanglong_main_1_6_31_47",
+                  "choice_key": "剧情_新主线_第四章_28_1:34",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "呜，大姐姐……",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_31_49"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "你看看，安可都这样求你了，你也不忍心让她伤心吧？那就这么愉快的决定了！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_50"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们会在怨鸟泽信标的附近等你！记得自己一个人来哦！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_31_51"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "你这边怎么样？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_32_1"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是黑海岸的人。",
+                  "text_id": "Huanglong_main_1_6_32_2",
+                  "choice_key": "剧情_新主线_第四章_41_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "啊？他们？完全看不出来啊……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_32_3"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "他们交给了我一朵黑花。",
+                  "text_id": "Huanglong_main_1_6_32_4",
+                  "choice_key": "剧情_新主线_第四章_41_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "果然，这朵黑花和我之前的判断是一致的，它确确实实是一种回音植物。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_32_5"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "维里奈",
+                  "text": "而且这朵黑花上蕴藏的回音能量十分独特，含量也不是一般的回音植物能够比拟的。",
+                  "speaker_id": 968,
+                  "text_id": "Huanglong_main_1_6_32_6"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "难道他们真的是黑海岸的人？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_32_7"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嘁，我还以为这帮人能有多神秘呢……别的不说，逃跑的手段倒是挺高超的……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_32_8"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "刚刚他们和你说了什么？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_32_9"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我和他们做了一笔交易。",
+                  "text_id": "Huanglong_main_1_6_32_10",
+                  "choice_key": "剧情_新主线_第四章_41_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "将刚才发生的事情告诉三人……",
+                  "text_id": "Huanglong_main_1_6_32_11"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "稷廷遗址……我只知道那是一个已经荒废多年的科研机构，几乎没有什么特别的地方。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_32_12"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而由于怨鸟泽的异常气象，已经很久没有人踏足过那里了……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_32_13"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "秧秧，你别太担心啦，漂泊者的实力我们都见识过啦。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_32_14"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "好吧……漂泊者，我会联系研究院，将你的数据从中枢信标传输过去，帮你解锁怨鸟泽附近的信标。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_32_17"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "最近城外无音区异动频繁，你一个人赴约的话，路上小心。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_6_32_15"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "有需要的话随时告诉我们，我们会第一时间赶过去的！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_6_32_16"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "哟，来啦！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_1"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "稷廷详细的位置我已经发到你的数据终端上了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_2"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "既然我们现在是一条船上的合作伙伴了，行动开始前，我还是有必要和你共享一下情报。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_3"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "稷廷是一个非常非常神秘的科研组织，虽然稷廷人是以「机关术」为主修……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_4"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "但实际上，真正让他们出名的还是他们那些奇奇怪怪的实验。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_26"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "怨鸟泽中为何会发出五彩斑斓的黑色光芒，湖中的诡异圆圈究竟是否是神秘水怪所为？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_5"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "月黑风高之夜，年轻的研究员一飞冲天，自此杳无音讯……遮云蔽雾之间，始作俑者竟另有其人……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_6"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "现在不是睡觉的时间啊？秋水怎么开始讲起睡前故事了？",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_33_7"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "然后呢然后呢？",
+                  "text_id": "Huanglong_main_1_6_33_8",
+                  "choice_key": "剧情_新主线_第四章_43_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "咳，不好意思，风格一下子没变过来……但是！重头戏还在后面！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_10"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "就在某天，稷廷的成员，几乎是在一夜之间，突然消失了！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_11"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "那位稷廷的神秘教授对外留下的最后信息是这样说道——",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_12"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "想要我的实验成果吗?想要的话，就去稷廷遗址吧……去寻找吧，我把我当途所有的财富都放了在那里……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_13"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "怎么样，漂泊者，难道你对这些传闻不感到好奇吗？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_14"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么还不出发？",
+                  "text_id": "Huanglong_main_1_6_33_15",
+                  "choice_key": "剧情_新主线_第四章_43_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "哈！我就知道，漂泊者肯定和我一样，是一位同道中人！不过我们此行确实是有重要任务在身！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_17"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "想必那位令尹已经和你讲过了黑海岸的职能。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_19"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们在世界各地都布设了监测悲鸣的“数据信标”，也正是通过这一手段来实现对悲鸣的数据收集与预测。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_27"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "瑝珑有句古话说的好——“差之毫厘，谬以千里”，每一个“数据信标”对我们来说都是至关重要的样本。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_20"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "稷廷人失踪之后，我们曾经布置在稷廷的“数据信标”也出现了不同程度的损坏。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_21"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "不久之前，我们发现黑海岸的悲鸣监测系统出现了异常，怀疑这与之前布设在稷廷的“数据信标”遭到了损坏有关。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_22"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "所以黑海岸就派出了我们，让我们来稷廷实际调查一下。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_28"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这次我们的任务是以回收数据信标为主，但说不定，还能在稷廷里淘到一些稀奇的宝贝呢？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_23"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "秋水，你心里的小算盘打得安可都能听到了……",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_33_24"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这叫“顺水推舟”，你一个小孩子懂什么……走了走了！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_33_25"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "嗯？难道是我的残象探测器坏掉了？这么多残象竟然一点反应都没有。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_34_1"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "安可觉得，这些残象像是突然之间一下子冒出来的！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_34_2"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "真是奇怪……先把他们打倒再说吧。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_34_3"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "就是这儿了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_35_1"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "唉，这帮人总是爱搞这种稀奇古怪的谜题。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_35_2"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "难怪这么多年都没人能进入稷廷，这安保系统还真是严格啊。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_35_3"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "秋水，这明明是你之前不小心触发了安保装置，才让大门重新关上了吧……",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_35_4"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "咳咳……嗯……总之，我们得先想办法把这扇门打开了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_35_5"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这个机关的造型，看起来像是一个“日晷”呢？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_71_1"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "试试转动转盘，让转盘内外圈的指针都指向同一个方向吧。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_71_2"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这是……难怪……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_37_1"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "稷廷的这帮家伙，竟然在研究如何制造溯洄雨……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_37_2"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "竟然能做到这一地步……不可思议啊……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_1"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "溯洄雨究竟是什么？",
+                  "text_id": "Huanglong_main_1_6_54_2",
+                  "choice_key": "剧情_新主线_第四章_58_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "溯洄雨来自天空海，其本质是是来自天空海的高密度回音能量。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_3"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "回音能量记录着不同时空的事件，沾染溯洄雨的人能够看到昔日在雨中发生的一切事物的幻影。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_4"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们先前在外围看到的雨幕，估计就是稷廷这一研究的成果。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_5"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "一般来说，溯洄雨的形成一共需要三个阶段。在第一阶段时，溯洄雨与我们平时常见的细雨并无区别。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_6"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "而我们现在所看到的一奇景，正是溯洄雨的第二阶段——悬停。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_7"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我曾经也听说过不少以个人名义对溯洄雨展开的研究。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_8"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "他们大都是有所执念之人，想要再现自己人生的某一段经历，或是再见想见之人一面……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_11"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "但……稷廷的这个规模和阵仗，未免太大了一些。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_9"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "真让人好奇啊，他们想要复现的，会是什么呢？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_54_10"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "不知建筑内的电力系统还能不能运转……我们分头找找吧。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_38_1"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "好耶！羊咩出击！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_38_2"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "那位残星会会监出手还真是阔绰啊……如果没有他的资金支持，这座实验室还真不知道什么时候才能够建起来。",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_73_1"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "虽然他总是爱对我们的实验指手画脚，但没办法，谁让他是我们的资助人呢。",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_73_2"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "实验室的选址虽然也偏僻了点，但是只要能够供我们继续开展实验，对我们而言就足够了。",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_73_3"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "神秘女性研究员的影像",
+                  "text": "是啊，不然我们这些“疯子”还能去哪呢？",
+                  "speaker_id": 1297,
+                  "text_id": "Huanglong_main_1_6_73_4"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "总部把我们像丧家之犬一样撵了出来……他们根本不会明白……",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_73_5"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "就像海森教授演讲时说过的那样，我们所做的事业，是能够改变人类未来的伟大事业。",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_73_6"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "这次，我们一定会让我们曾经目睹过的“神迹”，再次复现在人类眼前！",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_73_7"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "实验的进展明明很顺利，但为什么一直没法取得我们想要的结果？",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_74_1"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "“人工溯洄雨”已经成功进入到第二阶段了…… 我们手头已知的种种证据都表明，这一文明的确曾来到过怨鸟泽。",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_74_2"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "利用“溯洄雨”的复现特性，将过往的“神迹”复现出来……难道我们的思路出错了吗？",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_74_3"
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "神秘男性研究员的影像",
+                  "text": "已经没有时间了。“人工可控无音区”应该已经搭建完成了，我们必须要开启“第二计划了”……",
+                  "speaker_id": 1296,
+                  "text_id": "Huanglong_main_1_6_74_4"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "只剩下最后一个房间了……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_46_1"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "秋水，大姐姐快过来看！安可发现了不得了的东西！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_46_2"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "……越来越近了啊，看来我已经到了最后一刻了，稍微地有些不甘心啊。",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_1"
+                },
+                {
+                  "sequence": 404,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "我一直以为，我的敌人是那些世人的误解，是日渐消退的激情，是迷茫时的懈怠停滞……",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_2"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "到最后才发现，原来……岁月才是我最大的敌人。",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_3"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "逐步逼近的大限与解明的渴求让我变得偏执，最终致使我们的方向彻底脱离了轨道……",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_4"
+                },
+                {
+                  "sequence": 407,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "可待我等醒悟之时，早已为时过晚……我们……已经步入了那扇虚假的门扉……",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_5"
+                },
+                {
+                  "sequence": 408,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "我在这里，留下我最后的证悟……",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_6"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "他们既是我们的“过去”……也是我们的“未来”……若是能提早知晓这一点，一切尚有改变的机会……",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_7"
+                },
+                {
+                  "sequence": 410,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "来自过去的未来之人……请再一次……拯救我们……",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_8"
+                },
+                {
+                  "sequence": 411,
+                  "kind": "dialogue",
+                  "speaker": "苍老的男性声音",
+                  "text": "请继续前进吧……直到跨过那道……能够改变世界的……真正的门扉……",
+                  "speaker_id": 1006,
+                  "text_id": "Huanglong_main_1_6_47_9"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "dialogue",
+                  "speaker": "模糊的女子影像",
+                  "text": "……",
+                  "speaker_id": 1013,
+                  "text_id": "Huanglong_main_1_6_47_10"
+                },
+                {
+                  "sequence": 413,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "好漂亮的姐姐呀……",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_47_11"
+                },
+                {
+                  "sequence": 414,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "漂泊者，关于这个人……你有印象吗？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_47_12"
+                },
+                {
+                  "sequence": 415,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我很熟悉……",
+                  "text_id": "Huanglong_main_1_6_47_13",
+                  "choice_key": "剧情_新主线_第四章_60_1:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 416,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "果然……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_47_15"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "电力恢复之后，中央电梯应该也可以使用了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_47_16"
+                },
+                {
+                  "sequence": 418,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "数据信标的信号源就在我们下方，我们下去看看。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_47_17"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "哇啊——好大的铁皮怪兽！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_48_1"
+                },
+                {
+                  "sequence": 420,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "稷廷这帮人，总是能给我们整出些新花样。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_48_2"
+                },
+                {
+                  "sequence": 421,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "数据信标的信号源显示就在它的身上，难不成是被它给吞掉了？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_48_3"
+                },
+                {
+                  "sequence": 422,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "唉，看起来不像是一个好说话的家伙。这场战斗，果然还是不打不行了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_48_4"
+                },
+                {
+                  "sequence": 423,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "安可和秋水，还是像往常一样分工吗？",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_48_5"
+                },
+                {
+                  "sequence": 424,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "当然。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_48_6"
+                },
+                {
+                  "sequence": 425,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "嘻嘻，那么，这个家伙——就交给安可啦！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_48_7"
+                },
+                {
+                  "sequence": 426,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "黑咩白咩，出击！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_48_8"
+                },
+                {
+                  "sequence": 427,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "让我来看看，这家伙的弱点在哪里……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_49_1"
+                },
+                {
+                  "sequence": 428,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "有了！这家伙的身体是由这些金属部件拼凑起来的！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_49_2"
+                },
+                {
+                  "sequence": 429,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "身上的关节就是它的弱点，我们可以利用这些掉落的部件反制它，摧毁它的不稳定结构！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_49_3"
+                },
+                {
+                  "sequence": 430,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "搞定，收工！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_50_1"
+                },
+                {
+                  "sequence": 431,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "嘿嘿，安可可是很强的喔！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_50_2"
+                },
+                {
+                  "sequence": 432,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "不过这个大家伙，为什么会出现在这里呀。",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_55_1"
+                },
+                {
+                  "sequence": 433,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "结合我们先前的调查来看，怨鸟泽稷廷的成员，只是真正稷廷组织中的一小部分。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_3"
+                },
+                {
+                  "sequence": 434,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "他们很可能是在对某种被他们视作“神明”的古代文明进行研究，并因为过于激进的手段而被放逐了出来。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_55"
+                },
+                {
+                  "sequence": 435,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "而他们不知从何处获得了这一文明曾抵达过怨鸟泽的线索，于是便希望利用溯洄雨的特性来复现“神迹”。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_4"
+                },
+                {
+                  "sequence": 436,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "在人造溯洄雨的实验停滞之后，他们又仿照这种文明形式，创造了一个“仿制品”。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_5"
+                },
+                {
+                  "sequence": 437,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "而为了尽快地拿出成果，他们开始粗暴地给这个“仿制品”投喂频率，数据乃至机骸……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_6"
+                },
+                {
+                  "sequence": 438,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "结果就是，“饥饿”的频率成为了它的主导，令它成为了一具只会不断吞噬的怪物。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_56"
+                },
+                {
+                  "sequence": 439,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "稷廷人神秘消失的罪魁祸首，恐怕，就是这个家伙了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_7"
+                },
+                {
+                  "sequence": 440,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "它的诞生，恐怕和研究员日记中提到的那位残星会会监，也脱不了干系。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_57"
+                },
+                {
+                  "sequence": 441,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这帮家伙……他们太执着于证明自己经历过的神迹，最终被这头怪物的频率所诱导，主动走入了它的“怀抱”……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_8"
+                },
+                {
+                  "sequence": 442,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "与其说，稷廷人是被这家伙“吃掉了”，不如说……他们是被自己的疯狂与偏执所吞噬了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_9"
+                },
+                {
+                  "sequence": 443,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "真是一群疯子啊……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_10"
+                },
+                {
+                  "sequence": 444,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "好了，漂泊者，现在是我们履行承诺的时候了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_11"
+                },
+                {
+                  "sequence": 445,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "关于黑海岸，你想要知道些什么？。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_54"
+                },
+                {
+                  "sequence": 446,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们是做什么的？",
+                  "text_id": "Huanglong_main_1_6_55_12",
+                  "choice_key": "剧情_新主线_第四章_62_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 447,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们黑海岸，是一个针对悲鸣的研究和观测机构，黑海岸与各国信标都进行了链接，这些应该是你已经知晓的情报了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_17"
+                },
+                {
+                  "sequence": 448,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "黑海岸本身是一块蕴含巨大能量的黑石，黑石中的能量成为了支持黑海岸巨大能耗的核心。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_18"
+                },
+                {
+                  "sequence": 449,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这朵黑花，也正是黑海岸散溢的能量的产物。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_58"
+                },
+                {
+                  "sequence": 450,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "因其位置的特殊性，黑海岸才成为了观测悲鸣、预测悲鸣最精准的位置。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_19"
+                },
+                {
+                  "sequence": 451,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "但悲鸣发生的规律始终处于动态变化的状态中，有关它的真相，我们也在研究。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_20"
+                },
+                {
+                  "sequence": 452,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们能做的，也只有观测悲鸣的潮汐时间，总结已有悲鸣的发生规律，并对此提供预警，帮助各国提前预知悲鸣。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_21"
+                },
+                {
+                  "sequence": 453,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "关于黑海岸，你想要知道些什么？。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_54"
+                },
+                {
+                  "sequence": 454,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们之前是在跟踪我吗？",
+                  "text_id": "Huanglong_main_1_6_55_13",
+                  "choice_key": "剧情_新主线_第四章_62_1:14",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 455,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "好吧，我承认，漂泊者，我们的确一直都在关注你。但请你相信，我们并无恶意。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_22"
+                },
+                {
+                  "sequence": 456,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们只是希望能够确定，你是否是值得我们信任的伙伴。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_23"
+                },
+                {
+                  "sequence": 457,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "黑海岸成员都在以对抗悲鸣，拯救世界为共识而行动，个个都是人才……顶级黑客、爆破专家、风水大师、应有尽有。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_24"
+                },
+                {
+                  "sequence": 458,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我看你的行事风格，确实还挺适合我们的。怎么样，考虑一下，加入我们吧？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_25"
+                },
+                {
+                  "sequence": 459,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "关于黑海岸，你想要知道些什么？。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_54"
+                },
+                {
+                  "sequence": 460,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们认识椿吗？",
+                  "text_id": "Huanglong_main_1_6_55_14",
+                  "choice_key": "剧情_新主线_第四章_62_1:14",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 461,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "你说那位啊？当然认识了！",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_26"
+                },
+                {
+                  "sequence": 462,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "虽然她看起来是疯了一点，但的确也是我们组织的成员。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_27"
+                },
+                {
+                  "sequence": 463,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "她可是因为你才接受了这次任务呢，没想到你魅力还挺大的。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_28"
+                },
+                {
+                  "sequence": 464,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "原来真的是自己人。",
+                  "text_id": "Huanglong_main_1_6_55_29",
+                  "choice_key": "剧情_新主线_第四章_62_1:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 465,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "看起来你们是事先见过了，那倒是省去了我介绍的功夫。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_31"
+                },
+                {
+                  "sequence": 466,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "关于黑海岸，你想要知道些什么？。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_54"
+                },
+                {
+                  "sequence": 467,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们在今州做什么？",
+                  "text_id": "Huanglong_main_1_6_55_15",
+                  "choice_key": "剧情_新主线_第四章_62_1:14",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 468,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "从悲鸣监测系统对我们发出的预警中显示，下一个鸣式复苏的地点，就在今州。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_33"
+                },
+                {
+                  "sequence": 469,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们此行的目的，就是这一信息传达给今州。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_34"
+                },
+                {
+                  "sequence": 470,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "下一个？",
+                  "text_id": "Huanglong_main_1_6_55_35",
+                  "choice_key": "剧情_新主线_第四章_62_1:31",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 471,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "此前，已经有地区因为鸣式复苏而毁灭了……我们，不想看到同样的事情再度发生了。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_37"
+                },
+                {
+                  "sequence": 472,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "关于黑海岸，你想要知道些什么？。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_54"
+                },
+                {
+                  "sequence": 473,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我和黑海岸有什么关系？",
+                  "text_id": "Huanglong_main_1_6_55_16",
+                  "choice_key": "剧情_新主线_第四章_62_1:14",
+                  "selected_index": 4
+                },
+                {
+                  "sequence": 474,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我呢，只是黑海岸里一位小小的「客卿」，对于黑海岸的秘密，也只是略知一二。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_39"
+                },
+                {
+                  "sequence": 475,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "但我相信，我告诉你的这份情报，完全能够抵得起你此行的价值——",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_40"
+                },
+                {
+                  "sequence": 476,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "这并不是你第一次苏醒，而你此前苏醒的地点……正是黑海岸。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_41"
+                },
+                {
+                  "sequence": 477,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "漂泊者，我们的目的，和你们是一致的。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_42"
+                },
+                {
+                  "sequence": 478,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "我们都是在为了对抗鸣式与悲鸣而行动。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_43"
+                },
+                {
+                  "sequence": 479,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "没错！安可可以证明！鸣式是大坏蛋，安可和秋水是正义的伙伴！正义的伙伴要打倒大坏蛋！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_55_44"
+                },
+                {
+                  "sequence": 480,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "当然，我也不奢求你这么快就相信并加入我们。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_45"
+                },
+                {
+                  "sequence": 481,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "记得我先前给你的黑花吗？",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_46"
+                },
+                {
+                  "sequence": 482,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "它既是我们成员的信物，也是通往黑海岸的密钥。迟早有一天，你会用到它的。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_47"
+                },
+                {
+                  "sequence": 483,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "呼，总之，这次的任务算是圆满完成了，既回收了数据信标，又得到了关于稷廷的大秘密。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_48"
+                },
+                {
+                  "sequence": 484,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "果然，和你做交易，绝不是一笔亏本买卖。希望我们之后还有机会能继续合作。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_49"
+                },
+                {
+                  "sequence": 485,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "差点忘了，我还是得先检查一下数据信标，以免出什么岔子……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_50"
+                },
+                {
+                  "sequence": 486,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "等等……不对……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_51"
+                },
+                {
+                  "sequence": 487,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "不对不对……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_55_52"
+                },
+                {
+                  "sequence": 488,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "喂，秋水，等等安可呀！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_55_53"
+                },
+                {
+                  "sequence": 489,
+                  "kind": "narration",
+                  "speaker": null,
+                  "display_label": "界面文字",
+                  "text": "提示",
+                  "text_id": "ConfirmBox_180_Title"
+                },
+                {
+                  "sequence": 490,
+                  "kind": "narration",
+                  "speaker": null,
+                  "display_label": "界面文字",
+                  "text": "即将进入长线任务流程，离开指定区域会中断当前任务流程，后续可从最后的存档点处继续体验。",
+                  "text_id": "ConfirmBox_181_Content"
+                },
+                {
+                  "sequence": 491,
+                  "kind": "narration",
+                  "speaker": null,
+                  "display_label": "界面文字",
+                  "text": "确认",
+                  "text_id": "ConfirmBox_1_ButtonText_1"
+                },
+                {
+                  "sequence": 492,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "打雷了打雷了！打雷要下雨……下雨要打伞……",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_51_1"
+                },
+                {
+                  "sequence": 493,
+                  "kind": "dialogue",
+                  "speaker": "安可",
+                  "text": "不对不对，秋水教过，遇到这种大雨必须要赶快躲起来才行！",
+                  "speaker_id": 38,
+                  "text_id": "Huanglong_main_1_6_51_2"
+                },
+                {
+                  "sequence": 494,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "只是普通的雨水吧？",
+                  "text_id": "Huanglong_main_1_6_51_3",
+                  "choice_key": "剧情_新主线_第四章_42_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 495,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "不……这场雨……",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_51_5"
+                },
+                {
+                  "sequence": 496,
+                  "kind": "dialogue",
+                  "speaker": "秋水",
+                  "text": "……是真正的溯洄雨。",
+                  "speaker_id": 132,
+                  "text_id": "Huanglong_main_1_6_51_6"
+                },
+                {
+                  "sequence": 497,
+                  "kind": "dialogue",
+                  "speaker": "秧秧（通讯中）",
+                  "text": "漂泊者，今州……",
+                  "speaker_id": 1007,
+                  "text_id": "Huanglong_main_1_6_51_7"
+                },
+                {
+                  "sequence": 498,
+                  "kind": "dialogue",
+                  "speaker": "秧秧（通讯中）",
+                  "text": "今州遭到残象潮攻击了！",
+                  "speaker_id": 1007,
+                  "text_id": "Huanglong_main_1_6_51_8"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 6
+        }
+      ]
+    }
+  ]
+}

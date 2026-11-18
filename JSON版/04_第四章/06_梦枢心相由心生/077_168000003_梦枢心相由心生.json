@@ -1,0 +1,541 @@
+{
+  "schema_version": 1,
+  "title": "梦枢心相由心生",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 6,
+      "dialogue": 43,
+      "subtitle": 10
+    }
+  },
+  "chapters": [
+    {
+      "number": 4,
+      "title": "第四章",
+      "sections": [
+        {
+          "number": 6,
+          "title": "梦枢心相由心生",
+          "act": "第四幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 77,
+              "quest_id": 168000003,
+              "title": "梦枢心相由心生",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "欢乐的男孩",
+                  "text": "快点快点，锦灯轿要出发了！",
+                  "speaker_id": 450083,
+                  "text_id": "Main_Mengzhou_3_7_241_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "欢乐的女孩",
+                  "text": "等等我！",
+                  "speaker_id": 450084,
+                  "text_id": "Main_Mengzhou_3_7_241_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "朝月会……真是恍如隔世。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "心，怎么待在这？城里可都等着你现身呢。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_241_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "人们期待我现身已久，若是简简单单走向市井，岂不是让他们失望了？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "一如既往，待到朝月盛会群情昂扬，待到众人满心期望我的身影时——",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "御者，你说诸位「岁主」会像我这么心痒难耐吗？我已经等不及了。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "虽然表现的方式各有不同，但你们的情感是相似的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_241_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "的确如此，如今我对此感受越发真切了。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "所以御者……你建议的向大家坦白「心」的存在这件事，再向后压一压吧。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "心……",
+                  "text_id": "Main_Mengzhou_3_7_241_11",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_2:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "祂告诉我要在这天地间找到自己的位置……我想我现在最想做的，唯有一点。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_12"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "给他们带来安心与安全，这并不是被赋予被期待之事，只是……我想做。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "如今梦州的暗流还未根除，「心」是否要现身并不重要，「岁主」是否还存在才重要。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "既然是你的决定，那就做你想做的吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_241_15"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "那就多谢御者恩准咯。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_16"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "御者，此刻的我并不遗憾或者寂寞，因为我知道……只要「心」在这里。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_17"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "眼下的朝月会，还有往后的万家灯火，就还有很多很多。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_241_18"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "哎呀，御者还有什么想问的么？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_1"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "「梦枢天罗」之后会如何？",
+                  "text_id": "Main_Mengzhou_3_7_242_2",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_6:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "梦枢天罗内的各处混乱还未彻底平息，在那之前我无法将它回收。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_5"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "我将些许频率和权能留在天罗狐影中，祂会和少部分留在那的天人一起完成收尾。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_6"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "待到尘埃落定，我再来接手它和天人们。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_7"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "我还想问些别的。",
+                  "text_id": "Main_Mengzhou_3_7_242_8",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_6:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "哎呀，御者还有什么想问的么？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_1"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "「文明之匣」重塑完成了？",
+                  "text_id": "Main_Mengzhou_3_7_242_3",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_6:1",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "嗯~这么说来，应算是大局将定吧，还有部分挪用于稳定「梦枢天罗」的框架，就如当初为玄方城而分离的玄元境。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_9"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "至少残星会已不可能通过他们那时夺走的残躯来干涉「文明之匣」。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_10"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "我们的反击，可就从这里开始了。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_11"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "我还想问些别的。",
+                  "text_id": "Main_Mengzhou_3_7_242_12",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_6:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "哎呀，御者还有什么想问的么？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_1"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "那我们朝月会见。",
+                  "text_id": "Main_Mengzhou_3_7_242_4",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_6:1",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "嗯，御者，且请期待，朝月喜事吧。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_242_13"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "御者先行前往朝月会吧，我与谛天鉴还有些事务要安排。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_245_1"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "那说好了，至少今晚，休息一下吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_245_2"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "会的，我品尝了棠宁送来的心狐粘糕。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_245_3"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "想必朝月会上的……会更美味吧。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_245_4"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "神宫修缮时，切勿怠慢。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_244_1"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "砌庭",
+                  "text": "请放心，锁暝州监。",
+                  "speaker_id": 450033,
+                  "text_id": "Main_Mengzhou_3_7_244_2"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "锁暝，你从来不休息的？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_244_3"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "御者。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_244_4"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "砌庭",
+                  "text": "啊！这位就是……",
+                  "speaker_id": 450033,
+                  "text_id": "Main_Mengzhou_3_7_244_5"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "砌凌",
+                  "text": "哇、哇、姐姐，跟御者要个……签名？",
+                  "speaker_id": 450034,
+                  "text_id": "Main_Mengzhou_3_7_244_6"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "成何体统。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_244_7"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "砌庭＆砌凌",
+                  "text": "抱歉，锁暝州监！",
+                  "speaker_id": 450035,
+                  "text_id": "Main_Mengzhou_3_7_244_8"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "这对姐弟资历尚浅，但未来可期，我让他们来监理神宫的修缮，毕竟那还有通往梦枢天罗的入口。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_244_9"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "而且，今夜心月狐将久违地现身于人世前，我可无暇松懈。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_244_10"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看来是要让心把你的伞藏起来，再把你绑到最清幽的园林，不让外界的事传到你耳中，你才会休息了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_244_11"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "御者这话……倒真像是祂会做的了。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_244_12"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "这百年来我在匣中修复过那样多的梦州山水人文。",
+                  "text_id": "Main_Mengzhou_3_7_246_1"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "却也远不及今日真正的人间灯火这般滚烫。",
+                  "text_id": "Main_Mengzhou_3_7_246_2"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "是啊，过去冰冷的推演，已经转变成了眼前温暖的景象。",
+                  "text_id": "Main_Mengzhou_3_7_246_3"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "前路漫漫，往后千载晨昏，换我为梦州守望了。",
+                  "text_id": "Main_Mengzhou_3_7_246_4"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "来，朝月会素来是要将年中喜事写到灯上的。",
+                  "text_id": "Main_Mengzhou_3_7_246_5"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "那你会写什么呢？",
+                  "text_id": "Main_Mengzhou_3_7_246_6"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "呵呵，负责接受人们思绪的我，怎么会放灯呢？",
+                  "text_id": "Main_Mengzhou_3_7_246_7"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "御者，你想写些什么？",
+                  "text_id": "Main_Mengzhou_3_7_246_8"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我啊……",
+                  "text_id": "Main_Mengzhou_3_7_246_9"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "御者，城中佳夜已至，同我赴这场朝月喜事吧。",
+                  "text_id": "Main_Mengzhou_3_7_246_10"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "梦州 第四章",
+          "source_act_id": 45
+        }
+      ]
+    }
+  ]
+}

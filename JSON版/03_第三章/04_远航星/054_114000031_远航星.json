@@ -1,0 +1,2777 @@
+{
+  "schema_version": 1,
+  "title": "远航星",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 17,
+      "dialogue": 316,
+      "omission": 2,
+      "subtitle": 5
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 4,
+          "title": "远航星",
+          "act": "第三幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 54,
+              "quest_id": 114000031,
+              "title": "远航星",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "结果四人小队变成二人小队了呢~啊……我应该不算，那现在是单人小队了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_49_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我曾申请在冰原的科考站工作过一段时间，那时候走的路还不是这一条。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_49_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "还挺令人意外的……我以为你更喜欢在课外活动发展兴趣爱好，不会主动申请这种野外考察。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_49_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "那时候我对虚质磁暴很感兴趣嘛，这也算是一种发展兴趣爱好吧？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_49_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "接下来的路，我们顺着那光走就好了~",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_829_1"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（前方的路还很长，骑摩托前往吧。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_9041_1"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "原来是这里啊。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_1"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是你刚才说的那处科考站？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_51_2"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "是其中一处，当时我在好几个站点工作过。但这里不像其他地方那么幸运，从痕迹看，它遭遇了突发的虚质磁暴，全员覆没。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_3"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "所以后来，我再没有在学院见过他们。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_4"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我还以为只是错过了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_5"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "爱弥斯……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_51_6"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "被虚质磁暴吞噬的物质，会逐渐失去自己的“存在”，最终被所有人遗忘。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_7"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "如果磁带被送回，那么至少能留下记录。而如果连这个都被一并消解，那么连死亡本身都会被忘却。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_8"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "用核心吧，漂泊者。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_9"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我想再看看他们。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_10"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "旧日恍惚的研究员",
+                  "text": "爱弥斯，你真厉害。要不是你，我们几个刚才肯定要被那头格洛犸图踩成重伤。",
+                  "speaker_id": 150099,
+                  "text_id": "MAIN_YHX_51_11"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "旧日恍惚的研究员",
+                  "text": "我还心有余悸着呢，你居然恢复得那么快……拉贝尔学部的适格者心理素质都这么好？",
+                  "speaker_id": 150099,
+                  "text_id": "MAIN_YHX_51_12"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "旧日开朗的罗伊人",
+                  "text": "想感谢人家，就和人家多聊聊磁暴的事！我们爱弥斯最近对它感兴趣才来冰原的，你那写了几年都没完的论文就别藏了，赶紧亮出来！",
+                  "speaker_id": 150100,
+                  "text_id": "MAIN_YHX_51_13"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "旧日细致的研究员",
+                  "text": "爱弥斯，你是觉得磁带是个突破口？",
+                  "speaker_id": 150101,
+                  "text_id": "MAIN_YHX_51_14"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "旧日细致的研究员",
+                  "text": "嗯……现在它只能算是一种记录的留档，转录……听起来有些异想天开了。",
+                  "speaker_id": 150101,
+                  "text_id": "MAIN_YHX_51_15"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "旧日温和的罗伊人",
+                  "text": "或许你可以试试从隧群上找灵感。在拉海洛，唯有一种东西能够与磁暴相抵，那就是隧者相关的一切。",
+                  "speaker_id": 150102,
+                  "text_id": "MAIN_YHX_51_16"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "旧日的爱弥斯",
+                  "text": "哈哈！论文可以，你的美味炖锅也行，我可不挑~",
+                  "speaker_id": 150064,
+                  "text_id": "MAIN_YHX_51_17"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "旧日的爱弥斯",
+                  "text": "至于磁暴嘛……你们的提议，我都会试试的。现在最大的问题，还是我们对虚质磁暴的了解不够深入。",
+                  "speaker_id": 150064,
+                  "text_id": "MAIN_YHX_51_18"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "旧日的爱弥斯",
+                  "text": "尤其是高浓度磁暴的深处，目前还没有探测仪能够从中全身而退，研究也一直停滞。我总觉得……",
+                  "speaker_id": 150064,
+                  "text_id": "MAIN_YHX_51_19"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "在我孩提时，父母就早早因为被磁暴吞噬存在而消失，而我也在不久之后忘记了他们的模样。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_20"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "所以你看，死亡为我带来的也不完全是坏事！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_21"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "变成电子幽灵后，我不再受虚质影响，就算整个世界都遗忘了我的同事和朋友，我也还记得他们每一个人。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_22"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "爱弥斯。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_51_23"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "嗯？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_24"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "一直笑会很累。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_51_25"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……什么嘛。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_26"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我是很开心，真的，这是我自己决定的生活方式。你就是太严肃想太多啦，才老是沉着脸。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_27"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你一定不懂吧，对我而言，此刻有多快乐。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_28"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "走，带你见识一下冰原上沉眠的巨人，拉海洛的……隧者。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_51_29"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "变成幽灵后的十多年，我一直停留在拉海洛，无法离开隧者太远。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_52_1"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你是不是去过很多地方？和我讲讲嘛。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_52_2"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我想想……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_52_3"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "……困住今州的雨停下了，时间解冻，人们在追月节的欢庆中迎接新的日子……",
+                  "text_id": "MAIN_YHX_53_1"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "再后来，你回到了黑海岸，回到了一直守望你的地方。",
+                  "text_id": "MAIN_YHX_53_2"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "还有浮在波涛上的双子群岛，拉古那和七丘……啊~这种气质上的差异性我好喜欢！",
+                  "text_id": "MAIN_YHX_53_3"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "真好，我喜欢听你的见闻。",
+                  "text_id": "MAIN_YHX_53_4"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "也不是一直都顺利，突发状况和危局不少。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_54_1"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "但听起来很棒呀，你肯定也很喜欢相遇的那些人。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_54_2"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "漂泊者，失忆后的这一路旅途，你觉得开心吗？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_54_3"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_54_4"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "那就好。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_54_5"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "唉……我就知道，下一步肯定是来这里。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_1"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么唉声叹气的？",
+                  "text_id": "MAIN_YHX_55_2",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_7_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "前面那栋小屋，是我以前和家人生活过的地方。我——",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_4"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_5"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "不行，让我做一下心理准备，现在还不行。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_6"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（果然，它一出现，我就开始飞速丢失频率。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_55_7"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（爱弥斯说它和虚诞虫一样，属于鸣式衍生物。频率的确相似，但我总觉得……没这么简单。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_55_8"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "辛吉勒姆",
+                  "text": "回家……",
+                  "speaker_id": 150072,
+                  "text_id": "MAIN_YHX_55_9"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_10"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "你究竟怎么啦！",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YHX_55_11"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "前不久频率就开始不停地向外漏，我一直在里面堵呀堵，可怎么都堵不住……",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YHX_55_12"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "呼——不行，不能这样……看我的！",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YHX_55_13"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "暂时、暂时停下了。我得……休息一会儿……",
+                  "speaker_id": 1316,
+                  "text_id": "MAIN_YHX_55_14"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "辛苦你了，阿布……睡吧。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_55_15"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "下次，别再这样跳下去救我了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_16"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "湖底的虚质浓度太高，如果由此落入深处的「虚质空间」……即便是你，也会被吞噬消失的。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_17"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这我无法保证。",
+                  "text_id": "MAIN_YHX_55_18",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_7_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你总是这样让人担心。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_19"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "拉海洛曾有人提出过一种假说：吞噬存在的鸣式阿列夫一所具有的特性是「虚无」，是万物的消解。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_20"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "而它真正的姿态，类似……黑洞。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_21"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "这个猜想是正确的，我已经亲身验证过了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_22"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "迄今为止，只有我抵达过那里，因为我已经死了。生者是无法在那里停驻的。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_23"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你进入了鸣式的……内部？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_55_24"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "是。高浓度的虚质磁暴既是外显，也是连接着虚质空间的入口。那是一片漆黑，却又犹如万花筒般的高维空间。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_25"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "在那里，就连时间和空间本身都变得不连续，变得混乱。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_26"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "被鸣式在不同时间段吞噬的东西，甚至会同时存在。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_27"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我知道你曾对抗过很多鸣式，但阿列夫一不同，它与那些都不一样……它成功过……",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_28"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我在虚质空间里漫游时，看到了很多东西……无数被它吞入腹中的文明残骸。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_29"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "拉海洛的鸣式力量，不过是它本体微不足道的一小部分。它一直想顶开隧门上的封印，降临并吞噬索拉里斯。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_31"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "所以……漂泊者，在隧者苏醒前，别再独自冒险。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_55_32"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "来~我们先去小屋休整一下。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_56_1"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我去外面警戒，确保辛吉勒姆不会再来袭。你先休息一会儿，可别乱跑哦？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_57_1"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "你坐下来，频率过度流失让你感到无比虚弱。你曾遇到很多危险，但这种犹如患上长期重疾的疲乏却不曾有过。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YHX_58_1"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "黑暗温柔地拥住你，小憩片刻后，你再度苏醒。",
+                  "text_id": "MAIN_YHX_58_2"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "室内空无一人，爱弥斯尚未回来。",
+                  "speaker_id": 83,
+                  "text_id": "MAIN_YHX_58_3"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（之前在湖水中回忆起的那一幕……在她回来前，先在这间屋子里看看吧。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_59_1"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（一台游戏机，两个手柄。屏幕上落了一层薄灰，应该很久没人用过了。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_60_1"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（《太空战士卡佳Ⅵ》《双星奇旅》……大部分都是角色扮演和双人协作类的游戏。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_60_2"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（是小孩子的涂鸦，好像是在画各种救世主拯救世界的故事……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_61_1"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（嗯，好狂野的画风啊。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_61_2"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（是毛绒玩偶。两只成套的大猫和小猫，看起来曾被经常使用。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_62_1"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（质地柔软，应该很适合抱着睡觉。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_62_2"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（日灵跑到了沙发那边……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_63_1"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（爱弥斯还没回来。但如果我猜得没错……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_64_24"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "爱弥斯，你今天又跑到外面折腾那群雪绒海豹了？我看它们现在一见到你，就慌忙爬远逃走。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_64_1"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "再这样下去，你非得变成冰原一霸不可……",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_64_2"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "题写好了没？你也快到可以入学的年纪了，把打游戏的时间抽出来一点吧。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_64_3"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "旧日的爱弥斯",
+                  "text": "哼哼，它们可喜欢和我玩儿啦~不然干嘛非得爬过来和我玩完了，才跑走呢。",
+                  "speaker_id": 150064,
+                  "text_id": "MAIN_YHX_64_4"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "旧日的爱弥斯",
+                  "text": "题、题——咳，漂泊者，上次你都答应我再来一局双星了，不许反悔！",
+                  "speaker_id": 150064,
+                  "text_id": "MAIN_YHX_64_5"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "旧日的爱弥斯",
+                  "text": "不过……今天我想先学你之前折的那个，可以吗？",
+                  "speaker_id": 150064,
+                  "text_id": "MAIN_YHX_64_6"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "之前那个……是纸飞机吗？",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_64_7"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "旧日的爱弥斯",
+                  "text": "嗯！我折的每次只飞一点点距离就掉下来了，你的为什么可以飞那么远呀？",
+                  "speaker_id": 150064,
+                  "text_id": "MAIN_YHX_64_8"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "呵呵，当然是有技巧的。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_64_9"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "想要我教给你也可以，作为交换，你要先把题写了。然后我们一起折，好不好？",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_64_10"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "旧日的爱弥斯",
+                  "text": "……唔，那好吧。约好了哦。",
+                  "speaker_id": 150064,
+                  "text_id": "MAIN_YHX_64_11"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "约好了，一定。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_64_12"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我一直在想怎么和你说这件事才好，结果……",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_13"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们曾一起生活过？",
+                  "text_id": "MAIN_YHX_64_14",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_16_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "小时候，有一天我从床上醒来，忽然发现自己已经不记得父母的笑声了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_16"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "声音、面容、温度，他们在世上的一切存在，都在磁暴的吞噬中消解。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_17"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "而后，就连遗忘了他们这件事，也逐渐从我的记忆中失去。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_18"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "这让我感到由衷的……恐惧。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_19"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我不知道怎么抵御它，只觉得手脚发冷，必须得做点什么缓解战栗才行。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_20"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "于是我独自从浮光林跑了出来，躲藏在联运椎骨中，一路来到了冰原。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_21"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我父母的婚姻是外来研究员和罗伊人的结合，他们有很长时间都驻扎在冰原上进行对磁暴的研究。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_22"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我想回到他们曾带我在这里生活的地方，但我完全不记得路了，我跌跌撞撞走了很久，最终来到了这处渐湖附近。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_64_23"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "别害怕，已经没事了。",
+                  "text_id": "MAIN_YHX_65_2"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我在过去救了你……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_66_1"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "那时候，我只觉得自己落入湖深处。在因窒息意识模糊时，有一双温暖的手揽住了我。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_2"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "那双手在深处竭力将我向上托……等我醒来时，就看到了你。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_3"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "也是在那时候，我发现父母留给我的护身符不见了。可能是沉在湖底了吧，这让我非常非常伤心。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_4"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我大哭起来，你只好手忙脚乱地安慰我，把我带到了小屋里取暖。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_5"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "在那之后，就像你猜测的那样，我们在这间小屋中共同生活了一段时间，直到你离开拉海洛。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_6"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你之前为什么不告诉我这些？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_66_7"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "因为很奇怪嘛~",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_8"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "一个你根本不记得的人突然冲过来和你说，“你好，你曾经养过我哦，好久不见！”……哈哈！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_9"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "然后呢，然后要说什么？“要再来我们以前的家坐坐吗”“听你的话我学校成绩很好哦”“对不起不小心死掉啦~”——",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_10"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "这种话说出口，只会让彼此背上无谓的压力和责任。没必要。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_11"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我不觉得这是无谓的责任。",
+                  "text_id": "MAIN_YHX_66_12",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_18_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "自云陵谷苏醒开始的这段旅途，我遇到的故人都让我更了解自己，这没什么不好的。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_66_14"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我会有自己的判断。你应该更相信我一些，爱弥斯。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_66_16"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……这样啊。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_17"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "那我要开始抱怨了哦？不管是我的新生演讲，还是第一首歌发布，还是获得同步率新高的时刻，你都不在诶！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_18"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……但我知道，那是因为你很忙。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_19"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你一直在为被悲鸣侵扰的索拉里斯奔波。这是你想做的事，我觉得很好。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_20"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "所以我也去做了！看，你不在的时候，我也有好好保护拉海洛。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_21"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "虽然付出了点儿代价，但我觉得自己在救世主这行干得挺不错的呢？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_22"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……这代价太沉重了。",
+                  "text_id": "MAIN_YHX_66_23",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_18_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "想要拯救的越多，付出的代价就越大。这点我早就知道，但有些事必须去做。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_25"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_66_27"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这些年你是如何度过的？",
+                  "text_id": "MAIN_YHX_66_28",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_18_1:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你离开之后吗？没什么特别的。正常地上学，快乐地生活——就像你期望我做的那样。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_31"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "再后来，变成了幽灵，也只是一直……游荡，在学院和虚质空间两侧游荡。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_32"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "毕竟我因为死掉有了进去也不会被吞噬的特权嘛，满足一下自己的好奇心也很正常吧~",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_33"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还有话想和你说。",
+                  "text_id": "MAIN_YHX_66_34",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_18_1:25",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_66_27"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你之前真的没有见过我？",
+                  "text_id": "MAIN_YHX_66_29",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_18_1:22",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "见过你？啊~你是指课堂上问我的那个，击退了什么鸣式巨眼帮了你的事？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_35"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "真的没有，我完全不记得。不过，如果是有鸣式巨眼的地方……应该是虚质空间吧。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_36"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……总之，我不太清楚，鸣式嘛，有些奇奇怪怪的力量也很正常。或许是你的幻觉呢？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_37"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还有话想和你说。",
+                  "text_id": "MAIN_YHX_66_38",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_18_1:28",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_66_27"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "如果这是你的愿望，那……",
+                  "text_id": "MAIN_YHX_66_30",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_18_1:22",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "今天就在这里休息一晚，等你状态好一些，我们明天出发。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_39"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我已经恢复了不少“存在”，等到了隧者那再用核心填补一些力量，就可以去打倒辛吉勒姆了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_40"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我很快就会为你解决这个麻烦。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_41"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们一起解决，爱弥斯。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_66_42"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "好~那你就睡你自己原来的房间吧，我也回我的房间。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_43"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "感觉有点儿怀念呢，像这样互道晚安各自入睡的日子。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_44"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "晚安，爱弥斯。",
+                  "text_id": "MAIN_YHX_66_47",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_18_1:34",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……晚安！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_66_48"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "……唔，我怎么睡着了……",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_66_45"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "折好的纸飞机……要拿去给漂泊者看看才行……",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_66_46"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（糟了，之前那局没存档！可恶，明明是我的新高纪录……）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_70_1"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（下次，我一定会超过漂泊者的分数，等着瞧吧。）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_70_2"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（我画了喜欢的故事情节，勇者斗恶龙！孤胆战士大战邪恶星际帝国！）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_68_1"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（唔，衣服怎么涂色都好难看……之后让漂泊者教我画好了！）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_68_2"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（漂泊者送我的毛绒猫猫，抱着睡觉的时候很暖和，很安心。）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_69_1"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（靠着它的时候，就像是她也在身边。）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_69_2"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（漂泊者这次回来，会待多久呢？不想她又去和麻烦的人打交道……）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_71_1"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（每天要做这么多事，多累啊。）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_71_2"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（……算啦，说了那个人也会不听，还是抓紧时间多和她说说话吧。）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_71_3"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "（已经很晚了，现在出门漂泊者会担心的。）",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_148_1"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "是爱弥斯啊……怎么了？睡不着？",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_1"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "你不开心？",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_2"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "没有，只是在思考一些事。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_3"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "哼，你就是在难过，不许骗我。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_4"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "小机灵鬼。我没有难过，我就是……",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_5"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "……按照你们的话说，就是有些思念故乡吧。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_6"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "那——你要不要回去看看？",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_7"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "回不去了。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_8"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "为什么？",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_9"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "……",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_10"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "……漂泊者，我和你说哦！爸爸妈妈消失之后，我总是感觉胸口很闷很闷。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_11"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "族里的大家和我说话，声音也像是在很远的地方，模模糊糊的。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_12"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "但后来在湖边，我在你面前哭了之后，我就觉得好些了，没有那么闷、那么难受了。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_13"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "我知道，你不能和身边的人说这些话，因为那些人都觉得你很厉害嘛。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_14"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "但我是小孩子，我也没有觉得你很厉害！就算你在我面前哭了，我也不会告诉别人。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_15"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "所以……你不要一个人难过了。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_16"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "爱弥斯，我的故乡在一个很遥远的地方。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_17"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "我是因为故乡给我的使命，才从那儿来到这里的。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_21"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "唔，什么使命呀？要从那么远的地方来噢。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_22"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "太复杂了，爱弥斯这样的小朋友还听不懂呢。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_36"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "那你就选个简单点的说法嘛！……我会认真听着的。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_37"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "简单点……",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_23"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "用你喜欢玩的《太空战士卡佳》系列来说，就是拯救世界吧。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_38"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "只为必要的结果而行动，只要能达成使命，无论耗费多么漫长的时间都无所谓。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_24"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "这是正确的吗？",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_39"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "后来某个时刻，我意识到自己回不去了。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_40"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "也是从那时候起，我察觉自己开始比过去更频繁地回忆起那个遥远的地方。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_41"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "在被你们称之为梦的休眠行为中，我也时常回到那里，静静凝望着我的故乡。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_42"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "尽管，那是不会有结果，也并不必要的行为。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_43"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "……嗯，我懂的！",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_44"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "你是想家了哦，漂泊者。",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_45"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "也许是吧。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_25"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "但——没关系，和你说了后，我也感觉好些了，不再那么难受了。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_27"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "这世上还有很多事需要我做，我也不会因为这些停下脚步。别太担心，爱弥斯。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_28"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "嗯？",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_30"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "年幼的爱弥斯",
+                  "text": "现在我也是你的家人。在你找回自己的家人，回到故乡前，就由我来陪着你吧！",
+                  "speaker_id": 150075,
+                  "text_id": "MAIN_YHX_72_31"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "好啊。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_32"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "谢谢你，爱弥斯。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_YHX_72_33"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "梦到了以前的事啊。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_72_34"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "故乡……",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_72_35"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "早上好~我们该去隧者那里了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_73_1"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（前方的路还很长，骑摩托前往吧。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_9041_1"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "隧者附近都是海域，试试陆医生帮我们改装的新摩托吧！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_74_1"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "漂泊者，准备好开向终点了吗？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_141_1"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "当然。",
+                  "text_id": "MAIN_YHX_141_2",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_80_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "爱弥斯，等完全恢复了力量后，你就能再次被其他人看见了？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_75_1"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "不好说，毕竟没有先例嘛，只是有可能。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_75_2"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "如果能的话……你有什么想做的事吗？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_75_3"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "没想好诶~但我肯定要再在学院里好好逛一回！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_75_4"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "到时候，你也和我一起吧？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_75_5"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "看，它睡着了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_50_1"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "看，我们已经抵达了隧者脚下。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_140_1"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "在那里再找回一部分存在后，我的力量就足以对战辛吉勒姆……",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_140_2"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "战胜那家伙，事情就圆满解决了！让我们启程，开向公路片的结局吧——",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_140_3"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "辛吉勒姆",
+                  "text": "交出。",
+                  "speaker_id": 150072,
+                  "text_id": "MAIN_YHX_76_1"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "辛吉勒姆",
+                  "text": "驾驶权。",
+                  "speaker_id": 150072,
+                  "text_id": "MAIN_YHX_76_2"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "呃！漂泊者……",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_76_3"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "爱弥斯！",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_76_4"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（它在飞向隧者。必须追上辛吉勒姆，救回爱弥斯！）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_76_5"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "辛吉勒姆",
+                  "text": "……完整……",
+                  "speaker_id": 150072,
+                  "text_id": "MAIN_YHX_77_1"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（它在不断制造障碍，阻拦我的行动。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_77_2"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【互动操作过程略】"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "辛吉勒姆",
+                  "text": "填补，不足。",
+                  "speaker_id": 150072,
+                  "text_id": "MAIN_YHX_78_2"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "爱弥斯！",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_81_3"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "如果消灭你，才能让你停止干扰漂泊者——",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_1111_1"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我会这么做。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_1111_2"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "该死，强行启动还是太勉强了吗……！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_83_1"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "辛吉勒姆",
+                  "text": "打开，隧门。",
+                  "speaker_id": 150072,
+                  "text_id": "MAIN_YHX_83_2"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "有我在，你想都别想。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_83_3"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（看来爱弥斯还没办法完全操控隧者……得快点去帮她。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_83_4"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（总觉得，爱弥斯在极力避免辛吉勒姆和我接触。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_84_1"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（还有隧门……其中应该有联系。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_84_2"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【互动操作过程略】"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "它的话语变得越来越清晰……不能让它继续夺取漂泊者的频率了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_87_1"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "只有把它拉进内部，彻底解决掉。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_87_2"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "你好啊，大忙人，我听洛瑟菈说冰原上的隧者动了起来，是你干的吗？",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_1"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是爱弥斯。你既然和我相识，应该也认识她吧。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_107_2"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "……你找到她了？",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_3"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "她已经和我一起回学院了。发生了不少事，之后再和你细说。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_107_4"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "明白。不过我得替洛瑟菈再问一句：核心的事怎么样了？",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_5"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "送回给隧者了。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_107_6"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "难怪刚才研究所传来讯息，说拉海洛的虚质浓度上升，磁暴也进入了活跃期……",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_7"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "之前炉芯挂在天上的时候，每年它自检，隧者那把剑对鸣式的压制就会变弱。",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_8"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "隧者为了纳入你送回的东西，应该也要进行这个步骤。这段时间你们尽量不要离开学院，等活跃期过去吧。",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_9"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好，我会多注意。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_107_10"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "之后等你来医务室的时候，我们谈谈你过去的计划——和隧者与隧门有关，也和鸣式有关。",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_11"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "不过……这些都不着急，你先陪爱弥斯。听到她平安回来，我还挺为你高兴的。",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_12"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯（通讯中）",
+                  "text": "一路辛苦了，漂泊者，让自己放松放松吧。",
+                  "speaker_id": 150103,
+                  "text_id": "MAIN_YHX_107_13"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（爱弥斯好像跑到礼堂那边去了……她是在看什么吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_108_1"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你知道吗？我刚才突然有了一个特别有趣的点子~",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_109_1"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……为什么听你用这个语气说话时，我总觉得会有谁要遭殃了呢。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_109_2"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "哪有？你这是对我小时候和雪绒海豹玩耍的刻板潜意识！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_109_3"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我只是突然想到，现在我已经能被别人看见了，那……我岂不是可以参加自己的歌友会了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_109_4"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "“十几年前失落的未完成曲此刻复活！”，听起来就很好玩儿吧？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_109_5"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是挺有趣的。",
+                  "text_id": "MAIN_YHX_109_6",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_70_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "对吧对吧？你也一起来。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_109_8"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "来见识一下我的才艺，漂泊者，感受星炬学院在那些麻烦事之外的青春气息！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_109_9"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "这十几年来，我随手搭来发歌的网站一直在收到各种留言。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_1"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "人们诉说着自己喜爱它们的心情，也有些会写自己生活中遇到的难事，后来，这些人开始彼此联系。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_2"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "其实我一直不觉得那些歌有多好，毕竟只是随心写的，我也没有受过什么专业训练。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_3"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "随着时间变化，它们也不再完全属于我，而是变成了一段维系人们缘分的旋律。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_4"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "但既然他们想听后续——那我也想唱给他们，唱给自己。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_5"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "爱弥斯，其实你很喜欢拉海洛的人吧？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_110_6"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "可能吧~虽然最初我不这么觉得。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_7"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "老实说，我一直以来都没有什么特别想做的事。轻松开心地生活，随意地体验一切，这就是我变成电子幽灵前的想法。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_8"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "尽管想着成为救世主——说到底，也只是对你的模仿。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_9"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "但在我死后，我比以往拥有了更多的时间，也看到了更多过去在拉海洛不曾注意的人和事。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_10"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "渴望成为如星星般闪烁的人，在拉海洛到处都是，但我没有这种念头。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_11"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "但做凝望星星的人，做保护它们的人，我却觉得很不错。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_12"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是吗？我反倒觉得……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_110_13"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "此刻的你，已经闪闪发亮。",
+                  "text_id": "MAIN_YHX_110_14",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_71_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "去唱吧，爱弥斯，我也想听你的歌。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_110_16"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你当然得听，你可是我今天最重要的听众。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_17"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "但在那之前……嗯，我觉得，你得换一身适合现场气氛的衣服。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_18"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "送你！是我按照记忆里你以前常穿的那套生成的。很不错吧？新地方，新风貌，就该这样。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_19"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "哎呀，好怀念……想起过去的事了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_20"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "以前你穿着这身在学院里行动时，总是会有一大~群人被你迷倒呢，索拉里斯的救、世、主。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_21"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "…………",
+                  "text_id": "MAIN_YHX_110_22",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_71_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "哈哈哈！怎么还不好意思了，有魅力还不好吗？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_24"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "喏，你去坐那个位置，我以前听教授演讲偷睡时辨认过，那里视野最好。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_25"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我呢，要去台上啦。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_110_26"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（我的故乡……岁主，隧者……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_115_1"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（隧者既然是用来运载岁主的，那么虚质空间里有其他残骸，就说明不是所有岁主都被正常投放了。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_115_5"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（爱弥斯看到的那尊隧者残骸，以及被鸣式袭击沉眠的拉海洛隧者……如果是作用相同，它们之间的强度应该不会相差太大。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_115_6"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（为什么前者彻底被吞噬损毁，后者却能阻止鸣式，用剑封印隧门？它的力量从何而来？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_115_7"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（总觉得，有某处的信息被漏掉了……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_115_8"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "解决啦，我们走。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_115_9"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "刚才那么多人找你……",
+                  "text_id": "MAIN_YHX_115_10",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_74_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "以前学院好几次超大型聚会都是我主持的。一个歌友会而已，简简单单~",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_115_12"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你还想去哪里？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_115_13"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "不是说好了吗？和我一起……漫步学院，开始无所事事地闲逛吧！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_115_14"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "太棒了——果然，还是有人陪着才好玩儿，当幽灵的时候实在是无聊~",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_168_1"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我们去天台吹吹风？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_168_2"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "反正也是陪你。",
+                  "text_id": "MAIN_YHX_168_3",
+                  "choice_key": "剧情_3_1_拉海洛主线_上半_2_76_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "好哦。啊……真开心。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_168_5"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "明明是虚假的天穹，竟然也这么美丽呢。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_168_6"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这里是……为什么我在使用辛吉勒姆的躯壳？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_117_1"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（是因为我融合了那缕频率吗……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_117_2"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "是辛吉勒姆啊。刚才没能消灭你，又来了吗？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_1"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "哈，既然现在我杀不死你，你也被我砍得碎成这样，干脆就由你来听我说些疯话吧！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_2"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……反正除了你，也没有谁能听到我说的话了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_3"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（无法发声，也无法抬手……因为那时候辛吉勒姆还没有语言功能吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_119_4"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "知道吗？我在隧者的炉芯里找到了些有意思的东西哦。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_5"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "一段……未来的我留下的讯息。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_6"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "许多年前，在星海航行前往索拉里斯的隧者，被鸣式阿列夫一瞥见。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_7"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "它们从隧门中冲出，在地层深处的空洞中交战。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_8"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "尽管隧者也有战斗的功能，但依然无法与阿列夫一相抗衡。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_9"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "躯体破损，能源即将耗空，而虚质却在从隧门中源源不断向外蔓延。阿列夫一蠕动着身躯，想要挤进这个世界……",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_10"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "原本，它就要成功了，世界即将毁灭。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_11"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "此时，一个叫爱弥斯的人从鸣式内部出现了。很像救世主吧？在危难关头闪亮登场！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_12"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "隧者看到她轻触自己钉在鸣式内部的剑，力量随着共鸣的激发不断涌入它的炉芯中。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_13"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "它转动手中的巨剑，竭力将鸣式再度压向隧门之后，并钉下封印。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_14"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "而那个与它共鸣的人类，则被鸣式裹挟着拉向了隧门另一侧，彻底消失在索拉里斯。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_15"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（在过去，是爱弥斯协助隧者封印了鸣式……？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_119_16"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "一开始，我真的很惊讶！但在进入虚质空间后，我就全都明白了。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_17"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "这个时间与空间都紊乱的类黑洞空间，是在那时候随鸣式一起出现在索拉里斯的。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_18"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "落入其中的东西，甚至会存在于同一时间，而置身其中的事物，也可能到达原本不在的时间点。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_19"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "而我，能在其中不受虚质影响地穿行！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_20"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "哈哈，你知道这意味着什么吗？",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_21"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（爱弥斯……你想做什么……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_119_22"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "这意味着……我能通过它返回过去，回到阿列夫一降临的时间起点！",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_23"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "时间，因果，连成了一个圆。但我和漂泊者的相遇……是先有果，才有了因。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_24"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "只有我在十几年前作为适格者与隧者共鸣并死亡，才会最终以电子幽灵的形态成为完整的隧者共鸣者。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_25"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "唯有以这种特殊状态存在的我，才能穿过虚质空间，回到过去为隧者供能，拯救当年的拉海洛。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_26"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "而也只有拉海洛在那一刻幸存，漂泊者才会来到这里，救下儿时的我。让我在拉海洛长大，成为隧者的适格者。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_27"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（不行，必须立刻驱动辛吉勒姆的躯壳，阻止——）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_119_28"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "只有我能做这件事，那么当然应该由我做。就像漂泊者一样，这是应尽的责任。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_29"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "但还有一件事，只有一件。",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_30"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "我还想再……",
+                  "speaker_id": 150059,
+                  "text_id": "MAIN_YHX_119_31"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（爱弥斯……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_YHX_120_1"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 30
+        }
+      ]
+    }
+  ]
+}

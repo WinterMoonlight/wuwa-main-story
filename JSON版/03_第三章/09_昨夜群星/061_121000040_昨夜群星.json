@@ -1,0 +1,4454 @@
+{
+  "schema_version": 1,
+  "title": "昨夜群星",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 19,
+      "dialogue": 466,
+      "scene_heading": 1,
+      "subtitle": 63
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 9,
+          "title": "昨夜群星",
+          "act": "第五幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 61,
+              "quest_id": 121000040,
+              "title": "昨夜群星",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "来颗糖？在西格莉卡同学和琳奈同学的建议下开发的新口味，有助于振奋精神。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……是薄荷果冻味。",
+                  "text_id": "Zuoyequnxing_50_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_2_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "说吧，陆。隧者的事，情况如何？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_50_4"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "和洛瑟菈聊倒是很顺利，她挺看好你的。再加上你之前帮忙解决了暗面的事，校方那边的流程走得很快。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_5"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "只不过，你再次来到学院读书毕竟连一年都未满，要申请正式启动隧者，还需要深空联合的批准。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_6"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "深空联合背后最大的金主是新联邦，他们的行动也必然要对新联邦的投资人团体负责。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_7"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "而隧者，显然属于“贵重资产”。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_8"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这段时间里，我已经陆续向深空联合提交了学院对你的调查报告，你在拉贝尔学部近期的测试成绩，还有我本人出具的全套体质适应性评估……",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_9"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "没通过吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_50_10"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "争取到了商谈机会。但越是能提供巨量资金的地方，利益牵扯也自然会让一些流程变得很慢。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_11"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "和今州还有黎那汐塔不同，他们内部现在也不止有一个“脑袋”参与到决策中。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_12"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我担心……时间会拖太长。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_50_13"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "所以，我们得主动出击。现在事情也有了些新的变化。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_14"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "先来说说接下来的关键人物吧。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_15"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "查特，深空联合的总负责人，最近刚搭乘凯旋航电的船从新联邦返回拉海洛。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_16"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我、洛瑟菈校长和莫宁教授已经共同向他引荐了你，之后你就可以去研究院那边和他谈了。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_17"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "此人最初只是新联邦「灰岭能源」的一名小职员，后来几年没有相关的社会记录，再出现就是去了联邦政府任职。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_18"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "又过了一段时间，查特从联邦政府离开，开始参与到许多大型投资项目中……有个说法是他从始至终都是灰岭能源的人，但没人能确认。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_19"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这是一位精明、低调、圆滑的老人，活得久，见的事也多。使用隧者的驾驶员是否受控，才是他的优先考量。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_20"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "星炬学院的适格者学生基本在入学时就签署了许多协议和保密合同，他们自然更倾向选这些人……原本是这样的。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_21"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "听起来，这位负责人的态度发生了改变。和你说的“新变化”有关？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_50_22"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "走，去里面聊。我去准备两杯热饮。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_50_23"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我听说庆典结束后你又被洛瑟菈喊去帮忙了，和她合作感觉如何？",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_51_1"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "最初打交道的时候，她表现得……对谈话的主导意识很强。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_51_2"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "但现在我已经明白了，这都是因为洛瑟菈很看重这个学院。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_51_3"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "根据你提供的情报——炉芯核心已被归还，本来无论救回爱弥斯还是解决鸣式，都等到隧者苏醒后开始才是最优解。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_1"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "但在最近，研究院探查到隧门附近的检测数据已经严重超出了安全值。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_2"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "虚质正在异常活跃中，深空联合内部对这件事表现得很紧张——如果鸣式阿列夫一完全挣脱封印，不仅会威胁到拉海洛，也会波及整个索拉里斯。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_3"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "诚然，深空联合敢建在这么危险的地方，自然也准备了大量的预案以应对鸣式的爆发。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_4"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "但那些预案，终究会对现有的科研成果和进程造成巨大损失。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_5"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "在这种情况下，和这位负责人聊的空间就大很多了。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_6"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……我会去说服他的，说服他采用或许能够让损失降到最低的方案——向他证明我作为适格者，现在就具有驾驶隧者的资质。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_7"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "陆，你说过自己有些黑海岸的朋友，而这处“小房间”在信息保密上是绝对安全的，对吧？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_8"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "是的。你想做什么？",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_9"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "拉海洛是个对外封闭的区域，公用通信也可能被混迹在学院的残星会成员监听。现在……我需要在这里直接联络黑海岸的人。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_10"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "明白了。稍等，我来为你接通黑海岸频段，后续就由你操作了。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_11"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "我收到了你呼唤我的信号，漂泊者。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_12"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "……拉海洛的情况，很不好吗？你看起来很疲惫。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_13"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……发生了很多事。",
+                  "text_id": "Zuoyequnxing_52_14",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_2_3:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "频率流失的情况已经解决了，但现在拉海洛处在鸣式的威胁下，我需要你的帮助，守岸人。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_16"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "嗯。无论是我，还是黑海岸，都是为此而存在的。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_17"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "关于隧者，泰缇斯系统内部有没有更多相关的讯息？无论是已确认的还是推测，我都想了解。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_18"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "陆值得信任，你可以在这里直接告知我。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_19"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "系统显示陆·赫斯曾多次为黑海岸的行动提供协助和重要情报，我也相信你的判断。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_20"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "自拉海洛建立星炬学院后，大部分信息都处在他们的保密范围中，但在建立初期，你就曾介入他们和罗伊人之间的谈判，黑海岸也因此得到过一部分隐秘的信息。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_21"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "深空联合判断隧者因为隧群的分化，即便在苏醒后力量可能也不足以对抗鸣式，因此进行了“适格者”这一外源性共鸣计划。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_22"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "根据对多个区域岁主与其共鸣者的观察，他们认为和岁主有相似之处的隧者，同样能够藉由获得自己的共鸣者来提升力量。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_23"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "但是，考虑到你和隧者的关系，泰缇斯系统并不推荐你采用外源性共鸣这个方式。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_24"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "目前录入的情报显示，在拉海洛地下深处，存在隧者留下的「隧锚」。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_25"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "「隧锚」位于「隧门」封印的正上方，可以理解为锁和门的关系。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_26"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "你无需在进入外置舱体的情况下，再去驾驶隧者。只要确保隧者在可启动状态中，使用隧锚就可以。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_27"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……是因为，我是它的“御者”吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_28"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "嗯。对来自同源的你而言，外置设备反而是隔阂。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_29"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "另外……关于爱弥斯，我认为陆医生之前提出的那个方式是可行的。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_30"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你是指，使用那具驾驶舱内出现的，类似隧群生物的“空壳”寻找爱弥斯？",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_31"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "是，频率之间的联系会有帮助。漂泊者，你可以在启动隧者时带上「她」一起。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_32"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "在接下来这段时间里，黑海岸都需要更关注拉海洛的整体情况。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_33"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "我明白。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_34"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……拜托你了，守岸人。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_35"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "只要能够帮到你，我就……很开心了。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_36"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "守岸人（通讯中）",
+                  "text": "漂泊者，去隧门后，请一定要平安回来。",
+                  "speaker_id": 750019,
+                  "text_id": "Zuoyequnxing_52_37"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我会的，别担心。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_38"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我先去和洛瑟菈打个招呼。等你喝完这杯热饮，再出发吧。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_39"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "会顺利吗？我现在要去说服一个人允许我进行极为冒险的尝试，而这件事其实我自己也没百分百的把握。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_52_40"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "现在没有任何一个方案有人能有百分百的把握。如果对面同意，就说明他的判断是你更有可能达成目标，坦然接受就好。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_41"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "事在人为，漂泊者。",
+                  "speaker_id": 150065,
+                  "text_id": "Zuoyequnxing_52_42"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【手机消息】"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "陆医生已经和你说过了吧？和深空联合总负责人会面的事。",
+                  "speaker_id": 200201,
+                  "text_id": "Zuoyequnxing_53_1"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "来教务处吧，他在这里等你。",
+                  "speaker_id": 200201,
+                  "text_id": "Zuoyequnxing_53_2"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "查特先生，这位就是我说的漂泊者，星炬学院现在最有希望驾驶隧者的学生。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_54_1"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "不必介绍了，洛瑟菈校长，我们以前见过。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_2"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（以前……是过去的我在学院的时候吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_3"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "开诚布公地说吧，鸣式阿列夫一表现出的情况很不乐观，我们的时间都不多。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_4"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "原本想等隧者的状态自我修复得更好些……可惜，现在已经等不了了。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_5"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "说说看，漂泊者，你希望驾驶隧者，是想达成什么结果？",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_6"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "找回爱弥斯，解决鸣式的隐患。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_7"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "爱弥斯……我听过这个名字，那个学生的同步率很高。她的失踪，对我们而言，是很可惜的损失。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_8"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "她还在隧门后。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_9"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "……呵呵，我明白了。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_10"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "不过，在隧门后的未知空间里找一个失踪的人，很困难。我想你也能理解深空联合的担心……我们更关心鸣式的问题。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_11"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "鸣式同样也是我需要解决的问题，这两件事我都要做完。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_12"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们目的一致，就该“开诚布公”，对吧？如果虚质爆发，拉海洛首当其冲，深空联合所有在此进行的研究项目都会受到损害。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_13"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "对于鸣式阿列夫一，我们掌握的信息太少，深空联合当前并不考虑将它彻底消灭。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_14"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "我们需要的，是让可控的隧者去加固隧门的封印。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_15"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "为了增强隧者的力量，适格者是一方面，深空研究院正在进行研究的拟制炉芯是另一方面。唯有等炉芯完成后镶嵌进隧者的胸膛，这位巨人的修复才算完整。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_16"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "现在，拟制炉芯的研发进入了最后阶段，却还缺少部分关键数据。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_17"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "拟制炉芯……是赫利俄斯发射升空后，你们使用坠落炉芯制造的东西？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_18"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "呵呵，是的，它脱胎于坠落炉芯的框架。说来，这个项目能推进，也是因为有你帮忙确保了赫利俄斯的升空。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_19"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "完整的拟制炉芯，需要隧者在高浓度虚质中行动时的准确数据，也需要鸣式内部环境的数据。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_20"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "否则，我们无法确保它能帮助现在的隧者抵抗住阿列夫一的浸染。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_21"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "说结论吧，漂泊者，我代表深空联合同意你使用隧者。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_22"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "但我们的主要目的，仍旧是获取你驾驶它进入高浓度虚质时的数据，用以研发完整的拟制炉芯。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_23"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "而你的个人目的，只有十分钟用于尝试——这是隧门打开后，深空联合在附近设置的虚质防护装置的运行极限。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_24"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "十分钟后，无论你是否找到爱弥斯，都必须返回拉海洛。你接受吗？",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_25"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我接受。另外，我不需要接入外置驾驶舱，给我前往隧锚的道路指引，预备好隧者就够了。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_26"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "呵呵……你还是和以前一样，总是带来很多我们未知的新东西，新惊喜。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_27"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "洛瑟菈，给我们的漂泊者安排高压同步率测试吧。虽然你们提交了体质报告，但我还需要数据来确认。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_28"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "测试数值一旦合格，立刻开始准备启动隧锚，布置地下隧门处的虚质防护。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_29"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "还有些事，希望你能帮忙。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_30"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "说吧，漂泊者同学。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_54_31"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "残星会一直在伺机而动，虽然他们在暗面的行动没有成功，但他们随时可能会在隧门打开时再次行动。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_32"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "噢，你是在担心这个。说到这里，我也有个新的消息要分享给你……还记得西格莉卡的那个有点懒散的朋友吗？",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_54_33"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你是说……达妮娅？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_54_34"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "对，她现在也下落不明了。根据我们排查，恐怕那位会长口中的学生暗桩就是她。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_54_35"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "不过，残星会这边的事，我已经安排了一位可靠的朋友在盯着，不必太担心。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_54_36"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "现在，你只要专注于启动隧者就好。剩下的事，就交给我们吧，漂泊者同学。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_54_37"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "黑海岸那边刚才发起了正式通讯请求。他们允诺如果拉海洛需要，会全力配合我们进行避险。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_38"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "你去和他们聊吧，洛瑟菈校长。现在拉海洛的整体状况你比我更熟悉，也和那位漂泊者更容易沟通。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_39"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "呵呵……还有什么想问我的，就问吧，洛瑟菈校长。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_40"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "您在短时间内选择相信漂泊者，让她去使用隧者，有些出乎我的预料。是有什么特别的原因吗？",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_54_41"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "洛瑟菈校长，我和你不同，我是个商人，商人总是相信自己投资的眼光。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_42"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "鸣式随时都可能爆发，以目前的情况，我们必须放弃拉海洛。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_43"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "而在这么短的时间里，隧者是难以被运送到他处的，它同样只能被放弃。那何不给漂泊者放手一搏的机会呢？",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_44"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "明白了。不过，我们也需要考虑最坏的情况。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_54_45"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "查特",
+                  "text": "当然，洛瑟菈校长。如果最终还是失败，就使用预案——启动「夜幕」。",
+                  "speaker_id": 250087,
+                  "text_id": "Zuoyequnxing_54_46"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "刚才那个人，总觉得靠近他凉飕飕的……",
+                  "speaker_id": 1316,
+                  "text_id": "Zuoyequnxing_55_1"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "新联邦到底是个什么样的地方啊！那里的人该不会都这样吧？",
+                  "speaker_id": 1316,
+                  "text_id": "Zuoyequnxing_55_2"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "未来去看的时候，就知道了。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_55_3"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "你就是漂泊者？我叫萨迦，负责这次测试的整体监测和评估。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_56_1"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "事情的前因后果，洛瑟菈已经简单告知过我了。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_56_2"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "本次同步率测试的强度相较普通测试会进一步提升，这是为了确保你能够适应和隧者相连时产生的高压神经负载。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_56_3"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "如果途中感到任何不适，就立刻申请停止。不允许在超频情况下继续测试，进入舱体前你需要再次确认安全事项。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_56_4"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（阅读并确认安全事项）",
+                  "text_id": "Zuoyequnxing_56_5",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_3_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "好，舱内系统已配置完成。模拟驾驶舱就在旁边，我们会时刻关注你的监测数值。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_56_6"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "希望……你能够顺利通过测试。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_56_7"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……你怎么从渐湖的屋子里跑到这里来了？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_61_1"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "她有时候会游荡到学院里。大部分时候，看护她的监测机器人会很快将她带离，不过今天她好像不太愿意离开。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_2"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们一会儿一起回去，好不好？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_61_3"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "「爱弥斯」",
+                  "text": "……",
+                  "speaker_id": 150086,
+                  "text_id": "Zuoyequnxing_61_4"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "哼……这个小魔王，竟然也有这么安静的时候。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_5"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "萨迦教授，你认识爱弥斯？",
+                  "text_id": "Zuoyequnxing_61_6",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_5_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "是啊，我以前教过她，十几年前的事了。那时候我经常被她气到失态，但她却从不放在心上。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_8"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "我教她的最后一堂课，她在意向表上填什么“拯救世界”……这是一个适格者该写的吗？我当然骂了她一顿，让她回去重写。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_10"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "她也不生气，笑嘻嘻地拿着意向表走了。再也没从驾驶舱里走出来。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_11"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "现在她回来了，但和没回来也没什么区别。真是个令人头疼的学生。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_12"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "「爱弥斯」",
+                  "text": "……",
+                  "speaker_id": 150086,
+                  "text_id": "Zuoyequnxing_61_13"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "洛瑟菈告诉我，你是她的家人。是这样吗？",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_14"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_61_15"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "你准备驾驶隧者，去隧门后把她找回来？",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_16"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_61_17"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "听起来是个荒谬、大胆而异想天开的想法，没有人知道门后是什么的。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_18"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我明白。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_61_19"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "……当年爱弥斯消失后，舱体内留下了一个高到异常的同步率数据。因为她本人不在，无法被证实，因此没有正式记录在档案里。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_20"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "你的同步率测试结果，只比当年的她略低，部分数值还高于她。你已经合格了，漂泊者。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_21"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "我希望，你那个荒谬的想法能够实现，能把我的学生救回来。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_22"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我一定会。",
+                  "text_id": "Zuoyequnxing_61_23",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_5_1:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "测试结果出来了，但隧者的启动还需要时间。你需要等待两天左右。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_25"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "萨迦教授",
+                  "text": "准备完成时，我们会通知你。",
+                  "speaker_id": 250088,
+                  "text_id": "Zuoyequnxing_61_26"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "「爱弥斯」",
+                  "text": "……磁……带……",
+                  "speaker_id": 150086,
+                  "text_id": "Zuoyequnxing_61_27"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "要去那个大眼珠子的本体所在地了？",
+                  "speaker_id": 1316,
+                  "text_id": "Zuoyequnxing_64_1"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯。阿布，如果你觉得比不过它的力气，就不要硬扛，知道吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_64_2"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "我肯定能行！唔……不过，现在还不知道门后面的它力气有多大……",
+                  "speaker_id": 1316,
+                  "text_id": "Zuoyequnxing_64_3"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "现阶段我们的目的是拿到数据和找爱弥斯。想要和阿列夫一正面对抗，至少要等拟制炉芯就位。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_64_4"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "漂泊者！你……要出发了吗？",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_1"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你怎么知道的？",
+                  "text_id": "Zuoyequnxing_65_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_7_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "我冲去问了莫宁教授。她纠结了一下，最后还是告诉我了。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_4"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "漂泊者，你要去驾驶隧者了。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_6"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "你……会觉得紧张吗？",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_7"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "我知道你很厉害啦，但毕竟之前没有人做过这件事。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_8"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "没人知道隧者是不是真的能动起来，又会不会发生什么意外。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_9"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "最近学院气氛也有些压抑，老师们都很忙，就连附近的隧群都躁动不安……",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_10"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "琳奈，你在紧张吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_65_11"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "……唉！我是在紧张，还是被你看出来了。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_12"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "通过入学考试后，我本以为接下来的日子都会像之前那样忙碌又有趣，我也会充实地度过每一天。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_13"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "但我刚做好继续读书的准备时，我的学生生活看起来就像吹的口香糖泡泡一样，“啪”地一下就破掉了。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_14"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "鸣式，虚质，残星会，这些东西对学院虎视眈眈，但我却没法在启动隧者解决这些危机的事上帮到你什么。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_15"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "最后还是只能看你一个人去冒险……感觉自己挺没用的。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_16"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我反倒觉得，让拉海洛所有人都涉身险境去支援我，才是我不愿意看到的。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_65_17"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "当然，如果事情发展到了最恶劣的地步，我们也只能一起面对。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_65_18"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "但现在，看着为追求科研理想抵达拉海洛的学生们，我更希望让“学生去做学生该做的事”。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_65_19"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "因为……",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_65_20"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "保护世界，是“救世主”的责任。",
+                  "text_id": "Zuoyequnxing_65_21",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_7_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "真是个沉重的名头！……明明你只是我的同届生。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_23"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "不过……你的意思，我明白。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_25"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "可恶。在这种时候还让你花时间和我讲这些……我还是不够成熟。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_26"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "不过，我也不打算只是看着你去冒险。接下来的时间，我会随时响应学院配合你的行动。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_27"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "等一切事情了结，我们再去兜风吧！",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_28"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好啊。",
+                  "text_id": "Zuoyequnxing_65_29",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_7_1:24",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "想想就很让人期待。",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_31"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "莫宁教授在前面等你。一路顺风，我的朋友！",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_65_32"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "临时通道已经搭建完成，现在可以通过它直接前往隧锚的所在地。",
+                  "speaker_id": 750018,
+                  "text_id": "Zuoyequnxing_66_1"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "黑海岸会分出一批人保持在深空研究院的待机状态，如果有需要我们协助的部分，可以随时提出。",
+                  "speaker_id": 750018,
+                  "text_id": "Zuoyequnxing_66_2"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "谢谢。因为有黑海岸各位的协助，研究院才能在这么短时间里就搭建完数据框架。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_3"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "拉海洛的情况被列为危机处理的最高优先级，这也是守岸人和泰缇斯系统的共同决策……莫宁教授，你在等的人来了。",
+                  "speaker_id": 750018,
+                  "text_id": "Zuoyequnxing_66_4"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "啊……前辈，你来了。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_5"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "对面就是隧门的所在地？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_6"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "是的。这处临时搭建的通道，就通向浮光林深处的地下黯原。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_7"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "隧门和隧锚，都在黯原中心的日脉源木中。洛瑟菈校长已经带人提前下去了，前辈过去之后，他们会在对面接应你。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_8"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "还有……",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_9"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "着急的研究员",
+                  "text": "呼……呼……她实在，跑太快了……！",
+                  "speaker_id": 701129,
+                  "text_id": "Zuoyequnxing_66_10"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "发生了什么事？",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_11"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "着急的研究员",
+                  "text": "莫宁教授，她刚才突然跑到了磁带保存间那里，把、把这个取了出来。",
+                  "speaker_id": 701129,
+                  "text_id": "Zuoyequnxing_66_12"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "这是……",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_13"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "能把这个给我看看吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_14"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "一会儿就还给你。莫宁，能看出什么端倪吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_15"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "这个编号，前几天为她进行检测时我在学生档案上看到过。这是爱弥斯本人的磁带，当年她失踪后一直存放在磁带储存间里。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_16"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你为什么想要这个？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_17"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "「爱弥斯」",
+                  "text": "……",
+                  "speaker_id": 150086,
+                  "text_id": "Zuoyequnxing_66_18"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "看起来，是她无意识的行为。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_19"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "根据赫斯医生的说法，这具类隧群生物的“壳”和爱弥斯同学之间有着频率上的联系。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_20"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "或许，这是“壳”中残留的本能，因为磁带对于学生们而言是重要的身份证明。或许，是位于门后的爱弥斯同学传递的某种模糊的思绪……现在无法判断是哪种情况。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_21"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "但在前往有虚质磁暴的未知区域时携带磁带，本身就是探索规定之一。前辈的磁带也在吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_22"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "在，我一直都带在身上。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_23"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "莫宁，那我现在就出发去黯原。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_24"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……我要在研究院接收数据，为拟制炉芯的完成做准备，不能和前辈一起去了。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_25"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "但我会在这里全力支援前辈的行动，前辈一定……要小心。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_26"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那就拜托你当我的后盾了，莫宁。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_27"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "有赫利俄斯的经验在，我相信拟制炉芯经你之手，也会顺利完成的。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_28"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "好。我一定会回应前辈的期望，这是……新的约定。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_66_29"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们走吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_66_30"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哇啊！那个大眼珠子的味道变得好浓好难闻……！",
+                  "speaker_id": 1316,
+                  "text_id": "Zuoyequnxing_67_1"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "远处那棵巨大的光树，就是日脉源木吗……",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_67_2"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（那位巫女……）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_68_1"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "等等，离开前和她打个招呼吧。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_2"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "这位就是绯雪，我之前和你提过的，我们现在之所以能这么迅速地搭起监测设施，也是有她帮我们探清了下面的情况。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_3"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "看到远处那片风雪了吗？十多年前黯原出现过裂隙，虚质外溢，是绯雪独自一人进入地下深处先进行了封印。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_4"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "因为有她的援手，深空联合才能和罗伊人一起对那道裂隙成功进行了加固。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_5"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "学院安排的工作，她每次都完成得很好。除了刀耗得太快，其他一切可称完美。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_6"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我记得，你发现过爱弥斯的踪迹……",
+                  "text_id": "Zuoyequnxing_68_48",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_8_2:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯，那孩子做的事，洛瑟菈大致跟我讲过了。她是个坚强的好孩子……但，她再怎么坚强，也属于“学生”的范畴。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_49"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "让孩子承担“坚强”的责任，已算是我们这些大人的失职了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_50"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我尝试利用这白鸟在虚质浓重处找过，我可以肯定，我感受到过她的频率。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_51"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "她一定还在虚质深处等待着，深空联合的大义的确是正确，但我更能理解你想要拯救某人的这份心情。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_52"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "好——！接下来的话不能再说了哦？现在的情况，就是两方目的一致的最好情况。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_53"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "之前你不是提过担心残星会的隐患吗？等你进入隧门后，她会负责在附近警戒。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_12"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "她在苇原和鸣式打过很久交道，也和残星会打过很久交道，很擅长干这个。对吧，绯雪？",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_13"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯，那两名残星会成员，我会去追踪她们。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_16"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "这个给你。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_17"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "白鸟内藏有我的术法，能够保护你。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_18"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "在虚质中迷失方向时，它也能为你引一段路。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_19"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "绯雪是星炬学院特别对策组的成员，虽然不在光下，却一直在为学院的各位帮忙呢。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_20"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "如果你在和鸣式对抗时，有希望得到的帮助……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_21"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……可以向我许愿。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_68_22"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "那，我先许个愿吧？希望你能保护黯原外围平平安安~",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_23"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "呵呵，绯雪不爱说话，但你未来和她多相处，就会知道她这人挺有意思了。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_24"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前你还不愿意和我介绍她，为什么现在又不再藏了？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_68_25"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "既然藏不住了，也没必要遮掩了。你和她的力量都很强，两个人合作会更安全。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_26"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "她说的许愿，是指什么？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_68_27"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "字如其面。不过，如果不是真的到那一刻，还是别朝她许愿了。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_28"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "实现愿望……总会付出代价的。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_29"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "我们当前对高浓度虚质内部的情况所掌握的情报，已经总结为报告发给你了，你可以随时查看。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_30"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "当时查特在场，有些话我不好说得太明白。但我想你应该能明白，这次行动对他来说只是一笔稳赚不赔的投资，却需要你亲身犯险。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_31"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "你曾经进入过虚质空间，又直面过它，如果隧门后就是阿列夫一的本体所在，你很有可能一进去就会被盯上……这会是一次艰难的行动。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_32"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "如果发生意外，尚未完全恢复的隧者恐怕无法抵御阿列夫一，深空联合也不会为了你一个人在虚质爆发前再次施以援手。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_33"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "……进入门后，你只能独自面对危险。你做好准备了吗？漂泊者同学。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_34"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "当然。",
+                  "text_id": "Zuoyequnxing_68_35",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_8_2:33",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 247,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "事实上……",
+                  "text_id": "Zuoyequnxing_68_36",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_8_2:34",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这样的境况，我已经遇到很多次了。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_68_37"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "如果只考虑是否能全身而退，有太多事都是做不了的，我也就不会走到这里了。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_68_38"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "所以……谢谢你的关心，洛瑟菈校长，我已经做好准备了。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_68_39"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "呵……很好，既然你想好了，我也就放心了。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_40"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "接下来，我会和其他人一起在这里监测虚质防护装置的情况，如果有异动，我作为学院的负责人必须及时应对。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_41"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "我们会和你保持通信，但根据过往的经验来看，虽然能够保持数据的采集，但虚质的“消解”会让整个过程都不稳定……",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_42"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "信号在你进入隧锚所在的空间后很可能会断掉。之后，你需要自己做决策。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_43"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_68_44"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "深空联合研究员",
+                  "text": "洛瑟菈校长，她的情况也已经检查好了，目前没有被虚质污染的倾向，状态稳定。",
+                  "speaker_id": 250090,
+                  "text_id": "Zuoyequnxing_68_45"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "去吧，拉贝尔学部的新生~",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_46"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "星炬学院的师生，一直都期待着隧者被正式启动的那一刻。愿你凯旋。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_68_47"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "深空联合通讯",
+                  "text": "虚质测量仪读数稳定，隧锚处没有异常波动。",
+                  "speaker_id": 250091,
+                  "text_id": "Zuoyequnxing_69_1"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "深空联合通讯",
+                  "text": "漂泊者的身体状态，符合预期……各数值，正常……",
+                  "speaker_id": 250091,
+                  "text_id": "Zuoyequnxing_69_2"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "深空联合通讯",
+                  "text": "频段……滋滋……延迟……滋滋……",
+                  "speaker_id": 250091,
+                  "text_id": "Zuoyequnxing_69_3"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（信号断了，好安静……）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_70_1"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（周围出现的这些……是日灵？）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_70_2"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "日灵们",
+                  "text": "啾噜噜！",
+                  "speaker_id": 100124,
+                  "text_id": "Zuoyequnxing_70_3"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（小家伙们是想送我去日脉源木吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_70_4"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那就一起走吧，小家伙们。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_70_5"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（日灵融进了根系之中。）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_71_1"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（它们没有通过日树回归隧者，而是在用自己填补隧锚的封印……）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_71_2"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "（不行，这样会摧毁整个拉海洛。）",
+                  "text_id": "Zuoyequnxing_72_1"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "（那就只好……）",
+                  "text_id": "Zuoyequnxing_72_2"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "稍微有些晕眩的感觉……",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_78_2"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（爱弥斯曾说，鸣式黑洞深处的虚质空间，是犹如万花筒般的高维空间。）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_73_1"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这里的时间和空间，的确都不连续而混乱。门后就是阿列夫一的内部吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_73_2"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（那些人影，穿着深空联合和罗伊族的服饰。）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_74_1"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（他们似乎在举着手做什么……看不清楚。）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_74_2"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（那段频率……是爱弥斯？）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_75_1"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "爱弥斯！",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_79_1"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "原点的光，由我们〔我和隧者〕支撑。",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_21070_1"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（好严重的虚质污染……日灵们的情况也不乐观。）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_115_1"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这白鸟，是绯雪留下的吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_115_2"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好，带我去找绯雪吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_115_3"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（……它想带我去哪儿？）",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_119_1"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你认识达妮娅？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_161_1"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "洛瑟菈拜托我照看学院的孩子们，一开始她的确表现得不太正常……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_161_2"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "但后来……她很努力地想融入到学生们中。也的确看起来，很开心。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_161_3"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你之前一直在这里守着达妮娅吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_162_1"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯……我察觉到鸣式爆发后，拜托白鸟调查，找到黯原来。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_162_2"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那孩子现在应该是被残星会控制的状态，从她刚才的行为看，多少还保留着一些自我意识。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_162_3"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "她利用虚质磁暴四处逃，我又不想对她下杀手……总没找到好机会。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_162_4"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "稍等我一阵吧，这封印是借由“预求身”达成——嗯，你就简单理解成，我预取了未来自身的大量可能性，留存在此处镇压虚质。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_1"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "所以解除封印，就是取回那些可能性。由我自己来就好。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_2"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好，那就拜托你了。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_3"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "不过……现在阿列夫一正处于活跃期，这封印一旦打开，我没把握再复原。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_4"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "你在最危险的时期，选择了最危险的做法。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_5"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我知道你的力量很强，也知道你总是获得胜利。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_6"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "选择这样冒险……是因为你自信仍旧不会失败吗？因为你总是能战胜鸣式？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_7"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "不，我已经失败过了。我也不认为有人能永远获得胜利。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_8"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "如果我真的一直胜利，或许……就不会失去记忆，再度启程。索拉里斯也不会仍旧被悲鸣侵扰。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_9"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我这么做，只因为这是我能做的事，也是我认为有必要做的事。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_10"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那么，如果失败……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_11"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "如果失败，你就立刻离开。",
+                  "text_id": "Zuoyequnxing_163_12",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_16_12:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我是想问，那你自己呢？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_14"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "或许会在虚质空间里迷失，或许能在那里找到新的破局之法，现在还不能确定。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_15"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "不过，要是我不去试试，也不知道结果会如何。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_16"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "比起可能的失败，我更担心自己没有尽力而为。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_17"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "这种尝试的代价很沉重，而你又身负许多责任，我以为你会更谨慎地抉择。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_18"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "与鸣式的战斗失败一次，便会带来巨大的恶果。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_19"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "即便如此，你还是要去吗？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_20"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "绯雪，洛瑟菈说你在苇原和鸣式打过很久交道。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_21"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我不知道你是怎么和鸣式对抗的，但也能想象在几近覆灭的地域战斗有多么艰难。我想问你……",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_22"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你是因为有必胜的把握，才前往苇原战场的吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_23"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……不，我没有。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_24"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "从来没有。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_25"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "所以，易地而处，你也会做和我一样的选择。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_163_26"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我明白了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_27"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "稍等片刻，我去灼樱封印处，很快便回来。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_163_28"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "黑潮……",
+                  "text_id": "Zuoyequnxing_164_3"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "绯雪！",
+                  "text_id": "Zuoyequnxing_164_4"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我来帮你！",
+                  "text_id": "Zuoyequnxing_164_5"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "无妨，这里只能由我亲手……",
+                  "text_id": "Zuoyequnxing_164_1"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "唉……为什么不肯选择更轻易的未来呢？",
+                  "text_id": "Zuoyequnxing_164_2"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那孩子……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_165_1"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "好久不见了，灼樱巫女，还有漂泊者。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_2"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我身为鸣式共鸣者的未来，已经被预取尽了，你的计划也不再有意义。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_165_3"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "我们迈出的每一步都有意义，巫女大人。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_4"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "我们的道路常有交汇，但在我期望中，当下才应是初见。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_5"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "毕竟，如今我才有了值得向你们展现的“作品”。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_6"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你混入深空联合，就是为了利用达妮娅和绯雪，用利维亚坦的力量将她们融合？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_165_7"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "达妮娅本就是残星会的造物，被使用正是她独属的荣誉。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_8"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "造物？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_165_9"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "在蜜芽之后，我就在思考。如果能够制作一个足够优秀的容器，再加以灼樱巫女的精神，是否能完美驾驭鸣式的力量。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_10"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "至于结果……巫女大人，你应该更清楚。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_11"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……多说无益，你的失败已定，带着碍眼的分身离开吧。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_165_12"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "失败？不，两位，我只是在向索拉里斯展现一个“可能性”。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_13"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "既然已有了一个达妮娅，自然也会有下一个，再下一个——直至残星会握住完整而可控的鸣式共鸣者。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_14"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "透过巫女大人的预求身，你们也能够看到吧？真正的鸣式共鸣者确实将会存在。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_15"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……救……救……",
+                  "speaker_id": 200144,
+                  "text_id": "Zuoyequnxing_165_16"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "可惜，你在转轮上拼命奔跑了这么久，精神还是难堪大用，只能扔掉了。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_17"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……",
+                  "speaker_id": 200144,
+                  "text_id": "Zuoyequnxing_165_18"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "虽然嘴上说着不情愿，但这孩子心里空荡荡的，和阿列夫一的性质相合。所以，她仍旧会遵循本能，追逐鸣式的力量。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_19"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "想追就去追吧，反正……你总是喜欢“拯救”，对吧？漂泊者。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_20"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "至于我的这具分身，就不劳你们费心了。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_165_21"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "纠结一具分身没有意义……",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_165_22"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "走吧，绯雪，封印已经打开，我们还有事要做……比如，达妮娅。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_165_23"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "如果你希望，我会告知你我与残星会之间的关系。只是眼下，达妮娅的情况更紧急一些。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_165_24"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你和残星会之间……无非是残星会会长想要利用你身为灼樱巫女的能力吧？",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_165_25"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "如你所说，你已经当着我的面预取尽了成为鸣式共鸣者的可能性，你们之间不会再有更多关系。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_165_26"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "倒是达妮娅的情况，看起来的确不乐观。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_165_27"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "恐怕，那孩子已经……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_165_28"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不能去……里面……",
+                  "speaker_id": 200144,
+                  "text_id": "Zuoyequnxing_168_1"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "好好睡一会儿吧。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_2"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那孩子应该没事，身上的虚质频率也减弱了很多，安心吧。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_3"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅……就拜托你了。",
+                  "text_id": "Zuoyequnxing_168_4",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_24_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "抱歉，我想着，如果等虚质真正蔓延过来要花太多时间，倒不如这样更快些。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_6"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "这边就由我来处理，你和查特先生约定的时间所剩不多了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_7"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "白鸟能在虚质中引领方向，但对于如此高浓度的虚质还是力有未逮。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_8"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "因此，我为你预取了我能最完美使用这个术法的未来。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_9"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "它会护你一程，为你寻找你所想去的方向。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_10"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "剩下的事，只能靠你自己了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_11"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "谢谢你，绯雪。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_12"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "漂泊者，我读过深空联合关于爱弥斯的报告。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_13"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "她曾在意向表上写下过“拯救世界”。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_14"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "洛瑟菈告诉过我，你是她的家人。如今看来，她的理想如此塑形，是因为你的影响。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_15"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "你会觉得后悔吗？引领她走上“救世主”的道路，让她遭受痛苦和不幸。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_16"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "这条无尽长路，唯有独行才能保护他人。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_17"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "越是因为憧憬救世主走上拯救之路，越是会深陷泥泞……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_18"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "不，绯雪。我不是为了对爱弥斯诉说我的后悔，才去寻找她的。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_19"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我想找回她，是希望告诉她……",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_20"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "来自寂静之中的声音",
+                  "text": "但愿我会让你感到骄傲，但愿我没有让你失望……",
+                  "speaker_id": 250095,
+                  "text_id": "Zuoyequnxing_168_21"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我一直为她感到骄傲。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_22"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "因为有她愿意与我同行，我知道自己并不孤独，知道哪怕自己有朝一日遭遇失败，也有人会继续守护索拉里斯。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_23"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "但你能这么做，是因为你的力量超越了他人。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_24"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那些能力不足以完成拯救的人，只会得到徒劳的苦果。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_25"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……就像我没能拯救苇原那样。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_26"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "如今，我只能握紧手中的「铃」……让绯雪之后，不再有下一个灼樱巫女。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_27"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "除此之外，一无所有。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_28"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "无论是拉海洛，还是遥远的今州和黎那汐塔，人们都在为了与鸣式抗争而奔走。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_29"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我不否认我的确参与到了各文明自救的命运中，但如果我将自己视为改变局势的唯一因素，认为一旦我不在，整个世界都会立刻溃败……这是傲慢的想法，也是轻蔑他人为自身选择命运的想法。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_30"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我的胜利，从来不只是因为我一人。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_31"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "而只要一人能到达终点，这条拯救的长路，就不存在失败者。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_32"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "绯雪，在你独自前行的时候，如果感到孤独，就停下来看看吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_33"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "停下来……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_34"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你也一定已经成为了某些人的支撑，也一定有人，会为你感到骄傲。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_35"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "抵达行路的终点时，体会到的绝不是苦涩的徒劳。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_36"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……耀眼得令人嫉妒。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_37"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "嗯？",
+                  "text_id": "Zuoyequnxing_168_38",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_24_1:35",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "无妨，再有其他的话，等你回来时再说。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_40"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好吧。那么，我去去就回。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_168_41"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我会在夜幕展开前守在这里，和大家一起……等你回来。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_168_42"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "隧者……",
+                  "text_id": "Zuoyequnxing_170_1"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "被虚质吞噬的人吗……",
+                  "text_id": "Zuoyequnxing_170_2"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "快过来，虽然隧者的能量所剩无几，但我会尽可能保护你的。",
+                  "text_id": "Zuoyequnxing_170_3"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "这频率是……",
+                  "text_id": "Zuoyequnxing_170_4"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "不行，你们的存在已经快——",
+                  "text_id": "Zuoyequnxing_170_5"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“这里是……哪里？”",
+                  "text_id": "Zuoyequnxing_170_6"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“我这是，被虚质磁暴吞噬后，死了？”",
+                  "text_id": "Zuoyequnxing_170_7"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“虚质空间？更高维的世界？”",
+                  "text_id": "Zuoyequnxing_170_8"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“我们的存在……在被消解……”",
+                  "text_id": "Zuoyequnxing_170_9"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“你的意思是，时间和空间失去了意义？”",
+                  "text_id": "Zuoyequnxing_170_10"
+                },
+                {
+                  "sequence": 400,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“谁的声音？”",
+                  "text_id": "Zuoyequnxing_170_11"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“我看不见你……但我能感知到你。”",
+                  "text_id": "Zuoyequnxing_170_12"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“在这里，声音无法传递，思想却又无处不在。”",
+                  "text_id": "Zuoyequnxing_170_13"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“隧者？”",
+                  "text_id": "Zuoyequnxing_170_14"
+                },
+                {
+                  "sequence": 404,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“为什么隧者会出现在这里？”",
+                  "text_id": "Zuoyequnxing_170_43"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“发生了什么？”",
+                  "text_id": "Zuoyequnxing_170_44"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“光？”",
+                  "text_id": "Zuoyequnxing_170_45"
+                },
+                {
+                  "sequence": 407,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“……该怎么办？”",
+                  "text_id": "Zuoyequnxing_170_46"
+                },
+                {
+                  "sequence": 408,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“你在做什么？”",
+                  "text_id": "Zuoyequnxing_170_15"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“这没有意义。”",
+                  "text_id": "Zuoyequnxing_170_16"
+                },
+                {
+                  "sequence": 410,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“够了！”",
+                  "text_id": "Zuoyequnxing_170_17"
+                },
+                {
+                  "sequence": 411,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“没用的……”",
+                  "text_id": "Zuoyequnxing_170_18"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“我们的生命，已经在虚无中结束了。”",
+                  "text_id": "Zuoyequnxing_170_19"
+                },
+                {
+                  "sequence": 413,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“我听到了隧者的求助〔频率〕。所以，我想去那里。”",
+                  "text_id": "Zuoyequnxing_170_20"
+                },
+                {
+                  "sequence": 414,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“时间和空间没有意义。”",
+                  "text_id": "Zuoyequnxing_170_21"
+                },
+                {
+                  "sequence": 415,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“你永远无法抵达。”",
+                  "text_id": "Zuoyequnxing_170_22"
+                },
+                {
+                  "sequence": 416,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“我知道隧者对拉海洛很重要，但是……”",
+                  "text_id": "Zuoyequnxing_170_23"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“你想救它？怎么救？”",
+                  "text_id": "Zuoyequnxing_170_24"
+                },
+                {
+                  "sequence": 418,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“这里的一切都是不可知的！”",
+                  "text_id": "Zuoyequnxing_170_25"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“……”",
+                  "text_id": "Zuoyequnxing_170_27"
+                },
+                {
+                  "sequence": 420,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“但是，我……我们……”",
+                  "text_id": "Zuoyequnxing_170_28"
+                },
+                {
+                  "sequence": 421,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“不正是为了触及不可知的边界，才来到这片星海下的吗？”",
+                  "text_id": "Zuoyequnxing_170_29"
+                },
+                {
+                  "sequence": 422,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“不过是探索长路上的又一步。”",
+                  "text_id": "Zuoyequnxing_170_49"
+                },
+                {
+                  "sequence": 423,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "你们……",
+                  "text_id": "Zuoyequnxing_170_30"
+                },
+                {
+                  "sequence": 424,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“这是我们的来时路。”",
+                  "text_id": "Zuoyequnxing_170_31"
+                },
+                {
+                  "sequence": 425,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "以隧者为原点的时空间坐标？但是，在黑洞内要怎么标注……",
+                  "text_id": "Zuoyequnxing_170_32"
+                },
+                {
+                  "sequence": 426,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "“现在，我们将在过去篆刻未来。”",
+                  "text_id": "Zuoyequnxing_170_33"
+                },
+                {
+                  "sequence": 427,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "……谢谢。",
+                  "text_id": "Zuoyequnxing_170_34"
+                },
+                {
+                  "sequence": 428,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "你们亲身测绘出的这份“可知”，我一定会传达出去。",
+                  "text_id": "Zuoyequnxing_170_35"
+                },
+                {
+                  "sequence": 429,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "原点的光，由我们〔我和隧者〕支撑。",
+                  "text_id": "Zuoyequnxing_170_36"
+                },
+                {
+                  "sequence": 430,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "爱弥斯？",
+                  "text_id": "Zuoyequnxing_170_37"
+                },
+                {
+                  "sequence": 431,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我在这里。",
+                  "text_id": "Zuoyequnxing_170_38"
+                },
+                {
+                  "sequence": 432,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "爱弥斯，能把拟制炉芯带来这里吗？那是人类为隧者准备的“心脏”。",
+                  "text_id": "Zuoyequnxing_170_39"
+                },
+                {
+                  "sequence": 433,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "别担心，这次我不会再选择独自拯救。",
+                  "text_id": "Zuoyequnxing_170_40"
+                },
+                {
+                  "sequence": 434,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "……嗯。我一定会为你带回人类的希望。",
+                  "text_id": "Zuoyequnxing_170_41"
+                },
+                {
+                  "sequence": 435,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "所以……等着我。",
+                  "text_id": "Zuoyequnxing_170_42"
+                },
+                {
+                  "sequence": 436,
+                  "kind": "dialogue",
+                  "speaker": "阿列夫一（宇宙的回声）",
+                  "text": "追寻，边界，灭亡，叹息",
+                  "speaker_id": 250112,
+                  "text_id": "Zuoyequnxing_175_1"
+                },
+                {
+                  "sequence": 437,
+                  "kind": "dialogue",
+                  "speaker": "阿列夫一（宇宙的回声）",
+                  "text": "证明，存在，你",
+                  "speaker_id": 250112,
+                  "text_id": "Zuoyequnxing_202_1"
+                },
+                {
+                  "sequence": 438,
+                  "kind": "dialogue",
+                  "speaker": "阿列夫一（宇宙的回声）",
+                  "text": "终点，寂静",
+                  "speaker_id": 250112,
+                  "text_id": "Zuoyequnxing_201_1"
+                },
+                {
+                  "sequence": 439,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "提示：御者，机体状态已提升至峰值。可以继续进行战斗。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_177_1"
+                },
+                {
+                  "sequence": 440,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "隧者……你苏醒了？",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_177_2"
+                },
+                {
+                  "sequence": 441,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "说明：“人类的心脏”正在我体内运转轰鸣，让我能发出和他们同样的声音。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_177_3"
+                },
+                {
+                  "sequence": 442,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "本不该孕育出文明的冰原，如今已诞生了渴望探索边界的新生集体意志。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_177_4"
+                },
+                {
+                  "sequence": 443,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "他们——选择了我。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_177_5"
+                },
+                {
+                  "sequence": 444,
+                  "kind": "dialogue",
+                  "speaker": "阿列夫一（宇宙的回声）",
+                  "text": "悲哀，悲哀，悲哀",
+                  "speaker_id": 250112,
+                  "text_id": "Zuoyequnxing_235_1"
+                },
+                {
+                  "sequence": 445,
+                  "kind": "dialogue",
+                  "speaker": "阿列夫一（宇宙的回声）",
+                  "text": "灭亡，定理，远航，徒劳，起点，意志？",
+                  "speaker_id": 250112,
+                  "text_id": "Zuoyequnxing_182_1"
+                },
+                {
+                  "sequence": 446,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "理由：我为使命远航至此，这颗星球上的生命亦有探求广阔寰宇的权力。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_182_2"
+                },
+                {
+                  "sequence": 447,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "你将星海万千文明视作抚平饥火之食粮，自然无法理解他们的意志。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_182_3"
+                },
+                {
+                  "sequence": 448,
+                  "kind": "dialogue",
+                  "speaker": "阿列夫一（宇宙的回声）",
+                  "text": "终结，虚无，意义，悲伤",
+                  "speaker_id": 250112,
+                  "text_id": "Zuoyequnxing_182_4"
+                },
+                {
+                  "sequence": 449,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "观点：即便人类探索的尽头，是永劫的虚无。阿列夫一，那也绝非你所判断的无意义。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_182_5"
+                },
+                {
+                  "sequence": 450,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "确认：战斗结束，本处空间中的虚质反应已消失。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_1"
+                },
+                {
+                  "sequence": 451,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "但是……鸣式阿列夫一并没有被消灭。",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_184_2"
+                },
+                {
+                  "sequence": 452,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "测算：共鸣者爱弥斯，根据当前的情况，我们无法击溃鸣式阿列夫一。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_3"
+                },
+                {
+                  "sequence": 453,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "因此，我自主判断，将它放逐向了这片宇宙的遥远处。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_4"
+                },
+                {
+                  "sequence": 454,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "申请：御者，请您允许我留守此处——在您做出判断之前，我希望为您陈述我抵达拉海洛后的经历。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_5"
+                },
+                {
+                  "sequence": 455,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说吧。",
+                  "text_id": "Zuoyequnxing_184_6",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_6_10:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 456,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "过去：多次的往返中我被阿列夫一瞥见，它紧跟着我，意图通过隧门进入索拉里斯。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_7"
+                },
+                {
+                  "sequence": 457,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "被它袭击、坠落……借助共鸣者爱弥斯回应我的力量，我“驱逐”了它的一部分。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_8"
+                },
+                {
+                  "sequence": 458,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "我本应就此封绝自身，等待修复，却看到了许多双惊恐的眼睛。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_9"
+                },
+                {
+                  "sequence": 459,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "发现：罗伊族的人类正在冰原上，无措地面对鸣式虚质带来的灾厄。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_10"
+                },
+                {
+                  "sequence": 460,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "他们的眼中堆满了恐慌与不安，依照与岁主同源的准则，我将自己的炉芯取出，嵌入冰层下，就此陷入休眠。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_11"
+                },
+                {
+                  "sequence": 461,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "异常：我曾有过片刻的苏醒，共鸣者爱弥斯再度与我共鸣。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_12"
+                },
+                {
+                  "sequence": 462,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "共鸣者需求我的力量填补隧门裂隙，我回应了她。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_13"
+                },
+                {
+                  "sequence": 463,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "是我变成电子幽灵的时候。那次共鸣究竟算是“再度”……还是“初次”呢？",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_184_14"
+                },
+                {
+                  "sequence": 464,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "此前：再次醒来时，应当请求您撤离，与阿列夫一正面为敌是不合理性的判断。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_15"
+                },
+                {
+                  "sequence": 465,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "但“人类的心脏”让我能够发出声音，文明的选择让我获得了足以与您一同战斗的力量。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_16"
+                },
+                {
+                  "sequence": 466,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "陈述：由人类制造的拟制炉芯，与原本的器件相比粗糙易损。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_17"
+                },
+                {
+                  "sequence": 467,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "我能感觉到，它的每一拍运转都在激烈地磨损着自身。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_18"
+                },
+                {
+                  "sequence": 468,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "尖锐嘶哑的磨损，这是我第一次听到“自己”的声音，这是“他们”赋予我的心跳声。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_19"
+                },
+                {
+                  "sequence": 469,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "在这颗心脏置入后，我拥有了全新的机能。在记录中仅可能出现在“岁主”系列机体上的机能。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_20"
+                },
+                {
+                  "sequence": 470,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "判断：以鸣式阿列夫一的能力，我们必须认为，它有能力再次回到这里。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_21"
+                },
+                {
+                  "sequence": 471,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "在隧门彻底关闭后，我应当留在门的这一侧看守门扉，阻挡它再次进入索拉里斯。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_22"
+                },
+                {
+                  "sequence": 472,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "请求：御者，我因人类的希望而生，请您允许我留在这里，守护他们到这颗心脏运转的最后一刻。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_23"
+                },
+                {
+                  "sequence": 473,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……好，我答应你。",
+                  "text_id": "Zuoyequnxing_184_24",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_6_10:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 474,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "提问：共鸣者爱弥斯，你愿意接受我的部分力量吗？",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_25"
+                },
+                {
+                  "sequence": 475,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "最初抵达拉海洛时，因为有你的帮助，我才能够以隧门隔绝鸣式。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_26"
+                },
+                {
+                  "sequence": 476,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "你的现状，我有相应的责任。在我沉眠时，是你代替我守护着拉海洛。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_27"
+                },
+                {
+                  "sequence": 477,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "现在，曾经到来的死亡已经与你隔绝。未来，你将与漫长的“存在”为伴。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_28"
+                },
+                {
+                  "sequence": 478,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "说明：我感到“愧疚”。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_29"
+                },
+                {
+                  "sequence": 479,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "哈哈，隧者，没想到你会说话之后，“芯思”竟然很细腻呢~",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_184_30"
+                },
+                {
+                  "sequence": 480,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "不过，我是因为自己的抉择才走到现在的，也早就接受了现状。",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_184_31"
+                },
+                {
+                  "sequence": 481,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "至于提问的答案……我还要继续我救世主的职业道路呢，不厉害一点儿，可对付不了那些坏家伙吧？",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_184_32"
+                },
+                {
+                  "sequence": 482,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你的托付，我当然乐意接受。",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_184_33"
+                },
+                {
+                  "sequence": 483,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "权限：确认共鸣者爱弥斯的意愿。解除同步率限制，开始共鸣。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_34"
+                },
+                {
+                  "sequence": 484,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "建议：不必感到“亏欠”，谢谢你回应我的期望，让我们……开心地道别吧~",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_184_35"
+                },
+                {
+                  "sequence": 485,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "检测：御者，我注意到您将自己的磁带携带到了此处。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_36"
+                },
+                {
+                  "sequence": 486,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "建议：请您将磁带给我。我想将一段频率刻录至磁带内部，由您带回拉海洛。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_37"
+                },
+                {
+                  "sequence": 487,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "什么频率？",
+                  "text_id": "Zuoyequnxing_184_38",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_6_10:35",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 488,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "陈述：在我于星海疾驰时，曾与一架缓慢前行的探测器路线相交。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_39"
+                },
+                {
+                  "sequence": 489,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "它的外壳涂装篆刻着索拉里斯的文字，发射时间应当位于很久之前。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_40"
+                },
+                {
+                  "sequence": 490,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "我接收到了它一直发射传递向索拉里斯的信号，并记录在了内部。它的名字是「眺望者」。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_41"
+                },
+                {
+                  "sequence": 491,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "说明：我希望将它作为一份礼物，送给拉海洛人。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_42"
+                },
+                {
+                  "sequence": 492,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "陈述：隧门即将关闭，我将把御者与共鸣者送回拉海洛。",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_43"
+                },
+                {
+                  "sequence": 493,
+                  "kind": "dialogue",
+                  "speaker": "隧者",
+                  "text": "提问：最后，御者，能请您允许我更换编码，以「拉海洛」为名吗？",
+                  "speaker_id": 150083,
+                  "text_id": "Zuoyequnxing_184_44"
+                },
+                {
+                  "sequence": 494,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好。",
+                  "text_id": "Zuoyequnxing_184_45",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_6_10:41",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 495,
+                  "kind": "dialogue",
+                  "speaker": "「拉海洛」",
+                  "text": "名称更替完成，感谢您，御者。",
+                  "speaker_id": 850631,
+                  "text_id": "Zuoyequnxing_184_47"
+                },
+                {
+                  "sequence": 496,
+                  "kind": "dialogue",
+                  "speaker": "「拉海洛」",
+                  "text": "送别：再见了，御者，请您替我向创造了这颗心脏的人们一并做暂时的道别。",
+                  "speaker_id": 850631,
+                  "text_id": "Zuoyequnxing_184_51"
+                },
+                {
+                  "sequence": 497,
+                  "kind": "dialogue",
+                  "speaker": "「拉海洛」",
+                  "text": "测算——我们会在无垠的星海中，再会。",
+                  "speaker_id": 850631,
+                  "text_id": "Zuoyequnxing_184_52"
+                },
+                {
+                  "sequence": 498,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在无垠的星海中，再会。",
+                  "text_id": "Zuoyequnxing_184_53",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半新_6_10:47",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 499,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "好久没看到索拉里斯的景色了呢，有点儿怀念~",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_185_1"
+                },
+                {
+                  "sequence": 500,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "现在鸣式阿列夫一也被送离，拉海洛的危机总算解决了。",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_185_2"
+                },
+                {
+                  "sequence": 501,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "虽然想说，这次是我们一起拯救了世界！但……",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_185_3"
+                },
+                {
+                  "sequence": 502,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "是拉海洛被虚质吞噬的探索者们，在鸣式黑洞中将我和隧者的信息测绘完成，我才能将它们刻录在磁带中给你。",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_185_4"
+                },
+                {
+                  "sequence": 503,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "也是拉海洛的人们解析出了磁带中的信息，共同完成了拟制炉芯，才让隧者最终击退了鸣式。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_185_5"
+                },
+                {
+                  "sequence": 504,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "所以……这次不是英雄拯救世界，而是世界拯救英雄的故事。对吧？",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_185_6"
+                },
+                {
+                  "sequence": 505,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "对。现在，我们已经回家了。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_185_7"
+                },
+                {
+                  "sequence": 506,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "回来了？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_185_8"
+                },
+                {
+                  "sequence": 507,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，我回来了。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_185_9"
+                },
+                {
+                  "sequence": 508,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "在本次阿列夫一活跃事件中，未对除黯原区域外的地区产生计划外的影响。",
+                  "text_id": "Zuoyequnxing_186_1"
+                },
+                {
+                  "sequence": 509,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "黯原内除少数区域外，虚质浓度数值已显著降低。",
+                  "text_id": "Zuoyequnxing_186_2"
+                },
+                {
+                  "sequence": 510,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "依照深空联合取得的监测数据，拉海洛地区内的鸣式浓度无限趋近于零。",
+                  "text_id": "Zuoyequnxing_186_3"
+                },
+                {
+                  "sequence": 511,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "隧者反应已彻底消失，但对隧者的相关研究仍会继续。",
+                  "text_id": "Zuoyequnxing_186_4"
+                },
+                {
+                  "sequence": 512,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "星炬学院在本次行动中派出的机兵，清剿了拉海洛区域内因鸣式异常而活跃的造物。",
+                  "text_id": "Zuoyequnxing_186_5"
+                },
+                {
+                  "sequence": 513,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "他们积累下的经验，必将被活用于往后的人生。",
+                  "text_id": "Zuoyequnxing_186_6"
+                },
+                {
+                  "sequence": 514,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "距鸣式异常最近的浮光林，有部分建筑被损毁，但整体仍处在可控范围内。",
+                  "text_id": "Zuoyequnxing_186_7"
+                },
+                {
+                  "sequence": 515,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "随着虚质浓度的降低，罗伊族群们将获得更广阔自由的活动区域。",
+                  "text_id": "Zuoyequnxing_186_8"
+                },
+                {
+                  "sequence": 516,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "一度被虚质笼罩的拉海洛，已经因探索者们的选择而得以恢复。",
+                  "text_id": "Zuoyequnxing_186_9"
+                },
+                {
+                  "sequence": 517,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "前路广阔，我们终将抵达群星，然后——再向前一步。",
+                  "text_id": "Zuoyequnxing_186_10"
+                },
+                {
+                  "sequence": 518,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "你来啦？",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_187_1"
+                },
+                {
+                  "sequence": 519,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "隧者在你磁带中刻录的内容，解析起来比深空研究院想得要复杂，今天才终于完成呢~",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_187_2"
+                },
+                {
+                  "sequence": 520,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "大家都在等你一起听哦，漂泊者！快来！",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_187_3"
+                },
+                {
+                  "sequence": 521,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "不知道里面究竟是什么内容……好期待。",
+                  "speaker_id": 150088,
+                  "text_id": "Zuoyequnxing_187_4"
+                },
+                {
+                  "sequence": 522,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "「眺望者」。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_187_5"
+                },
+                {
+                  "sequence": 523,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "漂泊者同学，在你把这盘磁带交给我，说出这个名字的时候，我真的很惊讶。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_187_6"
+                },
+                {
+                  "sequence": 524,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你当时说，这个名字属于天空海尚未覆盖索拉里斯的时候，被发射向天穹的九架系外探测器之一。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_187_7"
+                },
+                {
+                  "sequence": 525,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "对。深空联合标志上的那九颗星星，就是象征着这九架系外探测器。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_187_8"
+                },
+                {
+                  "sequence": 526,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "但在那之后，索拉里斯再也没有收到过它们发回的讯息。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_187_9"
+                },
+                {
+                  "sequence": 527,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……直到今天。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_187_10"
+                },
+                {
+                  "sequence": 528,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "莫宁教授，可以开始播放了。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_187_11"
+                },
+                {
+                  "sequence": 529,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "这声音……像是某种白噪声……",
+                  "speaker_id": 100085,
+                  "text_id": "Zuoyequnxing_187_12"
+                },
+                {
+                  "sequence": 530,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "根据磁带中的内容判断，这应该是「眺望者」在宇宙中航行时，在不同星系中记录下的声音。",
+                  "speaker_id": 100099,
+                  "text_id": "Zuoyequnxing_187_13"
+                },
+                {
+                  "sequence": 531,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "也是被天空海隔绝的现在，已经失落无数年的声音。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_187_14"
+                },
+                {
+                  "sequence": 532,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "所以……隧者才想将它送给拉海洛现在的探索者们。",
+                  "speaker_id": 750088,
+                  "text_id": "Zuoyequnxing_187_15"
+                },
+                {
+                  "sequence": 533,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "因为这是来自遥远的光年外，由索拉里斯过去的探索者们送来的……",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_187_16"
+                },
+                {
+                  "sequence": 534,
+                  "kind": "dialogue",
+                  "speaker": "爱弥斯",
+                  "text": "……星海的回响。",
+                  "speaker_id": 150059,
+                  "text_id": "Zuoyequnxing_187_17"
+                },
+                {
+                  "sequence": 535,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "会长，如您所愿，名为达妮娅的少女，已被深空联合安置好了。",
+                  "speaker_id": 50080,
+                  "text_id": "Zuoyequnxing_188_1"
+                },
+                {
+                  "sequence": 536,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "嗯，让深空联合替我们好好照顾她，达妮娅的表现很好，说不定以后还会有她出场的机会。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_2"
+                },
+                {
+                  "sequence": 537,
+                  "kind": "dialogue",
+                  "speaker": "某个声音",
+                  "text": "送回的数据都已处理完成了，您可以随时查阅。",
+                  "speaker_id": 250114,
+                  "text_id": "Zuoyequnxing_188_3"
+                },
+                {
+                  "sequence": 538,
+                  "kind": "dialogue",
+                  "speaker": "某个声音",
+                  "text": "接下来，您的打算是？",
+                  "speaker_id": 250114,
+                  "text_id": "Zuoyequnxing_188_4"
+                },
+                {
+                  "sequence": 539,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "各地的计划好像都有进展，我在拉海洛休息了太久，该走动走动了。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_5"
+                },
+                {
+                  "sequence": 540,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "克里斯托弗，你先去新联邦，帮我送个信给「厄里斯」。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_6"
+                },
+                {
+                  "sequence": 541,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "好，但副会长大概会怪罪您又让我去打扰清静了。",
+                  "speaker_id": 50080,
+                  "text_id": "Zuoyequnxing_188_7"
+                },
+                {
+                  "sequence": 542,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "不过，不需要我再为您的角色编写前传了吗？",
+                  "speaker_id": 50080,
+                  "text_id": "Zuoyequnxing_188_8"
+                },
+                {
+                  "sequence": 543,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "不必费心，我会先去弗洛洛那里看看。先这样吧，这副身体总容易感到困倦，记得给她安排一个无声的尾幕……",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_9"
+                },
+                {
+                  "sequence": 544,
+                  "kind": "dialogue",
+                  "speaker": "某个声音",
+                  "text": "会长，如今阶段性的验证已经完成，后续要继续推进正式制作，那位巫女是否还需要……",
+                  "speaker_id": 250114,
+                  "text_id": "Zuoyequnxing_188_10"
+                },
+                {
+                  "sequence": 545,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "不必了。那位巫女预取了自己身为鸣式共鸣者的未来，当前已经无需关注。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_11"
+                },
+                {
+                  "sequence": 546,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "而且，她失败了太多次，也预取了自己的太多未来。可她又决心继续踏上独自拯救苇原的道路，并不打算就此停下。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_12"
+                },
+                {
+                  "sequence": 547,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "一切一切，已成执念。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_13"
+                },
+                {
+                  "sequence": 548,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "在漫长的反复失败后，终有一日，她会和她姐姐一样，被自己的誓愿烧成灰烬。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_14"
+                },
+                {
+                  "sequence": 549,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "而且……不久之前，「座敷童子」那儿传来了一个有趣的消息。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_188_15"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 35
+        }
+      ]
+    }
+  ]
+}

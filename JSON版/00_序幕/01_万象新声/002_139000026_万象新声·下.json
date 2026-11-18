@@ -1,0 +1,359 @@
+{
+  "schema_version": 1,
+  "title": "万象新声·下",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 5,
+      "dialogue": 33,
+      "omission": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 0,
+      "title": "序幕",
+      "sections": [
+        {
+          "number": 1,
+          "title": "万象新声",
+          "act": "序幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 2,
+              "quest_id": 139000026,
+              "title": "万象新声·下",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "刚好这一路，说过给漂泊者整个能吸收的，炽霞我说到做到，这就开始地毯式搜捕！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongXZ_24_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "无法复现吗？",
+                  "speaker_id": 877,
+                  "text_id": "HuanglongXZ_25_1"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（摇头。）",
+                  "text_id": "HuanglongXZ_25_2",
+                  "choice_key": "剧情_新主线_CE版_序章_2_4:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "难道只有厉害的残象漂泊者才能肉身吸收吗？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongXZ_25_5"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "或者需要是特定种类？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongXZ_25_6"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "还是……",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongXZ_25_7"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "要不然用终端试试？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongXZ_29_1"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "大成功！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongXZ_30_1"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "虽然看不出漂泊者的终端是哪里的样式，但看来一样好用啊~",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongXZ_30_2"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "唔……看来终端虽然样式不同，但和我们的终端功能基本上差不多嘛。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_yindao_3_1"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "啊，今州城，就在前面了！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongXZ_26_1"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……漂泊者？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongXZ_28_2"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "啊，找到你了。",
+                  "speaker_id": 178,
+                  "text_id": "HuanglongXZ_28_4"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……我亲爱的。",
+                  "speaker_id": 178,
+                  "text_id": "HuanglongXZ_28_5"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……命·定·之·种。",
+                  "speaker_id": 178,
+                  "text_id": "HuanglongXZ_28_6"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "好叻，接下来怎么安排？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_1"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "先带漂泊者去撮一顿，怎么样？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_2"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好主意。",
+                  "text_id": "HuanglongM1_1_1_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_5_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "我需要先返回研究院一趟。",
+                  "speaker_id": 877,
+                  "text_id": "HuanglongM1_1_1_7"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "云陵谷异变，无音区复苏，海蚀现象频发，这些异常情况信息，也需要有人及时同步上报。",
+                  "speaker_id": 877,
+                  "text_id": "HuanglongM1_1_1_8"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那我先前往边庭上报，也将漂泊者的会面手续一并办理了。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_1_9"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "还有手续？",
+                  "text_id": "HuanglongM1_1_1_10",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_5_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "作为今州的政治中心和类书〔数据库〕的所在地。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_1_14"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "边庭毕竟还是官署，也是要地，面见令尹虽不是什么难事，但总归还是有必要的规范流程要走。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_1_15"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那我先带漂泊者去中枢信标登记？然后到处逛逛？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_17"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "总不能漂泊者刚来到今州，就让她杵在边庭那块干等着吧。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_18"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "但凡等一刻钟，都不符合我大今州热情好客、温柔体贴的城市人民风貌！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_19"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那待我将会面手续办妥，就麻烦炽霞领漂泊者到边庭了。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_1_20"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "放心放心，包在我身上！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_21"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "研究院那，我会和共鸣医疗科打好招呼，你身上的异常，最好做一个整体的检查。",
+                  "speaker_id": 877,
+                  "text_id": "HuanglongM1_1_1_22"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "会面之后，倘若没有其他安排，来研究院一趟吧。",
+                  "speaker_id": 877,
+                  "text_id": "HuanglongM1_1_1_23"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "身体检查？",
+                  "text_id": "HuanglongM1_1_1_24",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_5_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "以身体检查为主，会优先排查排除病变可能。倘若并无明显异常，则会需要监测并记录你的体征信息和身体数据，用以分析研究，获取结论。",
+                  "speaker_id": 877,
+                  "text_id": "HuanglongM1_1_1_27"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "当然，监测和记录是在征得你同意的前提下。",
+                  "speaker_id": 877,
+                  "text_id": "HuanglongM1_1_1_28"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "话不多说！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_34"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "还耽搁什么，要是行动够快，我还能带漂泊者到处逛逛！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_35"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "今州城里有许多有趣的，太平乐、英雄戏、折子书、拳道赛……还有各式各样好吃的，只有你想不到，没有城内找不着的。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_1_36"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那走吧。",
+                  "text_id": "HuanglongM1_1_1_37",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_5_1:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 39,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【演出过程略】"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "世界之初",
+          "source_act_id": 1
+        }
+      ]
+    }
+  ]
+}

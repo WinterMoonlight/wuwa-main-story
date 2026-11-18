@@ -1,0 +1,3259 @@
+{
+  "schema_version": 1,
+  "title": "庭际刀刃鸣",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 56,
+      "dialogue": 332,
+      "narration": 1,
+      "omission": 7,
+      "scene_heading": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 4,
+          "title": "庭际刀刃鸣",
+          "act": "第四幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 6,
+              "quest_id": 139000031,
+              "title": "庭际刀刃鸣",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "怎么样怎么样，你们还顺利吗？没受什么伤吧，快让我瞧瞧！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嗯嗯，看起来没有缺胳膊少腿的。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那也太夸张了。",
+                  "text_id": "Huanglong_main_1_5_73_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那些信物的线索你们查得怎么样？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_16"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "将在荒石高地与祈池村调查到的线索告知炽霞。",
+                  "text_id": "Huanglong_main_1_5_73_17"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "残星会居然都跑来今州耀武扬威了，看来这次动荡比我想得还要严重呢。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_18"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "残星会到底想做什么？",
+                  "text_id": "Huanglong_main_1_5_73_19",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "不知道，虽然听说过他们，但我最多也只是接触过残星会的一些边缘小喽啰。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_20"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "他们一直在研究如何人工诱导产生共鸣，说什么力量无分好坏，人人都应该获得共鸣的力量。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_21"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "他们会将残象通过机械改造的方式与人类身体进行耦合，以获取共鸣的能力，他们将改造后的人称为造匠，并为残星会所用。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_22"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "以这种极端的方式获取力量……恕我无法认同。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_52"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那个伤痕，听起来和那些人完全不是一个等级的，他是不是强得可怕？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_23"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "他......并没有伤害我和漂泊者的意思，从头至尾都没有动过真格。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_24"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我也不知道他的真实目的是什么，但也许，这也是令尹想要传达给你的信息之一。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_25"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "没想到那个村子里居然发生过这种事情……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_26"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "你们把消息同步给我之后，我去查了治安署的案件卷宗，这是一宗早前的案件了，早在现任令尹就任之前，就已经进行过后续处理且归档了。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_27"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "后来怎么样了？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_28"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "放心吧，犯罪者已经伏法，大部分村民也都被迁移安置到了新的地方。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_29"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "不过，你们提到的那个小女孩，治安署里并没有她的信息。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_30"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看来，确实是伤痕把那个女孩带走了……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_31"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "伤痕似乎没有想要伤害她的意思。",
+                  "text_id": "Huanglong_main_1_5_73_53",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_55"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如果我们能抓到伤痕……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_57"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "啊啊，我实在搞不明白，令尹把漂泊者引向祈池村是为了什么？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_32"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "伤痕甚至在那儿散布了一些误导的信息……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_58"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "或许，我们弄错了顺序。",
+                  "text_id": "Huanglong_main_1_5_73_59",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者的意思是……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_33"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "残星会想把漂泊者引向祈池村，通过事件向漂泊者传递一些信息，令尹反而为后，是在提醒？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_60"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那些信息，更像是伤痕的“布道”。",
+                  "text_id": "Huanglong_main_1_5_73_76",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:25",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_77"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "令尹事先知道……残星会一定会把你引到那里，且残星会的人并不会真的伤害你。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_37"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "此举是在提醒你，残星会恐怕早就盯上你了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_38"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "而且，就算伤痕出了真招……",
+                  "text_id": "Huanglong_main_1_5_73_39",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:28",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这又是为什么？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_41"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这不是今州的待客之道，不是吗？",
+                  "text_id": "Huanglong_main_1_5_73_42",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "啊，是说令尹早就在暗中安排了人保护漂泊者吗？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_62"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "也许不是这种保护方式，但应该是有所安排的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_63"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Huanglong_main_1_5_73_65",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:33",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "怎么了？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_67"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "曾改变过今州历史的人、即将要复苏的鸣式引发的战争、暗流涌动的残星会......",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_70"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如果这些线索指向的都是你的身份，那么你，究竟是谁呢？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_71"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这个只能向令尹提问了。",
+                  "text_id": "Huanglong_main_1_5_73_44",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:38",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这么看，信物的线索咱们已经调查得差不多了，只剩下那个日晷了吧。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_73_48"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "莫特斐先生说过，那个日晷实际上是个榫卯机关盒，里面或许有令尹真正想要告诉漂泊者的信息。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_49"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们在研究院获得了时间的信息。",
+                  "text_id": "Huanglong_main_1_5_73_72",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:42",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "十二时辰，未时。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_74"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "未时，朱雀，它们合起来所指向的，或许就是这个机关打开的关键吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_73_51"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那漂泊者现在试试？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_39"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "晷轮外圈代表的是时间，我们要将正确时间对准曲型指针指向之处，也就是十二地支中的……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_40"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "酉时。",
+                  "text_id": "Huanglong_main_1_5_74_41",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "好像这并不是正确的时间信息，我们从研究院获得的时间信息是……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_43"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "未时。",
+                  "text_id": "Huanglong_main_1_5_74_42",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:3",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看来未时是正确的信息，那接下来……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_44"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "晷盘中央四角代表的是方位，我们要将正确方位对准曲型指针指向之处。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_45"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "东为青龙，西为白虎，南为朱雀，北为玄武，我们得到的提示，多次强调的方位是……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_46"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "西方，白虎。",
+                  "text_id": "Huanglong_main_1_5_74_47",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "白虎似乎不是正确的信息……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_49"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "南方，朱雀。",
+                  "text_id": "Huanglong_main_1_5_74_48",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:8",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哇，真的解开了，厉害！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_50"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "（令尹传递的最终信息，这是……瑝珑类书的所在位置。）",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_5_74_51"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "啊，是不是我们不能看的。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_1"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "快，秧秧我们背过去背过去！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_2"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么？",
+                  "text_id": "Huanglong_main_1_5_74_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "令尹传递的消息一定是大消息，还整得这么复杂，一定是机密中的机密！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_6"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "身为公职人员——虽然说都是预备役，但我们都是懂规矩的！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_7"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "炽霞说得有道理。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_8"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "瑝览类书是什么？",
+                  "text_id": "Huanglong_main_1_5_74_11",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是瑝珑特有的数据库名称，他的所在之处，是个秘密。听说类书包含了所在区域所有重要的数据资料，说是可以解答一切难题。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_12"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "可以说是瑝珑的数据资料命脉，自有史起，由岁主掌管，由当地令尹掌握开放权限，但几乎不对外开放。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_13"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "听起来像是边庭的保险库，数据资料层面上的！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_14"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯，在那里获得的信息是最全面、最准确的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_15"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者如果能从瑝览类书中了解自己的身份，我想，可以证明两件事。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_16"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者的过去，一定是跟今州有关联的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_17"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那漂泊者的身份，恐怕不简单。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_18"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "对今州乃至瑝珑来说，重要的客人……",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_19"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "总感觉我们是不是误打误撞结识了什么了不起的超级大人物了啊！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_20"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "怎么了，漂泊者，是日晷还有什么奇怪的地方吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_21"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "边庭是今州区域的中心吗？",
+                  "text_id": "Huanglong_main_1_5_74_22",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是今州的政治中心，在地理上，它确实也是中心。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_23"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "建州时，边庭是最早建立的，它是一切方位的起点。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_24"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者为什么这么问？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_36"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没什么。",
+                  "text_id": "Huanglong_main_1_5_74_37",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:32",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "明白明白！你看，我就说吧，秘密行动，机密中的机密！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_27"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_38"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哎，不用担心，秧秧，跟令尹会面，总不会有什么危险的吧。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_28"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "放心放心！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_29"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那可说不定。",
+                  "text_id": "Huanglong_main_1_5_74_30",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_2:36",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哎哎，你是存心要让秧秧不安心的是吧！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_5_74_32"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "好，漂泊者，请一切小心。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_33"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我们等你回来。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_5_74_34"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "好像听到一阵轰隆隆的声音……",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_5_200_1"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（大厅内的隐藏通道……毫不意外。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_1_1"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（看来那边就是数据库的入口了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_1_2"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（有一部分建筑被隐藏在水下……是以水位升降隐藏路径的机关。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_1_3"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（看来谜题还在继续，先去中间那个设施看看吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_1_4"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“……将其五音凡首，谐诸音律，叩鼓传声，鸣钟寻途。”",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_5EX_2_1"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“……夫以斛定音，罄均乐，瑝览终启。”",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_5EX_2_2"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（原来如此……这个控制台的确是类似乐器的构造，但看上去缺少了五个关键的音律，不能成曲。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_2_3"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（也就是说，补上缺失的五个“音斛”中的数据奏响乐曲，才能开启通往数据库的大门吗……）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_2_4"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（宫音台后面似乎有什么声音？）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_2_5"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这个音斛中的数据应该是缺失的音律之一，把它接入宫音台试试。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_3_1"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【演出过程略】"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（果然，谱台中的一段音律被点亮了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_4_1"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（那边的龙鼓似乎能够敲响了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_4_2"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（从水下升起的龙钟……“鸣钟寻途”，原来如此。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_5_1"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（新的通路出现了，这代表第一个“谜题”已经解决了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_6_1"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（接下来是那边吗……去找找其他的音斛吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_6_2"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（边庭之中出现了残象……？）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_7_1"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（并非实体……是数据投影的守卫，但即使被破坏，也没有启动完全警戒模式。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_7_2"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（……只是除去守卫，这里也有些太过安静了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_7_3"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "“……不无有三分而去其乘，适足，以是生商。主金以西，黄钟逆隐。”",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_5EX_8_1"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这是关于下一个音斛的情报？像是指明了所在方位……但最后一句指的又是什么？）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_8_2"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（似乎在西边听到了乐声。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_8_3"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（第二个音斛也找到了，把它放回去吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_9_1"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（水位下降了，东西方各出现两个龙鼓。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_10_1"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（其他音斛的线索应该在那边，下去看看吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_10_2"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（看来这边才是正确的通路。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_12_1"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（精准但点到即止的指引……果然，是那位令尹的风格。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_12_2"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（那边传来的乐声……是音斛？）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_13_1"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（果然在这里，先解决守卫。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_14_1"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（边庭重地，况且是瑝珑的数据命脉，居然只靠残象投影守卫值守……如果我的推论正确，那么令尹真正想让我做的……）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_14_2"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（……也罢，先前进吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_14_3"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（第三个音斛也到手了，回到宫音台吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_15_1"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（有新的平台升起来了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_16_1"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（“鸣钟寻途”，去接通道路吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_16_2"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这种感觉……是视线。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_17_1"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（是音斛的声音。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_17_2"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这是第四段缺失的音律。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_19_1"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（快要接近尾声了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_19_2"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（水位完全退下去了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_20_1"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（剩下的……是最后一个。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_20_2"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（最后一个，还真是盛大的“欢迎”。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_21_1"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "（所有音律已经集齐，回到宫音台吧。）",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_5EX_22_1"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这样一来，通往数据库的大门就能打开了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_23_1"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这里就是“瑝览类书”，传说“能够解答一切”的数据库……）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_24_1"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（空无一人，令尹似乎不在这里。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_24_2"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（在等她赴约这段时间里，先看看有没有能够调查的数据吧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5EX_24_3"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【瑝览类书 · 伤痕现身】"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "感谢你的带路呢，漂泊者。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_1"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "……这可真是个好地方啊，包罗万象，无所不有。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_12"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "真让人想从里到外、一点点挖干净……然后摧毁殆尽！",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_2"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你好像一点也不惊讶我的出现呢，漂泊者。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_3"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "这是，为什么呢？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_10"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵，原来是个圈套。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_4"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵呵呵……哈哈哈……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_5"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "有意思……你们不会真的以为，这样能困住我吧？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_6"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "别想逃。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_76_11"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我很想留下来陪你们玩一场，可惜……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_7"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "朋友们，再会了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_76_8"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "别想……就这样离开！",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5_76_9"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "送上门来的猎物，呵呵呵……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_77_1"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "现在……这里只有我们两个人。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_77_2"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "收起你那毫无道理的怒气吧。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_77_3"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我只是想好心提醒你……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_77_4"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "眼见不一定为实，不要轻易相信别人的话，不要那么快对一切下定论。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_77_5"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "为什么要这么执着？为什么不选择也相信我呢？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_77_8"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "还是说……你一定要被我打败，才能俯首听话！",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_77_9"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "看来，你一直知道我跟在你的身后了，漂泊者。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_1"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我的幻境需要里外联合才能打破，你身边总有摘也摘不干净、心有灵犀的帮手呢。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_2"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你和今令尹提前联手，我可是有些伤心了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_3"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "真是……受人欢迎呢。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_36"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "漂泊者，你没事吧？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_78_4"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我没事。",
+                  "text_id": "Huanglong_main_1_5_78_5",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_3_2:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "当然没事了，我哪里忍心真的伤到她 。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_6"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "漂泊者，这次的失败是我对你的献礼，表达我的诚意，希望你不要忘记我们刚才的对话。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_7"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "——而你选择我，我将知无不言。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_17"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我已经知道一切了。",
+                  "text_id": "Huanglong_main_1_5_78_21",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_3_2:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵，原来如此……看来令尹大人还是快人一步，把所有事情都告诉你了啊。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_24"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "那，作为你们的成果，我很想知道，这一切谋划是什么时候完成的？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_78_35"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "三日为期。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_1"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "看来你我都未失约。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_2"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "请容我正式自我介绍一次，我是今汐，很高兴见到你，漂泊者。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_3"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你好。",
+                  "text_id": "Huanglong_main_1_5_79_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "之前确实意外缠身，匆忙之间只得留下信物，怠慢贵客，实在抱歉。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_12"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这个意外，和残星会有关？",
+                  "text_id": "Huanglong_main_1_5_79_13",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……今州的岁主现在不在今州。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_15"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不是说，岁主是不能离开属地的吗？",
+                  "text_id": "Huanglong_main_1_5_79_16",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "是的。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_17"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "岁主是文明的引导者和守护者，亦代表了文明本身。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_18"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "岁主不在位，则必有动乱，此事，牵扯重大，还望漂泊者能够保密。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_19"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "残星会困住了今州的岁主，「角」，而此前我正在全力调查寻找，这也是我无法与您提前会面的原因。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_20"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "听说你与岁主共鸣？",
+                  "text_id": "Huanglong_main_1_5_79_21",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "是的，因此我与「角」会存在一定程度的共感，祂的记忆、感受及处境会反映在我身上，虽然并不会那么清晰。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_22"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那现在找到祂了吗？",
+                  "text_id": "Huanglong_main_1_5_79_23",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "并没有，我能感受到，角的处境危险，且通过这几日的调查，我已知晓是谁主导了这一切。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_24"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "伤痕？",
+                  "text_id": "Huanglong_main_1_5_79_25",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "是。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_91"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "残星会想要提前悲鸣、引发灾难。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_101"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "而残星会的会监伤痕踏入今州这片土地，有三个目的。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_27"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "跟随并测试、招徕你加入他们，带走岁主「角」和引导鸣式苏醒。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_28"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "他们为什么要招揽我？",
+                  "text_id": "Huanglong_main_1_5_79_29",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我想，他们也已经通过某种方式知晓你的特别之处吧，极有可能是通过角。而你的加入无疑会壮大他们的力量。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_92"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如果你拒绝加入残星会，那他们可能不会允许你这样的变数影响他们的计划，你的安危会受到威胁。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_93"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Huanglong_main_1_5_79_30",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我现在倒是有个办法可以捉住伤痕。只要他在我们的掌控之中，残星会短时间内应该就不会再干扰你。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_31"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如果你愿意协助，我会在行动中确保你的安全。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_32"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可以，我加入。",
+                  "text_id": "Huanglong_main_1_5_79_33",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "感谢你的信任，漂泊者。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_35"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "不过，看来这段时间，你已经通过信物，知晓了很多的信息。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_37"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "莽吉柿指向今州战事与人民。",
+                  "text_id": "Huanglong_main_1_5_79_38",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "不愧是漂泊者。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_94"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "而关于我的信息，则在寻找的路程之中。",
+                  "text_id": "Huanglong_main_1_5_79_95",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "现今今州的情况远比人们所看到的更加严重。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_42"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "鸣式即将再次复苏……",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_43"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "鸣式是什么？",
+                  "text_id": "Huanglong_main_1_5_79_44",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "它们是文明的敌人，是集体意志的隐忧与心魔，是必须要打败的劲敌。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_45"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我们尽力阻止这场灾难的发生，但残星会从中作梗，企图尽快唤醒鸣式。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_46"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我和鸣式有关，对吗？",
+                  "text_id": "Huanglong_main_1_5_79_48",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:31",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "是的。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_96"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "漂泊者之前打败且吸收的残象，无冠者，是具现化了战争行为本身的残象。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_49"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "——战死者的怨恨，偷生者的恐惧，构成了无冠者的全部。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_97"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "无冠者是拥有鸣式力量的残象。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_102"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如若说今州作为瑝珑的关口，文明的脊梁在于不败的意志及抗争精神，那今州的心魔则是无休止的战争及恐惧。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_50"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "而你不仅可以肉身吸收鸣式残象，还能与残象产生共感。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_52"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "在历史记载中，有一位能够肉身吸收残象的英雄曾在鸣式战争中拯救了瑝珑。在今州建州的文献里，也有关于“她”的记载。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_53"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这个人，或许和你有着千丝万缕的联系。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_54"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你觉得那个人和我有关？",
+                  "text_id": "Huanglong_main_1_5_79_56",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:39",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "没错。但是，这不仅仅是我个人的判断，也是角对我的指引。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_57"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "角……云陵谷里的……",
+                  "text_id": "Huanglong_main_1_5_79_58",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:40",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "云陵谷里那座没修完的雕像吗？那个雕刻的就是角。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_59"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我在那里回想起了一些碎片……",
+                  "text_id": "Huanglong_main_1_5_79_60",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:41",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这样吗？那可以和我说说吗？如果是和角有关的话，我应该会有所了解。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_62"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "将脑海里破碎的记忆尽数讲述给今汐。",
+                  "text_id": "Huanglong_main_1_5_79_63"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "你所说的这些……",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_64"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？是有什么问题吗？",
+                  "text_id": "Huanglong_main_1_5_79_65",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:44",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我之前应该有和你说到过，我和角可以产生共鸣。你所说这些事情，是真实发生过的，但……是角经历过的。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_66"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我曾在共鸣中见过类似的影像，也就是说，这段记忆碎片极有可能是真实的。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_67"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "也就是说……",
+                  "text_id": "Huanglong_main_1_5_79_68",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:46",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "也就是说……你有可能就是过去“那个人”，曾在文献中出现的那个人。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_69"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "你曾与角并肩而立，亲密无间。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_98"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "共鸣者也活不了这么久吧？",
+                  "text_id": "Huanglong_main_1_5_79_71",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:48",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "相比普通人，共鸣者虽然长寿，但确实没有近百年的时间容貌丝毫没有变化的先例。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_72"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但是，你身上的谜点还有许多，时间尺度倒不是最令我惊讶的。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_73"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "曾经的我又是谁呢？",
+                  "text_id": "Huanglong_main_1_5_79_74",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:50",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这个可能需要你自己去寻找了。角向你传达的最后一条信息就是前往北落野，找到鸣式。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_76"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "或许，你在那里能获得自己想要的答案。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_77"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "鸣式苏醒，内忧外患，一切都与曾经瑝珑古老历史中的那次危机如此相似。也许，这就是你到来的原因？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_78"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你希望我帮助今州挺过难关？",
+                  "text_id": "Huanglong_main_1_5_79_79",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_7:53",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "不，我从来没有寄希望于有从天而降的英雄来替我拯救今州。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_80"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我只想让你了解自己的过去。毕竟，这应该是你现在最苦恼的事情吧，我希望我能帮到你，仅此而已。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_81"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如果你愿意为今州出力，我会很感激。但我不想通过让你了解自己的过去，以此为理由去做出要求。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_82"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "今州的人民是我的子民，自然也应该由我来亲自守护。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_83"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这不仅是我的自信，更多的是我对今州的将士、今州所有恪尽职守的人民有信心。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_84"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "弄清自己身份后，我相信你也会做出自己的选择的。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_85"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我很感激你为我们做出的一切，不论，“曾经”，还是现在。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_87"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "在这一切尘埃落定后，如果你想要离开今州、离开瑝珑，我都不会阻拦。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_88"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如果你需要帮助，也可以随时告知我。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_89"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这是只属于你我之间的秘密，如何？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_79_90"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "narration",
+                  "speaker": null,
+                  "display_label": "画面文字",
+                  "text": "日前 第一次会面",
+                  "text_id": "Flow_139000014_2169"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（现在已经打开了机关盒，拿到了令尹传递的会面信息。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5_5555_1"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（只有路线，没有时间……总觉得没那么简单。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5_5555_2"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "(日晷晷面上的方位、时间信息因为旋转轮盘重新组合了。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5_5555_3"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（在固定的光源下，指针形成阴影的投向……）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5_5555_4"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（以边庭作为方位的中心，玄武方向，北侧。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5_5555_5"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（丑时，凌晨，天将明未明之时。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_5_5555_6"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "伤痕，你已在瑝珑境内犯下数十起重罪，我现在以今令尹的身份将你逮捕，你有什么想说的吗？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_1"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵，我想说的？我倒是很想再给你们讲一个故事……但我相信，这并不是你们想要的回答。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_2"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "尊敬的令尹大人，无聊的开场白就免了吧，有什么想问的，直接问吧。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_3"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "既然如此，接下来的时间里，你只能回答我们的问题。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_4"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "……那么，你们想要知道些什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_5"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们为什么要囚禁「角」？",
+                  "text_id": "Huanglong_main_1_5_80_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "「角」，是能够预知并修正未来的 岁主。祂的存在，是我们实现崇高愿景的绊脚石。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_11"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "而我们想要做的，不过是撕碎那既定的、虚假的未来，将未来掌握在我们自己手中罢了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_12"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "……那么，你们想要知道些什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_5"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们为什么执着于唤醒鸣式？",
+                  "text_id": "Huanglong_main_1_5_80_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_1:5",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "鸣式……是打开新世界的钥匙。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_13"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "祂们的齐聚，将为这个世界带来“真正的悲鸣”，将我们带入一个……崭新的世界。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_14"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "……那么，你们想要知道些什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_5"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "悲鸣究竟是什么？",
+                  "text_id": "Huanglong_main_1_5_80_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_1:5",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "灾难？诅咒？天罚？这是人们对悲鸣再肤浅不过的认知……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_15"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "悲鸣带来死亡，带来毁灭，带来万千残响。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_16"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "它们在悲鸣之中不断地反射、交织、重叠。新的生命，新的文明……只有在悲鸣之中才能诞生。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_17"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "……那么，你们想要知道些什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_5"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们跟踪我的目的是什么？",
+                  "text_id": "Huanglong_main_1_5_80_9",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_1:5",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我们寻找你的目的，自始至终只有一个……那便是希望你能够加入我们。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_18"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "和我有什么关系？",
+                  "text_id": "Huanglong_main_1_5_80_19",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "明明已经身处风暴中心，却对自己的价值一无所知……该说你是天真，还是迟钝呢？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_21"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "不过怎样都好，我们对你的兴趣，并不会因为这些无谓的细节而磨灭。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_22"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "……那么，你们想要知道些什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_5"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我没什么想问的了。",
+                  "text_id": "Huanglong_main_1_5_80_10",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_1:5",
+                  "selected_index": 4
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "囚禁「角」，唤醒鸣式，加速悲鸣……仅凭这些目的，也足以令你们成为今州，乃至全人类的敌人。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_25"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "也劝你们收起招揽漂泊者的这份心思，漂泊者是今州的客人，我不会让你们伤害她。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_26"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "好一份冠冕堂皇的说辞！鸣式的复苏近在眼前，今州早已内外交困，无暇自保，你们，又能强撑多久？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_27"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "既然我们能够粉碎你们的计划一次，那我们同样也能够做到无数次。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_28"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "最后一个问题。牵制「角」，跟踪漂泊者，并在祈池村设下埋伏，仅凭你一人，不可能同时做到这么多事情。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_29"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "除非……",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_30"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "除非，如今位于今州境内的残星会会监，并不只有我一位，对吗？哈哈哈哈哈……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_31"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "对于你们的问题，我已经拿出了我全部的诚意。你们知晓与否，对我而言都无所谓。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_32"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你们大可试着来用尽全力阻止我们……但历史的滚滚车轮，绝不会因此更辙易道。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_33"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "现在，我倒是想反问你们一个问题……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_34"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你们始终认为，「角」的失踪是由我们的行动促成。令尹大人，难道你就不好奇……这背后的真实原因吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_35"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "关于「角」……你知道多少？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_36"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "想知道吗？来，令尹大人，这个秘密，我只告诉你一个人……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_37"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "放肆！令尹大人……",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_5_80_38"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "不可能……",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_80_39"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "意外吗？惊讶吗？更加出人意料的，还在后面……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_40"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "如果我说，这是「角」早已做出的预言……你会怎么想？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_41"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "能够洞悉未来的 岁主，却在此刻抛弃了你们，难道还不足以说明一切吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_42"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我们所做的一切……不过是在即将燃起的熊熊大火之上，添加一些小小的柴薪罢了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_43"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我们来打个赌吧，漂泊者。我知道你一直在寻找有关自己身份与过去的线索，至于我所能告诉你的，则是——",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_44"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "小心！",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_5_80_45"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你是能与我们并肩的“黑羊”，拥有与我们一同走入这个新世界，乃至改变这个世界的权利……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_46"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "等到你发现关于你自己真相的那一天，你会义无反顾地加入我们。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_47"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "残星会，永远会为你留出一席之地。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_48"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "而我，真诚期待着那一天的到来……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_49"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵呵呵呵呵呵呵……哈哈哈哈哈哈！",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_5_80_50"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "伤痕被关入了监牢……",
+                  "text_id": "Huanglong_main_1_5_80_51"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_1"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "伤痕对你说了什么？",
+                  "text_id": "Huanglong_main_1_5_81_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_2:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "抱歉，漂泊者，伤痕所说的，关于「角」的事情，恐怕会关系到今州命脉，我暂时还不能透露给你。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_3"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "究竟是他离间人心的障眼法，还是……一切，我必须要先找到「角」亲自确认才行。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_4"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "「角」对于今州来说有多重要？",
+                  "text_id": "Huanglong_main_1_5_81_5",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_2:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "「角」是今州的守护岁主，承担着辅佐令尹理政的责任。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_6"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "虽然最终的决策权仍在令尹手中，但如果没有「角」，仅由我一人独断的话，我并不敢保证自己的决策一定合理。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_7"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在没有「角」的这段时间里，你做的也很好。",
+                  "text_id": "Huanglong_main_1_5_81_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_2:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "谢……谢谢你的肯定。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_10"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "「角」有着预知未来的能力，就目前来看，一切都在按照祂所预知的轨迹发展。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_11"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "祂的决策可能不一定“正确”，但一定是最有益于瑝珑的决策。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_13"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "或许祂的离开也是为了让未来步入正轨。",
+                  "text_id": "Huanglong_main_1_5_81_14",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_2:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……「角」的用意，或许只有找到祂才能揭晓。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_16"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "另外，漂泊者，「角」曾嘱托过我，要我将这一信息传达给你……",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_17"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "“瀑雨逆流之时，苏醒之人，请前往北落野，寻找夜归的将军，忌炎。”",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_18"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "要我找到忌炎？",
+                  "text_id": "Huanglong_main_1_5_81_19",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_2:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "是的。忌炎将军，正在北落野率军抗击残象潮，那里也是我们对抗鸣式的最前线。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_21"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但也正是因此，北落野实在是太过危险了。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_22"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "「角」既然明确提到了“瀑雨逆流之时”……那么前往北落野的时机，至少不会是现在。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_23"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我明白，寻找与你身份有关的线索是你此行最大的目的，我也不希望你这一趟空手而归……",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_24"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "不知你是否听说过一个名为「黑海岸」的组织？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_25"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "他们是当今世界最神秘的组织之一，对于成员的选拔也有着极为独特的筛选机制，一般不会轻易向他人吐露身份。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_26"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "在你苏醒的那一天，黑海岸的成员曾经暗中联系过我，向我询问过与你有关的信息。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_27"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但你可以放心，黑海岸有着一套能够预测悲鸣规律的系统，与各国都建立了重要的合作关系。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_28"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "他们虽然神秘，但却并非是残星会那种极端组织。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_29"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "黑海岸的成员现在应该尚在今州境内，对你持续保持着关注。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_30"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "之前也是因为有他们在暗中牵线，我们才能够顺利会面。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_31"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这朵黑花，便是他们的信物。黑海岸的成员都会把它戴在身上。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_32"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "他们在今州做什么？",
+                  "text_id": "Huanglong_main_1_5_81_33",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_2:24",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "黑海岸曾帮助我们分析过月相与鸣式的关系，给予了我们非常多的帮助。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_36"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如今他们到来，也是为了将“鸣式即将复苏”的信息传达给我们。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_37"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "但至于他们具体的，更深层的目的，我也并不了解。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_38"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这张照片你可以留下。在「角」回归之前，我想你不妨试着从黑海岸入手。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_81_43"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "漂泊者！你怎么了？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_82_1"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我看见了……自己戴着黑花的画面……",
+                  "text_id": "Huanglong_main_1_5_82_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_3:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "果然，你的过去，一定与这个组织有着千丝万缕的联系。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_82_3"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如今你的一举一动，都可能在被残星会的会监密切监视。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_82_4"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "若能找到黑海岸的成员，也能为自己多添一份助力。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_82_5"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我也一定会尽快将「角」寻回，并将我们所知的一切都告知于你。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_82_6"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这是我与你的约定。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_82_7"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "一言为定。",
+                  "text_id": "Huanglong_main_1_5_82_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_5_3:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "嗯，一言为定。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_82_9"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "散华。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_1"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹大人，我在。",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_5_83_2"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我需要离开今州一段时间，这期间，边庭的事务就交给你了。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_3"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "我明白了，那我是否还需要和往常一样，保护那位漂泊者？",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_5_83_4"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "不必了，此番离开，我与长离都将不在今州，会有更多琐事需要你周旋处理，维持局面。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_5"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "长离大人要准备启程了吗？",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_5_83_6"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "可之前中曲台地遇袭一事毫无征兆，恐怕……",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_5_83_7"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "先前中曲台地一事，我们虽早已提醒过漂泊者残星会的存在，但残星会手段的诡谲程度还是超出了我们的预料。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_8"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "如果再次遇到伤痕这般难缠的敌人，她终究需要依靠自己的力量解决。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_9"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "相信我，也相信那位漂泊者吧。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_10"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "我明白了。",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_5_83_11"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹大人……不论你做出怎样的决定，只要你需要，我随时都在。",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_5_83_12"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "审讯和会面都已经结束了。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_13"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "伤痕需要的听众只是今州的令尹与那位重要的客人，既已知晓他的目的，那随他心意便是。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_14"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "那位漂泊者读懂了你我寄托在信物上的全部意图，你作为策士，出于礼数，也应与她相见。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_15"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "那么繁琐隐晦的方式……恐怕也只有那位漂泊者有耐心了。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_16"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "莫见乎隐，莫显乎微，那位漂泊者明白。况且……对手未知的手谈才更有趣些。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_17"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "只要她按照「角」所言前行，我们总会相见的。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_18"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "所以……关于「角」，伤痕对你说了些什么？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_19"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……「角」预言，祂与我之间，必有一战。这一战，将直接关系到今州未来的走向。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_20"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "还真是……出人意料，但你看上去似乎并不怎么惊讶？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_21"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "与「角」交谈时的种种细节，还有祂留下的讯息……我心中早有征兆，只是一直对此怀有疑问。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_22"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "是吗……你最后一次感应到的，「角」所在的方位是哪里？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_23"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "是……乘霄山。不同于如今的今州，那座山仍然在宁静之中“停滞”。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_24"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "「角」第一次出现的地方，亦是最初今州人的居所……原来如此。",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_25"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我会尽快将「角」寻回。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_26"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "此为连环劫，举棋不定乃是大忌，今令尹，眼下恐怕还有更重要的事情吧？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_27"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……我明白，事关今州命脉，我绝不会允许事情有半点闪失。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_28"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "从伤痕口中听到此事，会令你的打算有所动摇吗？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_29"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "并无影响。伤痕的话于我而言或许并非挑衅与离间，仅仅是令埋下的种子发芽罢了。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_30"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我是「角」亲自选定的令尹。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_31"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "或许祂想要令我明白的，并不在于我与祂终会兵戎相见，而是此战承载着今州城的未来。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_32"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "既然如此，我要做的事情没有变化，依旧是以自己的本心行事，履行令尹的责任。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_33"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……是吗？",
+                  "speaker_id": 178,
+                  "text_id": "Huanglong_main_1_5_83_34"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "经起秋毫之末，挥之于太山之本，长离老师，这是你曾对今汐的教诲，不是吗？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_35"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "此行，我必须独自前往。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_36"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "……甚好。",
+                  "speaker_id": 999,
+                  "text_id": "Huanglong_main_1_5_83_37"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "既已行至中盘，这一子，是该交由你落下了。",
+                  "speaker_id": 999,
+                  "text_id": "Huanglong_main_1_5_83_38"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "这次，我便作你的棋子，今汐。",
+                  "speaker_id": 999,
+                  "text_id": "Huanglong_main_1_5_83_39"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "不论这次危机是否跟以往都不同，我一直都会在你身边。",
+                  "speaker_id": 999,
+                  "text_id": "Huanglong_main_1_5_83_40"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……执棋者，又或是一枚棋子，又有谁能分的清明？",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_41"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "无论如何，我都要去完成我必须做的事情。",
+                  "speaker_id": 186,
+                  "text_id": "Huanglong_main_1_5_83_42"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 5
+        }
+      ]
+    }
+  ]
+}

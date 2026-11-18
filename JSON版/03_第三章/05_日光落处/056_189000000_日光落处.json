@@ -1,0 +1,2340 @@
+{
+  "schema_version": 1,
+  "title": "日光落处",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 1,
+      "dialogue": 286
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 5,
+          "title": "日光落处",
+          "act": "幕间",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 56,
+              "quest_id": 189000000,
+              "title": "日光落处",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（陆之前在讯息里约了我在医务室和他谈隧者计划，现在就去找他吧。）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_1_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（是娜波摩……她一直在这里养伤？）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_2_1"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "娜波摩，之前的伤好些了吗？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_3_1"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "是、是漂泊者同学啊……嗯，我已经好多了。",
+                  "speaker_id": 150058,
+                  "text_id": "MAIN_RGLC_3_2"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "赫斯医生很关心我，这几天我都遵循他的医嘱在这里休养，现在不太痛了。",
+                  "speaker_id": 150058,
+                  "text_id": "MAIN_RGLC_3_3"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "你是来找他的吗？",
+                  "speaker_id": 150058,
+                  "text_id": "MAIN_RGLC_3_4"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "找他商量些事。他在吗？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_3_5"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "就在旁边的心理咨询室里。唔……我朋友西格莉卡正在里面，你可能要等一小会儿。",
+                  "speaker_id": 150058,
+                  "text_id": "MAIN_RGLC_3_6"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好，你也注意休息。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_3_7"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "怎么说呢——我觉得，西格莉卡同学可以对自己更有信心些。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_1"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "信心……",
+                  "speaker_id": 150088,
+                  "text_id": "MAIN_RGLC_4_2"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "有时候，人比你想得更敏锐，这其中也包括你在乎的那些人。不用太追根究底，过度剖析自己。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_3"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "好与坏，真与假，不是那么容易伪装的。你那个叫达妮娅的朋友说得对，适当逃避有助于健康噢。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_4"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "嗯……我会试试的！谢谢你，陆医生。",
+                  "speaker_id": 150088,
+                  "text_id": "MAIN_RGLC_4_5"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "不客气~凡事都别努力过头，适当才好。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_6"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "西格莉卡同学感觉是那种光是想到考试，就会半夜焦虑地从床上“噌”地坐起来，持续一周两眼发直的类型呢……",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_7"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "咦？！这么明显的吗？！",
+                  "speaker_id": 150088,
+                  "text_id": "MAIN_RGLC_4_8"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "哈哈哈~只是猜测而已。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_9"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "要吃颗糖吗？甜味有助于保持好心情。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_10"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "嗯，我想要！陆医生，之后……我还能再来吗？",
+                  "speaker_id": 150088,
+                  "text_id": "MAIN_RGLC_4_11"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "在西格莉卡同学需要的时候，当然可以。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_12"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "有关你说的那个隧者计划，说说看吧。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_13"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "先不急，先聊点别的。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_14"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "别的？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_15"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "什么都行，但得先缓一缓调子。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_16"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你太急切了，漂泊者，情绪正在影响你平日冷静的判断，你自己应该也发现了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_17"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "来，吃颗糖？有助于舒缓心情，变得开心噢。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_18"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……不了。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_19"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我能理解你因为爱弥斯的事焦虑，你以前就很看重那孩子，但你现在的精神状态比你自己预想的更差。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_20"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "事情要一步步做，隧者现在尚未苏醒，我们得保持健康的步调。你说呢？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_21"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你说得对，那就先不聊隧者。先说说你，陆。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_22"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我信任爱弥斯，是因为和她一路的经历佐证了她的话，也因为我能感觉到自己对她天然的亲近感。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_23"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "但如你所说，或许你我只是“君子之交”，而我们之前的接触也总是点到即止。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_24"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "如果要做打开隧门这样一件会影响整个拉海洛的事，我希望自己能更了解合作伙伴。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_25"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "呵呵，明白，缺了的自我介绍总得补上。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_26"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "只要是你想问的，我知无不言。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_27"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你是黑海岸的客卿？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_28"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "不是。我不太适合在这种有档案的背景下做事，但认识不少执花。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_29"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "爱弥斯曾说和你不是很熟，却又说你可以信任，你也知道我和她的关系。为什么？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_30"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "因为她是个心思敏锐的孩子。哪怕你避开了介绍我们认识的可能性，她也会从你的行动中猜出一些东西。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_31"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "爱弥斯和你很像，聪明，富有行动力，善于忍耐痛苦，但她的性情比你还固执。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_32"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你从拉海洛离开后，她也来过我这里几次。说是心理咨询，其实也是和我打听你的事。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_33"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你没和她说。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_34"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "对。我在拉海洛有你安排给我的其他事要做，你不介绍我们认识，是不想我这边的事牵连到她。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_35"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "爱弥斯自己意识到这点之后，就再也没来过了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_36"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "不过……我倒希望她能多说说自己的烦恼。喜欢把事装在心里这点也和你一样，但这不算好习惯。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_49"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……那么，还有一个问题。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_38"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你说的“被我安排的事”，是什么？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_39"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这个是重点，但不适合在这里说。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_40"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "深空联合的背后有不同国家的势力在支持，他们内斗与否，我们管不着，但校工们中眼线不少。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_41"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "医务室毕竟是公共区域，我们换个地方聊吧？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_42"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "去哪里？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_4_43"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "跟我来就好。走吧，大忙人~",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_44"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "赫斯医生，又有事要独自外出吗？",
+                  "speaker_id": 100205,
+                  "text_id": "MAIN_RGLC_4_45"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "嘘，N.A.N.A.，我偷会儿懒。这里就拜托你了，接替我值班的同事一会儿就到。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_46"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "请注意安全，赫斯医生。不要再带着伤回来。",
+                  "speaker_id": 100205,
+                  "text_id": "MAIN_RGLC_4_47"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "放心，这次有漂泊者在呢，不会的。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_4_48"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "坠剑湖？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_5_1"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "对，我在这里有一处自己的“小房间”。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_5_2"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我来解决，别让它们浪费我们的时间。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_6_1"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "隧者的剑蕴藏着独特的频率，我的“小房间”也由此免于一些远程手段的探查。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_7_1"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "选址不错。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_7_2"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你藏了东西在深处。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_8_1"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "呵呵，密室不就是发挥这种作用的地方吗？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_2"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "现在，我们可以循序渐进地聊了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_3"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "先说结论，再介绍过程吧：你安排我来拉海洛，是为了关注残星会的动向。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_4"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "魏尔伦只是你在拉海洛遇到的第一个残星会内线，但绝不是最后一个。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_5"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "某种意义上，也是因为深空联合本身就由多股势力交织制衡，才让这里既封闭独立，又鱼龙混杂。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_6"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "地处极点，周边没有其他势力制约，还有隧群生物和各种科技突破的可能……拉海洛是闪闪发亮的宝藏地。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_7"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "哪怕对残星会而言，也一样。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_8"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前赫利俄斯的事故，也不是他们真正的目标？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_8_9"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "只是其中一个。你既然已经途经瑝珑和黎那汐塔，想来也能意识到他们的目标。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_10"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……鸣式阿列夫一。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_8_11"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "是的，它这么特殊，不可能不引起他们的注意。更何况，阿列夫一还关系着可能通往地外空间的隧门。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_12"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "探查残星会，是一项风险很高的任务。我为什么会在过去选择你？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_8_13"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这个嘛，就得从更早之前说起了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_8_14"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你是个喜欢亲自验证真伪的人。请吧，去桌子那儿看看。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_9_1"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "诺维尔再生医药研发的“黄金血”，但我更习惯喊它的另一个名字——日髓。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_10_4"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我父亲最初将它作为罕见病药物开发，但后来，它承载了更高的期望——“进化药物”。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_10_5"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "“进化”……听起来的确是残星会会感兴趣的方向。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_10_6"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "从结果而言，我成为了它的共鸣者，不能说它没有用。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_10_7"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "但我是幸存的个例，只因此历经剧痛、患上色盲，大部分和我一样的受试者都死了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_10_8"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "不过，直到和你碰面，我才知道其中还有些隐情。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_10_9"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "剩下的东西在我的书房，走吧？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_50_1"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "是我弟弟莱伊画的。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_12_4"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我们之间没有血缘关系，只不过都是我父亲收养的孩子。父亲真正的血亲早就因为罕见病死去了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_12_5"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "莱伊怕疼，但又很容易被哄开心，所以每次在治疗室拿到大人们给的糖，我都会全塞给他。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_12_10"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（所以他才习惯随身携带那些糖果……）",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_12_11"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我也曾尝试讨好父亲，做个他期望的儿子，结果都以失败告终，最后也选择了放弃。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_12_6"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "但……父亲想对莱伊做的事太过了。在后来的一次事故中……",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_12_7"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这种故事本来也乏善可陈，只不过是一些渴望补偿自己对死者的愧疚，因而引发事端的陈词滥调。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_12_8"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "直到我在你的提示下，意识到这可能是一场恶劣的谢幕。所以我掘开了父亲的坟墓——里面空无一物。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_12_9"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我拿到这东西的时候，整辆呜呜物流的车都已被炸毁。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_11_5"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "在火舌舔完整张纸之前，我大致看了几眼……呵呵，这可是一份出自会监的报告哦。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_11_6"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "残星会会监发到新联邦的报告……？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_11_7"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "是的，夹带在了呜呜物流的货里。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_11_8"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这份报告要送予的对象，是新联邦的「厄里斯」。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_11_9"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "刚才那三样东西……残星会因为日髓的“进化”可能性，介入了诺维尔再生医药？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_13_1"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "不止是介入，而是更进一步——替换。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_2"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你见过残星会的会长了吗？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_3"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "“千面百貌的历劫者”，我的确在黑潮深处的“冥河”附近见过。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_13_4"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……！……你父亲也？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_13_5"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "对，我父亲也是被借去的身份之一。虽然我现在再回忆，已经想不起他是什么时候被替换掉了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_6"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "对这位会长而言，大概旁人的生死也只是一场游戏。或许当他在暴雨中被下葬时，还带着笑呢！",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_7"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这就是我对你提出疑问的答案：为什么选择我？因为我本就有追迹残星会的动机——仇恨。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_8"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "仇恨……直到现在？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_13_9"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "现在嘛，已经变成一种习惯了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_10"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你继续走下去，迟早会深入地接触他们。在那之前，我需要分享给你一些东西。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_11"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我听黑海岸的朋友说，你已经接触过一些会监了？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_12"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "三名，克里斯托弗、弗洛洛、伤痕。还有你说的会长。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_13_13"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "噢，我对这几个名字有印象。弗洛洛的真实代号是赫卡忒，克里斯托弗则是阿拉克农……你瞧，很好玩儿吧，他们的代称还挺花哨呢。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_14"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这点其实很重要，代称有时也指明了他们的行事风格、美学和追求。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_15"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "一个实力强大的共鸣者毫无逻辑地进行破坏行动，会很难捉住痕迹。但只要有偏好，总能从各种零星的片段中勾勒出轮廓。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_16"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这些年我还收集了一些关于其他会监的情报，也都讲给你听吧。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_13_17"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我已经重新激活了你的权限，开门的密锁在那边。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_14_1"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "残星会是个松散的组织，大部分成员也只是通过人工诱导的方式进行躯体改造，消灭起来也不难。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_1"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "但如果你在普通的造匠中，碰到了一些格外……富有创造性的改造，那应该就是「海德拉」的手笔。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_2"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "「海德拉」主导着残星会内部对于进化和改造这个课题的研究，通常会和「塞壬」一起行动。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_3"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "也就是说，如果你碰到其中一个，最好就得注意提防附近的另一个了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_4"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "「座敷童子」，这个会监不用太关注，其活动的地域主要在苇原，而苇原已经被悲鸣毁灭大半了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_5"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "苇原……似乎在哪里听过。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_6"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "之前在医务室养过一段时间伤的孩子，我记得是叫千咲？她曾在的穗波市就属于苇原。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_7"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "接下来我要说的，就是比较重点的两个人物了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_9"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "残星会是一个松散的组织，但再松散和个人化的组织想要做事，就不可能不需要钱，否则一切都是空谈。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_10"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "还记得刚才那份报告吗？你迟早会去一趟新联邦，因为根据我收集的线索……",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_11"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "「厄里斯」所在的新联邦，就是他们的重要据点。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_12"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "有多重要，会在台面上吗？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_13"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "不一定。但在那个纸醉金迷的地方，在政府和寡头之中，一定有高层是他们的人——而且是他们中的重要人物。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_14"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "新联邦的布局为他们带来了巨大的便利，残星会也借由源源不断的财富在这颗星球肆意地游走。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_15"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "顺带一提，星炬学院也有大量来自新联邦的投资——再直白一点，他们就是深空联合背后最大的金主。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_16"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "「厄里斯」……我记住了。另一个重要人物，是会长？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_17"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "残星会会长，真名未知，出现时使用的身份全都是从别处借来的：现实中的人，传说中的概念，还有对死者的回忆。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_18"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我曾与其擦肩而过……可惜，那时候我并不知道这点，错过了机会。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_19"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "只有这支笔，在大火中被我带了回来。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_20"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "上面的字符目前还无法读出，但它至少能佐证一件事：残星会会长的存在时间，已经非常漫长。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_21"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "只可惜，你在那时候把我喊来了拉海洛，不然我就顺着这条线继续查下去了。但你做事总有你的道理，对吧。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_22"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这些情报，都是你独自找到的？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_23"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "差不多，路上也得到过其他人的帮助。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_24"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "能拿到残星会会长的物品，你做的，应该不只是追踪吧——你潜入了他们内部。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_25"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "和他们玩没那么难，掌握诀窍就行。我说过了，这是个松散的组织。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_26"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "以残星会的行事风格，哪怕再松散，在你窃取了这么多会监的情报后，每次潜伏都只会比上一次更危险。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_27"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "陆，你身为医生却不惜命，怎么去救更多的人？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_28"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这话，你已经是第二次和我说了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_29"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "又被他们逃了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_30"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "（如果不顾忌那么多，这次能把剩下的那批人也“留下来”。）",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_31"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "（……先把这里找到的讯息传给漂泊者吧。已经两年了，该归个档了。）",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_32"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你收到就行，免得我死了消息没传出去，白干一趟。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_33"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……去拉海洛？为什么？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_34"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "拉海洛也有他们的踪迹，你要帮我盯着点。而且，你也该休息一段时间了。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_RGLC_15_35"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "还没到时候呢。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_36"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "你闹出来的动静已经太大。难道你要等死了，才知道什么是“到时候了”？",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_RGLC_15_37"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "不惜命的医生，怎么救人？再激进地深入下去，你和他们又有什么区别。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_RGLC_15_38"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……你这话还真不客气。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_39"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "更不客气的我还没说呢。陆，拉海洛是个好地方，学生们热情可爱，雪景美丽，正适合放松步调。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_RGLC_15_40"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "听我的，来这边。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_RGLC_15_41"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_42"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "行，听你的。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_43"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "所以我现在到拉海洛闲适度日了，放心，我知道分寸。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_44"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "残星会的事就说到这里，接下来是隧者计划的事。在那之前，告诉我你在冰原和爱弥斯的经历吧。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_45"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（向陆简要说明冰原之行的始末。）",
+                  "text_id": "MAIN_RGLC_15_46",
+                  "choice_key": "剧情_3_1_拉海洛主线_下半_18_1:45",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……原来是这样，那孩子……难怪你状态不好。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_47"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我理解爱弥斯的心情和立场，她是以自己的方式为她的愿景、为拉海洛尽力，我也尊重她的决定。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_48"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "但对她为自己选择的命运，我还没有尽我所能——所以我不接受，也不会就此放弃。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_49"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我想也是，你一直都不是个轻易放手的人。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_50"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "隧者计划……就从深空联合在浮光林深处找到了“巨型日灵根系”，将其判断为隧者封印隧门的“盖子”说起吧。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_51"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "封印破损，就意味着被其隔绝在隧门内外的鸣式将再度聚合，拉海洛乃至整个世界将迎来末日。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_52"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "但人们仍旧渴望打开那扇门，探索未知……所以他们想出了适格者这种方法，以外源性共鸣去增强隧者的力量，让它去压制鸣式。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_53"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "最近这段时间，鸣式对封印的冲击越来越频繁，恐怕残星会也在为此准备着什么。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_54"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "既然炉芯核心已经回归，接下来你只需要耐心等待隧者苏醒，再去考虑如何通过它找爱弥斯。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_55"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你过去就曾以适格者的身份在学院活动，我会和洛瑟菈聊聊让你驾驶这件事。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_56"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那我等你消息，陆。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_15_57"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "没问题。在那之前，我们更需要警觉残星会接下来的动作——我有预感，他们会针对隧者计划进行破坏。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_15_58"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "（事情聊完，漂泊者说想去冰原再看看隧者的情况，也离开了……是因为做事能让她内心平静些吧。）",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_37_1"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "（接下来——）",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_37_10"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈（通讯中）",
+                  "text": "陆医生，遇到麻烦了？",
+                  "speaker_id": 200188,
+                  "text_id": "MAIN_RGLC_37_2"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "哎~你对我的为人有误会呀，洛瑟菈。就不能是闲聊？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_37_3"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈（通讯中）",
+                  "text": "呵，陆医生，你这话我可很难相信。到底是为了什么来找我？",
+                  "speaker_id": 200188,
+                  "text_id": "MAIN_RGLC_37_4"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "漂泊者。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_37_5"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈（通讯中）",
+                  "text": "看来是因为那个“爱弥斯”。她之前都不愿意谈起冰原发生了什么，居然愿意和你提及呢……",
+                  "speaker_id": 200188,
+                  "text_id": "MAIN_RGLC_37_6"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "停滞无法带来改变，她也不是那种无法沟通的人。现在嘛，朋友说自己遇到了问题，我自然要为她分忧。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_37_7"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "更何况，今天要聊的事对星炬学院也会有帮助，至少能提前预防一些事。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_37_8"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈（通讯中）",
+                  "text": "好啊，那就让我听听看吧。研究院老地方见。",
+                  "speaker_id": 200188,
+                  "text_id": "MAIN_RGLC_37_9"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "有气无力的学生",
+                  "text": "啊……陆医生……你好啊……",
+                  "speaker_id": 150091,
+                  "text_id": "MAIN_RGLC_38_1"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "伊桑同学，才一段时间没见，你怎么变成这样了？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_38_2"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "有气无力的学生",
+                  "text": "论、论文还没完成……我的，名额……",
+                  "speaker_id": 150091,
+                  "text_id": "MAIN_RGLC_38_3"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "喂喂，我记得你之前来医务室和我报喜的时候，是说研究院的那位教授已经因为你成绩优异选中你了吧？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_38_4"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你这样子算是代价吗……小心在入职前因为健康原因被劝退哦。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_38_5"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "有气无力的学生",
+                  "text": "不行！我就是爬，也要爬到研究院正职的工位上！啊！在那之前死了，我也会复活的！",
+                  "speaker_id": 150091,
+                  "text_id": "MAIN_RGLC_38_6"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "唉，都胡言乱语起来了。我知道争取到这个机会不容易，你也不好光明正大地逃走……晚点到我这里来开个病假单吧？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_38_7"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你也不能真把自己当隧群生物，太阳一照就能精神抖擞地开始干活，这不符合人类的生理构造嘛。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_38_8"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "有气无力的学生",
+                  "text": "医生，我的恩人！你一定会好人有好报的！好怀念啊，以前晕倒在医务室的时候，我睡得最香了……",
+                  "speaker_id": 150091,
+                  "text_id": "MAIN_RGLC_38_9"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "忙里偷闲的前辈",
+                  "text": "小陆，今天怎么来研究院了？",
+                  "speaker_id": 150092,
+                  "text_id": "MAIN_RGLC_39_1"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "和人聊些事。您这几个月在研究院值班还好吗？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_39_2"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "忙里偷闲的前辈",
+                  "text": "还行，这群研究员的德性你也知道，要他们来检查身体那是没一个准时的，只能我去找他们。",
+                  "speaker_id": 150092,
+                  "text_id": "MAIN_RGLC_39_3"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "忙里偷闲的前辈",
+                  "text": "等我轮班完回去，我们再整点小菜小酒？研究院这边的配餐只专注营养和效率，没意思得很！",
+                  "speaker_id": 150092,
+                  "text_id": "MAIN_RGLC_39_4"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "当然可以。正好之前的那个侦察机模型我拼完了，给您也看看？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_39_5"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "忙里偷闲的前辈",
+                  "text": "这么快！你还真是喜欢这种手工活儿啊……",
+                  "speaker_id": 150092,
+                  "text_id": "MAIN_RGLC_39_6"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "拆东西装东西这类事很解压嘛，工作结束后做一会儿，挺放松的。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_39_7"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "忙里偷闲的前辈",
+                  "text": "那……等下次找机会，你跟我一起去老洛根那里，把他那宝贝炮管拆了试试？",
+                  "speaker_id": 150092,
+                  "text_id": "MAIN_RGLC_39_8"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "忙里偷闲的前辈",
+                  "text": "拆完，等他急了，再装回去！",
+                  "speaker_id": 150092,
+                  "text_id": "MAIN_RGLC_39_9"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "咳，您可不要找我做这种事，不道德。而且都多久了，您还对那条鱼被他偷偷炖了耿耿于怀啊……",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_39_10"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "坐吧，陆医生。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_1"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "我还以为漂泊者会和你一起来，真可惜。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_2"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "她又不是没来过。但现在和以前不同了，我不太希望她陷入和深空联合的这些琐事里。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_3"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "可以。我也不是你们以前打交道的那些老顽固，我不追求那些面子和进退，我只要星炬学院。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_4"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "说吧？拣重点讲，陆医生。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_5"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "残星会……呵，我知道了，之后我会看紧点的。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_6"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "至于驾驶隧者，如果漂泊者能驾驶，当然没什么不好，研究院这边也会着手准备。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_7"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "但打开隧门必然伴随着风险……某个人或许能在这件事中帮上忙，我要先和她聊聊。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_8"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "鸣式的问题是拉海洛所有人都需要面对的。我会如你所愿，去摆平董事会的人，你专注漂泊者和校内的事就好。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_9"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "感谢你的通情达理，洛瑟菈——校长。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_10"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "和你聊天比我想的要顺利，我还以为你会怀疑我的用意呢。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_11"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "为了表达我的感激，要来颗糖吗？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_12"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "不必了，你在学院里四处给人散糖，这些年里我收到过太多次，早就吃腻了。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_13"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "至于你说的话——在学院这么多年了，你的为人，我还是能看出来的。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_14"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "你替我们抓出来那些细作，的确保障了学院的安全，也替我们减少了很多麻烦。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_15"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "倒是你最后选择在学院停留这么多年，持之以恒地保护拉海洛，出乎了我们的预料。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_16"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "哎，洛瑟菈校长没嫌我多管闲事就好~",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_17"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "呵呵，你是管闲事的人里比较有分寸的，我当然欢迎。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_18"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "有朋友给这里打广告，说雪景美丽，学生热情可爱，我就被哄过来了。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_19"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "进来了才发现，哎，这里哪有她说得那么好？十个校工里八个是各势力塞进来的人！",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_20"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "学生们全封闭管理，个个都做着飞向天穹的美梦。还有什么罗伊人倒卖隧群零件，和新联邦贩子勾搭之类的破事……",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_21"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……但我也知道，学生们并不愚蠢，更何况他们都是从各国选拔的天才。连我都知道的事，他们怎么会看不出？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_22"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "只不过这些孩子仍旧都相信理想，对未来抱有希望，能够忍耐现实的糟糕之处，保持自身的纯粹之心。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_23"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "一开始我来拉海洛，只是遵循朋友的建议，但现在——",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_24"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "现在你也挺喜欢这里了，对吗？",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_25"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "哈哈哈，对，和校长你是一样的！",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_26"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……N.A.N.A.的紧急通讯？抱歉。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_27"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.（通讯中）",
+                  "text": "赫斯医……滋滋……生，刚才医务室被人……闯入。",
+                  "speaker_id": 750539,
+                  "text_id": "MAIN_RGLC_40_28"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.（通讯中）",
+                  "text": "娜波摩同学被劫走，劫持人是……之前被拘禁……滋滋……的魏尔伦。",
+                  "speaker_id": 750539,
+                  "text_id": "MAIN_RGLC_40_29"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你的情况如何，损伤严重吗？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_30"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.（通讯中）",
+                  "text": "不必……担心，需要时间……修理。",
+                  "speaker_id": 750539,
+                  "text_id": "MAIN_RGLC_40_31"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "好，通讯结束后优先处理损伤问题。另外，通知学院的安保部门。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_32"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "他们的动作会慢一点，我先追上去看看。魏尔伦带着她往哪个方向跑了？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_33"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.（通讯中）",
+                  "text": "已收到……滋滋……学院方消息，他们正在往……罗伊冰原的「天槎空间站」前进。",
+                  "speaker_id": 750539,
+                  "text_id": "MAIN_RGLC_40_34"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "（是之前和漂泊者一起找到的那处稷廷空间站……）",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_35"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我马上出发。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_36"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "魏尔伦逃出来了，劫持了一个学生，正在向冰原一处坠落物走。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_37"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "……你有什么打算？",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_38"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我现在就赶过去，希望洛瑟菈校长能安排人跟来包围那里，防止他再度出逃或威胁到学院安全。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_39"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "你希望我帮你围安全圈，自己先独自进去处理魏尔伦？",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_40"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "有些……猜测，我希望单独验证。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_40_41"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "可以~你的信誉能支撑我们的信任。去吧，陆医生，等你好消息。",
+                  "speaker_id": 150057,
+                  "text_id": "MAIN_RGLC_40_42"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "（娜波摩……为什么选这个时间呢？）",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_17_1"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "在想什么？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_35_1"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "很多事。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_35_2"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "想聊吗？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_35_3"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……聊几句吧。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_35_4"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我在想，过去我做的很多事，到底是不是正确的。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_1"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我至今仍旧不知道，过去自己为什么会选择消去记忆，但这一决定直接导致了我对很多事都失去了掌控，也抛下了很多人。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_2"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你也好，爱弥斯也好，还有黑海岸的她们，以及更多我不知道、不记得的人。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_3"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我把身边的人拉入“拯救”的计划中，自己却缺席了。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_4"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "如果救不回爱弥斯，她就等于成为了没有墓碑的死者，或许将永远在那里漂流……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_5"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "就算没有这种事，你的命运和我们其中大多数人也是错开的。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_6"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你已经知道自己寿命漫长，哪怕不出意外，我们多半都会先你一步离开。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_7"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "死亡和离别，是谁也避不开的课题。只是于你而言，这是一道格外漫长的提问。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_8"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……是啊。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_9"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "所以——既然你都知道，那其他人自然也已经用行动回答了这道诘问。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_10"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "现在的你和过去并无区别，有着同样坚韧的本质，也同样为人带来希望。否则我们不会在阔别多年后，仍旧愿意来到你身边。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_11"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "那不只是因为你是所谓救世主，更因为你一直是你自己。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_12"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "而且……我们也不单单为了你，更是为了索拉里斯，为了你和我们共同守望的理想。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_13"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这是我们自己选的路，你不必为之负疚。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_14"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "人只有接纳失去，才能迈向未来——这还是你过去教我的。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_15"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "旧日的陆·赫斯",
+                  "text": "结果……我没能找到杀死父亲的凶手，也没能保护住莱伊……没能保护住我的家人。",
+                  "speaker_id": 750540,
+                  "text_id": "MAIN_RGLC_36_16"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "但他还活着，你也还活着。希望尚未磨灭，你也已经尽力了。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_RGLC_36_17"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "旧日的陆·赫斯",
+                  "text": "……下次醒来，也不知道……是什么时候了。",
+                  "speaker_id": 750540,
+                  "text_id": "MAIN_RGLC_36_18"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "那就做个约定吧，陆。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_RGLC_36_19"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "旧日的漂泊者",
+                  "text": "等冬日再次到来时，我们会再见的。你会睁开眼，我会站在你面前，就像今天一样。",
+                  "speaker_id": 150073,
+                  "text_id": "MAIN_RGLC_36_20"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "别再那副表情了，漂泊者。来颗糖吗？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_28"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你一直随身带着这些糖……吃起来有效吗？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_29"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "你指什么？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_30"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "“舒缓心情，变得开心”，你说的。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_31"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "这个嘛……其实用处不大，只是变成了我的一种习惯。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_32"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "小时候我吃糖，是因为身为孩童有很多事无法解决，只能用甜味麻痹自己，让自己有些可期盼的。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_33"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "后来我继承了诺维尔再生医药，发现还是有很多事我难以处理，我只好再吃一颗，面对合作伙伴带来的糟心官司。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_34"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "乃至于最后离开医药集团，独自启程寻迹残星会，我咀嚼口中的糖，看到帮我的人死在面前，仍旧无能为力。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_35"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "所以我觉得，无论一个人强大到何种地步，终究是无法把一切事都做得圆满。人生在世，很多事就是无可奈何。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_36"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_37"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "但糖仍旧是要吃的，这是为了提醒自己，在那些无可奈何的失去前，相逢依旧是好事。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_38"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "如果被悲伤和愤怒烧尽了情感，就会执着于结果和成功，忘记曾经得到的喜悦。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_39"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "品尝甘甜，是为了不麻木。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_40"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你的糖，也给我一颗吧。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_41"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "味道如何？",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_42"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "陆，救回爱弥斯的几率……是不是很小？",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_24"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "的确，像是奇迹发生的概率那么小——但你总能创造奇迹。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_25"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "谢谢你的糖。",
+                  "speaker_id": 750088,
+                  "text_id": "MAIN_RGLC_36_26"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "不客气。",
+                  "speaker_id": 150065,
+                  "text_id": "MAIN_RGLC_36_27"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 31
+        }
+      ]
+    }
+  ]
+}

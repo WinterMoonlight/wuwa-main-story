@@ -1,0 +1,1042 @@
+{
+  "schema_version": 1,
+  "title": "捕梦于神秘园中",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 13,
+      "dialogue": 110
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 8,
+          "title": "捕梦于神秘园中",
+          "act": "第七幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 32,
+              "quest_id": 147000002,
+              "title": "捕梦于神秘园中",
+              "reading_status": "ordered_draft",
+              "notes": [
+                "【条件路线】按本次选择成立时的分支排列。"
+              ],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这里的守卫确实密集。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_38_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "交给你了。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_38_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这些修会声骸的频率不对劲。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_39_1"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "修会创造了它们，自然有办法改造它们。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_39_2"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这是什么地方？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_40_1"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "隐海修会创造公共声骸的核心区域。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_40_2"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们要穿过这里？",
+                  "text_id": "Main_Linaxita_2_7_40_3",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_2:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "是，调律台在那。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_40_4"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "不过……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_40_5"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "有什么问题？",
+                  "text_id": "Main_Linaxita_2_7_40_6",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_2:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "双眼清明地前行吧，重重迷雾是他想施加给我们的另一道枷锁。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_40_7"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你是说不能接触这些雾？那我们走哪边更快？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_40_8"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "左边。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_40_9"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_40_10"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "你不相信？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_40_11"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "右边的路看起来似乎更近，更好通过。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_40_12"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "请便。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_40_13"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（走左边的路。）",
+                  "text_id": "Main_Linaxita_2_7_40_14",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_2:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这个……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_45_1"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "别忘了，任何事物的本质都可以被改变。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_45_2"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这些是什么？",
+                  "text_id": "Main_Linaxita_2_7_46_1",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_18:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "声骸培育舱。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_46_2"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "做什么用的？",
+                  "text_id": "Main_Linaxita_2_7_46_3",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_18:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "黎那汐塔的公共声骸在此形成，它们的灵魂中充斥着扭曲、破碎的各种残象、声骸的声音。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_46_4"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "多么有趣，它们从混乱中诞生，却能被塑造成亲切又便利的样子。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_46_5"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "一种衰朽中的生机，一首生命不灭的轻歌……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_46_6"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "频率的重组比我们想象的还要灵活。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_46_7"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "还要……活力无限。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_46_8"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你怎么知道它们会出来？",
+                  "text_id": "Main_Linaxita_2_7_47_1",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_19:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "自然是听到了不安的律动。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_47_2"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好奇怪的听力……我怎么没听到。",
+                  "text_id": "Main_Linaxita_2_7_47_3",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_19:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我能听到的，又何止这些……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_47_4"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "（好痛……弗洛洛……我不要在这里……）",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_7_47_5"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "（带我们走吧……你可以……只有你可以……）",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_7_47_6"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "（别离开我们……别抛下我们……）",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_7_47_7"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "（……）",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_47_8"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这里的轨道应该也能用？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_48_1"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "嗯？等等，先启动这里。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_48_2"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（她刚才那么明显的走神是怎么回事？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_49_1"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这条路……真的是对的吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_49_2"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（还是时刻小心四周吧，尽快摸清环境才好自己做出正确判断。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_49_3"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "（……）",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_47_8"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这里找准时机或许能铺出道路。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_50_1"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "丽亚",
+                  "text": "弗洛洛，你回来了。",
+                  "speaker_id": 300045,
+                  "text_id": "Main_Linaxita_2_7_53_1"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "埃斯克勒斯",
+                  "text": "孩子，你的脸色似乎不太好，是不是遇到什么事了？",
+                  "speaker_id": 300021,
+                  "text_id": "Main_Linaxita_2_7_53_2"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "没关系，她会解决的。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_53_3"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我刚才听到了一些话……丽亚奶奶，上次见到你时你并没有如此害怕。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_53_4"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "丽亚",
+                  "text": "害怕？呵呵，我都这把年纪了，没什么能让我害怕的了。",
+                  "speaker_id": 300045,
+                  "text_id": "Main_Linaxita_2_7_53_5"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "如果是……死亡呢？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_53_6"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "丽亚",
+                  "text": "哦，那是个真正的恶魔，没有人愿意见到它。它的临近只会让我不断回想这一生的短暂，还有来不及实现的种种遗憾。",
+                  "speaker_id": 300045,
+                  "text_id": "Main_Linaxita_2_7_53_7"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "丽亚",
+                  "text": "如果可以，我多么希望我们可以一直快乐地生活在这里，什么都不会改变，你们也不会长大离开。",
+                  "speaker_id": 300045,
+                  "text_id": "Main_Linaxita_2_7_53_8"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "不对！如果我的生命已经实现了独特的价值，我将不会害怕死亡！",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_53_9"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "梅丽莎",
+                  "text": "特莉丝你又在说什么胡话！走啦，该回家吃饭了！",
+                  "speaker_id": 300046,
+                  "text_id": "Main_Linaxita_2_7_53_10"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "梅丽莎",
+                  "text": "弗洛洛，刚才我也闻到你家的饭香味了哦！他们应该也在等你回去呢！",
+                  "speaker_id": 300046,
+                  "text_id": "Main_Linaxita_2_7_53_11"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "他们在等我回去……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_53_12"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "埃斯克勒斯",
+                  "text": "嘿嘿，丽亚，特莉丝刚才的想法是不是和五十年前的我一模一样？",
+                  "speaker_id": 300021,
+                  "text_id": "Main_Linaxita_2_7_53_13"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "丽亚",
+                  "text": "一定是因为你陪她玩太久了……",
+                  "speaker_id": 300045,
+                  "text_id": "Main_Linaxita_2_7_53_14"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "那现在呢？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_53_15"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "埃斯克勒斯",
+                  "text": "现在？现在我只想和丽亚一起多看几次太阳升起。",
+                  "speaker_id": 300021,
+                  "text_id": "Main_Linaxita_2_7_53_16"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "缜密如你，也会对敌人有所疏漏吗？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_53_17"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "面对敌人发愣也不是你的水准。",
+                  "text_id": "Main_Linaxita_2_7_53_18",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_23:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "……那扇门上，已经出现了缝隙。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_53_19"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "这里也需要……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_54_1"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我来启动。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_54_2"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "乐章变回了应有的旋律，这里正在恢复原状。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_1"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "很快，它也会恢复。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_2"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "鲁诺",
+                  "text": "我就知道我们的配合是最好的！太好了，这一次排演也非常完美！",
+                  "speaker_id": 300047,
+                  "text_id": "Main_Linaxita_2_7_61_3"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "什么嘛，明明你还抢拍了一次，我都发现了。",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_4"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "鲁诺",
+                  "text": "呃……弗洛洛！你的演奏和特莉丝的即兴发挥配合太默契了，不愧是咱们最厉害的小提琴家！",
+                  "speaker_id": 300047,
+                  "text_id": "Main_Linaxita_2_7_61_5"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "只是因为……这首曲子我已经奏响过无数遍了。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_6"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "喂，不要岔开话题！",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_7"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "诺埃米",
+                  "text": "听说你接到了新的演出邀请？虽然相隔遥远，但我相信你一定也能给那里的听众带来新的震撼。",
+                  "speaker_id": 300048,
+                  "text_id": "Main_Linaxita_2_7_61_8"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "那次演出……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_9"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "弗洛洛姐姐，你还好吗？脸色看起来有点差……",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_10"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "计划有些变故，但不要紧。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_11"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "这样哦……怪不得，哎，有时间就回来多休息休息嘛！",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_12"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "我记得你说过，只有这里才能让你放松下来。可你总是在忙，这里的大家也时不时会变得乱七八糟……",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_13"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我在。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_14"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "特莉丝，你希望我的计划继续下去吗？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_15"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "希望啊，我想一直一直歌唱下去。",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_16"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "即便你知道，这里并不是我们曾经的家？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_17"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "我知道。我也不是原来的我啦，我早在几百年前就遇难死掉了。",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_18"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "但是我现在还能感受到自己的存在，能够笑，能够唱歌，我觉得没什么区别呀。",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_19"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "我相信弗洛洛姐姐最后一定会成功，你的计划会把大家都带回来的！我会陪着你，一直在这里期待着那一天的。",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_20"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "特莉丝",
+                  "text": "到那时候……",
+                  "speaker_id": 300036,
+                  "text_id": "Main_Linaxita_2_7_61_21"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "到那时候，你一定会如愿站上更耀眼的舞台。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_22"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "（我会一直在，“永远”。）",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_23"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "这一次，是真正的死亡吗……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_24"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我终于可以……回去了……？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_25"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "弗洛洛，你死不掉啊。弗洛洛，你不能死。你不是想要接他们回家吗？",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_7_61_26"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "弗洛洛……弗洛洛……醒醒……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_7_61_27"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "弗洛洛……弗洛洛！",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_61_28"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "失血过多还不加以干预，你要是真的想寻死，我可以给你个痛快。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_61_29"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "把自己逼进濒死的状态，你那么想看到自己真正想要的吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_61_30"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_31"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "走吧。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_61_32"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "汇报教士",
+                  "text": "主座，弗洛洛已经进行到最后一步了。",
+                  "speaker_id": 300029,
+                  "text_id": "Main_Linaxita_2_7_64_18"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "天国的雏形已经完成，是时候肃清偏离的个体了。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_64_19"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "囿于黑暗中的灵魂需要一个承载他们的临时居所，为此我们需要她的成果。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_64_20"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "汇报教士",
+                  "text": "主座？",
+                  "speaker_id": 300029,
+                  "text_id": "Main_Linaxita_2_7_64_21"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "为何疑问？",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_64_22"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "汇报教士",
+                  "text": "这……您刚才说的，和您之前告诉我们的并不相同。",
+                  "speaker_id": 300029,
+                  "text_id": "Main_Linaxita_2_7_64_23"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "汇报教士",
+                  "text": "您上次说，我们的目的是让宝石中的神力回归圣所，可从未提过刚才的事。",
+                  "speaker_id": 300029,
+                  "text_id": "Main_Linaxita_2_7_64_24"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "汇报教士",
+                  "text": "是计划有变吗？",
+                  "speaker_id": 300029,
+                  "text_id": "Main_Linaxita_2_7_64_25"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "……",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_64_26"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "汇报教士",
+                  "text": "主座？这段还要继续记录吗？",
+                  "speaker_id": 300029,
+                  "text_id": "Main_Linaxita_2_7_64_27"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "记录……我什么时候……不，记下来吧。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_64_28"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "芬莱克的目标似乎不只是宝石。",
+                  "text_id": "Main_Linaxita_2_7_64_1",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_12:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "或者说，这位强权者已经陷入了名为迷失的沼泽。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_64_2"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这种状况……和坎特蕾拉之前提到过的很像。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_64_3"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（是鸣式的力量在蛊惑他去做什么吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_64_4"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你创造失亡彼岸又是为了什么？",
+                  "text_id": "Main_Linaxita_2_7_64_5",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_12:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_64_6"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "因为……想要完成一个久远的承诺。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_64_7"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "一位失散已久的朋友告诉过我，任何一个承诺都很重要，只要许诺了就一定要实现。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_64_8"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "如果你是指真正的“久远”……",
+                  "text_id": "Main_Linaxita_2_7_64_9",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_12:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "当然，我想，无法比拟你的“久远”。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_64_10"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "但你仍旧算是人类。",
+                  "text_id": "Main_Linaxita_2_7_64_11",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_12:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "所以？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_64_12"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "重诺，或者是……固执。",
+                  "text_id": "Main_Linaxita_2_7_64_13",
+                  "choice_key": "剧情_2_5_隐海试验场_声骸培养场_1_12:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "呵……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_64_14"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "共鸣能力与情感相关联，如果你的固执能够让你为之创造一个索诺拉，我认为，那必然已经变成“执念”。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_64_15"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "也许吧。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_64_16"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "黎那汐塔 第二章",
+          "source_act_id": 18
+        }
+      ]
+    }
+  ]
+}

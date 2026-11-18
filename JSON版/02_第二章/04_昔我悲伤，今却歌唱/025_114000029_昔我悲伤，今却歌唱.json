@@ -1,0 +1,3483 @@
+{
+  "schema_version": 1,
+  "title": "昔我悲伤，今却歌唱",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 49,
+      "dialogue": 336,
+      "narration": 3,
+      "subtitle": 36
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 4,
+          "title": "昔我悲伤，今却歌唱",
+          "act": "第三幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 25,
+              "quest_id": 114000029,
+              "title": "昔我悲伤，今却歌唱",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "来吧，告诉我，今天的你想要扮演什么样的角色？",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "即兴演出。",
+                  "text_id": "GNNPC_LGNC_8_2",
+                  "choice_key": "剧情_黎那汐塔基础功能NPC_3_5:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "你看，「梦中人」已经为你准备好了一切必要的“舞台装置”——",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_4"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "还是说，这些琳琅满目的道具不足以让你动心，你需要一个极具想象力的主意？",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_5"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "香水手雷，指环左轮，还是……华丽的丝绒炸弹？",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_6"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "我能为珂莱塔做到的，自然也能为你做到。",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_7"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "顺便我要抱怨一下，最近接到的需求可给我无聊坏了，你看——",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_8"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "鞋底藏锋？无趣。",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_9"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "透视假面？恶俗。",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_10"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "礼花手杖？哎呀呀……",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_11"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "你的需求不会让我失望的，对吗漂泊者？",
+                  "speaker_id": 1485,
+                  "text_id": "GNNPC_LGNC_8_12"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "跟我来吧。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_82_1"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们这是要去哪？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_82_2"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "我还是想暂时保密，给你一个惊喜。不过这个地方，你先前已经来过……",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_82_3"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "尊贵的珂莱塔小姐，您可算回来了！再不回来，小店就要关门准备迎接明天的狂欢节了。",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_44_1"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "之前我嘱咐的事情办妥了吗？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_44_2"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "当然。我办事，您还不放心呀？给。",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_44_3"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "一点心意。阿布也有份。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_44_4"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "真的吗真的吗？我也有份吗？你人真好！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_3_44_5"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "哎呀呀，我说呢。难怪珂莱塔小姐对我千叮咛万嘱咐，要我用最上好的料子，使出最精细的手艺来打造这件东西。",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_44_6"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "我还以为珂莱塔小姐是对我的手艺产生了怀疑，要把小店转手送人，可把人家伤心坏了。",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_44_7"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "今天可终于让我见到，让珂莱塔小姐对这件小东西格外上心的理由了，呵呵呵……",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_44_8"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "奈亚拉，你话有点太多了……咳！总之，你们先拆开看看吧。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_44_9"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "这、这是！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_3_44_10"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "抱歉，我擅自做了主，按照我对你们的印象，托奈亚拉定制了这副面具。也不知道符不符合你们的心意。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_44_11"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谢谢，我很喜欢！",
+                  "text_id": "Main_Linaxita_2_3_44_12",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_2_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "喜欢就好。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_44_14"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "「狂欢节是一场瑰丽狂热的白日梦，面具则是它的通行证」——希望这副面具，能助你们在狂欢节上畅行无阻，光芒夺目。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_44_16"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "一定会的！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_3_44_17"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "可否再多占用你一些时间？陪我一同在夜晚的拉古那城中走走吧，我还有一些额外的信息，想要告知于你。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_44_18"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "拉古那，风暴海上的美人，索拉里斯的蓝宝石……",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_201_1"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "拉古那城的水，如同一面镜子，折射出这座城市的不同侧面，呈现出千万种形象……一如我们自身。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_201_2"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "拉古那人的性格就像潮汐，时而高涨时而低落。我们这般形容我们自己：八面玲珑，随波逐流。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_201_3"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "但对于我们来说，「随波逐流」并非是一个贬义词，它代表着机遇，代表着可能。我喜欢这个词语，就像你的名号一样——漂泊者。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_201_4"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "我们的祖先「随波逐流」登上了这座岛屿。数百年后，家族又「随波逐流」，从异国他乡取得了新的技术。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_201_5"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "有时，它也会带我们驶向未知的风暴。但在穿越风暴之后，它又带我们抵达了「那片海岸」……",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_1"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是指……黑海岸。",
+                  "text_id": "Main_Linaxita_2_3_45_2",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_1_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "家族一直在致力于开拓海上航路。我们曾被卷入风暴，因祸得福，闯入了那座岛屿。我们惊叹于它的科技与理念，从中得到了不少启发。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_3"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "剧团是你派来接应我的？",
+                  "text_id": "Main_Linaxita_2_3_45_4",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_1_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "黑海岸至拉古那之间只有一条相对安全的航路——这条航路，只有莫塔里家族知晓。只要你的驾驶模块没有偏离，剧团，便一定会与你相遇。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_8"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "家族一直在致力于开拓海上航路。我们曾被卷入风暴，因祸得福，闯入了那座岛屿。我们惊叹于它的科技与理念，从中得到了不少启发。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_3"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "邀请函是你发出的？",
+                  "text_id": "Main_Linaxita_2_3_45_5",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_1_1:2",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "是我。那时，我们得知黑海岸在寻找合法进入拉古那的时机。为了令黑海岸的力量参与到黎那汐塔的事务中，我们发出了那封邀请。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_9"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "家族一直在致力于开拓海上航路。我们曾被卷入风暴，因祸得福，闯入了那座岛屿。我们惊叹于它的科技与理念，从中得到了不少启发。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_3"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "家族的目的，不只「自由市场」这么简单吧。",
+                  "text_id": "Main_Linaxita_2_3_45_7",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_1_1:2",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "我们的目的，或许没有你想象中那么危险复杂——我们在寻求一种「解放」，为此，一直在挖掘一个……关于黎那汐塔起源的「真相」。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_11"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "传说，当人们第一次登上岛屿时，「起源信标〔黎那汐塔最初的信标〕」就已经伫立于这片土地之上。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_12"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "人们相信是岁主为人们带来了这项技术，尽管时至今日，人们都只能与岁主通过传音交流，未曾真正见过岁主——发现问题所在了吗？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_13"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "最初的信标……",
+                  "text_id": "Main_Linaxita_2_3_45_14",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_1_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "「声骸」是一种依赖于「终端」科技生成的存在，公共声骸因「起源信标」得以实现。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_16"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "如果人们在登岛之初就已见到了「起源信标」，它是由谁人建立？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_17"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "如果人们都不曾见过神明，人们又为何确信，那尊「岁主像」雕刻的就是神明的姿态？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_18"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "这很可能是一部被修会塑造的「神话」。真正的起源，并不在其中。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_19"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "家族想要上位「掌权」吗？",
+                  "text_id": "Main_Linaxita_2_3_45_20",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_1_1:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "我们不会否认「信仰」的意义，莫塔里家族也并非想要掌控这座城市……或者说，这座城不该由任何人掌控。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_22"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "天色不早了，我为你在「亚格罗塔宫」预留了一间房间。我们沿着道路向南，边走边聊吧。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_23"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "作为睡前故事，我想和你分享一则，我从剧团口中听说的，关于圣女芙露德莉斯的轶事。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_45_24"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "那时的圣女还是一名再平凡不过的农家女孩。在曾经的一次「岁主感恩礼」上，年轻的芙露德莉斯不知怎么瞒过了使节的视线，喝掉了供奉用的圣酒。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_2"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "或许是因为埃格拉小镇产出的美酒太过香醇，又或是她根本不知自己不胜酒力——她被那「古老的幻术〔酒精〕」瞬间迷昏了头。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_3"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "半醉半醒间，少女一跃来到了祭典的高台之上，撩起灰扑扑的裙摆，踉跄着开始了自己滑稽的舞蹈。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_4"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "她夺走圣事用的号角，吹奏出轻快的民间小调。使节们奋力追捕，却怎么也跟不上她的步伐，只能任由她在人群中不断穿行。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_5"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "人们却仿佛受到了某种感召，不约而同地跟随她的号声，纷纷加入到了游行的队伍中去。就这样，那场严肃的祭礼彻底变为了一场闹剧。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_6"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "修会后来自然是惩罚了她。不过那时还没有朝圣船，芙露德莉斯仅仅是被关了三天禁闭，但这段时间已经足以让她把禁闭室的墙面改造成自己的涂鸦墙。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_7"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "那过于夸张混乱的场面，也烙印在了与会的每个人心中。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_8"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "就是这样一个离经叛道的女孩儿，最后却得到了神明的垂青，成为了修会的圣女……不觉得很奇妙吗？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_9"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "如果岁主会允许这样一位少女成为自己的代言人，那么那些喧闹的欢声笑语，也定不是祂所憎恶的事物。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_10"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "若世上真有神明，祂一定也会写诗，会作画，会哭，会笑，会喜欢浪漫的骑士传说，会在人群中翩翩起舞——就和我们一样。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_204_11"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我同样如此相信。",
+                  "text_id": "Main_Linaxita_2_3_205_4",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_35_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "岛屿上的人们来自不同已经灭亡的文明，他们通过演绎表达自己的特质，以此来找寻并重塑有关自身与民族的记忆。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_7"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "个体的自由曾引发了种种纷争与对立，但最终，拉古那人因为「信仰」而「融合」，团结在一起，处于了一种微妙的平衡之中。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_8"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "拉古那人需要「神明」，需要一套以「神话」为母题的戏剧以确立自身存在，联结彼此。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_9"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "只是，这场戏剧太过久远漫长，贵族、市民、信徒、商人……我们的角色泾渭分明，自我暗受压抑。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_10"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "「融合」是曾经的需要。",
+                  "text_id": "Main_Linaxita_2_3_205_11",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_35_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "如今，我们都期待着，有那么一天，我们能够真正地放下彼此的身份与立场，表达真实的自我，肆意地雀跃，欢呼，舞蹈……",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_13"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "所以，这就是狂欢节如今存在的意义。",
+                  "text_id": "Main_Linaxita_2_3_205_14",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_35_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "嗯。在这样一种希冀与理想中，狂欢节诞生了——它提醒着拉古那人设想中最初的平等与自由，见证并肯定着我们的自我价值。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_15"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "我们虽未摸清修会的真正目的，但毫无疑问的是，他们已经将手脚伸向了民众赖以生存的基石。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_16"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "人们以「尊崇」为名信奉着修会所塑造的神祇，但在城中 ，一种对于灾难与责罚的「恐惧」却绵延不绝。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_17"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "神话被用以鼓吹蒙昧，信仰被用以为责罚正名。一座无形的囚笼，已经降临在了这座城市的上空。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_18"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "于囚笼中寻求自由，根本是无稽之谈。恐惧与蒙昧，是我们要击倒的第一个敌人。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_19"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "我相信，今年的这场狂欢节……一定能点燃一束，足以冲破囚笼的火焰。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_20"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "崇尚自由是我们的天性。",
+                  "text_id": "Main_Linaxita_2_3_205_21",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_35_1:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "今晚好好休息吧，明天的狂欢节，我们还要一起登台献演呢，搭档。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_24"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "祝你好梦，晚安。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_205_25"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "narration",
+                  "speaker": null,
+                  "display_label": "界面文字",
+                  "text": "提示",
+                  "text_id": "ConfirmBox_180_Title"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "narration",
+                  "speaker": null,
+                  "display_label": "界面文字",
+                  "text": "即将进入长线任务流程，离开指定区域会中断当前任务流程，后续可从最后的存档点处继续体验。",
+                  "text_id": "ConfirmBox_181_Content"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "narration",
+                  "speaker": null,
+                  "display_label": "界面文字",
+                  "text": "确认",
+                  "text_id": "ConfirmBox_1_ButtonText_1"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "礼宾员",
+                  "text": "您好！珂莱塔小姐已经和我们打过招呼了，我们随时可以为您办理入住。",
+                  "speaker_id": 50062,
+                  "text_id": "Main_Linaxita_2_3_47_1"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我准备休息了。",
+                  "text_id": "Main_Linaxita_2_3_47_2",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_3_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "礼宾员",
+                  "text": "好的，我这就带您去房间！",
+                  "speaker_id": 50062,
+                  "text_id": "Main_Linaxita_2_3_47_4"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "这段时间发生的事情，让你略感疲惫。你在酒店软绵绵的床铺上，好好休息了一晚，逐渐整理好了思绪，准备迎接狂欢节的到来……",
+                  "text_id": "Main_Linaxita_2_3_83_1"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "唔啊——我不是在做梦吧，拉古那城完全变了个样子！这就是狂欢节吗？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_3_84_1"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "着急的顾客",
+                  "text": "玛格烈特小姐，我的订单还没好吗？",
+                  "speaker_id": 50063,
+                  "text_id": "Main_Linaxita_2_3_48_1"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "不耐烦的顾客",
+                  "text": "是啊！我也等了好久了！",
+                  "speaker_id": 50064,
+                  "text_id": "Main_Linaxita_2_3_48_2"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "玛格烈特",
+                  "text": "不好意思，几位客人，今天的订单太多，我和「焙焙」都有些忙不过来了……而且，「焙焙」好像也出了什么问题……",
+                  "speaker_id": 1490,
+                  "text_id": "Main_Linaxita_2_3_48_3"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "「焙焙」",
+                  "text": "*哔——哔——*",
+                  "speaker_id": 50066,
+                  "text_id": "Main_Linaxita_2_3_48_4"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "赞妮",
+                  "text": "别着急，我来看看。",
+                  "speaker_id": 1477,
+                  "text_id": "Main_Linaxita_2_3_48_5"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "赞妮",
+                  "text": "哦，它……应该只是因为超负荷工作，有些过载了。还是让它先休息一下吧。",
+                  "speaker_id": 1477,
+                  "text_id": "Main_Linaxita_2_3_48_6"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "赞妮",
+                  "text": "嗯？早啊，漂泊者。",
+                  "speaker_id": 1477,
+                  "text_id": "Main_Linaxita_2_3_48_7"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "狂欢节你还要工作吗？",
+                  "text_id": "Main_Linaxita_2_3_48_8",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_4_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "赞妮",
+                  "text": "虽然我是很想加入狂欢节啦……你看，我面具都戴好了。",
+                  "speaker_id": 1477,
+                  "text_id": "Main_Linaxita_2_3_48_10"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "赞妮",
+                  "text": "不过我很明白，让这场狂欢节顺利举办下去，才是当前的重中之重。",
+                  "speaker_id": 1477,
+                  "text_id": "Main_Linaxita_2_3_48_11"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "赞妮",
+                  "text": "你们的计划，珂莱塔小姐已经告诉我了。我会和家族成员一起，协助你们的行动的。",
+                  "speaker_id": 1477,
+                  "text_id": "Main_Linaxita_2_3_48_12"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "玛格烈特",
+                  "text": "焙焙，你快先休息一下吧，这里有我顶着。",
+                  "speaker_id": 1490,
+                  "text_id": "Main_Linaxita_2_3_217_1"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "玛格烈特",
+                  "text": "为了今年好不容易举办的狂欢节，我也要拿出十二分火力了！",
+                  "speaker_id": 1490,
+                  "text_id": "Main_Linaxita_2_3_217_2"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "围观的市民",
+                  "text": "这位是，先行公约的「西莫斯先生」？是出了什么问题吗？它好像看起来有些难过？",
+                  "speaker_id": 50067,
+                  "text_id": "Main_Linaxita_2_3_49_1"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "西莫斯",
+                  "text": "*哼……*",
+                  "speaker_id": 1483,
+                  "text_id": "Main_Linaxita_2_3_49_2"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "嗯……我想，西莫斯先生是因为自己一直在为别人拍照，却无法为自己在狂欢节上留影，而有些难过吧？",
+                  "speaker_id": 1475,
+                  "text_id": "Main_Linaxita_2_3_49_3"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "西莫斯",
+                  "text": "*哼哼！*",
+                  "speaker_id": 1483,
+                  "text_id": "Main_Linaxita_2_3_49_4"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "诶？想要和我一起合影吗？可是……",
+                  "speaker_id": 1475,
+                  "text_id": "Main_Linaxita_2_3_49_5"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我来为你们拍照吧。",
+                  "text_id": "Main_Linaxita_2_3_49_6",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_5_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "你好啊，漂泊者。那……麻烦你帮我们拍张合照了。",
+                  "speaker_id": 1475,
+                  "text_id": "Main_Linaxita_2_3_49_9"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "嗨，漂泊者，菲比小姐！我刚才去别的地方记录狂欢节了，你们围在这里，发生什么事情了吗？",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_96_1"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "嗯？这张照片，是漂泊者拍摄的吗？这个构图和光影真不错，没想到你在摄影这方面这么有天赋。",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_96_2"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "「西莫斯先生」看起来很开心？虽然不知道刚刚发生了什么，但总之谢谢你们！",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_96_3"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "西莫斯",
+                  "text": "*哼哼！*",
+                  "speaker_id": 1483,
+                  "text_id": "Main_Linaxita_2_3_96_4"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "还是要多谢漂泊者，是她满足了「西莫斯先生」的心愿。",
+                  "speaker_id": 1475,
+                  "text_id": "Main_Linaxita_2_3_96_5"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "「西莫斯先生」肯定和我们一样，大家都不想在如此盛大的狂欢节上留下遗憾。",
+                  "speaker_id": 1475,
+                  "text_id": "Main_Linaxita_2_3_96_6"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "看起来，你也很期待狂欢节。",
+                  "text_id": "Main_Linaxita_2_3_96_7",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_38_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "岁主热爱世人，我们也乐于见证人们的幸福与喜悦。",
+                  "speaker_id": 1475,
+                  "text_id": "Main_Linaxita_2_3_96_9"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "不过我们都有职责在身，狂欢节还需要我们维持秩序。请恕我无法陪同了。",
+                  "speaker_id": 1475,
+                  "text_id": "Main_Linaxita_2_3_96_10"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "祝你在狂欢节上玩得开心！",
+                  "speaker_id": 1475,
+                  "text_id": "Main_Linaxita_2_3_96_11"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "你来了。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_50_1"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "场面真热闹。",
+                  "text_id": "Main_Linaxita_2_3_50_2",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_21_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "对于拉古那人而言，狂欢节永远是最值得全心投入的盛会。这盛大的场面，是拉古那人的心之所向。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_50_5"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "家族的成员已经就位了，如果遇到任何突发情况，他们会配合我们的行动。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_50_8"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "还是要警觉一些。残星会的人可能早已入场，正隐藏在暗处关注我们呢。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_50_9"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "时间差不多了，剧团应该快要进港了。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_50_10"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "怎么样，准备好「登上舞台」了吗？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_50_11"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我已经做好准备了。",
+                  "text_id": "Main_Linaxita_2_3_50_12",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_21_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "嗯，就像昨天练习时那样，所有的技巧我们都已了然于心。其余的，随机应变就好。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_50_16"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "走吧，我们一起。",
+                  "text_id": "Main_Linaxita_2_3_52_1"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "共赴这场节日。",
+                  "text_id": "Main_Linaxita_2_3_52_10"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "自由若是流于放纵，「分裂」的魔鬼便会趁虚而入。",
+                  "text_id": "Main_Linaxita_2_3_52_2"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "子民们，毋要沉浸于短暂的欢愉，需时刻谨记……我们因何而「联结」在一起……",
+                  "text_id": "Main_Linaxita_2_3_52_3"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "那是什么？",
+                  "text_id": "Main_Linaxita_2_3_52_4"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "生命何必自缚枷锁？",
+                  "text_id": "Main_Linaxita_2_3_52_5"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "活着，理应酣畅淋漓！",
+                  "text_id": "Main_Linaxita_2_3_52_6"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "高墙重而无基……",
+                  "text_id": "Main_Linaxita_2_3_52_7"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "勇敢自由的灵魂……",
+                  "text_id": "Main_Linaxita_2_3_52_8"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "为何不与我们同行？",
+                  "text_id": "Main_Linaxita_2_3_52_9"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "怎么样，准备好「登上舞台」了吗？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_51_1"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我已经做好准备了。",
+                  "text_id": "Main_Linaxita_2_3_51_2",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_21_2:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "嗯，就像昨天练习时那样，所有的技巧我们都已了然于心。其余的，随机应变就好。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_51_6"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "走吧，我们一起。",
+                  "text_id": "Main_Linaxita_2_3_52_1"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "共赴这场节日。",
+                  "text_id": "Main_Linaxita_2_3_52_10"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "自由若是流于放纵，「分裂」的魔鬼便会趁虚而入。",
+                  "text_id": "Main_Linaxita_2_3_52_2"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "子民们，毋要沉浸于短暂的欢愉，需时刻谨记……我们因何而「联结」在一起……",
+                  "text_id": "Main_Linaxita_2_3_52_3"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "那是什么？",
+                  "text_id": "Main_Linaxita_2_3_52_4"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "生命何必自缚枷锁？",
+                  "text_id": "Main_Linaxita_2_3_52_5"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "活着，理应酣畅淋漓！",
+                  "text_id": "Main_Linaxita_2_3_52_6"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "高墙重而无基……",
+                  "text_id": "Main_Linaxita_2_3_52_7"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "勇敢自由的灵魂……",
+                  "text_id": "Main_Linaxita_2_3_52_8"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "为何不与我们同行？",
+                  "text_id": "Main_Linaxita_2_3_52_9"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（那个人……是残星会的成员。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_53_1"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（得追上去看看。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_53_2"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "来这边。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_54_1"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（又消失了？她究竟想把我带去哪里？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_55_1"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "就这里吧。我们又见面了，漂泊者。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_1"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我记得你。",
+                  "text_id": "Main_Linaxita_2_3_56_2",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_18_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "能在你繁多的记忆里留下一帧画面，是我的荣幸。希望我的背景板是这绚烂瑰丽的狂欢节，而非其他深沉喑哑的景象。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_5"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "纸醉金迷，纵情享乐……狂欢节，真美好啊。一场斑斓的「白日梦」，一场盛大的……「集体幻觉」。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_8"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你到底想要说什么？",
+                  "text_id": "Main_Linaxita_2_3_56_9",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_18_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "呵呵……不要担心，我不会打破这场白日梦。这里，还有我们想要寻找的东西。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_12"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "你已经知晓这里的岁主的特别之处，而我们，和你的目的一致：我们都想要找到那位「特别的共鸣者」。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_13"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我想和你交换一个故事，以表我们与你合作的诚意。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_14"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "先说来听听吧。",
+                  "text_id": "Main_Linaxita_2_3_56_15",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_18_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "不要心急。故事总需要一个精彩的演绎。此处的舞台，或许正好合适。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_17"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我们想要在这个故事里传达一个真相。而这个真相，我想，你一定会感兴趣。所以，我们诚邀你和你的同伴们加入。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_19"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "与我们一同投身于这场漫长的戏剧中吧。尝试用微小的力量……去抵挡命运的洪流。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_56_20"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "舞台已经升起，幕布也已拉开。演员们，都该入场了。",
+                  "text_id": "Main_Linaxita_2_3_57_1"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "诸位……敬请观赏。",
+                  "text_id": "Main_Linaxita_2_3_57_2"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "果然不出我们所料，残星会开始行动了。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_58_1"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "还记得我们昨天的彩排吧？所有的准备，都是为了此时。",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_58_2"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "那几株彼岸花，应当就是她用来召唤与操控残象的手段。只要将它们破坏掉，这些残象也会随之逸散。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_58_3"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "赞妮（通讯中）",
+                  "text": "家族的成员已经就位了，西边的广场交给我们。",
+                  "speaker_id": 50071,
+                  "text_id": "Main_Linaxita_2_3_58_4"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "赞妮（通讯中）",
+                  "text": "东面的广场，也有菲比在那维持秩序。",
+                  "speaker_id": 50071,
+                  "text_id": "Main_Linaxita_2_3_58_5"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "赞妮（通讯中）",
+                  "text": "主舞台那边，就是你们尽情表演的主场了。",
+                  "speaker_id": 50071,
+                  "text_id": "Main_Linaxita_2_3_58_6"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为了避免现场发生混乱……",
+                  "text_id": "Main_Linaxita_2_3_58_18",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_40_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "我会负责场景中的氛围和灯光，让这场演出更加可信。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_58_12"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "主持控场的任务，交给我吧。",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_58_11"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "接下来，聚光灯就要打给二位了。",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_58_13"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "走吧，搭档。",
+                  "text_id": "Main_Linaxita_2_3_58_14",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_40_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "幕布已经拉开，可不能让观众们等候太久。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_58_17"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "那么……",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_58_7"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "女士们，先生们！本届狂欢节，最为盛大精彩的剧目，即将开演！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_58_8"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "让我们掌声有请，演员登台！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_58_9"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "无边的黑暗笼罩王国，暴虐的怪物攻城掠地。",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_85_1"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "圣女被魔王劫持，市民陷入混乱……",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_85_2"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "这时！两位勇者站了出来，勇敢地接下了大臣的委托，誓要清除魔物，夺回圣女！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_85_3"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "勇者们突破了第一道关卡，将城中的魔物一扫而光！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_86_1"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "勇者们即将前往魔王的城堡，前路上危险重重……接下来，会有怎样的挑战在等待着他们呢？",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_86_2"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "但没有高墙能够阻挡他们风发的意气，就连群星也将为他们献上喝彩，缔造通途！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_87_1"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "小心，新的敌人出现了。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_88_1"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "魔王派出了它的爪牙，它们早已在此恭候多时……",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_88_2"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "它们对勇者发出了猛烈的攻势，要将勇者粉身碎骨，吃干抹净……",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_89_1"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "搭档，注意躲避！",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_90_1"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "小心！",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_91_1"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "趁现在。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_91_2"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "哦？突如其来的变故打乱了勇者的阵脚，千钧一发之际，一位神秘来客加入了战场！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_91_3"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "是神明派来的使者，还是隐藏在尘世中的精灵？",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_91_4"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "她似乎也被这份热诚与正义鼓舞，新的伙伴，加入了勇者的队伍！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_91_5"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "魔王（弗洛洛）",
+                  "text": "来吧，来吧，我会亲自接受你的挑战……",
+                  "speaker_id": 50072,
+                  "text_id": "Main_Linaxita_2_3_91_6"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "看来，魔王早已对勇者的到来有所预感，它率先对勇者发出了邀请……",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_91_7"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "而我们的勇者，也拿出了同样的觉悟，毅然选择了接受挑战！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_92_1"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "魔王终于现身，显露出它丑恶的面貌与獠牙。这，将是勇者与魔王最后的一战！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_92_2"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "魔王召唤出自己的魔物大军，与勇者殊死一搏……胜败，即将分晓……",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_94_1"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "刀来枪往，奋勇交锋，勇者们挫折了魔王的凶焰——胜利，终将归于正义与勇敢者所有！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_95_1"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "接下来，我们要迎接的，便是「圣女的回归」……",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_95_2"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "故事本该到此收场，对吗？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_95_3"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "可现实从不像故事这般完美，剧作家总是惯于修饰，人们热衷于皆大欢喜的结局……而幕布背后的真实，往往是暴虐的戏谑与讽刺。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_95_4"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我来将这段尾声延续下去——现在，我这般告诉你们：那圣女早已深陷不义，她从异端的神祇中取来力量，置子民于欲壑沉溺。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_95_5"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "而那位大臣，早已发现了一切的真相，宣誓要以双手终结一切。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_95_6"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "来吧，让我们一同迎接……这场狂欢的最高潮。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_59_1"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "看来，她又一次向我们发出了邀请。幕布之后，应是最终的舞台了。漂泊者，准备好了吗？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_120_1"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我准备好了。",
+                  "text_id": "Main_Linaxita_2_3_120_2",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_60_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "城中的问题交给布兰特，他会让演出继续下去。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_120_5"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "走吧。让我们与那位残星会的会监，为这场狂欢节带来一场完美的共演吧。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_120_4"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "「斑猫已经叫过三声，刺猬已经啼了四次。怪鸟在鸣啸——时间到了，时间到了。」",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_60_1"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "彼世的女巫，我在此呼唤：请为我等带来公正的预言，愿我等得到命运同样的垂怜。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_60_2"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "赫卡忒（弗洛洛）",
+                  "text": "我王，您为何踌躇？您的双脚已步入血河，覆水难收。",
+                  "speaker_id": 50073,
+                  "text_id": "Main_Linaxita_2_3_62_1"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "赫卡忒（弗洛洛）",
+                  "text": "以不义开始的事业，必将以罪恶使其巩固……苦涩的灵魂，仍需磨砺。",
+                  "speaker_id": 50073,
+                  "text_id": "Main_Linaxita_2_3_62_2"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "赫卡忒（弗洛洛）",
+                  "text": "如此，我将掷下第二道预言，为您斩断种种虚妄的幻影——凡属此世之人，无法伤您分毫。",
+                  "speaker_id": 50073,
+                  "text_id": "Main_Linaxita_2_3_62_3"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "赫卡忒（弗洛洛）",
+                  "text": "而您，也必将得到子民的拥护。",
+                  "speaker_id": 50073,
+                  "text_id": "Main_Linaxita_2_3_62_4"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "赫卡忒（弗洛洛）",
+                  "text": "我王，您要藐视命运，唾斥死生，超越一切善恶，排弃一切疑虑，执着不可能的希望……",
+                  "speaker_id": 50073,
+                  "text_id": "Main_Linaxita_2_3_63_1"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "赫卡忒（弗洛洛）",
+                  "text": "我将掷出第三道预言，也是最后的预言——以残暴开始的欢愉，终将以残暴终结。",
+                  "speaker_id": 50073,
+                  "text_id": "Main_Linaxita_2_3_63_3"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "很可惜。在她的预言中，「王」不会在这一幕退场。",
+                  "text_id": "Main_Linaxita_2_3_64_1"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "梦该醒了，你是否从中窥探到些许真相？",
+                  "text_id": "Main_Linaxita_2_3_64_2"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "前两道预言皆已成真。但……我期待着，第三道预言，由你来改写。",
+                  "text_id": "Main_Linaxita_2_3_64_3"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "（呜——）",
+                  "text_id": "Main_Linaxita_2_3_64_7"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "海里的……那是什么？",
+                  "text_id": "Main_Linaxita_2_3_64_8"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "它好像朝我们冲过来了！",
+                  "text_id": "Main_Linaxita_2_3_64_9"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "神、神罚……和十年前一样！神罚又要降临了！",
+                  "text_id": "Main_Linaxita_2_3_64_4"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "只要击败她，就能让溯海之鲸摆脱控制。",
+                  "text_id": "Main_Linaxita_2_3_64_5"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "为这场演出，划上一个完美的句号吧。",
+                  "text_id": "Main_Linaxita_2_3_64_6"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "*佩洛！*",
+                  "text_id": "Main_Linaxita_2_3_64_14"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "精彩的演出。",
+                  "text_id": "Main_Linaxita_2_3_64_10"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "差不多，也该准备谢幕了。但……",
+                  "text_id": "Main_Linaxita_2_3_64_11"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我们之间的乐章……",
+                  "text_id": "Main_Linaxita_2_3_64_12"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "……序曲，才刚刚奏响。",
+                  "text_id": "Main_Linaxita_2_3_64_13"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "漂泊者，理应站在主角位谢幕。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_66_1"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "这震耳欲聋的欢呼声……真是久违了！果然，这才是狂欢节应该有的氛围！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_66_2"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "今年狂欢节的危机，到这里，算是全部落下帷幕了。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_66_3"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这是我们共同达成的结果。",
+                  "text_id": "Main_Linaxita_2_3_66_4",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_30_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "御者……我听到了……你们的呼唤……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_66_7"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……我已等候了……太久……太久……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_66_8"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我有很多事想要问你。",
+                  "text_id": "Main_Linaxita_2_3_66_9",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_30_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "御者……我正身负枷锁……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_66_12"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "穿越云雾，升入群星……届时，你将会看到一座倒悬于天空之中的高塔——我正在那里俯瞰着世间万物。",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_66_13"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……迷途者……正在人间短暂停留……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_66_14"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "去寻找吧……她同样正身处……这场节日之中……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_66_15"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "哎呀，这不是我们的「摘桂之人」吗？怎么样，这副面具，是否还合你的心意？",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_231_1"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "满意的话，日后，还望多来光顾一下小店了，呵呵。",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_231_2"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "话虽如此，你戴着从「梦中人」定制的面具摘得了桂冠，倒是小店沾了你的光呢。我应当率先感谢你才是，这对小店而言，无疑是一种最好的宣传。",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_231_3"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "这场梦，也要因你而变得更加璀璨了。",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_231_4"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "奈亚拉",
+                  "text": "珂莱塔这次，还真没看错人呢，呵呵呵……",
+                  "speaker_id": 1485,
+                  "text_id": "Main_Linaxita_2_3_231_5"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "表示赞赏的民众",
+                  "text": "再来一场！再来一场！这场演出真的太精彩了！",
+                  "speaker_id": 900115,
+                  "text_id": "Main_Linaxita_2_3_227_1"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "表示惊奇的民众",
+                  "text": "这些人是什么来历？听说是莫塔里家族邀请来的？以前在狂欢节上可没见过他们啊！",
+                  "speaker_id": 900116,
+                  "text_id": "Main_Linaxita_2_3_227_2"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "表示赞赏的民众",
+                  "text": "狂欢节这都多少年没办了？停办期间，肯定有很多人都在默默筹备排练吧？有我们不认识的后起之秀出现，也很正常！",
+                  "speaker_id": 900115,
+                  "text_id": "Main_Linaxita_2_3_227_3"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "表示惊奇的民众",
+                  "text": "哎，你说的对。",
+                  "speaker_id": 900116,
+                  "text_id": "Main_Linaxita_2_3_227_4"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "惊讶的民众",
+                  "text": "你看到了吗！根本没有什么所谓的神罚，都是假的！十年前的那头海兽，原来只是一头鲸鱼！",
+                  "speaker_id": 900111,
+                  "text_id": "Main_Linaxita_2_3_223_1"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "意外的民众",
+                  "text": "是啊……我们怎么都没想到呢？",
+                  "speaker_id": 900112,
+                  "text_id": "Main_Linaxita_2_3_223_2"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "惊讶的民众",
+                  "text": "可能是因为那年大雾弥漫，加上修会的一些莫名其妙的说辞，搞得大家人心惶惶……",
+                  "speaker_id": 900111,
+                  "text_id": "Main_Linaxita_2_3_223_3"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "意外的民众",
+                  "text": "那这么说来，鬼魂、巨龙、甚至那片浓雾，都可能另有隐情？",
+                  "speaker_id": 900112,
+                  "text_id": "Main_Linaxita_2_3_223_4"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "惊讶的民众",
+                  "text": "我也有同样的猜测！不如我们之后搭伙出海调查一番，说不定能发现什么惊人的秘密，到时候，我们也可以留名拉古那城了！",
+                  "speaker_id": 900111,
+                  "text_id": "Main_Linaxita_2_3_223_5"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "若有所思的民众",
+                  "text": "噢……我是做了一场梦吗？刚才的天空和现在完全不一样……",
+                  "speaker_id": 900113,
+                  "text_id": "Main_Linaxita_2_3_225_1"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "完全沉浸的民众",
+                  "text": "应该只是那支剧团带来的“舞台特效”吧！",
+                  "speaker_id": 900114,
+                  "text_id": "Main_Linaxita_2_3_225_2"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "若有所思的民众",
+                  "text": "是吗……可这效果也太逼真了……",
+                  "speaker_id": 900113,
+                  "text_id": "Main_Linaxita_2_3_225_3"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "完全沉浸的民众",
+                  "text": "他们的成员明显都是些共鸣者，还有那么多声骸成员协助，有这种本领也不奇怪吧？",
+                  "speaker_id": 900114,
+                  "text_id": "Main_Linaxita_2_3_225_4"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "完全沉浸的民众",
+                  "text": "就把它当做一场梦吧！也没什么不好的——狂欢节，本就该是一场瑰丽烂漫的梦！",
+                  "speaker_id": 900114,
+                  "text_id": "Main_Linaxita_2_3_225_5"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "嗨！漂泊者！你有收到我发给你的照片吗？",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_229_1"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "是我抓拍到的——你们谢幕的瞬间！已经通过终端发送给你了！",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_229_2"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "你们的演出真是精彩啊，仅仅是在台下观看，我都能感觉到热血澎湃。",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_229_3"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "对了，你们的演出形式……是叫“即兴喜剧”，对吧？真是一种大胆而新奇的尝试……",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_229_4"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "有机会的话，我想为游行剧团拍摄一部纪录片……不，机会是要自己创造的！",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_229_5"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "斐林",
+                  "text": "我这就去准备拍摄计划，到时候，有劳你多帮我联系一下游行剧团了！",
+                  "speaker_id": 50068,
+                  "text_id": "Main_Linaxita_2_3_229_6"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "下一个动作……是这样吗？好像不对……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_67_1"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你好。",
+                  "text_id": "Main_Linaxita_2_3_67_2",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_31_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你是……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_67_5"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "没、没什么……你们刚才的演出真是精彩！",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_67_6"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我也是被这场狂欢节吸引而来的。这种规模的狂欢节，真是许久未见了。",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_67_7"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "无论何时，能听到大家的欢笑声，都是一件令人开心的事情。",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_67_8"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "刚才，你们谢幕时的那段表演，那段舞步，可以再多指点我一下吗？",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_67_9"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你的声痕，一直在闪烁。",
+                  "text_id": "Main_Linaxita_2_3_67_10",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_31_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "抱歉，我不能在这里停留太久，我该回去了……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_67_11"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可以告诉我，你的名字吗？",
+                  "text_id": "Main_Linaxita_2_3_67_12",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_31_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我的名字？我的名字……是……",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_67_13"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "芙……不。卡提希娅……嗯，我的名字是卡提希娅。",
+                  "speaker_id": 50074,
+                  "text_id": "Main_Linaxita_2_3_67_14"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅",
+                  "text": "再会了，「摘桂之人」！希望下次有机会，可以和你们的剧团一起演出！",
+                  "speaker_id": 50074,
+                  "text_id": "Main_Linaxita_2_3_67_15"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "漂泊者，家族的成员告诉我，他们目睹到你在和一面墙自言自语……我担心你又受到了弗洛洛的幻术影响。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_16"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们……都看不见她吗？",
+                  "text_id": "Main_Linaxita_2_3_67_17",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_31_1:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "看见……谁？漂泊者，你还好吗？",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_18"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "刚才这里，有一位名叫卡提希娅的女孩。",
+                  "text_id": "Main_Linaxita_2_3_67_19",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_31_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 294,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我循着岁主的指引找到了她。",
+                  "text_id": "Main_Linaxita_2_3_67_20",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_31_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "卡提希娅……这个名字，我记下了。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_21"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "如果她方才就站在这里，那她目前应该还没有离开拉古那城。我联系下家族成员，让他们即刻在拉古那城展开搜寻……",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_22"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "还是先不要惊扰到民众了。",
+                  "text_id": "Main_Linaxita_2_3_67_23",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_31_1:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "还有很多有关修会和岁主的疑点没有查清，我们都需要时间整理已有的线索。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_67_25"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "在这个时候贸然行动，怕是又会惊动修会的眼线，扰乱好不容易顺利举办的狂欢节。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_67_26"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "……我知道了。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_27"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "卡提希娅……我会让家族成员再调查一下这个人。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_28"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "有任何消息，我会联系你，到时我们再一起商量一下后续的规划与对策。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_29"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "在那之前，正如你所说……",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_30"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "先将这场狂欢节，继续延续下去吧。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_67_31"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "这是方才金发少女站立的地点。你驻足于此，仍能感知到些许的频率波动。举目四顾，神秘的少女早已消失得无影无踪。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_3_232_1"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "从珂莱塔的反应来看，似乎除你之外，并没有人能够感知到她的存在。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_3_232_2"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "她究竟是何人？又是何种存在？她来到此处，仅仅是为了今年的狂欢节吗？",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_3_232_3"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "寻找答案的道路必定不会一帆风顺。但无论如何，坚实的意志、探知的决心、求索的勇气……获得真相所必要的东西，这些，你一无所缺。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Linaxita_2_3_232_4"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "狂欢节的危机已经被解除，你与伙伴们在欢呼与喝彩中度过了美好的一天……",
+                  "text_id": "Main_Linaxita_2_3_671_1"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "回到亚格罗塔宫宾馆，你回想着在狂欢节上经历的种种，渐渐沉入了梦乡……",
+                  "text_id": "Main_Linaxita_2_3_671_2"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔（通讯中）",
+                  "text": "醒着吗？漂泊者？昨晚没睡太晚吧。",
+                  "speaker_id": 50036,
+                  "text_id": "Main_Linaxita_2_3_72_1"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔（通讯中）",
+                  "text": "有关岁主，我们整理出了一些新的线索。来家族的「接头据点」，我们面聊吧。",
+                  "speaker_id": 50036,
+                  "text_id": "Main_Linaxita_2_3_72_2"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔（通讯中）",
+                  "text": "地址已经发送到你的终端上了。布兰特与洛可可也在，我们在这等你。",
+                  "speaker_id": 50036,
+                  "text_id": "Main_Linaxita_2_3_72_3"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "举杯吧！呼喊吧！朋友们！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_73_1"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "敬我们，敬狂欢节，还有我们的，漂泊者！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_73_2"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "听听，这响亮的名号——谁终将声震人间，必长久如云漂泊！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_73_3"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没错，正是在下！",
+                  "text_id": "Main_Linaxita_2_3_73_4",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_54_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "哈哈哈！你来啦，朋友！赞美如果太过含蓄，那便毫无意义！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_73_49"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "别看布兰特和平时表现得没什么区别，其实他已经醉了。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_73_7"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "狂欢的余音仍在继续，难得的日子，怎么欢腾怎么来吧。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_8"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "各位，尽管开怀畅饮吧，我来买单。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_9"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "众人",
+                  "text": "好耶！！！",
+                  "speaker_id": 702,
+                  "text_id": "Main_Linaxita_2_3_73_10"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "是因为“隔墙有耳”吧。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_73_11"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们还是引起了一些多余的目光。",
+                  "text_id": "Main_Linaxita_2_3_73_12",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_54_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "一位虔诚的教士，可不会无端进出这种地方。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_73_14"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "莫塔里家族没有将客人拒之门外的习惯。但若想免费从我们这里得到些什么……可没那么容易。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_15"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "来来来，朋友们，让气氛再热闹一些吧！",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_73_16"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "漂泊者，简单聊一下吧，目前我们掌握的，有关岁主的情报。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_17"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "在狂欢节上，你听到了岁主的传音，找到了一位名叫「卡提希娅」的女孩……这条线索，家族已经调查出了些许眉目。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_18"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "凡于修会任职的高阶教士，都会领受新的「名号」。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_19"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "我们联系了那位修会的教士，菲比。在查阅了修会的史籍后，她告知我们，圣女芙露德莉斯，领受新名前的本名……正是卡提希娅。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_20"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "所以……那位圣女，就是岁主的共鸣者？",
+                  "text_id": "Main_Linaxita_2_3_73_21",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_54_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "但是圣女，应该已经在二十年前殉道了……",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_44"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "难道另有隐情……",
+                  "text_id": "Main_Linaxita_2_3_73_45",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_54_1:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "其中真相，家族会继续调查。除此之外，我们还剩下唯一的线索，就只有你从岁主口中所听说的，那座「倒悬的高塔」。但它同样过于虚无缥缈……",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_22"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "看珂莱塔小姐从容的样子，应该是又发现了新的线索吧？",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_73_23"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "还记得我们在遗迹彩窗中获得的信息吗？黎那汐塔最初，存在着两位神明。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_24"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "如果其中一位指向岁主，那么另一位能够与祂并肩而立，有如神明般的存在……则极有可能指向鸣式。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_25"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "岁主与鸣式，彼此关联，那么一方的情报，势必能带出另一方的线索。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_26"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "那位翡萨烈家族的成员，吉尔贝，还有印象吗？我们又花了一点时间，从他的嘴里撬出了一些隐藏的情报。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_27"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "按照他的说法，翡萨烈家族真实信仰的神明，是来自深海的鸣式「利维亚坦」。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_28"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "将鸣式作为神明信仰……",
+                  "text_id": "Main_Linaxita_2_3_73_29",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_54_1:24",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "难以置信，是吗？我也一样。但近来发生的事情，都愈发佐证了那则史话的真实性。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_30"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "翡萨烈家族自黎那汐塔建立之初，便存在于这片土地上……鸣式信仰，可能也已经在这片土地上，存在了数百年之久。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_73_31"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "家族会联络翡萨烈家族，尝试与他们建立合作，获取更多的情报。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_32"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "翡萨烈家族会愿意合作吗？",
+                  "text_id": "Main_Linaxita_2_3_73_33",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_54_1:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "放心，谈判是莫塔里家族最擅长的事。如果有必要，我们会开出一个……「令他们无法拒绝的条件」。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_34"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "寡言的教士",
+                  "text": "抱歉打扰几位的雅兴。您好，尊贵的客人。",
+                  "speaker_id": 50075,
+                  "text_id": "Main_Linaxita_2_3_73_35"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "寡言的教士",
+                  "text": "芬莱克主座，希望邀您前往水星天教堂一叙，不知您是否愿意前往？",
+                  "speaker_id": 50075,
+                  "text_id": "Main_Linaxita_2_3_73_36"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "布兰特",
+                  "text": "真是稀奇啊，那位主座什么时候变得这么开朗外向了？",
+                  "speaker_id": 1462,
+                  "text_id": "Main_Linaxita_2_3_73_37"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "洛可可",
+                  "text": "也许是一份不怀好意的邀约。",
+                  "speaker_id": 1533,
+                  "text_id": "Main_Linaxita_2_3_73_38"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "寡言的教士",
+                  "text": "我只是代我们的主座传达这份诚意。决定的权利，在您的手中。",
+                  "speaker_id": 50075,
+                  "text_id": "Main_Linaxita_2_3_73_39"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "别担心，他不敢把我怎么样。",
+                  "text_id": "Main_Linaxita_2_3_73_40",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_54_1:33",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "遇到情况随时联系。我们都在你的身后。",
+                  "speaker_id": 50001,
+                  "text_id": "Main_Linaxita_2_3_73_42"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "寡言的教士",
+                  "text": "那么，请随我前往水星天教堂吧。",
+                  "speaker_id": 50075,
+                  "text_id": "Main_Linaxita_2_3_73_43"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我从未见过如此阴郁而又光明的日子。",
+                  "speaker_id": 200052,
+                  "text_id": "Main_Linaxita_2_3_69_47"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "鸟儿在歌唱，鲜花在盛放……可这尘世，既没有欢乐，也没有永恒。",
+                  "speaker_id": 200052,
+                  "text_id": "Main_Linaxita_2_3_69_48"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "义人，无需拘谨，请上前来吧。",
+                  "speaker_id": 200052,
+                  "text_id": "Main_Linaxita_2_3_69_3"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我即是「隐海修会」如今的「主座」，芬莱克。我已听闻了您的事迹，请原谅我的怠慢：因诸多俗务，今日才与您相见。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_4"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "也请允许我向您献上敬意——您同那支游行的剧团展示了你们的才华与雄心，为这座拉古那城再次注入了活力。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_5"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "希望您能代我向剧团的成员们转告：即日起，游行剧团拥有进入拉古那城演出的永久资格。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_6"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我会替你转达。",
+                  "text_id": "Main_Linaxita_2_3_69_7",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_55_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "凡人皆会犯错。而今，他们已经通过「朝圣」得到了洗礼，赎偿了曾经犯下的罪过，自然可以获得再度回归「神的国度」的权利。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_9"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我能理解此时您心中埋藏的诸多疑问。在公正神明的殿前，请尽管发问，我将知无不言。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_10"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我也以「岁主英白拉多」之名，在此起誓：所言绝无虚饰。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_11"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我想见「岁主英白拉多」。",
+                  "text_id": "Main_Linaxita_2_3_69_12",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_55_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "您已行走在祂所行的道路上，无疑具有面见祂的资格。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_13"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "但……很遗憾，因二十年前那场黑潮的缘故，岁主的身躯再度被撕裂，祂的伤口仍未愈合。如今，仍处于休养之中。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_14"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "如果您有觐见的诉求，我会代为传达您的话语。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_15"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "您的眼神中，仍有着对真相的渴求。我明白，您的心中尚有疑虑，请说吧。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_16"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我想知道，有关圣女芙露德莉斯的事情。",
+                  "text_id": "Main_Linaxita_2_3_69_17",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_55_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "芙露德莉斯……岁主贤明的代行者，我们感念她的功绩与洪恩。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_18"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "二十年前，黑潮再度爆发之时，她以神圣之躯，将象征灾厄的黑潮封印，完成了在人间的职责，永远地回归了神明的怀抱。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_19"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "回归了神明的怀抱？",
+                  "text_id": "Main_Linaxita_2_3_69_20",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_55_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "义人，您可知，「黑潮」因何而诞生？",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_21"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "黎那汐塔，曾爆发过数起以信仰为名号的战争。岁主，也因我们信仰的分歧而被撕裂。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_22"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "「黑潮」的本质，正是岁主神力流失，身躯被撕裂而流下的「神血」。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_23"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "惨痛的过往，在岁主的身躯上留下累累伤口，神力的残损，使祂再难遏制二十年前那场黑潮的爆发。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_24"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "圣女，最终选择了以身殉道……她与神再度共鸣，并以其全部共鸣力反哺了岁主，为岁主恢复了些许神力，才得以令那场黑潮止息。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_25"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "然岁主仍未痊愈，祂依然需要人间的代言人——在圣女离去后，神授予了我新的权柄，以肃清黑潮的余毒。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_26"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我正是在那时，领受了神明的赐福，成为了新的「神启者」。依祂所思，行祂所愿，继续完成祂在人间应尽的事。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_27"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "因而，我们要整合所有分离的信仰，保证我们意志的统一与纯粹。如此，才能避免过去的惨剧……再度上演。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_28"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（思考有关“再度共鸣”的描述。）",
+                  "text_id": "Main_Linaxita_2_3_69_29",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_55_1:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（再度共鸣……难道指的是「二次共鸣」？今州岁主「角」曾与今汐进行过「二次共鸣」的试炼，但岁主力量的转移，必须经由我的权限准予……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_69_30"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……你肯定还有所隐瞒。",
+                  "text_id": "Main_Linaxita_2_3_69_32",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_55_1:24",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "……我对您的所言，绝无虚饰。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_33"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "但我于您的眼神中，能够看到，您在这条公义的道路上，行走得远比我想象中遥远。如此……",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_34"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "岁主啊……请宽恕我的罪过。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_35"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "「黑潮」为我们带来了沉重的训诫。为了不致子民再度动摇，我曾坚守缄默的誓言，将那日所见的景象深埋心底。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_36"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "那欺世盗名的不义者，芙露德莉斯，她欺骗了我们所有人：她并非岁主选中的圣女……而预言中真正的圣女，时至今日，仍未显现。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_38"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那人们为何相信她是神选的圣女？",
+                  "text_id": "Main_Linaxita_2_3_69_39",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_55_1:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 392,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "您应知晓，这世上，仍有其他足以比肩我们神明的存在——人类万古的大敌，一切文明的心魔……「鸣式」。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_41"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "但您可知，如同岁主会拥有自己的共鸣者一般……鸣式，同样会拥有自己的共鸣者。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_42"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "芙露德莉斯，她的身躯与精神，皆由我们古老的敌人所塑造；她的所做与所为，旨在将这座城市拉向恐惧与分裂的深渊。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_44"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "这即是那一日，我所目睹的真相——芙露德莉斯，乃是……由鸣式选召的共鸣者。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_3_69_45"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "怎么会这样……那位圣女……竟然是鸣式的共鸣者。那位主座的话，真的可以相信吗？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_3_74_1"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "可我们不是在岁主的指引下找到的她吗？那位名叫卡提希娅的少女……岁主总不可能认错自己的共鸣者吧……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_3_74_2"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "头晕晕的……圣女到底是岁主还是鸣式的共鸣者呀……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_3_74_3"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那位主座的态度也不像在说谎。",
+                  "text_id": "Main_Linaxita_2_3_74_4",
+                  "choice_key": "剧情_2_0_黎那汐塔主线_第三幕下_狂欢节_58_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "嗯……但是我们好像，也没法从那位主座的口中再问出更多的情报了……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_3_74_7"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……我们目前所有的线索都隐约指向了鸣式。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_74_8"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "还有那个信仰鸣式的翡萨烈家族……姑且，只能等待珂莱塔那边与翡萨烈家族牵上线了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_74_9"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我有预感，这场狂欢，只是序幕……一切，才刚刚开始。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_3_74_10"
+                },
+                {
+                  "sequence": 404,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "弗洛洛，你总是喜欢做一些……多余的事情。",
+                  "speaker_id": 178,
+                  "text_id": "Main_Linaxita_2_3_70_1"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "幕间休息的时候，可没说不允许演员自由活动。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_2"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "而且，我也并没有打乱你剧本中原有的编排。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_3"
+                },
+                {
+                  "sequence": 407,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "“察觉到真相的异邦人，向神明举起了利剑。沉睡的神明们也因此挣脱桎梏，显示各自原本的姿态……”",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_4"
+                },
+                {
+                  "sequence": 408,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "二次共鸣的可能已被证实。我们如今，是要确认那个「特别的共鸣者」的确存在——这是我们此行的目的。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_5"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "那位圣女……究竟是岁主的共鸣者，还是鸣式的共鸣者？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_6"
+                },
+                {
+                  "sequence": 410,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "又或是……两者皆是？能承担两股力量的共鸣者……我很期待这个故事最终呈现的结局。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_7"
+                },
+                {
+                  "sequence": 411,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "克里斯托弗，如果你不愿将故事的下一幕透露给我，我就只能对你所撰写的剧情，进行一些小小的推动了。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_8"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "更何况，在你的剧本中，那位漂泊者的作用，可比其他人大得多。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_9"
+                },
+                {
+                  "sequence": 413,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "我们追求的事物不一样。我并不喜欢你所钟爱的那种……操纵感。",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_10"
+                },
+                {
+                  "sequence": 414,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "我要做的，只是将人物放在他们应在的位置上，然后……他们会凭借自己的意志做出行动的。",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_11"
+                },
+                {
+                  "sequence": 415,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "在荒谬的事业中保持勇气，只为自我寻求一份孤独的恩典——这才是「人」最高贵的地方，不是吗？",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_12"
+                },
+                {
+                  "sequence": 416,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "死亡的韵律即使再纯粹，也无法抵过那些鲁莽、鲜活、强大的生命气息。",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_13"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "在求索的路上，他会坚决地消除和超越所有阻碍：他追求，他撕裂，他焚毁——只因他意愿如此。",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_14"
+                },
+                {
+                  "sequence": 418,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "有时，我认为你也应该离开那幽深的府邸，多出来走走，聆听一下这世间的声音。",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_15"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "……也许吧。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_16"
+                },
+                {
+                  "sequence": 420,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "从瑝珑到黎那汐塔，她的确给我的乐章，添加了几节意外美妙的旋律。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_3_70_17"
+                },
+                {
+                  "sequence": 421,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "我相信，即使无人指引，她也依然会踏上应行的道途。",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_18"
+                },
+                {
+                  "sequence": 422,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "上升的一切必然交汇，一切最终必将抵达于……不朽。",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_19"
+                },
+                {
+                  "sequence": 423,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "在「潮涌的命运」面前，我们都是……",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_20"
+                },
+                {
+                  "sequence": 424,
+                  "kind": "dialogue",
+                  "speaker": "克里斯托弗",
+                  "text": "……谦卑的仆人。",
+                  "speaker_id": 50080,
+                  "text_id": "Main_Linaxita_2_3_70_21"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "黎那汐塔 第二章",
+          "source_act_id": 14
+        }
+      ]
+    }
+  ]
+}

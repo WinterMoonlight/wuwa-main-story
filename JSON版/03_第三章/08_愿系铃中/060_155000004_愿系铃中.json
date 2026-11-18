@@ -1,0 +1,1366 @@
+{
+  "schema_version": 1,
+  "title": "愿系铃中",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 3,
+      "dialogue": 162
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 8,
+          "title": "愿系铃中",
+          "act": "幕间",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 60,
+              "quest_id": 155000004,
+              "title": "愿系铃中",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "你在看什么？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "喔，你来了。我只是在想象，要是我想要再拉一笔天文数字的投资，用于研究面前这个巨大机兵衍生出的各色隧群产物……",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "我得编出份什么样的企划案，才能让整个索拉里斯有名有姓的势力都点头，每年老老实实地把钱塞进我口袋里。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "想到了吗？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "没有，我的道德不允许我细想，不过能想到办法的人已经回来了。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……那个答应为我提供刀的老爷子？深空联合的总负责人？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "是，别看他当时答应得挺痛快，脑子里估计绕过一百个弯了，要不是苇原现在是那副样子，他不会轻易同意给你做那把刀。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "多少，也得从你身上撬出足够的价码才肯做。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……我没有找到那孩子，那片区域中的时空过于混乱，纸役最终都迷失了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_19"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "嗯……需要能坚持更久的探测手段才行吗？",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_20"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "但是最近的虚质异常活跃，最好还是要有明确的指引。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_21"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "那孩子是隧者的共鸣者，没有比这更强烈的指引了。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_22"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "看来让隧者启动的时机已经到了，在这种情况下不管是麻烦的大人还是适合驾驶的人应该都会欣然同意吧？",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_23"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "诶，你说就用隧者启动时的影像去拉投资如何？",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_24"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "保密协议怎么办？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_25"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "那我在资金这块的心病怎么办？",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_26"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "去趟穗波吧。我已经帮你处理好外出申请了。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_27"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "为什么？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_28"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "为了……试试刀？",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_29"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "就算隧者启动了，也有失败的可能。那样的话，你所封印的那片黯原会成为一个风险点……",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_30"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "但也可能成为我们翻盘的希望。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_31"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "所以，在我给你派发镇守黯原这不近人情的任务前，先去解决下你自己的心病吧。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_32"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……嗯，我一天后回来。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_33"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "两天，多停一天吧，四处转转也好。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_14"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "去吧，黑海岸的人会负责接应你。唉……我还得回去处理陆医生给我留下的麻烦事。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_15"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "好。需要时联系我。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_1_16"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "嗯，我在听……",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_17"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "洛瑟菈",
+                  "text": "和达妮娅有关吗……晚些时候当面说吧。",
+                  "speaker_id": 150057,
+                  "text_id": "Zuoyequnxing_1_18"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "巫女大人，您听得到吗？",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_1"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯，叫我绯雪就好。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_2_2"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "好的，绯雪大人。",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_3"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……嗯。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_2_4"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "穗波市内大部分往人都已得到妥善安置，但有部分执念过深的往人，仍在危险区域内徘徊。",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_5"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "他们未被实现的强烈愿望会吸引悲鸣力量聚集，诱发不可控的事件。",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_6"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "有您在，问题就简单多了，没想到您会来主动协助……",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_7"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "守护穗波，本就是灼樱巫女的分内事，多谢各位协助。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_2_8"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "而且，我也有事要拜托你们。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_2_9"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "啊，您是指上任巫女玉露的事吧？我们已经找到了类似的频率痕迹，但还不能确定具体的情况。",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_10"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "我们在尝试确认更具体的位置，有进展我会及时联系您。",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_11"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "麻烦你们了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_2_12"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "没有没有，如果当年没有您在，我早就……总之，这里就拜托您了！",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_13"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "交给我就好。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_2_14"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "你，有话想和我说？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_2_15"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸联络员（通讯中）",
+                  "text": "……没什么的！绯雪大人，嗯……就是……您辛苦了！再见！",
+                  "speaker_id": 850630,
+                  "text_id": "Zuoyequnxing_2_16"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "情绪激昂的青年",
+                  "text": "您……您是……！",
+                  "speaker_id": 250116,
+                  "text_id": "Zuoyequnxing_4_1"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_4_2"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "情绪激昂的青年",
+                  "text": "灼樱巫女大人，您回来了！我就知道那些怪物伤不了您！",
+                  "speaker_id": 250116,
+                  "text_id": "Zuoyequnxing_4_3"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "情绪激昂的青年",
+                  "text": "他们都觉得自己会死在这儿，我说不会！巫女大人一定会来救我们！",
+                  "speaker_id": 250116,
+                  "text_id": "Zuoyequnxing_4_4"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……抱歉，我来迟了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_4_5"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "情绪激昂的青年",
+                  "text": "没关系！我这不是等到您来了吗？",
+                  "speaker_id": 250116,
+                  "text_id": "Zuoyequnxing_4_6"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "情绪激昂的青年",
+                  "text": "请您亲口告诉我吧，灼樱巫女已亲临战场，击退那些怪物……！",
+                  "speaker_id": 250116,
+                  "text_id": "Zuoyequnxing_4_7"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "鸣式已退去了，但我没能……没能救下你们……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_4_8"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "情绪激昂的青年",
+                  "text": "但您又一次击退了鸣式，早晚有一天，您会将鸣式彻底从苇原驱逐出去！",
+                  "speaker_id": 250116,
+                  "text_id": "Zuoyequnxing_4_9"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯，我已收下你的愿望，总有一天……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_4_10"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "「祓净」往人",
+                  "text_id": "Zuoyequnxing_4_11",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半序章_3_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（我……愧对了他们的期待。）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_5_1"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（无论击退多少次，鸣式总会卷土重来。）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_5_2"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（苇原，何时才会得到解脱……）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_5_3"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "悲伤的男人",
+                  "text": "都怪你们……什么「永世巫女」……一群废物……都是一群废物！",
+                  "speaker_id": 250117,
+                  "text_id": "Zuoyequnxing_6_1"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_6_2"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "悲伤的男人",
+                  "text": "你怎么还敢出现在穗波……！",
+                  "speaker_id": 250117,
+                  "text_id": "Zuoyequnxing_6_3"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "悲伤的男人",
+                  "text": "都死了！大家全都死了！哈哈……我早该知道的，鸣式是打不赢的……我就该逃远点，再远点……",
+                  "speaker_id": 250117,
+                  "text_id": "Zuoyequnxing_6_4"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "悲伤的男人",
+                  "text": "巫女大人……巫女大人！想想办法吧，想想办法吧？",
+                  "speaker_id": 250117,
+                  "text_id": "Zuoyequnxing_6_5"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_6_6"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "悲伤的男人",
+                  "text": "你们这些强大的人不会死的，就算输了也不会死，我们这些普通人呢……只能等着鸣式杀死我们吗？",
+                  "speaker_id": 250117,
+                  "text_id": "Zuoyequnxing_6_8"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "悲伤的男人",
+                  "text": "……我知道你们守不住，我知道鸣式怎么都杀不死，但……但怎么办？",
+                  "speaker_id": 250117,
+                  "text_id": "Zuoyequnxing_6_7"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "悲伤的男人",
+                  "text": "巫女大人……英雄们……！我们怎么办？！",
+                  "speaker_id": 250117,
+                  "text_id": "Zuoyequnxing_6_9"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "如果实在要恨的话，就来恨我吧。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_6_10"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "无妨，就将所有痛苦与不甘都归结于我一人，来让自己的灵魂求得片刻安宁吧。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_6_11"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "「祓净」往人",
+                  "text_id": "Zuoyequnxing_6_12",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半序章_4_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（如果当时，我能再强一些……是否就能成功拯救他们？）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_7_1"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（若我能得到更多力量……）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_7_2"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "紧张的小姑娘",
+                  "text": "巫女大人……是巫女大人吗？",
+                  "speaker_id": 250118,
+                  "text_id": "Zuoyequnxing_8_1"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "紧张的小姑娘",
+                  "text": "啊！真的是呢！是和玉露大人在一起说过话的巫女大人！",
+                  "speaker_id": 250118,
+                  "text_id": "Zuoyequnxing_8_2"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "紧张的小姑娘",
+                  "text": "玉露大人和我说过噢，巫女大人是她最重要的家人，就像我和姐姐一样！我记得名字是、是……",
+                  "speaker_id": 250118,
+                  "text_id": "Zuoyequnxing_8_3"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "绯雪。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_4"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "紧张的小姑娘",
+                  "text": "对，就是这个名字！和玉露大人的名字一样好听！",
+                  "speaker_id": 250118,
+                  "text_id": "Zuoyequnxing_8_5"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "紧张的小姑娘",
+                  "text": "姐姐说，只要躲起来诚心祈祷，巫女大人就会来救我们。所以，我一直一直在这里等着。",
+                  "speaker_id": 250118,
+                  "text_id": "Zuoyequnxing_8_6"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "小朋友，你叫什么名字？你的手很冷，等很久了吗？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_7"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "紧张的小姑娘",
+                  "text": "甘奈……姐姐说我的名字是甘奈。",
+                  "speaker_id": 250118,
+                  "text_id": "Zuoyequnxing_8_8"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "巫女大人……你终于来了……但是，但是姐姐她……",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_8_9"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯，我在听。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_10"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "姐姐拜托你自己等在这里对吗？她一定是非常信任你，才把这样的任务交给你。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_11"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "……任务？",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_8_12"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯，如果没有你，我根本找不到这里。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_13"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "所以，你出色地完成了“任务”。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_14"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "巫女大人是来救穗波的吗？穗波得救了吗？",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_8_15"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……嗯，穗波会好起来的。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_16"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "姐姐说，巫女大人身上承载着大家的愿望，是最强的！所以巫女大人一定会来，一定会想到办法的。",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_8_17"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "那，巫女大人也能帮我再见到姐姐吗？",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_8_18"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "当然，我们都会见到姐姐的。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_19"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "「祓净」往人",
+                  "text_id": "Zuoyequnxing_8_20",
+                  "choice_key": "剧情_3_3_拉海洛主线_上半序章_5_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "等我们找到了姐姐，就一起吃红豆布丁好不好？我们家的红豆布丁做得最好吃了！巫女姐姐来吃的话，就会更多人来吃！",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_8_21"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那你们要做很多很多红豆布丁了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_22"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "约好了！我们来做很多很多红豆布丁！",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_8_23"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "鸣式来了我们也有东西吃，也不会害怕了！",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_8_24"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "好，我们来做很多很多红豆布丁。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_25"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_8_26"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（红豆布丁……我记得，玉露姐很喜欢吃这类甜食。）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_9_1"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（……这次，能寻到她的影踪，将之祓净吗？）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_9_2"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "你好呀，巫女大人，等你很久啦。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_1"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "我的遗愿，就是想见你一面呢。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_2"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……遗愿？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_3"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "没关系，我知道自己已经死掉了，也知道大家把我这样的存在称为“往人”。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_4"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "但我觉得，反正都已经变成往人了，怎么也要完成了遗愿再消散吧？",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_5"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯……的确听说会有因愿望强烈，在自知是往人的前提下仍保持理智的情况，但竟然只是为了这样的愿望……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_6"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "你的遗愿，就只是想见我一面吗？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_7"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "嘿嘿，毕竟你可是从我曾祖母那个时代起，就当上了灼樱巫女的传奇人物。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_8"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "我听说穗波遭难，灼樱巫女会赶来与先遣队伍会合，就特意赶到这里来见你了。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_9"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "你不该为了这种事冒险。如果只是想见我，大可以到灼樱去。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_10"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "我知道我知道，不过光是把愿望写在牌子上，就算说巫女大人都会看，也总会担心疑惑“愿望没有传达到呢”。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_11"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "我冒险跑过来，就是为了当面向巫女大人许个愿望，看看到底能不能灵验。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_12"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "好吧，那你真正的愿望是什么？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_13"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "我希望世界和平，人们不再承受悲鸣的恐惧，每个人都能在悲鸣下存活——",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_14"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "巫女大人，我的愿望是……「不再有下一个灼樱巫女」。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_15"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_16"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那么，我向你保证，你的愿望会实现。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_17"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "活泼的女性",
+                  "text": "我知道，我的愿望一定会实现。",
+                  "speaker_id": 250119,
+                  "text_id": "Zuoyequnxing_10_18"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "毕竟，你可是「永世巫女」——",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_19"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "别急着动手，巫女大人。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_20"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "你大可以随时把这里连我这具分身一起砍了，但我想，你肯定会对这个感兴趣。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_21"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "玉露姐的白鸟……",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_22"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "我知道，残星会给苇原添了不少麻烦，但我本人对你并无敌意。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_23"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "我和上任巫女有过一些接触，虽然谈得不算愉快，不过我可以向你保证，她的死和我无关。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_24"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "如你所见过的那样，她是在灼樱巫女宿命所指的道路上，预取尽了自己的未来而死。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_25"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "你难道不好奇，我给上任巫女看过什么吗？",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_26"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "如果我让你有任何不快，你大可以直接斩破空间离开，这具分身当然也可以随你处置。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_27"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "不必浪费我的刀。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_10_28"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "唉……这副样子和上任巫女一模一样。看来终有一日，她也会和她姐姐一样，被自己的誓愿烧成灰烬。",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_29"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "残星会会长",
+                  "text": "「永世巫女」吗……该说她是自负，还是卑怯呢？",
+                  "speaker_id": 250069,
+                  "text_id": "Zuoyequnxing_10_30"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（这样平和的穗波市……为什么要造出这种幻境。）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_11_1"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "玉露姐……？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_17_1"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（如果苇原真能有这样平和的日子，实现他们的愿望，也无需再用刀了吧……）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_14_1"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "玉露大人，你听我说哦！今天我不用学数学啦！",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_18_1"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "爸爸妈妈和姐姐最近也教了我做红豆布丁，今天你想不想吃我做的呀？",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_18_2"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "好啊，我可喜欢吃红豆布丁了。小甘奈的手艺，我当然要尝尝看咯。",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_3"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "甘奈",
+                  "text": "好！那我现在就去做——",
+                  "speaker_id": 250084,
+                  "text_id": "Zuoyequnxing_18_4"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "玉露姐，我来了，什么事？",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_5"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "哎~没有事就不愿意来见姐姐了？",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_6"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……不是。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_7"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "呵呵，总是一副严肃的木头脸。我就是来找小绯雪聊聊天，和你说话比较轻松嘛。",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_8"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "灼樱那边的情况怎么样？",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_9"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "今天来许愿的人也很多。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_10"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "鸣式的活跃期快到了，死亡将再次频繁地造访苇原。",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_11"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "祈愿平安，祈愿解脱，祈愿胜利……在这种时候总是来得很频繁。",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_12"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "灼樱巫女是人与神的桥梁，是连接民众祈愿的“许愿箱”，自然都要听着啦。",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_13"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……我最近，总是听到玉露姐使用「铃」的声音。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_14"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "为了实现祈愿，借由铃铛的力量去预取自身未来的可能性……迟早会被消耗殆尽的。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_15"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "玉露姐早该从灼樱巫女的位置上退下来，让我继承「铃」了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_16"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "还好还好~姐姐的未来还多得很呢~",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_17"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "倒是小绯雪，为什么总是想着这个？该不会是在暗地里仰慕姐姐在战场上大杀四方的英姿吧——",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_18"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "嗯。我也想和玉露姐一样。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_19"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "呵……想得美，你还早着呢，小木头。",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_20"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "比起谈论铃铛这种让人烦心的东西，不如陪姐姐吃红豆布丁吧？这家味道很好喔。",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_21"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "总是待在那棵灼樱下练习射箭，多无聊，你这个年纪的女孩就该享受人生才对啊~",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_22"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "……玉露姐每次都这样，明明知道我根本不喜欢那些东西。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_23"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我先回去了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_24"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "真的不一起吃？就当实现姐姐的愿望嘛~",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_25"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "是玉露姐喊我，我才搁置了事情过来的，不能耽搁太久。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_26"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我也……不喜欢吃红豆布丁。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_27"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "喔！差点忘了，你不爱吃这些甜食。啧啧，可惜。",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_28"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "玉露",
+                  "text": "那姐姐我就自己去啦~",
+                  "speaker_id": 250086,
+                  "text_id": "Zuoyequnxing_18_29"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "玉露姐从来没有提及自己的愿望，只是为别人实现祈愿。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_30"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那时候……如果我选择陪她，就好了。",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_18_31"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "（……去看看吧，再看一眼也好。）",
+                  "speaker_id": 200138,
+                  "text_id": "Zuoyequnxing_19_1"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 34
+        }
+      ]
+    }
+  ]
+}

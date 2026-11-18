@@ -1,0 +1,3690 @@
+{
+  "schema_version": 1,
+  "title": "致第二次日出",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 63,
+      "dialogue": 384,
+      "information_board": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 3,
+          "title": "致第二次日出",
+          "act": "第二幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 50,
+              "quest_id": 155000002,
+              "title": "致第二次日出",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "快到我们和莫宁约定见面的时间了吧！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_2_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "不知道深空联合的特色食物会是什么，好期待啊！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_2_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "漂泊者——这里！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_3_1"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "琳奈，好久不见。",
+                  "text_id": "Main_LahaiRoi_3_2_3_2",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "好久不见！就在昨天，我刚刚通过了所有的入学测试！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_3_3"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "所以——今天可是“星炬学院预科一年级学生琳奈”与你的第一次见面！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_3_4"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "恭喜你顺利入学。",
+                  "text_id": "Main_LahaiRoi_3_2_3_5",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "……虽然我很想现在就再去和你一起兜风，但作为“学生心理健康辅导”的重点关注对象，如果我第一天就违规，一定会被洛瑟菈老师抓去问话的。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_3_7"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "所以，就等到我研究出避开监控的新路线——",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_3_8"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "说起来，你也是收到了莫宁教授的邮件，来确认海维夏探测器的事吧？好像差不多到约定的时间了，我们要不要去门口等等她——",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_3_9"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "材料的疲劳寿命……热循环……边界条件……初始应力状态……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_10"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "“准时宝”",
+                  "text": "检测到违规行为，宿舍内禁止使用大功率电器。",
+                  "speaker_id": 100140,
+                  "text_id": "Main_LahaiRoi_3_2_3_11"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "计算差值用的核心方程是……弹塑性转换……循环强度系数……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_12"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "“准时宝”",
+                  "text": "请遵守《星炬学院学生宿舍居住规范》！警告一次，警告两次！",
+                  "speaker_id": 100140,
+                  "text_id": "Main_LahaiRoi_3_2_3_13"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "系数没有错误，是单位的问题？重新带入计算的话……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_14"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "“准时宝”",
+                  "text": "已确认警告无效！拘束模式，启动！",
+                  "speaker_id": 100140,
+                  "text_id": "Main_LahaiRoi_3_2_3_15"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "结论是需要更换更高强度的材料.……明天会上再讨论一次吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_16"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "好了，刚好到约定见面的时间了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_17"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "抱歉，让你们久等了吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_19"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "啊、哈哈，没事没事……不如说，就是莫宁教授你刚刚抬头的时候，才正好到准点呢。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_3_20"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你没事吧？",
+                  "text_id": "Main_LahaiRoi_3_2_3_21",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……我没事。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_23"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "啊……我忘了卸下武器内的反应发生器，大功率电器是指这个……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_25"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "抱歉，因为和你们会面之后，需要回深空联合参加会议，我想在那之前再验算一遍数据。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_26"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "既然如此，我们尽快开始吧。",
+                  "text_id": "Main_LahaiRoi_3_2_3_27",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_1:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "虽然我的确还有日程安排，但……稍微寒暄一下的时间，还是有的。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_29"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我不太清楚对你来说“好吃”的定义，所以将最新的研究带来了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_3_30"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "好耶！本布猜得果然没错，莫宁教授是个大好人！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_3_31"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "那就事不宜迟，我们边吃边聊！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_3_32"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "当然，宿舍我早就收拾好啦，来吧，随便坐！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_3_33"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "呜呜，好多食物的味道都混在了一起……有点腥，口感也又湿又黏……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_5_2"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "我听说深空联合的研究员为了节省时间，发明了一种“虽然口味不佳，但吃上一口就能供能三天”的食物。这竟然是真的……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_5_4"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……这是研究院的一项科研成果，使用了最前沿的能量压缩技术，是最能代表深空联合的食物……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_5"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "漂泊者，你也……不喜欢？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_6"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这是科技的结晶。",
+                  "text_id": "Main_LahaiRoi_3_2_5_7",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_2:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……没错！我就知道你能看出这一点。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_9"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "其实，它对能量的压缩利用率超过了95%，不仅远超新联邦与瑝珑华胥研究所在同领域取得的成果，更是近乎达到了已知的理论极限水平。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_10"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "相比于口感，这无疑是更具突破性的成就。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_11"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "那，接下来，我想问一些有关海维夏探测器失控时的情况。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_14"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "琳奈，漂泊者，可以向我具体描述一下你们镇压它的手段吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_15"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（描述镇压海维夏时的情景）",
+                  "text_id": "Main_LahaiRoi_3_2_5_16",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_2:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "也就是说，你们使海维夏停止运行的手段，包括但不限于使用迅刀进行劈砍，使用特殊的涂料子弹多次射击，以及物理上的踩踏和击打，直至目标报废并完全丧失行动能力。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_18"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "还有什么遗漏的吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_19"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "那个，莫宁教授，你该不会……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_5_20"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是来找我们要赔偿的吧……",
+                  "text_id": "Main_LahaiRoi_3_2_5_21",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_2:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "呜呜，听我们解释，当时真的是情况紧急，我们实在是没有其他阻止它的办法！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_5_22"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "何况，我们两个学生，也赔不起啊……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_5_23"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……不，你们误会了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_24"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "不同的破坏方式，造成的损伤和修复方法是不一样的。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_25"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "毕竟如果是特殊共鸣能力造成的损伤，在不知情的状况下是难以依靠常规的检测手段发现的……嗯，所以都是直接打击这一点，你们做得很好。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_26"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "换日仪式中，海维夏探测器用于监测环境参数，不可或缺。我已经将刚才的信息整理给安瑟姆教授了，相信他很快就能完成维修。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_27"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "在之后与罗伊族的例行会议上，深空联合必须给出完整的修复方案，才能确保合作继续推进。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_28"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "「换日仪式」还有合作方吗？",
+                  "text_id": "Main_LahaiRoi_3_2_5_29",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_2:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，说来话长……从哪里开始呢……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_30"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "“准时宝”",
+                  "text": "寻找违规人员！违规事项：宿舍内使用大功率电器，无视本机命令，对本机进行非法攻击！如有发现，请立刻通报！",
+                  "speaker_id": 100140,
+                  "text_id": "Main_LahaiRoi_3_2_5_31"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "噗哧……原来就算是莫宁教授，也免不了被准时宝追着跑的命运啊。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_5_32"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "放心，这个我擅长。我去引开它，你们就趁其不备，一口气溜出去就好！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_5_33"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "三、二、一——",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_5_34"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们走吧。",
+                  "text_id": "Main_LahaiRoi_3_2_5_35",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_15_2:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_5_36"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "谢谢你，陪我到这里就好。之后，我可以自己回研究院。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_1"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "路上小心。",
+                  "text_id": "Main_LahaiRoi_3_2_999_2",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_1_8:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，你也是。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_4"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……嗯？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_6"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_999_7"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "深空联合发来通知，由于罗伊族取消了本次会面，接下来的换日仪式例行会议暂停召开。有点奇怪……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_8"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "不过，和罗伊族的联络一直是魏尔伦在处理。等回研究院之后，我会问问他情况的。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_9"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "如果见面的日程空出来的话，可以先调试……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_10"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不借此休息一下吗？",
+                  "text_id": "Main_LahaiRoi_3_2_999_11",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_1_8:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "唔……这不是考虑项。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_12"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "「换日仪式」启动在即，这是深空联合追求数十年的目标。为了让它能够实现，大家都在用尽全力。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_13"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "上一次在研究院见面时，我……和你做过一个约定，你还记得吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_14"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我记得。",
+                  "text_id": "Main_LahaiRoi_3_2_999_15",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_1_8:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……你，要不要来参加换日仪式？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_17"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我……想让你一起见证那一刻，见证新日的升起，以及人类迈向亲手编织的未来。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_18"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们约定要共同见证换日仪式，对吧？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_999_19"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……嗯。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_20"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "随着仪式时间的临近，深空联合会越来越忙，可能很难再会有这样见面的机会了。但是，这个约定一直有效。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_24"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "一言为定。",
+                  "text_id": "Main_LahaiRoi_3_2_999_25",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_1_8:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "在算力耗尽前，我还剩最后一点时间。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_999_26"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "现在我能做的，就只有将日轮强制停止。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_999_27"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我将日轮的最后一点力量分享于你，使你免于消散。但，要抓紧时间。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_999_28"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "在那之前，请帮我把这段记忆带给她。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_999_29"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "带给那位……被尊为「御者」之人。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_999_30"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "漂泊者，你怎么了？你还好吗？！",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_999_31"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我……看到一段记忆。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_999_32"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "呜哇，吓死我了！刚才突然有一股频率流进了你的声痕里！就像……一种连接？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_999_33"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "阿布，能找到它来自哪里吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_999_34"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "嗅、嗅嗅……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_999_35"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "闻到了，是从那个方向来的！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_999_36"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好，我们去调查一下。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_999_37"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我已经没事了，莫宁。让你担心了，你还有事要回深空联合吧？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_998_1"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……现在没事了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_998_2"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "可你刚刚……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_998_3"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "你刚才……脸色很差。我跟着你吧，如果又是频率流失方面的问题，我可以快速把你运送回医务室。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_998_4"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……运送？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_998_5"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "法芙娜",
+                  "text": "你也看见了吧？它往这个方向来了。",
+                  "speaker_id": 100160,
+                  "text_id": "Main_LahaiRoi_3_2_983_1"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "斯万",
+                  "text": "是啊。不过，奇怪，怎么会出现在这里呢……",
+                  "speaker_id": 100161,
+                  "text_id": "Main_LahaiRoi_3_2_983_2"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们在找什么？",
+                  "text_id": "Main_LahaiRoi_3_2_983_3",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_2_2:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "斯万",
+                  "text": "哦，你们是星炬学院的人吧？请问，你们有没有看见一只日灵？白色的，和一个南瓜差不多大。",
+                  "speaker_id": 100161,
+                  "text_id": "Main_LahaiRoi_3_2_983_4"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "附近是没有的。",
+                  "text_id": "Main_LahaiRoi_3_2_983_5",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_2_2:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "法芙娜",
+                  "text": "但我们刚刚在集市整理货物时，的确看见一只日灵孤零零地往这里飞。要不是斯万也看到了，我还以为自己看错了。",
+                  "speaker_id": 100160,
+                  "text_id": "Main_LahaiRoi_3_2_983_6"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "法芙娜",
+                  "text": "你们如果看见它的话，也告诉我们一声。",
+                  "speaker_id": 100160,
+                  "text_id": "Main_LahaiRoi_3_2_983_8"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "唔，刚才与你建立连接的频率应该就是来自这里。但是，现在什么也没有了……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_6_1"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（刚才那个声音提到，“用日轮的最后一点力量使它免于消散”……是维持到这里就消失了吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_6_2"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "你找到你想要的了吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_3"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "不，这条线索中断了。不过，那段记忆里还提到一些别的东西。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_6_4"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "莫宁，你知道「日轮」吗？",
+                  "text_id": "Main_LahaiRoi_3_2_6_5",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_1_5:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……我知道。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_6"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "「日轮」，是换日仪式中最重要的东西之一。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_7"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "海维夏虽然能监测环境数据，但来自炉芯内部的原始观测数据，只能由同属隧者的部件——「日轮」来观测。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_34"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "只有罗伊族能够从日轮中获取数据，因此，深空联合在换日仪式中需要与他们保持合作。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_35"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我听到的那个声音说，他把日轮强制停止了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_6_14"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……停止？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_15"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（向莫宁描述刚才看到的画面）",
+                  "text_id": "Main_LahaiRoi_3_2_6_16",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_1_5:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "你是说，你听到有一个声音在向你求救，并且强制停下了日轮……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_17"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "难道，刚才的会议被取消，就是因为这个……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_18"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（打倒虚诞虫时，有一个声音告诉我要保护太阳。目前来看，声音的主人没有敌意，反而给出了很多帮助，可以先按她说的行动。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_6_19"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（而且，可以确定的是，知道「御者」这一称呼的那人需要我的帮助。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_6_20"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（又是和研究院有关的事出问题了，看来暂时不要让那边知道我们的行动比较好。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_6_31"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（黑色的长袍，金色的花纹……）",
+                  "text_id": "Main_LahaiRoi_3_2_6_21",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_1_5:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "莫宁，我想打听一下这个人。你知道哪里有消息比较灵通的罗伊族么？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_6_24"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "唔……我有一些罗伊族的学生，也许会知道你想打听的事。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_25"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "现在是星炬学院的上课时间，要返回学校吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_26"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "奥维德",
+                  "text": "救、救命啊，玛嘉……玛嘉她！谁去救救她！",
+                  "speaker_id": 100103,
+                  "text_id": "Main_LahaiRoi_3_2_6_27"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "奥维德",
+                  "text": "不然的话——我们的期末论文数据就要全部消失了！",
+                  "speaker_id": 100103,
+                  "text_id": "Main_LahaiRoi_3_2_6_28"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……请放心，漂泊者。当学生的一句话里出现“论文”，不管喊得多大声，都一定不是什么需要“救命”的情况。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_29"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "不过，玛嘉就是我刚才说的罗伊族学生之一。既然有事找她，还是去看看吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_6_30"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "冷静，玛嘉，冷静……它们已经暂时停下来了……事已至此，要不更进一步把它们强制关机？",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_1"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "不行——强制关机的话数据也会被清空的，那期末论文可怎么办啊！救命啊！！",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_2"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "唉……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_3"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "事情很麻烦吗？",
+                  "text_id": "Main_LahaiRoi_3_2_8_4",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……不，只是普通的器材故障。但……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_5"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "呜啊，莫宁教授？！",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_6"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "完了完了被发现了，上课时间不在校被发现了……那个，请听我解释！我不是故意要逃课的！我出现在这里是事出有因，绝对不是不尊重老师，不尊重课堂！",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_7"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "所以，就是，那个——",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_8"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……就算求我，学分也是会扣的啊……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_9"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "还是简要地说明一下这是怎么回事吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_10"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "哦……这是我们前几天派出去的探测机器人，用于测量野外的虚质浓度。",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_11"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "本来预计今天回收完数据就去上课，结果不知怎么回事，一靠近它们就开始无差别攻击，更别说拿到数据了。",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_12"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "我追了一路才追到这里，所以才错过了今天的课……",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_13"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "看起来是内部的隧群元件被虚质侵蚀，导致机体产生了异变。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_14"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "材料学课程上应该强调过，这种元件性质不稳定，只能在可观测的安全环境下使用啊……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_15"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "抱歉……",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_8_16"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "出于安全考虑，处理这种情况，需要先停止机体的运行，再使用对虚质物质对受到污染的部件进行清洁。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_17"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "考虑到以常规形式靠近会有受攻击风险，需要用脉冲发生器进行远距离处理。要提器材调用申请了……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_18"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "还有种更简单的方法。",
+                  "text_id": "Main_LahaiRoi_3_2_8_19",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 148,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（拔出迅刀）",
+                  "text_id": "Main_LahaiRoi_3_2_8_20",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "不，那个，这不符合操作规范……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_21"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "探测机器人",
+                  "text": "￥#&@……检测……目标……剿灭……",
+                  "speaker_id": 100177,
+                  "text_id": "Main_LahaiRoi_3_2_8_23"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……算了，还是之后再想检讨报告怎么写吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_8_22"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，这样就恢复正常了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_1"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "太好了！那，里面的数据……",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_2"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "还在。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_3"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……不过，你的做法违反了实验操作规范，就算采集到了数据，在论文里也是无效的。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_4"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "啊？！",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_5"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "但是……还是谢谢你们帮我处理这些，莫宁教授，还有——",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_6"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "叫我漂泊者就好。",
+                  "text_id": "Main_LahaiRoi_3_2_9_7",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_2:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "玛嘉，我们还有一些事想问你。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_8"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（向她描述自己看到的画面）",
+                  "text_id": "Main_LahaiRoi_3_2_9_9",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_2:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "你是说，你想打听一个穿着黑色长袍，头上戴着双角形的头饰的罗伊族……",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_10"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "双角对罗伊族而言是隧者的象征，牧者经常会佩戴这种装饰。不过，没有什么牧者会穿这种不方便行动的黑袍子……",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_11"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "会不会是地位更高的人——比如，引日殿里的「昭日者」，甚至「秘日六席」？",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_12"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "秘日六席……我记得换日仪式中，日轮中的数据由他们提供。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_13"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "没错，他们是罗伊族最崇高最厉害的六个人，也是所有族人中地位最高的。",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_14"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "听说他们能操控日轮推算一切，从小鸟迁徙的路径到虚质磁暴的轨迹，无所不知无所不晓！",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_15"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "要怎么才能见到他们？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_9_16"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "诶？！这有点难度吧……",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_17"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "毕竟他们从来不离开引日殿——要知道那里的建筑常年被光辉覆盖，连罗伊人都很少被允许进入。",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_18"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "不过，也许你们可以找找还未上任的秘日六席？",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_19"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "西格莉卡最近在冰原上考察……剩下能见到的，就是不怎么爱在人前现身的伊摩尔祭司吧。",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_20"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "要找他的话，我老妈说不定能帮到你们。她叫艾丝翠德，是罗伊族的牧者，平常就待在不远处的阿图雅营地。",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_21"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "玛嘉",
+                  "text": "至于我……还是赶紧回去上课，求老师帮我少扣点学分吧……谁想到今天会出问题啊，明明都拜托老妈帮我开机了。",
+                  "speaker_id": 100176,
+                  "text_id": "Main_LahaiRoi_3_2_9_22"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯。回见，祝你期末论文顺利。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_23"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "呼……和学生的交流，我还是更擅长在课上一点……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_24"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "漂泊者，有得到你想知道的吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_25"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那批机器人失控前最后接触的人，很可能是玛嘉的母亲。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_9_26"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我想，可以用家访的名义接触她。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_9_27"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "唔……这样的话，我可以用学院教授的身份行动。但是，漂泊者你的身份……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_28"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……没关系，这只是方便行动的称呼。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_29"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "莫宁？",
+                  "text_id": "Main_LahaiRoi_3_2_9_30",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_2:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "漂泊者就作为……我的前辈，可以吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_31"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是让我也装成教授吧？没问题。",
+                  "text_id": "Main_LahaiRoi_3_2_9_32",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_2:28",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "不过，不用建议我把刚才的事上报给学院处理吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_9_33"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我只是顺着想帮助你的思路，进行建议而已。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_34"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "你这样做的理由，之后再告诉我也没有关系。在这方面，我相信你的判断。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_35"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "看来要以新身份一起行动了。",
+                  "text_id": "Main_LahaiRoi_3_2_9_36",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_2:32",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 188,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "请多指教，莫宁学妹。",
+                  "text_id": "Main_LahaiRoi_3_2_9_37",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_2:33",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，请多指教，前辈。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_38"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "请相信……现在的我，已经能帮上你的忙了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_9_39"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我是莫宁，这是前辈……唔，再来一遍……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_997_1"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你这是在……？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_997_3"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "临时练习……我不太擅长和学生家长打交道，这次也没有助手写稿子……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_997_4"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "要不，等下交给我？你只用负责你擅长的部分就好。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_997_5"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……好？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_997_6"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "要去阿图雅营地找艾丝翠德吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_982_1"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "出发吧。",
+                  "text_id": "Main_LahaiRoi_3_2_982_2",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_4_2:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，我和你一起去……前辈。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_982_4"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "您好，请问是玛嘉的母亲，艾丝翠德女士吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_10_1"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "哎？您好，是我……请问二位是？",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_2"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这位是玛嘉的老师，莫宁教授。",
+                  "text_id": "Main_LahaiRoi_3_2_10_3",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_4:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "没错。这位是我的前辈……漂泊者教授。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_10_4"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我们是来进行家访的。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_10_5"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "家访……？是那孩子在学校闹出什么麻烦了吗？",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_6"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是的，她严重违反了实验操作规范。",
+                  "text_id": "Main_LahaiRoi_3_2_10_7",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_4:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "违规？！这孩子怎么……",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_9"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "十分抱歉，都是我管教不周！不论她做了什么，我都代她向星炬学院道歉！",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_10"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "那个，请问惩罚严重么？如果需要赔偿，我可以为她支付——",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_11"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不需要赔偿。",
+                  "text_id": "Main_LahaiRoi_3_2_10_12",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_4:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 210,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不过，需要您配合我们的行动。",
+                  "text_id": "Main_LahaiRoi_3_2_10_13",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_4:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "莫宁教授，麻烦您描述一下，玛嘉同学的探测机器人是如何造成损坏的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_10_14"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "是、是的，正如前辈所说……！",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_10_15"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "她……因为未遵守实验操作规范，使用了不稳定的隧群元件，让她的探测机器人出现了无差别攻击行为。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_10_16"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我已经教育过她，在野外考察时，不能使用这种易被虚质侵蚀的材料。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_10_17"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "……虚质侵蚀？",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_18"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "二位老师究竟是要问什么……抱歉，我没有在星炬学院就读过，不太明白你们的意思。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_19"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（她的态度突然变了？看来她果然有所隐瞒，再施加一些压力吧。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_10_20"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们想探明探测机器人失控的全过程。听说今天早上，是您在附近帮她将机器人开机，启动自动运行的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_10_21"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "是的，正如前辈所说。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_10_22"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "请带我们去事发地点。只要到达现场，我就能凭借现场的痕迹，还原当时探测机器人的行动。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_10_23"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "不、不行，如果按照机器人的行动路线，会暴露那个东西……",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_25"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "“那个东西”？",
+                  "text_id": "Main_LahaiRoi_3_2_10_26",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_4:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "十分抱歉，二位老师！我的确帮玛嘉启动了那些仪器，但我实在不记得具体的位置了！请二位先回——",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_10_28"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "那是虚质磁暴……怎么会，深空联合近期没有收到任何预警信息。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_10_30"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "当务之急是避免它影响到这里的人。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_10_31"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "询问的事待会再说，我们走。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_10_32"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "前面好像是这场虚质磁暴的中心，去看看情况吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_980_1"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我们已经进入虚质磁暴的范围内，请确认频录装置的运行。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_981_1"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "前辈，不要离我太远。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_981_4"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "那里好像有什么……",
+                  "speaker_id": 100099,
+                  "text_id": "CommonVoice_Moning_6_1"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "看起来就是这个。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_1"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "information_board",
+                  "speaker": null,
+                  "display_label": "资料面板",
+                  "text": "令人不安的装置\n位于虚质磁暴中心处的装置，散发着诡异的气息，很可能和探测机器人的失控有关。"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "让它停止运行后，虚质磁暴就停止了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_2"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这也是你的共鸣能力吗？",
+                  "text_id": "Main_LahaiRoi_3_2_14_3",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_10:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……诶？不，只是书看得比较多而已……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_4"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "从结构来看，它像是一种兼具储存与注射功能的容器。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_5"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哇，好臭！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_14_6"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "这玩意儿怎么和前段时间那条大虫子一个味道！它不是已经被干掉了吗！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_14_7"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "大虫子……是说虚诞虫么？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_8"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "是这样吗……对频率进行高精度捕获……进行能量信息载体储备……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_9"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "生态学模型……原生环境下的活动特征……数学重构……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_10"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "场域调制器……参数化投射……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_11"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "？？？",
+                  "text_id": "Main_LahaiRoi_3_2_14_23",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_10:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……啊，抱歉……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_14"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "有没有我能听懂的版本？",
+                  "text_id": "Main_LahaiRoi_3_2_14_15",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_10:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，简单解释一下，就是这个装置提取了虚诞虫的频率，以自己为中心向外部释放虚质，人为地制造了这场虚质磁暴。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_17"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "玛嘉的探测器会被污染，恐怕也是因为无意间接触到了它。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_18"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "啾噜……",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_14_19"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "咦，是不是有什么声音？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_14_20"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "啾噜……啾噜噜……",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_14_21"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "是从那边的隧群元件下面传出的，我们去看看吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_14_22"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "啾噜……",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_15_1"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "是一只日灵。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_15_4"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "原来它们长这样。",
+                  "text_id": "Main_LahaiRoi_3_2_15_5",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_11:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，它们是常与罗伊族相伴的一种特殊生物。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_15_7"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "根据罗伊族的记载，自隧者陨落的那一日，日灵就出现在了拉海洛的大地上。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_15_9"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "罗伊族认为，它们是隧者残存的魂魄。为了送它们回到隧者的身体，罗伊族的牧者会以养育它们为使命，护送它们免受虚质磁暴的污染，直至其完全成熟，回归浮光林中的日树。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_15_10"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "这一只，应该是在虚质磁暴发生时，躲在有防护作用的隧群元件下才逃过一劫。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_15_11"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾噜……",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_15_12"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这种感觉……与在学院那时是一样的。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_15_13"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我看到了这只日灵的记忆。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_15_14"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "刚才那位罗伊族将这个装置放在了这里，引发了虚质磁暴，只有这只日灵幸存。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_15_15"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "那么，有关艾丝翠德的猜测就完全印证了。要返回营地问问她吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_15_16"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "不，不用了……你们刚才说的事，我都听到了。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_17"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "……这个装置，的确是我放的。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_18"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "告诉我们你做了什么。",
+                  "text_id": "Main_LahaiRoi_3_2_15_19",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_11:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "……前几天，我护送即将成熟的日灵前往浮光林，偶然间遇到了伊摩尔祭司。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_20"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "他像是刚和什么人说完话，样子有些疲惫。看到我时，他像是吓了一跳，什么都没说就快步离开了。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_21"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "那时从他的衣袖里，就掉出了这个……",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_22"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你为什么要把它带走？",
+                  "text_id": "Main_LahaiRoi_3_2_15_23",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_11:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "我当时没反应过来，就想着把它带回营地里，等下次见到伊摩尔祭司时还给他。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_24"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "但……日灵们都不喜欢这个东西，我也感觉它散发出一股让人难受的气息。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_25"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "我不敢继续把它放在营地里，却也不敢让伊摩尔祭司发现我拿到了它。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_26"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "所以，我背着所有人把它埋在了这里。之后的事，你们就都知道了……",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_15_27"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "所以，这个装置是从那位伊摩尔祭司那里得到的。前辈，你怎么想？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_961_29"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "她不像在说谎。",
+                  "text_id": "Main_LahaiRoi_3_2_961_30",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_14:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，我相信你的判断。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_961_32"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我记得那位伊摩尔祭司，就是玛嘉提到过的还未上任的秘日六席。他会是为了稳固自己的位置而做这些吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_961_33"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "不，这绝对不可能。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_961_34"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "秘日六席的继任者〔昭日者〕，会在刚刚觉醒共鸣能力时就被选中。就算有人觊觎这个位置，也绝无动摇既定人选的可能。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_961_35"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "唔……也就是说，没有人能对伊摩尔的地位造成威胁。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_961_36"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（但是，这并不能排除他对现任秘日六席有敌意的可能。现在，伊摩尔仍是我们寻找秘日六席的突破口。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_961_37"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（事情开始复杂起来了，恐怕单刀直入地接触那位伊摩尔祭司并不是个好主意。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_961_38"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在哪里能见到他？",
+                  "text_id": "Main_LahaiRoi_3_2_961_39",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_14:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "引日殿的相关者，平时都会居住在浮光林外，名为「赫尔琉斯」的村落中。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_961_40"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "这几天是「归源之仪」举行的日子，日灵会在仪式上进入日树、回归隧者。按照惯例，伊摩尔祭司会在仪式中出席。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_961_41"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "不过，你们并非罗伊人，恐怕未必会被允许参加「归源之仪」……",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_961_42"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾……",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_961_43"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "诶？这么说，我们刚刚找到了这个孩子……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_961_44"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "这是你们救下的日灵？这样的话……也许，你们可以作为它的「牧者」参加仪式。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_961_45"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "艾丝翠德",
+                  "text": "日灵是与罗伊族相伴数百年的朋友，只要听说你们救下了它，相信大多数罗伊族都会感谢你们的。",
+                  "speaker_id": 100105,
+                  "text_id": "Main_LahaiRoi_3_2_961_46"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾，啾噜！",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_961_47"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "看来，我们接下来要一起行动了。",
+                  "text_id": "Main_LahaiRoi_3_2_961_48",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_3_14:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我还第一次和日灵这么近地接触……那，要请多指教了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_961_49"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾噜！",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_961_50"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "接下来，是要去找那位伊摩尔祭司，参加赫尔琉斯的「归源之仪」，对吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_800_1"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "要现在就出发吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_800_2"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "出发吧。",
+                  "text_id": "Main_LahaiRoi_3_2_800_3",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_4_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，一起走吧，前辈。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_800_5"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "二位，请留步。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_1"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "看装扮，二位并非我族之人。不远万里来到赫尔琉斯，是有什么要事么？",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_2"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾~",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_19_3"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "哦？这只日灵是……",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_4"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们带它回家。",
+                  "text_id": "Main_LahaiRoi_3_2_19_5",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾噜，啾噜~",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_19_6"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "呵呵，有意思……日灵只会亲近自身信任之人，感谢你们带回这个孩子。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_7"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "不过，二位身上的气息，一位来自巨剑之上的深空联合，另一位则来自冰原之外更为广袤的世界，为何会成为日灵的牧者，来到此处呢？",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_8"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（还不清楚有多少人知道伊摩尔的所为。现在还是不要提到他的名字，以免打草惊蛇。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_19_9"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们从虚质磁暴中救下了这只日灵，听说应该把它送回浮光林，参加「归源之仪」。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_19_10"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "虚质磁暴？你是说，就在不久之前的那一场……",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_11"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾——",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_19_12"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "哈哈哈，那可必须要感谢你们才行啊！",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_13"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "不过，还请容老夫一问——记得那场虚质磁暴发生的地点，就在阿图雅营地附近。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_14"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "那座营地中，有一位名为艾丝翠德的牧者。既然救下了落单的日灵，为何不交由专门的牧者养育，而亲自来此一趟呢？",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_15"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（忘了这一点……没有妥善的理由，可能会让他起疑。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_19_16"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "因为……艾丝翠德向你们隐瞒了一些事。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_19_17"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "您的意思是……？",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_18"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "艾丝翠德的女儿玛嘉是星炬学院的学生，她……在学院进行违法实验，造成了破坏性影响。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_19_19"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "玛嘉现在……面临严峻的处罚。艾丝翠德也因为忙于应付相关事务，这段时间无法履行牧者的职责。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_19_20"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "根据《星炬学院教职工守则》，我们作为玛嘉的教师，有义务对学生行为造成的不良后果进行弥补。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_19_21"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "所以，在艾丝翠德无法护送日灵时，由我们代为效劳。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_19_22"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "诚如莫宁教授所述。",
+                  "text_id": "Main_LahaiRoi_3_2_19_24",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "唉，早知道艾丝翠德那宝贝女儿调皮，没想到还能惹出这么大的祸！哎呀，以她的性格，为了女儿就也难怪啦。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_25"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "倒是没想到，星炬学院真会为此千里迢迢来到这里。我为我之前的态度向二位道歉，你们救下了日灵，又帮助了我们的族人，无愧于「牧者」之名。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_26"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "为了迎接明日的「归源之仪」，赫尔琉斯会于今晚举办晚宴。到时候，还请二位务必赏光，就当是对先前无礼的补偿了。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_27"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "请来吧，二位——从此，罗伊族将对你们以朋友之名相称。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_28"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "如果累了的话，可以前往营地休息，晚宴会在晚上8点正式开始。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_19_29"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（离晚宴开始还有一段时间。这里也许有人知道伊摩尔祭司的事，稍微打听一下好了。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_23_1"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "诸位——到晚宴的时间了！",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_24_1"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "明日是每个月「归源之仪」的日子——在这个盛大的日子里，经由我们之手抚育长大的日灵，将彻底化作辉光，回归隧者那神圣的躯体。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_24_2"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "这既是告别，也是新生！因为当隧者苏醒之日，我们终将在祂的身躯下重逢！",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_24_3"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "现在，就让我们用佳肴与美酒，忘却告别的悲伤，迎接新生的喜悦吧！",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_24_4"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "不过，可注意别喝太多咯——要是明天在归源之仪上出糗，我可就帮不到各位咯。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_24_5"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？你的表情有些紧张。",
+                  "text_id": "Main_LahaiRoi_3_2_24_6",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_3:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……明天就要和那位伊摩尔祭司对峙了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_7"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我根据预设的不同情况模拟了共七十三个方案，但还是无法覆盖全部可能。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_8"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "如果能建立一个包含所有情况的模型……考虑到目标系统……混沌态势演化……局域化补偿策略……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_9"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前在营地入口的发挥，你不是已经很擅长随机应变了吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_24_10"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……那是因为，我认为前辈的方法很有效，就试着学习了一下。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_11"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "那时候，我有发挥上作用吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_12"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "当然了。",
+                  "text_id": "Main_LahaiRoi_3_2_24_13",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_3:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "太好了，呼……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_15"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "既然如此，现在就也不必太过紧张了，对吧？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_24_38"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾噜，啾噜啾噜！",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_24_18"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "小家伙是不是有什么话想说？",
+                  "text_id": "Main_LahaiRoi_3_2_24_19",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_3:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾噜，啾噜！",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_24_20"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哦，我知道了！它是想让我们给它取个名字吧。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_24_21"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "那个……既然我们接下来会是同伴，就叫它“伴伴”如何？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_22"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "日灵",
+                  "text": "啾噜~",
+                  "speaker_id": 100122,
+                  "text_id": "Main_LahaiRoi_3_2_24_23"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哦？它看起来很喜欢嘛。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_2_24_24"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那就这么决定了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_24_25"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "呼……太好了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_26"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "伊达",
+                  "text": "大姐姐，要不要和我们一起去和日灵跳舞？",
+                  "speaker_id": 100164,
+                  "text_id": "Main_LahaiRoi_3_2_24_27"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "斯蒂安",
+                  "text": "阿克塞尔爷爷说，能和牧者一起跳舞的话，日灵也会开心的！",
+                  "speaker_id": 100114,
+                  "text_id": "Main_LahaiRoi_3_2_24_28"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "唔，我对跳舞……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_29"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我陪你们去跳舞吧。就去伴伴那里，好吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_24_30"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "孩子们",
+                  "text": "好耶——",
+                  "speaker_id": 100165,
+                  "text_id": "Main_LahaiRoi_3_2_24_31"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "无论如何，真正的对峙明天才会开始。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_24_32"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "今晚就好好休息一下吧，莫宁。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_24_33"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……嗯，前辈也是。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_24_34"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "陌生的日灵",
+                  "text": "啾……啾呜……",
+                  "speaker_id": 100123,
+                  "text_id": "Main_LahaiRoi_3_2_24_35"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……嘁。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_24_36"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "来了多余的人啊。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_24_37"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "咦，莫宁好像不在原来的地方。发短信〔飞讯〕问一下吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_979_1"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……真是有莫宁风格的形容。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_25_1"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "虽然不知道“矩尺座13号行星”在哪里，但能看出她的位置就好。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_25_2"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……前辈？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_1"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "已经不用演戏了，还要继续使用这个身份吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_26_2"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……也许有人会在暗处偷听，防止暴露身份也是有必要的。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_3"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "要……一起坐一会儿吗？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_4"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "腿的情况还好吗？",
+                  "text_id": "Main_LahaiRoi_3_2_26_5",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_6:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……唔，还是被你发现了啊。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_6"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "它运行了一天，能量有些不足。我本来想等到充能完成，再回去找你的。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_7"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "毕竟充能时，我没办法行动。被你看到这个样子的话，我会觉得，有点丢人……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_8"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "会难受吗？",
+                  "text_id": "Main_LahaiRoi_3_2_26_9",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_6:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "已经不会了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_10"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "在拥有这副义肢之前，我因为先天的疾病，一直要坐在轮椅上。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_11"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "相比那时，我已经不用再为无法行动的身体困扰……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_12"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "也终于……能去追逐，想要追逐的东西了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_13"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这里的星空很美。",
+                  "text_id": "Main_LahaiRoi_3_2_26_14",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_6:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我喜欢星星。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_15"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "拉海洛地处极地冰原之下，这里的星星，实际上全部都是大气拟造阵列创造出的光点。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_16"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "曾经，有一个人这么告诉我——",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_17"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "“正因为能看到星星，人类才会对天空之外的世界产生好奇。”",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_18"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "“所以，星空是属于人类的浪漫。”",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_19"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "很有趣的说法。",
+                  "text_id": "Main_LahaiRoi_3_2_26_20",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_6:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我也这么想。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_22"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "但……除此之外，我还觉得只是抵达星空依然不够。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_23"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "总有一天，我们会用自己的双手，缔造出比星空更浪漫更恒久的奇迹。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_24"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我是这样期望着走到这里的。而现在……就是我要用这双腿，迈出的第一步。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_25"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这样的话——",
+                  "text_id": "Main_LahaiRoi_3_2_26_26",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_6:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 392,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "就必须要让换日仪式成功，对吧？",
+                  "text_id": "Main_LahaiRoi_3_2_26_27",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_6:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "没错，利用换日仪式，我们就能取得隧者的核心能源部件。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_28"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "之后，利用多相态能量转换模块……经过超导传输网络……向基态神经接口注入拉贝尔能量……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_29"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "实行三阶段活化协议……反相谐振模型……开启掘进……最终生成相控阵能量场……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_30"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "离这双腿充能完成，还有一点时间……我们，再看一会儿星星吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_35"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "伴伴",
+                  "text": "啾，啾噜！啾噜啾噜！",
+                  "speaker_id": 100111,
+                  "text_id": "Main_LahaiRoi_3_2_26_36"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "别着急，伴伴……我这就去把……喊醒……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_37"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……莫宁？",
+                  "text_id": "Main_LahaiRoi_3_2_26_38",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_6:28",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "前辈，你醒了！",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_39"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "情况有些不对，浮光林里好像出事了。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_26_40"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "检测到林区内有虚质磁暴的反应。特征波形……正在分析。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_400_1"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看来这就是大家陷入恐慌的原因了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_400_2"
+                },
+                {
+                  "sequence": 404,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "二位怎么来了？浮光林内出现了虚质磁暴，现在不是进入的时候。",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_31_5"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "这是数百年都未有过的灾难……一直以来，我们都相信浮光林受日树光辉的庇护，因此不会被虚质侵蚀……",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_31_6"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "dialogue",
+                  "speaker": "阿克塞尔",
+                  "text": "无论如何，「归源之仪」都无法举行了。也请二位去安全的地方避难吧！",
+                  "speaker_id": 100106,
+                  "text_id": "Main_LahaiRoi_3_2_31_7"
+                },
+                {
+                  "sequence": 407,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "又是虚质磁暴……",
+                  "text_id": "Main_LahaiRoi_3_2_31_9",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_8:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 408,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我们一起去调查清楚吧。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_31_8"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "和之前装置制造的磁暴携带的特征波形一样，这不是自然产生的虚质磁暴。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_233_5"
+                },
+                {
+                  "sequence": 410,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你什么时候做的解析？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_233_6"
+                },
+                {
+                  "sequence": 411,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……充电无法行动时，做些事会让我安心一点。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_233_7"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "和之前一样。使它终止运行后，虚质磁暴就会停止。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_32_1"
+                },
+                {
+                  "sequence": 413,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "但是……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_32_2"
+                },
+                {
+                  "sequence": 414,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "如果这真是那位伊摩尔祭司所为，他为什么要做这些……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_32_3"
+                },
+                {
+                  "sequence": 415,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是谁？",
+                  "text_id": "Main_LahaiRoi_3_2_32_4",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_9:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 416,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "别担心，道路……已经铺好……",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_32_6"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这下……终于……",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_2_32_7"
+                },
+                {
+                  "sequence": 418,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "前辈……前辈！你还好吗……？",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_32_8"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "是又见到什么了吗？你的情况，看起来比之前几次还要严重……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_32_9"
+                },
+                {
+                  "sequence": 420,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我大概是看到了引日殿里的景象。",
+                  "text_id": "Main_LahaiRoi_3_2_32_10",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_9:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 421,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……这场虚质磁暴，恐怕不仅影响了这里，也影响了引日殿内。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_32_12"
+                },
+                {
+                  "sequence": 422,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我想，这就是那位秘日六席向我求助的原因。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_32_19"
+                },
+                {
+                  "sequence": 423,
+                  "kind": "dialogue",
+                  "speaker": "年迈的牧者",
+                  "text": "二位。",
+                  "speaker_id": 100101,
+                  "text_id": "Main_LahaiRoi_3_2_32_13"
+                },
+                {
+                  "sequence": 424,
+                  "kind": "dialogue",
+                  "speaker": "年迈的牧者",
+                  "text": "「织星」之席曾发布一条预言——若有来自拉海洛之外的来访者，使浮光林免于毁灭之灾，便邀他进入引日殿。",
+                  "speaker_id": 100101,
+                  "text_id": "Main_LahaiRoi_3_2_32_14"
+                },
+                {
+                  "sequence": 425,
+                  "kind": "dialogue",
+                  "speaker": "年迈的牧者",
+                  "text": "如今，预言之人显现，引日殿正在等待你们的到来。",
+                  "speaker_id": 100101,
+                  "text_id": "Main_LahaiRoi_3_2_32_15"
+                },
+                {
+                  "sequence": 426,
+                  "kind": "dialogue",
+                  "speaker": "年长的日灵",
+                  "text": "啾……",
+                  "speaker_id": 700228,
+                  "text_id": "Main_LahaiRoi_3_2_32_20"
+                },
+                {
+                  "sequence": 427,
+                  "kind": "dialogue",
+                  "speaker": "伴伴",
+                  "text": "啾噜？",
+                  "speaker_id": 100111,
+                  "text_id": "Main_LahaiRoi_3_2_32_21"
+                },
+                {
+                  "sequence": 428,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "伴伴？",
+                  "text_id": "Main_LahaiRoi_3_2_32_22",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_9:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 429,
+                  "kind": "dialogue",
+                  "speaker": "年迈的牧者",
+                  "text": "它们有自己要完成的事。",
+                  "speaker_id": 100101,
+                  "text_id": "Main_LahaiRoi_3_2_32_23"
+                },
+                {
+                  "sequence": 430,
+                  "kind": "dialogue",
+                  "speaker": "年迈的牧者",
+                  "text": "前往引日殿的路在这里。二位，请沿这条路前行。",
+                  "speaker_id": 100101,
+                  "text_id": "Main_LahaiRoi_3_2_32_24"
+                },
+                {
+                  "sequence": 431,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "前辈，请……等一下。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_32_17"
+                },
+                {
+                  "sequence": 432,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我有话要和你说。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_32_18"
+                },
+                {
+                  "sequence": 433,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "莫宁，怎么了吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_34_1"
+                },
+                {
+                  "sequence": 434,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_2"
+                },
+                {
+                  "sequence": 435,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我很想和你一起去引日殿。但我认为接下来，我们分开行动会更好。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_3"
+                },
+                {
+                  "sequence": 436,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是有什么顾虑吗？",
+                  "text_id": "Main_LahaiRoi_3_2_34_4",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_11:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 437,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯。不论是刚才接触日树，还是最初接收到记忆时，你的表情看起来都……很痛苦。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_5"
+                },
+                {
+                  "sequence": 438,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "但我没有你那样与他们意识相通的能力，深空联合的知识在罗伊族的文明面前也无法适用。所以在这方面，我能帮助你的……也许很有限。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_7"
+                },
+                {
+                  "sequence": 439,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "相比和你一起进入引日殿，我有能更帮得上忙的地方——那就是去调查我们还没查清的事。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_8"
+                },
+                {
+                  "sequence": 440,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "伊摩尔祭司的目的。",
+                  "text_id": "Main_LahaiRoi_3_2_34_9",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_11:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 441,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，本来预定要在「归源之仪」上见到的伊摩尔祭司，因为虚质磁暴的发生不见踪影。现在看来，很可能就是他布置了那个装置。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_11"
+                },
+                {
+                  "sequence": 442,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "另外，这里的环境也有些异常。如果能调查清楚这些，想必会对我们有帮助。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_12"
+                },
+                {
+                  "sequence": 443,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "还是莫宁教授考虑周到。",
+                  "text_id": "Main_LahaiRoi_3_2_34_13",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_11:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 444,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "不，离前辈还差很远呢。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_14"
+                },
+                {
+                  "sequence": 445,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "那么，就要暂时分别了呢。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_15"
+                },
+                {
+                  "sequence": 446,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "随时保持联络。",
+                  "text_id": "Main_LahaiRoi_3_2_34_16",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_5_11:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 447,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "嗯，你也是。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_18"
+                },
+                {
+                  "sequence": 448,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "请务必万事小心……我们汇合时再见。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_34_19"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 28
+        }
+      ]
+    }
+  ]
+}

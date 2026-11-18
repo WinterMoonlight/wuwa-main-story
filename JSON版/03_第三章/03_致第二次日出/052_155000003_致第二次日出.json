@@ -1,0 +1,536 @@
+{
+  "schema_version": 1,
+  "title": "致第二次日出",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 5,
+      "dialogue": 47,
+      "subtitle": 9
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 3,
+          "title": "致第二次日出",
+          "act": "第二幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 52,
+              "quest_id": 155000003,
+              "title": "致第二次日出",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "即将抵达目标位置，准备接收数据。",
+                  "text_id": "Main_LahaiRoi_3_2_53_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "虚质浓度急剧上升，检测到炉芯出现异常表达！二位，请立刻撤离！",
+                  "text_id": "Main_LahaiRoi_3_2_53_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "重复，请立刻撤离！",
+                  "text_id": "Main_LahaiRoi_3_2_53_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我们已经……走到这里了。",
+                  "text_id": "Main_LahaiRoi_3_2_53_6"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "所以……",
+                  "text_id": "Main_LahaiRoi_3_2_53_7"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "就由我来迈出这最后一步……！",
+                  "text_id": "Main_LahaiRoi_3_2_53_11"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "只可惜……明明，我还不想说再见呢。",
+                  "text_id": "Main_LahaiRoi_3_2_53_8"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "数据已接入，正在分析……",
+                  "text_id": "Main_LahaiRoi_3_2_53_9"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "莫宁教授，你在吗？请回答！听到请回答！",
+                  "text_id": "Main_LahaiRoi_3_2_53_10"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "漂泊者，这里！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_2"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "宣布一个好消息——我终于从“学生心理健康辅导”的重点关注名单里下来了。现在的我——恢复自由之身啦！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_3"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "恭喜你！",
+                  "text_id": "Main_LahaiRoi_3_2_55_4",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_11_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "也有一个坏消息。因为在辅导期间存在伪证行为，学院判我严重违纪……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_6"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "？！",
+                  "text_id": "Main_LahaiRoi_3_2_55_7",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_11_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "但因为我做伪证是为了不让不法分子有机可乘，有重大立功——",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_8"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "所以我的最终判决是：再在“学生心理健康辅导”的重点关注名单上待一阵子。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_22"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "看来学院已经掌握切实的证据了？",
+                  "text_id": "Main_LahaiRoi_3_2_55_9",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_11_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "毕竟有怀疑对象就好办了嘛，而且有位老师的共鸣能力也正好能掏出实话。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_10"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "……是莫宁教授预先给学院发送了一封说明邮件，他们才相信我的。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_13"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "这样，不就让我以后更不好意思逃她的课了嘛……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_14"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "赫斯医生说她超频时间过长……我担心……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_15"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "她会没事的。",
+                  "text_id": "Main_LahaiRoi_3_2_55_16",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_11_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "……嗯，说得也是！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_18"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "我们再去看看她吧，说不定她能感受到我们的心意，就会想快点醒过来呢！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_55_19"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "您好，请问是漂泊者吗？",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_2_55_20"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "我来通知您，莫宁教授刚刚醒了。",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_2_55_21"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "三天后。",
+                  "text_id": "Main_LahaiRoi_3_2_300_1"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "请等一下，先不要进来——",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_1"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "呃、呜……！",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_2"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "抱歉，我的身体……好像还不是很灵活。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_3"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "明明康复训练之后，已经很久没有这样了……请不用担心，这种程度我自己就可以处理。唔……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_4"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "说起来，莫宁教授你现在感觉怎么样？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_57_5"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "听赫斯医生说，你当时的情况相当凶险。能像现在这样恢复，真是太好了……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_57_6"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "说实话，那个时候……我也不认为自己能活下来。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_7"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "但……意识模糊的时候，我好像看到一个戴着浅蓝色圆环的少女。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_8"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……浅蓝色圆环？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_57_9"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你可以详细地说一说那时的场景吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_57_10"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……虽然没法确定，但我似乎能感觉到，是她在那段时间里保护了我。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_11"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（从这些描述来看，莫宁见到的那位少女，和我在进入拉海洛时见到的是同一位。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_57_12"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（她能够独自对抗鸣式，又出现在炉芯……恐怕，她和隧者与鸣式都有着千丝万缕的关系。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_57_13"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（看来搞清楚她到底是谁，在她身上发生了什么就是接下来的主要目标了。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_57_14"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "漂泊者？漂泊者——别发呆啦！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_57_15"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "为了庆祝莫宁教授苏醒，也为了庆祝危机顺利解决，我们是不是应该——",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_57_16"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "应该——？",
+                  "text_id": "Main_LahaiRoi_3_2_57_17",
+                  "choice_key": "剧情_3_0_拉海洛主线_下半_1_11_2:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "出去兜风！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_57_18"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "没有什么比风吹过脸颊更惬意的事了，何况——",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_57_19"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "我们三个人还没有一张合照呢！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_57_20"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "新生的「赫利俄斯」之下的合照，听起来很有纪念意义。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_57_21"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……嗯。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_22"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "一起见证新日的升起……这也是，我和前辈的约定呢。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_57_23"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我们走吧。",
+                  "speaker_id": 100099,
+                  "text_id": "CommonVoice_Moning_8_1"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "怎么样，这个地方还不错吧？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_58_1"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "过去，每当我为未来感到迷茫时，待在这里都会让我感觉好点。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_58_2"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "好在，现在终于可以纯粹地享受这阵风了！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_58_3"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "……我曾经以为，当我看到这片风景时，会因为愿望的实现而流泪。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_58_4"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "但是，当我看到「赫利俄斯」的光芒如同司空见惯般倾泻在大地，万古的冰原与踏足不过数十年的人们沐浴同样的温暖……",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_58_5"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "我却只觉得……真是好美的风景。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_58_6"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "那么，我们就一起，把心里话喊出来吧——",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_58_7"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "敬自由！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_2_58_8"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "莫宁",
+                  "text": "敬文明。",
+                  "speaker_id": 100099,
+                  "text_id": "Main_LahaiRoi_3_2_58_9"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "敬新生。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_2_58_10"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 28
+        }
+      ]
+    }
+  ]
+}

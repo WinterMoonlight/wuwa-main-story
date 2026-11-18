@@ -1,0 +1,624 @@
+{
+  "schema_version": 1,
+  "title": "捕梦于神秘园中",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 13,
+      "dialogue": 58
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 8,
+          "title": "捕梦于神秘园中",
+          "act": "第七幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 30,
+              "quest_id": 171000004,
+              "title": "捕梦于神秘园中",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "转播布莱恩",
+                  "text": "亲爱的朋友，您是否对角斗士冠军赛的结束意犹未尽？！您是否期待着角斗明星们的再一次登场？！",
+                  "speaker_id": 300052,
+                  "text_id": "Main_Linaxita_2_7_2_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "转播布莱恩",
+                  "text": "为角斗士公开赛到来而准备的选拔赛已经开始！不要错过角斗新星的崛起！",
+                  "speaker_id": 300052,
+                  "text_id": "Main_Linaxita_2_7_2_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "转播布莱恩",
+                  "text": "烈日酒馆赛事转播台将全程为您转播，赛事期间，酒水畅饮，费用全免！",
+                  "speaker_id": 300052,
+                  "text_id": "Main_Linaxita_2_7_2_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "转播布莱恩",
+                  "text": "烈日酒馆欢迎您的到来！",
+                  "speaker_id": 300052,
+                  "text_id": "Main_Linaxita_2_7_2_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "选拔赛……看起来很有意思的样子。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_3_1"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你想去看看？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_3_2"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "想去！酒水畅饮，费用全免！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_3_3"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你到底是想看比赛还是喝东西……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_3_4"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "边喝东西边看比赛啊，嘿嘿，想想就很惬意。走吧走吧！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_3_5"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "赛事转播台",
+                  "text": "截至本场比赛结束，「磕磕撞撞」已连胜二十一场，和他们的名字正相反，这支年轻的外来战队可谓一路顺风顺水。",
+                  "speaker_id": 300001,
+                  "text_id": "Main_Linaxita_2_7_4_1"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "赛事转播台",
+                  "text": "下一场比赛，他们将面对七丘本土的老牌商业战队「伏尔甘矿业」，不知道这份胜利能否延续呢……",
+                  "speaker_id": 300001,
+                  "text_id": "Main_Linaxita_2_7_4_2"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "嗯，是谁是谁？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_4_3"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "黑海岸的通讯……走吧，找个更安静的地方。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_4_4"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "漂泊者，卡提希娅的检查已经有结果了。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_1"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "已经查清怎么回事了吗？",
+                  "text_id": "Main_Linaxita_2_7_5_2",
+                  "choice_key": "剧情_2_5_七丘序章_1_4:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "很遗憾，还没有推进到这种地步。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_3"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "她的情况并无先例，想要彻底弄清楚还需要更多的时间，不过有些事已经可以确定了。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_4"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "在统合岁主与鸣式的力量后，她每一次使用共鸣能力，都将不自主地融合周边的能量。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_5"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "上次她作战的索诺拉中充满了黑潮，我们推测这就是她感觉自己体内平衡偏向鸣式的缘故。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_6"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "或许这也是残星会当时的目的。",
+                  "text_id": "Main_Linaxita_2_7_5_7",
+                  "choice_key": "剧情_2_5_七丘序章_1_4:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅（通讯中）",
+                  "text": "我没事，不用担心我。",
+                  "speaker_id": 300043,
+                  "text_id": "Main_Linaxita_2_7_5_8"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅（通讯中）",
+                  "text": "就算有困难，只要意志坚定就可以克服！",
+                  "speaker_id": 300043,
+                  "text_id": "Main_Linaxita_2_7_5_9"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "卡提希娅女士，请相信科学。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_10"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "总之，最好暂时不要让她使用共鸣能力。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_11"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "根据您之前传输回来的情报，我们推测那座颠倒塔是最适合她休养的地方。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_12"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "因为「英白拉多」？",
+                  "text_id": "Main_Linaxita_2_7_5_13",
+                  "choice_key": "剧情_2_5_七丘序章_1_4:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "嗯，那处索诺拉的形成和岁主有关，应该可以帮助稳定卡提希娅的状态。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_14"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "另外，卡提希娅女士提到，她在这里进行检测时，再次感应到了鸣式利维亚坦的残留力量。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_15"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "再次？",
+                  "text_id": "Main_Linaxita_2_7_5_16",
+                  "choice_key": "剧情_2_5_七丘序章_1_4:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅（通讯中）",
+                  "text": "嗯，给我的感觉和当时与蜜芽对峙时一致。",
+                  "speaker_id": 300043,
+                  "text_id": "Main_Linaxita_2_7_5_17"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "卡提希娅（通讯中）",
+                  "text": "方向大概在黑海岸的南方。我只能朦胧感知到，它似乎沉于遥远的海洋深处。",
+                  "speaker_id": 300043,
+                  "text_id": "Main_Linaxita_2_7_5_18"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "看来有必要进行确认。",
+                  "text_id": "Main_Linaxita_2_7_5_19",
+                  "choice_key": "剧情_2_5_七丘序章_1_4:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "我们还在缩小具体范围，有准确结果会第一时间通知您。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_20"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我先行动起来，给我大致位置。",
+                  "text_id": "Main_Linaxita_2_7_5_21",
+                  "choice_key": "剧情_2_5_七丘序章_1_4:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "……我明白了，我会通知接头人提前准备好交通工具。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_22"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "还请多加小心。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_5_23"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（与蜜芽体内鸣式力量一致的能量波动……难道，还有和蜜芽类似的存在？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_6_1"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "接下来我们去做什么？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_6_2"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "总归要出海，先去码头。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_6_3"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "黑海岸成员（通讯中）",
+                  "text": "漂泊者，我们查到了鸣式残力的具体坐标，已经发到您的终端上了。另外，船也准备就绪，您应该已经看到了。",
+                  "speaker_id": 300042,
+                  "text_id": "Main_Linaxita_2_7_7_1"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我现在就出发。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_7_2"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "残星会的真实目的还不明确。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_7_3"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "但他们一定是想对黎那汐塔做什么，这方面的调查就拜托你们了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_7_4"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这个坐标更接近拉古那。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_8_2"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "那我们要不要叫拉古那的朋友们帮忙？说不定会有人知道些什么呢。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_8_3"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不，还是我们自己去吧。",
+                  "text_id": "Main_Linaxita_2_7_8_4",
+                  "choice_key": "剧情_2_5_七丘序章_1_7:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "参与行动的人越多，越容易引起修会注意，引发不必要的麻烦。何况我们的朋友身边，明里暗里总会有修会的目光。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_8_5"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "而且，按照之前的事情来看，黎那汐塔人似乎更容易受鸣式力量影响，他们来了，未必安全。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_8_6"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "嗯……也有道理。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_8_7"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "啊呼……风平浪静，暂时还没闻到鸣式的气息。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_8_8"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "需要时再叫我吧。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_8_9"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那是……",
+                  "text_id": "Main_Linaxita_2_7_8_10",
+                  "choice_key": "剧情_2_5_七丘序章_1_7:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 53,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "芬莱克……",
+                  "text_id": "Main_Linaxita_2_7_8_12",
+                  "choice_key": "剧情_2_5_七丘序章_1_7:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "义人，若你眼中的戒备与敌意乃是因为未解的谜题，我愿指引你的路。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_14"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你为何会在这里？",
+                  "text_id": "Main_Linaxita_2_7_8_15",
+                  "choice_key": "剧情_2_5_七丘序章_1_7:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "领受恩赐，遵从神谕，依祂所思，行祂所愿。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_16"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你的神已经不在了。",
+                  "text_id": "Main_Linaxita_2_7_8_17",
+                  "choice_key": "剧情_2_5_七丘序章_1_7:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "何等亵渎的话语！看来背叛者的言行已经蒙蔽了你的耳目，让你偏离了公义的道路。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_18"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我不是来和你猜谜的，你究竟想做什么？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_8_19"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "黎那汐塔的意志需要联结归一，回归纯粹，唯有这样，才能让民众脱离恐惧与分裂的深渊。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_20"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "恩赐与神谕已经降下，祂的神力亦从七丘那无信之地回归到了此地。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_21"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我将借助这份神力，统合分裂的意志，构筑永无纷争的乐土。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_22"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "加入这场伟业吧，你也可以借此铲除一直以来的敌人。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_23"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谁？",
+                  "text_id": "Main_Linaxita_2_7_8_24",
+                  "choice_key": "剧情_2_5_七丘序章_1_7:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "残星会。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_25"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看来在鸣式残力的分配上，你们出现了分歧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_8_26"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "与神同行，才是归途。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_27"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "那些狂悖的无信之徒不配得到我的救赎……也不能牵绊我的脚步……",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_28"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你身上的血腥味是谁的？",
+                  "text_id": "Main_Linaxita_2_7_8_29",
+                  "choice_key": "剧情_2_5_七丘序章_1_7:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "刀剑相向，看来即便有相同的敌人，我们也无法达成统一。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_8_30"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我更相信我看到的，也没有与你合作的必要。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_8_31"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "黎那汐塔 第二章",
+          "source_act_id": 18
+        }
+      ]
+    }
+  ]
+}

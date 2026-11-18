@@ -1,0 +1,1075 @@
+{
+  "schema_version": 1,
+  "title": "梦枢心相由心生·后日谈",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 3,
+      "dialogue": 124,
+      "scene_heading": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 4,
+      "title": "第四章",
+      "sections": [
+        {
+          "number": 6,
+          "title": "梦枢心相由心生",
+          "act": "第四幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 78,
+              "quest_id": 168850009,
+              "title": "梦枢心相由心生·后日谈",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "锁暝仍留在原地，看着人流如织的光景若有所思，眸光温柔。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Mengzhou_3_7_283_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "恍若有一位笑意盈盈的少女站在她身边，与她望向同一处安宁。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Mengzhou_3_7_283_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "正在人群不远处敛起气息，静听说书的清宵。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Mengzhou_3_7_280_1"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "“心月狐大人和清宵司骑打起来谁会赢？”，她似乎在认真沉思这个问题……",
+                  "speaker_id": 83,
+                  "text_id": "Main_Mengzhou_3_7_280_2"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "秧秧与特地赶来陪妹妹过节的穗穗站在烟花摊前认真挑选，眼中闪烁着温柔的光彩。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Mengzhou_3_7_281_1"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "像是许多年前，两个小小的女孩也是在这样灯火明亮的长街中并肩欢笑。时光轮转，仍有事物不曾改变。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Mengzhou_3_7_281_2"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "景燃正被缠着他听故事的孩子们团团围住。",
+                  "speaker_id": 83,
+                  "text_id": "Main_Mengzhou_3_7_282_1"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "context_note": "【实体交互：按回顾顺序排列，实际触发先后及是否必经尚未核验】",
+                  "text": "故事一个接着一个抛出去，却没有预想中孩童吓得惊叫四散的情形，你注意到他已经开始讲未发布的《寻幽记》新章了……",
+                  "speaker_id": 83,
+                  "text_id": "Main_Mengzhou_3_7_282_2"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "御者。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_1"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "打扰到你了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_247_2"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "不，我和他们已经聊完了。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_3"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "他们？你是说锁里的……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_247_4"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "嗯……我偶尔会和其中的频率……谈话。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_5"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "毕竟这不过是自言自语，不会在外人面前这么做。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_6"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "但先前溯心竟生造了我最疼爱的手下到我面前……实是有些想念。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_7"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "原来如此，能让我和他们说说话吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_247_8"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "他们平时如何称呼你？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_247_9"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "契主，老大，锁暝姐姐……都有。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_10"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（以「契主」称呼）",
+                  "text_id": "Main_Mengzhou_3_7_247_11",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_8:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你们的契主很了不起，「岁主」不在梦州本土的数百年，都是她代为行事。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_247_14"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "她做得无可挑剔，如今心也会在她的辅佐下成为这世上独一无二的「岁主」。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_247_17"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "不只是过去的日日夜夜，在未来，她也会让你们觉得这一生没有跟错人的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_247_18"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "上次流泪是他们离我而去的时候，这次……",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_19"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "能有我以外的人和他们说话，真的很好，就好像他们真的还在这世上。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_20"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "谢谢你……御者。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_247_21"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "锁暝，如今的我对谛天鉴了解不多……有件事一直挂念在心里。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_1"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "御者但说无妨。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_2"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "「岁主」自身的状况对于文明的影响非同小可，我之前……经历过。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_3"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "心月狐遇刺后，心在玄方城重塑「文明之匣」的这百年间，梦州百姓们情况如何？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_4"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "……",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_5"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "锁暝？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_6"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "「岁主」遇刺不久后，名为「恶瘴」的海蚀现象就在梦州蔓延。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_7"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "它携滚滚浓云与黑雨现身，蚀人面部，汲人魂魄。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_8"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "我的故乡华亭受「恶瘴」威胁，生灵涂炭。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_9"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你的伙伴们就是在和它的战斗中……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_10"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "嗯……他们愿为华亭而死，但我愤恨于「岁主」从未向我们伸出援手。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_11"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那时候心月狐受困于伤势，难以顾及梦州全境了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_12"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "是啊，所以当我见到祂时，又能有什么恨意呢？",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_13"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "不过是接过州监的名号，扫除组织中“蛇菰”的孽根。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_14"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "和谛天鉴的成员一起戴着祂分形制成的「锦妙锁」，以「岁主」的些许权能对抗梦州各地的危难。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_15"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "「锦妙锁」这次也帮了我大忙，这么说来，如今梦州局势应该趋于安稳了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_16"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "嗯，御者……无需担忧。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_17"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "言至于此，有一件尚未有定论的事情，需要让你知道。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_18"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说吧。",
+                  "text_id": "Main_Mengzhou_3_7_248_19",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_9:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "明庭始终在联合各州谛天鉴，探寻瑝珑岁主更多的可能性。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_20"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "无论如何，不可再让敌人取得先机。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_22"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "不过，就如我刚才所说，此事尚未明了，若未来有了进展，定是需要御者介入。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_23"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我明白，事关「岁主」，我自然会不遗余力。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_24"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "虽然还想告诉你更多，但就如刚才所说，至今我都没有余力参与此事。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_248_25"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "没关系。关于「岁主」……或者说伙伴们的事，能多了解一些总是好的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_26"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "锁暝，谢谢你告诉我这些。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_248_27"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【后续剧情：按关联回顾顺序排列】"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "御者你看，现在可正是最热闹的时候了，我们走吧。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_1"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_2"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（心月狐遇刺后，是不是再也没亲眼见过这番景象了？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_3"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（如果我来得更早一点，祂就能在这里——）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_4"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "怎么了？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_5"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "没事，我们走吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_6"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "御者，「岁主」如果看到朝月会上有人苦着脸，就会拉着那人的手，共赴盛会，直到她露出笑容。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_7"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "若「岁主」也能看到这番景象就好了，自那场变故后，祂再也没去过朝月会。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_10"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "呵呵，御者可比想象中要多愁善感些呢，不用上我这感知情绪的权能，也能看懂你的表情。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_11"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_12"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "我也很难过。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_13"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你们……「岁主」们总是在我还未谋面的时候，就为崇高的使命使自己陷入艰难的困境。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_14"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这次我又来晚了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_15"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "御者，那时锁暝交给我的玄朱锁里，放着「岁主」最后的频率。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_16"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "最后的？祂说了什么？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_17"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "「岁主」……祂居然向我道歉，说是祂害我经历了那么多别无选择的苦境。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_18"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "接着，祂说认同我的选择，说看着我一步一步走得比祂更好……",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_19"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "御者。是有你点醒我，不应辜负梦州人对「心」的期待。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_20"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "再有来自「岁主」……来自我所憧憬的祂的肯定，我才能蜕变。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_21"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "这玄方城，这梦州才能再度升起如此温暖的灯火。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_22"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "当年为了保全一方生灵，祂决断筑起玄方城，再化出你，以前所未有的方式重塑「文明之匣」。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_23"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "而且，即便知道你要在苍生与「岁主」间选择其一时会怎么做，也义无反顾。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_24"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "嗯，所以……才有那句抱歉。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_25"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是啊，祂就是如此深爱着梦州，每一分心念，早已融入这片土地。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_26"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "就像你说的，心月狐本就偏爱人间喜乐，最看不得人愁苦。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_27"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "若我们只顾着哀伤，倒是辜负了祂的本意。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_28"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "是呀，所以放轻松点吧，「岁主」可没教过我怎么安慰难过的御者呢。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_29"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "谢谢你，心，能知道心月狐最后说了什么，对我真的很重要。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_249_30"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "不用谢，那我们且在此处看着朝月灯火吧。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_31"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "这一路，辛苦你了，御者。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_249_32"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "还是要再说一次，谢谢你，御者。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_1"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "如果不是你来了，真不知道事情要怎么收场。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_2"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "你要说，“无需多言，这都是身为御者该做的事”，对不对？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_3"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你知道就好。",
+                  "text_id": "Main_Mengzhou_3_7_255_4",
+                  "choice_key": "剧情_3_7_心相迷宫&后日谈_3_13:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "玄方城的事，算是告一段落。梦州那边……情况如何了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_255_6"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "嗯……你还记得谛天鉴的小姑娘给过你的“锁”吧？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_7"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "岁主遇刺身亡，这事是瞒不住的，无非是更上面有人要藏，藏不了一世，也要藏一时。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_8"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "下面的人，也只能揣着明白装糊涂。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_9"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……锁暝？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_255_10"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "安心，那小姑娘是我们这边的人，她隐藏得很好，不然“那些人”不会允许她代表谛天鉴来玄方城。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_11"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，梦州本土的情况呢？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_255_12"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "心月狐的权能本就善于工事，梦州本土还留有大量祂留下的防护，鸣式的侵扰尚无实际的威胁。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_13"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "而且，兴许是因为御者在今州击退了无相燹主，梦州属地这段时间也很太平。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_14"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "至于谛天鉴那边，还有那小姑娘操持。其他事务，过后我会找她聊一聊。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_15"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "谛天鉴……嗯，我也会注意他们的动向。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_255_16"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "对了……你在意的卫星与稷廷文字的事情我也向天人们询问过，可时代太过久远，他们也不甚清楚。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_17"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "……或许曾经的心月狐对此知晓，可我的记忆在来到玄方地界期间出现了缺损……我会一直为你留意这件事情的。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_18"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "虽然现有的记忆还很模糊，但我可以先将它们提交给黑海岸分析，或许他们会发现一些我意识不到的事情……",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_255_19"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，到时黑海岸会有人和你联络。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_255_20"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你先好好休息，整理下思绪。至少今晚，和玄方城一起好好享受这场朝月会吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_7_255_21"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "灯华如昼，笑语犹在，朝月清辉长照如昔。",
+                  "text_id": "Main_Mengzhou_3_7_250_26"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "数日后，玄方地界某处——",
+                  "text_id": "Main_Mengzhou_3_7_250_27"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "心月狐？还没到启程的时候吧？",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_1"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "还没呢，你怎么不叫我心？多生分呀。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_2"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "昔日我如何称呼「岁主」，那今日也一样。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_3"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "呵呵，你这有点别扭的关心方式，我心领啦，谢谢。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_4"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "我想为你近日的努力道谢，但……更想说抱歉。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_5"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "你解开了两个玄朱锁吧？一个用来承载「岁主」的频率，一个用在溯心拖走我的时候。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_6"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "锁里的……是谁？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_7"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "六契、八契，一位伶牙俐齿，一位沉默寡言。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_8"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "那终究是百年前就该消逝的回响，只是被我的执念困在这里，无需道歉。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_9"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "这两番决断的关头，我都了然眼前事远胜过我那一身执念。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_10"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "可锁暝，你并非共鸣力强悍的类型，即便如此你也已活过漫长岁月。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_11"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "是你对禁锁十契的执念支撑着你吧？如果，有一天你把锁全部释放了——",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_12"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "我会很期待那一天的，心月狐。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_13"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "锁暝……",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_14"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "好了，先不提我的事，同去梦州的人选，你心中有数了吗？",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_15"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "昭明商会会给我们提供沿途的掩护，除此以外还有三位身手不错的能人异士。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_16"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "一位被残星会设计陷害的通缉犯，曾经的“心绝”。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_17"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "一位和琢钧堂有不浅缘分的今巡尉。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_18"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "还有一位……嗯，因为大仇得报，所以就顺势自荐的线人。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_19"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "你们已经接触过了？",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_20"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "那位商会会长对于怎么将有共同诉求的人联系起来，有她自己的心得。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_21"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "唉，我构想的锁暝妹妹欢迎会用不上了，看来不用担心你们聊不到一块儿去。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_22"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "锁暝",
+                  "text": "大家在梦州都有一笔账要算，自然不至于没话说。",
+                  "speaker_id": 400074,
+                  "text_id": "Main_Mengzhou_3_7_250_23"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "是呀……大家，都有一笔账要算。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_7_250_24"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "梦州 第四章",
+          "source_act_id": 45
+        }
+      ]
+    }
+  ]
+}

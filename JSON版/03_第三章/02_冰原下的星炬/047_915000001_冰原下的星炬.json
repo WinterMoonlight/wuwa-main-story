@@ -1,0 +1,1680 @@
+{
+  "schema_version": 1,
+  "title": "冰原下的星炬",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "attachment": 2,
+      "choice": 23,
+      "dialogue": 175,
+      "scene_heading": 1,
+      "ui_reference": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 2,
+          "title": "冰原下的星炬",
+          "act": "第一幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 47,
+              "quest_id": 915000001,
+              "title": "冰原下的星炬",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "漂泊者同学，欢迎来到星炬学院！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "先去中枢信标登记你的终端吧，在没有频录装置之前，只要将自己的信息录入，就能够暂时获得在学院内通行和使用载具的权利。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（进入学校之后……在那个空间中造成的频率波动似乎稳定了下来？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_10_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "总感觉你眼神有些恍惚……你真的没问题了吗？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "我还是带你去一趟医务室吧，有很多刚到拉海洛的新生都会因为磁暴产生频率紊乱，你落下的地方正好是虚诞虫的活跃区，而且你还雪上加霜地……被我给撞到……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "虚诞虫的活跃区……那你怎么会在那么危险的地方？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_10_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "那是因为……我自由研究的课题需要收集一些虚诞虫的生态数据……不，我是为了测试新改装好的摩托性能……不不，还是说……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谎话在想好前可不能说出口哦？",
+                  "text_id": "Main_LahaiRoi_3_1_10_8",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_10_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "对不起……这件事解释起来会很复杂……那个……你能不能帮我保密？如果让老师们知道我逃课飙车，还撞到了人……唉，我的处分表真的不能再被记一笔了！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "……算我欠你一个大人情！以后你在学院遇到任何事都可以找我，只要是我能办到的，我什么都会做的！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我考虑一下。",
+                  "text_id": "Main_LahaiRoi_3_1_10_11",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_10_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "呜……啊，不好意思，我接个通讯……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_13"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "？？？（通讯中）",
+                  "text": "琳奈！你跑到哪儿去了！打了好几个通讯都不接！给你留消息你也不回！你……不会忘记今天是什么日子了吧？",
+                  "speaker_id": 50092,
+                  "text_id": "Main_LahaiRoi_3_1_10_14"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "今天？我看看备忘录……阿莱谢夫教授的小组作业汇报……真假！？今天？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_15"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "？？？（通讯中）",
+                  "text": "琳——奈——",
+                  "speaker_id": 50092,
+                  "text_id": "Main_LahaiRoi_3_1_10_16"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "对不起对不起！我马上赶过去——啊，但是……中枢信标……还要带你去医务室……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_17"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "先去忙你自己的事吧。",
+                  "text_id": "Main_LahaiRoi_3_1_10_18",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_10_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "嗯……好吧……！等这边完事了，我马上去医务室找你！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_10_20"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "你真的没事吗？我刚才的车速绝对不算慢，但你现在看上去一点事都没有……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_9_1"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "呃，抱歉，我只是想说，你身手很好，反应也快……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_9_2"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我没事，那时候你的刹车很及时。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_9_3"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这里的学生……生活还真是丰富多彩……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_1001_1"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "阿布，你感觉怎么样？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_12_3"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "还好，刚才和那个大虫子比吸力，有点费力气。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_1_12_4"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "那我们直接去医务室？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_1_12_1"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，顺便沿途逛逛这个地方吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_12_2"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "嗅嗅……嗯，现在你的频率已经平复不少了，但失去的还是没有回来。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_1_1002_1"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "一定是那个虚诞虫抢走了你的频率！而且，它身上有和那大眼珠子一样，鸣式的气味！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_1_1002_2"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "鸣式……不过，学院既然在这里建立了这么久，应该有对付它的方法甚至是计划。或许我们能从中得到一些帮助。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_1002_3"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "还有，那个突然出现的少女，她的声音和我之前在穗波市的收音机里听到的很像，或许……就是她。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_1002_4"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "这么神秘……说不定那个人现在就在拉海洛？要不要找找看？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_3_1_1002_5"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "优先解决频率流逝的问题，在此基础上多留意一下吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_1002_6"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（至于琳奈……她似乎在隐瞒些什么……但是，现在还有更重要的事需要弄清楚。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_1002_7"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（总之，还是得先了解了解这座星炬学院……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_1002_8"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "你真正的来头到底是什么呢……黑海岸的漂泊者同学……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_1002_10"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "唉……果然被盯上了……本来小组作业就要了我半条命，现在还节外生枝……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_1002_11"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "接下来……可有得忙了。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_1002_12"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "……啊，漂泊者！终于见到你了！",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_2"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "穿过空间隧道之后，我一直等不到你，又没有办法联系到黑海岸……都已经过去好几天了。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_3"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "我还以为……",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_4"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "遇到了一些状况，耽搁了一段时间。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_11_5"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "呼……不管怎样，你没事就好……",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_6"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "对了，千咲通过隧道的时候，有注意到什么异常情况吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_11_7"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "异常情况？好像……除了过来的时候头有点晕，也没有什么特别的了。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_8"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（看来，只有我被拉入了那个奇怪的空间吗……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_11_9"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "漂泊者？你还好吗？",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_10"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我没事……你怎么样？来这里之后，一切都还好吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_11_11"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "嗯，我见到了家人，他们……都还活着。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_12"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "直到真正见到他们，我才真正意识到，对我来说仅是分别了数月，可是对他们来说，我已经失踪了二十多年。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_13"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "……他们变化很大，我……",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_14"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……重要的是你们团聚了。",
+                  "text_id": "Main_LahaiRoi_3_1_11_15",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_12_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "嗯，我明白的！",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_17"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "这已经是最好的情况，能像这样和他们团聚，就已经是很不可思议的奇迹了。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_18"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "我会逐渐适应的，不管是和家人的相处、落下的课业，还是填补那些失去的时光……",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_21"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "……总觉得，有一种“青春”又突然重新开始的感觉呢，有烦恼，有遗憾……但仍然会继续前行。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_22"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "的确如此。",
+                  "text_id": "Main_LahaiRoi_3_1_11_23",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_12_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "嗯，如果你需要，我随时都在，虽然不知道还能帮上你什么……但无论如何，都希望你能顺利。",
+                  "speaker_id": 50179,
+                  "text_id": "Main_LahaiRoi_3_1_11_25"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "请问……是有哪里身体不舒服吗？还是想听N.A.N.A.的保健知识呢？",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_1"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "N.A.N.A.女士，这样会吓到新同学的哦？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_2"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "不过她面对虚诞虫都不形于色，大概不是会被轻易吓到的类型。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_3"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "嗯……看得出来，是和小琳奈一样很沉着的孩子呢。",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_4"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "小琳奈，又需要我给你开假条了吗？这次的理由是什么？肚子疼？头晕？眼皮跳？心慌？还是……",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_5"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "咳咳！这次不是我……是漂泊者，请帮她检查一下身体吧。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_6"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你来得好快……",
+                  "text_id": "Main_LahaiRoi_3_1_14_7",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_13_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "嗯，搞定作业汇报之后立刻就过来了！果然还是得看到你完整的检查报告才能安心。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_8"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "是身体有哪里不舒服吗？发生什么事了？",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_9"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不小心滑了一跤。",
+                  "text_id": "Main_LahaiRoi_3_1_14_10",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_13_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "呃，嗯……她不小心摔了一跤，那时候我正好骑车路过，就……把她带过来了！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_12"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "哎呀？别紧张，让我来看看哦……请先把你的磁带拿过来吧？让我来分析一下你的健康数据。",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_14"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我还没有磁带……",
+                  "text_id": "Main_LahaiRoi_3_1_14_15",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_13_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "啊对，漂泊者还没入学……所以还没拿到磁带……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_16"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "还是第一次见到还没入学就先往医务室报到的学生呢……不过没关系，检查现在开始——",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_17"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "生命体征扫描启动——体温正常，拉贝尔波形稳定，检测到轻微擦伤……",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_18"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "只是轻微擦伤？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_19"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是的，我身子骨很硬朗。",
+                  "text_id": "Main_LahaiRoi_3_1_14_20",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_13_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "嗯……既然N.A.N.A.女士都这么说了……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_22"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "检测到轻度频率流失……以及轻度虚质磁暴波形残留，你们刚才去了哪？",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_24"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（简单叙述频率流失症状与遭遇虚诞虫的经过）",
+                  "text_id": "Main_LahaiRoi_3_1_14_25",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_13_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "我明白了……漂泊者，请跟我来。",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_26"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "小琳奈，你还不回去上课吗？",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_27"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "嗯……我想在这里等检查结果出来。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_14_28"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "放心吧，我已经通知了赫斯医生，他刚刚结束出诊，很快就会回来。",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_14_29"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "请坐在这里，闭上眼睛哦。",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_15_1"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……情况怎么样？嗯，检验结果出来了？让我看看……",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_1_15_2"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……黑海岸的执花，被举荐而来的新生？真是……有趣的出场方式。",
+                  "speaker_id": 178,
+                  "text_id": "Main_LahaiRoi_3_1_15_3"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我是陆·赫斯，校医室的值班医生。同学们都习惯叫我赫斯医生，当然，想叫我陆医生，或者陆……我也不介意。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_4"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "赫斯医生。",
+                  "text_id": "Main_LahaiRoi_3_1_15_5",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_28_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……嗯，从报告来看，你的频率的确有些波动，不过现在已经趋于平稳，没什么大碍，放心吧。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_6"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "至于频率流失的问题……很抱歉，我没有办法追溯它的源头，或许研究院那边会有更全面的检查手段。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_7"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "但是最好还是不要什么防护都不做就往虚质磁暴里冲了，我刚才接诊的那几个孩子，都是为了一点研究数据就连安危都不顾。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_8"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "明明再三强调了生命安全是第一位……面对未知却仍然选择铤而走险，学生也好教师也罢，这个学院传承的精神真的很容易让医生担忧啊。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_9"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……啊抱歉，有些跑题了，只是想告诉你，在对情况没有足够了解之前，还是要保持谨慎。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_10"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "——新生。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_11"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "不过现在还是尽快去刻录你的磁带吧，有了它，你的行动也会更加方便些。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_12"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "如果之后身体有任何不适，或者遇到了什么问题，都可以来找我，不论是学习、生活，还是一些不知该如何言说的事情……我随时都在。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_13"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "作为医生，照顾学生的心理健康也是我的责任。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_14"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……多谢医生。",
+                  "text_id": "Main_LahaiRoi_3_1_15_15",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_28_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "赫斯医生，拉贝尔学部有适格者陷入昏迷，请求医疗支援。",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_15_16"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "我知道了，这就去。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_17"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "那么，再会。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_18"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "赫斯医生，作为医生说再会，有点奇怪哦？",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_3_1_15_19"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "呵呵，说得也是，那换一种说法……希望你一切顺利。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_20"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "陆·赫斯",
+                  "text": "……欢迎回来。",
+                  "speaker_id": 150065,
+                  "text_id": "Main_LahaiRoi_3_1_15_21"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_15_22"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "怎么样？你还好吗？检查结果有什么问题吗？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_15_23"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……我没事。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_15_24"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "刚才你们提到的“磁带”是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_15_25"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "啊，每个入学的新生都需要刻录自己的磁带，喏，就是这个……是拉海洛使用的特殊设备，也是一种身份标识和安全装置。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_15_26"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "刻录磁带需要研究院的通行许可，得先正式办理入学才行。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_15_27"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，那就先去入学吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_15_28"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "没问题，入学在教师办公室，我带你过去吧。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_15_29"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "等下，在这里稍微停一下。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_16_1"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "年长的教师",
+                  "text": "虚诞虫最近异常活跃，的确应该尽快把应对方案定下来……防御阵列的情况怎么样了？",
+                  "speaker_id": 701194,
+                  "text_id": "Main_LahaiRoi_3_1_16_2"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "年轻的值班教师",
+                  "text": "……在先前的大型磁暴中受损严重，有关“诱捕”装置的抢修，工学部已经在加派人手了。",
+                  "speaker_id": 100170,
+                  "text_id": "Main_LahaiRoi_3_1_16_3"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "年长的教师",
+                  "text": "我们需要尽快恢复防御阵列和诱捕装置的远程控制，否则会非常被动。",
+                  "speaker_id": 701194,
+                  "text_id": "Main_LahaiRoi_3_1_16_4"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "年长的教师",
+                  "text": "最坏情况……就是找到合适的共鸣者去手动处理。",
+                  "speaker_id": 701194,
+                  "text_id": "Main_LahaiRoi_3_1_16_5"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "年轻的值班教师",
+                  "text": "那里靠近虚诞虫的栖息地，太危险了，教授，我们不能拿师生的安全开玩笑。",
+                  "speaker_id": 100170,
+                  "text_id": "Main_LahaiRoi_3_1_16_6"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "年长的教师",
+                  "text": "唉，我知道，还是要尽快查清这次虚质磁暴周期异常的原因才行……这种读数，我只在模拟实验里见到过。",
+                  "speaker_id": 701194,
+                  "text_id": "Main_LahaiRoi_3_1_16_7"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "年长的教师",
+                  "text": "接下来还有会议，我先告辞了。",
+                  "speaker_id": 701194,
+                  "text_id": "Main_LahaiRoi_3_1_16_8"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "神色略显疲惫的研究者抱着一摞资料匆匆离开。",
+                  "text_id": "Main_LahaiRoi_3_1_16_9"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "他们好像谈完了，我们过去吧。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_16_10"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "年轻的值班教师",
+                  "text": "嗯？你们有什么……啊！琳奈同学，你今天的文化通识课又缺席了，是不是？",
+                  "speaker_id": 100170,
+                  "text_id": "Main_LahaiRoi_3_1_16_11"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "坏了，差点忘了这事……呃，那是因为……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_16_12"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "年轻的值班教师",
+                  "text": "总是在最低出勤率的边缘试探，再这样下去，只有全科考满分才能救得了你。",
+                  "speaker_id": 100170,
+                  "text_id": "Main_LahaiRoi_3_1_16_13"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "了解，还有三门课，我会努力试试看的。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_16_14"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "年轻的值班教师",
+                  "text": "……我不是这个意思，你啊……罢了，你们来办公室有什么事？",
+                  "speaker_id": 100170,
+                  "text_id": "Main_LahaiRoi_3_1_16_15"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "沃斯老师，我是来带这位同学入学的，她刚到学院，对这里还不太熟悉……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_16_16"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "办理入学……在这个时候？同学，你的名字是？",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_16_17"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "漂泊者。",
+                  "text_id": "Main_LahaiRoi_3_1_16_18",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_14_1:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "我看看……的确在未报到的新生名单中，而且通过了适格者测试。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_16_19"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "……原来是黑海岸推荐的学员啊，难怪能在虚质磁暴期抵达。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_16_20"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "嗯，身份确认完毕，先去登记你的个人信息吧，然后去拍摄学生证需要的证件照。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_16_21"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "如果有什么不明白的地方，随时问我就好。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_16_22"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "至于琳奈同学……",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_16_23"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "咳咳，现在是课间，我会带着她办理入学手续，顺便向她介绍校园的。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_16_24"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "这孩子……既然你这么坚持，那就交给你了。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_16_25"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "包在我身上！来吧，新同学，我带你办入学。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_16_26"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "首先是……姓名，直接填你的名字就好。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_326_1"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "班级会自动分配，新入学的学生会先加入预科班……不过，你既然通过了适格者的测试，那一入学就会被分配进拉贝尔学部。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_326_2"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "然后是……联系地址，也就是家庭住址，或者监护人的地址。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_326_3"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "今州边庭。",
+                  "text_id": "Main_LahaiRoi_3_1_326_4",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_37_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "填好了吗？接下来就是拍证件照了！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_326_8"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不需要穿校服吗？",
+                  "text_id": "Main_LahaiRoi_3_1_326_9",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_37_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "因为你是中途入学嘛，所以很多东西还没来得及准备好，我之前也是这样的。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_326_10"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "放心！这些之后都会有的。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_326_11"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "我看看……好，没问题。给，收好了，千万不要弄丢了。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_1"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "ui_reference",
+                  "speaker": null,
+                  "text": "【入学界面】内部内容后置，以下按返回后的配置路径继续。"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "弄丢了会很麻烦吗？",
+                  "text_id": "Main_LahaiRoi_3_1_18_2",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_15_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "嗯嗯，在这里什么都需要刷卡！出入通行要，食堂吃饭也要，要是卡丢了，连个热水澡都洗不了！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_18_3"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "不过，如果你可以保证在补办期间，忍受这里便利的缺失，那倒是没什么麻烦的。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_4"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "对了，你是作为“适格者”入学，那这个还是绑定你模拟驾驶舱的唯一通行卡。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_5"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "模拟驾驶舱？",
+                  "text_id": "Main_LahaiRoi_3_1_18_6",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_15_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "我们启动隧者的最终目的，是对抗给这片土地带来虚质磁暴的鸣式，这件事你应该知道吧？",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_7"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "隧者……即便经过了这么多年的研究，我们依旧不知道它是出自哪个文明的产物。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_8"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "有人认为它和岁主同源，但据我们所知，目前没有一个岁主正式回应过这个问题。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_9"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（与岁主同源……目前没有相近的感受，是因为距离太远了吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_18_10"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "隧者，到底在哪里？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_18_11"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "隧者的本体不在这里哦，但你也看到那把超大的剑了吧，那就是隧者的武器，是用来压制盘踞在隧门之后的鸣式“阿列夫一”的。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_18_12"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "学院依靠收集的隧者部件，成功制造出了适格者专用的模拟驾驶舱。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_13"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "依靠不断的训练，调试驾驶舱的参数，提升与隧者的同步率，也是你之后最重要的课业内容。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_14"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "听起来像某种……人工诱导的共鸣？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_18_15"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "这可是多国联合的项目，有一些新联邦来的技术也不奇怪。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_16"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "放心吧……其中部分过激的手段，我们都筛选出去了，你可以信任我们。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_17"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "技术上的事我不太懂。",
+                  "text_id": "Main_LahaiRoi_3_1_18_18",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_15_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "我说你可以信任我们，那是指……",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_20"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "这一切，都是在学院建立前期，由黑海岸评估了安全性后才在各国一致同意下推进的。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_21"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "除此之外，关于隧者，还有近期要举办的换日仪式……",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_22"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "老师，您别念了……",
+                  "text_id": "Main_LahaiRoi_3_1_18_23",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_15_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "老师，您接下来是不是还有课来着？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_18_25"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "的确……你这孩子，课程表背得这么熟，怎么不见你每节课都准时去上？",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_26"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "那么……欢迎入学，接下来，你可以凭借学生证去研究院刻录你的磁带了。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_29"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "教师沃斯",
+                  "text": "至于琳奈同学……如果你接下来还有空，就带新同学过去吧。",
+                  "speaker_id": 100179,
+                  "text_id": "Main_LahaiRoi_3_1_18_30"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "研究院要怎么去？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_17_1"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "一般是坐星炬列车或者直接搭乘载具……",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_17_2"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "既然你已经正式成为了星炬学院的学生，就可以使用学院配发的载具了！机会难得，要不要感受一下？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_17_3"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好啊。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_3_1_17_4"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "走，我们先去提车！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_17_5"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "S.I.G.M.A.先生！我带第九大不可思议来提车啦。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_1"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "秩序零妥协，生命零风险，「融合信号指挥员」S.I.G.M.A.，为您护航。",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_2"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "嗯？今天的开场白有点普通哦？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_3"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "这是本周由学生们票选出的最佳开场白。琳奈同学，你来得正好，我注意到你的载具……",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_4"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "咳哼！！对了S.I.G.M.A.先生，我来带新同学领取载具，我们要去研究院刻录磁带，第一优先级。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_5"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "……已确认，漂泊者，你的载具已经准备完毕。请阅读并记忆星炬学院交通安全管理条例，在文件结尾勾选“已认真阅读”并签名。",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_6"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（直接签！）",
+                  "text_id": "Main_LahaiRoi_3_1_20_7",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_17_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "请认真阅读，交通安全不是儿戏，速度是权利，护盾是义务，规则必须遵守。",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_9"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（……认真看完）",
+                  "text_id": "Main_LahaiRoi_3_1_20_10",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_17_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "请在5秒后再完成签名……5……4……3……2……1，已确认，感谢配合，一路平安。",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_11"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "好！那我们准备出发！",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_13"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "请稍等——继续被打断的对话，检测到你的载具在二十天内有十三次高速驾驶记录，请注意安全驾驶，遵守学院交通安全守则。",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_14"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "还有，你对载具的擅自改装已经处于载具管理条例的灰色地带，出于对你个人安全考虑，建议你停止对载具的改造行为。",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_15"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "咳哼……我说S.I.G.M.A.先生，我只是给摩托升级了涡轮增压，改进了一下悬挂和刹车系统，还没到违反规定的程度吧？",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_16"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "和那些往摩托上加装飞弹和反重力轮胎的学长学姐们比起来，我都算得上乖学生了。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_17"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "飞弹和……反重力轮胎？",
+                  "text_id": "Main_LahaiRoi_3_1_20_18",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_17_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "嗯，之前有位学长为了他的课题作业，开着被他改装成跟轻型坦克没什么两样的摩托，一路杀到虚诞虫的活跃区里呢。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_19"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这里的学生这么生猛吗……",
+                  "text_id": "Main_LahaiRoi_3_1_20_20",
+                  "choice_key": "剧情_3_0_主线_拉海洛主线_上半_1_17_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "我需要指出，那名学生严重违反了载具管理条例和数十条校规，事后被学院记以严重处分……",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_22"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "但又因为他确实给学院拿到了很多虚诞虫的关键数据，处分马上就撤销咯。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_23"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "S.I.G.M.A.",
+                  "text": "嗯——",
+                  "speaker_id": 100209,
+                  "text_id": "Main_LahaiRoi_3_1_20_24"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "琳奈",
+                  "text": "趁现在，快走快走啦。",
+                  "speaker_id": 100085,
+                  "text_id": "Main_LahaiRoi_3_1_20_25"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【本段资料，具体显示时机待确认】"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "attachment",
+                  "speaker": null,
+                  "display_label": "资料",
+                  "text": "星炬学院交通安全管理条例",
+                  "text_id": "InfoDisplay_30010011_Title"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "attachment",
+                  "speaker": null,
+                  "display_label": "资料",
+                  "text": "星炬学院交通安全管理条例\n\n第一条 为维护拉海洛交通秩序，预防和减少事故，保障师生生命与科研资产安全，星炬学院内所有公共交通参与者均应遵守本条例。\n第二条 学院应配合建立并健全道路交通安全工作协调机制，组织各学部、社团对校区建设及科研项目进行交通影响评价，制定安全管理规划与实施方案。\n第三条 院内人员在申领载具前需出示相关驾驶凭证，并熟读记忆本条例，于三周内通过本条例的线上考核。\n第四条 驾驶载具不得有下列行为：\n（一） 拨打接听手持终端，进行论文赶工或观看线上课程等妨碍安全驾驶的行为；\n（二） 下陡坡时熄火或空档滑行；\n（三） 未经批准擅自进入虚质磁暴影响范围；\n（四） 将载具停泊于教学楼前；\n（五） 在开放式车斗内冲泡或食用杯面；\n（六） 利用引擎余热进行食物加热；\n（七） 在驾驶过程中投喂或挑衅野外隧群。\n第五条 在道路上驾驶载具应遵守下列规定：\n（一） 在学院内驾驶载具需遵循限速原则，时速不得超过10公里/小时。违者将暂扣载具，并需于每日课后参加为期七天的交通安全教育宣讲；\n（二） 不得驾驶载具使用索道、滑轨等固定机关路径；\n（三） 不得在连续工作/学习超过16小时后驾驶载具；日间连续驾驶不得超过4小时，夜间连续驾驶不得超过2小时；\n（四） 驾驶科研摩托类型载具需佩戴头盔；\n（五） 不得使用未经驯服或处于研究阶段的隧群进行任何形式的拖曳、牵引或并驾齐驱；\n（六） 不得为追求“更优空气动力学”而擅自拆除载具车门、顶盖等安全结构；\n（七） 不得在驾驶时进行冥想、共感训练等可能丧失物理感知的行为；\n（八） 不得在明知载具处于能源核心过载状态时，仅张贴“危险勿近”纸条了事，须立即上报并疏散周边人员。\n\n……\n\n违反本条例规定，将视情节轻重，处以警告、暂扣载具、取消驾驶资格、取消实验配额与经费，或安排参与“路段清扫义工”等处罚，情节严重者将依照相关规定给予处分。\n\nS.I.G.M.A.提醒：请注意，所有违章行为均会被记录为负面案例并与学院内公示，切勿顶风作案，文明出行，从你我做起。",
+                  "text_id": "InfoDisplay_30010011_Text"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 27
+        }
+      ]
+    }
+  ]
+}

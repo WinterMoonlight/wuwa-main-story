@@ -1,0 +1,3677 @@
+{
+  "schema_version": 1,
+  "title": "山雨欲来风满楼",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "dialogue": 453,
+      "omission": 1,
+      "scene_heading": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 4,
+      "title": "第四章",
+      "sections": [
+        {
+          "number": 1,
+          "title": "山雨欲来风满楼",
+          "act": "第一幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 66,
+              "quest_id": 189000005,
+              "title": "山雨欲来风满楼",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "父亲、母亲、姐姐……漂泊者……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_270_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我不奢求你们能看到这段话，因为我更想亲口告诉你们。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_270_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我在这里经历了什么，我还将要经历什么——",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_270_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "已经……足够远了吧……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_280_1"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这样……炽霞她就安全了……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_280_2"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "唔——",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_280_3"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "椋羽，这些机傀……好像有些……",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_4"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "小心——！咳啊啊——",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_5"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "怎么回事！？机傀们怎么会——唔——",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_7"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "杜仲！？青枳！？",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_6"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "……走，我来断后。",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_10"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "清宵司骑——您——",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_11"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "……剩下的人我会去救，毋需担心。",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "可是……！",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "……还能动的人，随我冲出这里！",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_15"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "我们得……把消息……带到玄方城——",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_16"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这些……声音……是……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_280_17"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "梁鸢……？怎么会飞到这里……啊！那是——",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_280_18"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "椋羽骑使——那边有人在和机傀交战——！",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_280_19"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "这种时候……怎么会——",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_20"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "所有人摆好阵型！别让机傀靠近村子！",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_21"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "喂！？你没事吧！",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_280_22"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_280_23"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【旧屋 · 秧秧醒来】"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "可是……这么多年从未出过事，很多人都不愿意离开村子……",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_290_1"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "战情危急，定玄卫长已经下了命令，让所有还待在城外的人都撤回去。",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_290_2"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "玄方地界受岁主庇佑，怎么会……",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_290_3"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "我不是说过了吗，现在根本联络不上岁主——",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_290_4"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我这是在……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_290_5"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里……是……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_290_6"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你是……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_290_7"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "请问……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_294_10"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "嗯？你醒了啊，之前你险些超频，昏迷了几个时辰。怎么样，身体有无大碍？",
+                  "speaker_id": 849,
+                  "text_id": "Main_HuangLong_SYYLFML_294_11"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我没事……只是还不太清楚现在的情况……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_294_12"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……我叫椋羽，玄方城军策府所属后玄骑使。这里是衔翎村，背靠玄幽东岳，在这里住下的几乎都是玄方地界本地人。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_294_13"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "椋羽……后玄骑使……衔翎村……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_294_14"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "轮到我问你了，你是谁？为何出现在这里？为何会与机傀缠斗？",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_294_15"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我叫秧秧，是今州夜归下属踏白，之所以来玄方地界，是为了协助今巡尉调查最近今州人口失踪的案子。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_294_16"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我和同伴循着线索穿越梦窟，却在山门外遇到了大规模的残象……这时候山门突然打开，为了帮同伴脱险，我才会独自进城。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_294_17"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这之后的事……你们应该也都看到了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_294_18"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "今州……失踪案……残象外逃……而且山门还擅自开启……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_294_19"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "今州还不知情……梦州那边又没回应……这一切到底……啧——！",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_294_20"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "究竟发生什么了？我记得……玄方城的机傀，应该是帮助士兵对抗残象的武器，为什么会突然开始袭击人类？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_294_21"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "我不知道……没有人知道为什么……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_294_22"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "椋羽简单地向秧秧讲述了事件的经过。",
+                  "text_id": "Main_HuangLong_SYYLFML_294_23"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "机傀……叛变……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_291_1"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……大家都不愿相信，因为机傀可是梦州岁主的造物，正常情况下，不可能做出屠戮无辜民众的行为。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_2"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "但哪怕是有人操控机傀，在玄方地界制造出这一系列事端……也太匪夷所思了！这意味着有人拥有能入侵、乃至破解岁主智慧的技术……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_3"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如果这一切是有人暗中谋划……能做到这种事的，我知道的也只有……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_291_4"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……会是残星会的手笔吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_291_5"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "残星会……那个臭名昭著的恐怖组织？不清楚……至少之前的很长一段时间里，地界内不曾看到有身着红衣的人行动……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_6"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "如果这时候琢钧堂能派来一两个舵主……不，肯定指望不上。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_7"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "琢钧堂？他们是谁？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_291_8"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "梦州的机关术组织，梦州几乎有一半的工匠都有琢钧堂的背景，可以说是除了岁主心和天工之外，最了解机关术的一群人。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_9"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "可他们不像天工或华胥研究院那样归边庭管辖，高层几乎都蛰居不出。更何况现在玄方地界和梦州断了联系……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_10"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……不管怎样，得先保证民众的安全。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_11"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "抱歉，关于今州客旅的失踪，军策府也没接到相关情报，而且现在……恐怕暂时很难抽调出人手协助你调查。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_12"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不必道歉，虽然没有证据，但我隐约感觉，这一系列事件……应该存在某种联系。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_291_13"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "更何况，我们身为袍泽，理应守望相助。有什么我能帮上忙的，请尽管开口吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_291_14"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……谢谢，我们正缺人手。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_15"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "不少将士们在之前和机傀交战时受了伤，还需要一点时间休整。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_16"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "等斥候探出一条回城的安全路线，我们就护送所有人离开这里。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_17"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那在这之前，我去确认一下大家的情况吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_291_18"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……嗯，麻烦了。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_291_19"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不知道机傀什么时候会袭击过来……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_295_1"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "得让大家到安全的地方集合……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_295_2"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "也和定玄卫们打听一下玄方地界的事吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_295_3"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "画玫",
+                  "text": "你是说……阿仲他……",
+                  "speaker_id": 350162,
+                  "text_id": "Main_HuangLong_SYYLFML_296_1"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "强忍悲痛的定玄卫",
+                  "text": "对不起……伯母，我们没办法带他回来……请节哀……",
+                  "speaker_id": 750928,
+                  "text_id": "Main_HuangLong_SYYLFML_296_2"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_296_5"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "秋雁",
+                  "text": "……是谁？",
+                  "speaker_id": 350163,
+                  "text_id": "Main_HuangLong_SYYLFML_297_1"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……还请抓紧时间，定玄卫让大家都到村子的广场那里集合。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_297_2"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "秋雁",
+                  "text": "好……我知道了。",
+                  "speaker_id": 350163,
+                  "text_id": "Main_HuangLong_SYYLFML_297_3"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "秋雁",
+                  "text": "小翼，收拾收拾东西，我们要到玄方城去了。",
+                  "speaker_id": 350163,
+                  "text_id": "Main_HuangLong_SYYLFML_297_4"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "小翼",
+                  "text": "要进城吗？那我是不是能去找秋大伯玩啦？",
+                  "speaker_id": 350164,
+                  "text_id": "Main_HuangLong_SYYLFML_297_5"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "秋雁",
+                  "text": "别给秋大伯添麻烦，他很忙的……",
+                  "speaker_id": 350163,
+                  "text_id": "Main_HuangLong_SYYLFML_297_6"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（这间屋子似乎已经没有人了……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_298_1"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "巧钗",
+                  "text": "欸欸欸！你是从今州来的是吗？你认识董叔吗？",
+                  "speaker_id": 350167,
+                  "text_id": "Main_HuangLong_SYYLFML_299_1"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（董叔……是失踪名单上的一员……！）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_299_2"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我认识，你有见过他吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_299_3"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "巧钗",
+                  "text": "是啊，他之前要去梦州，路过我们村子，他讲戏讲得可好啦。",
+                  "speaker_id": 350167,
+                  "text_id": "Main_HuangLong_SYYLFML_299_4"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "巧钗",
+                  "text": "可惜他只在这落了一夜脚，第二天就匆匆赶路去了，不知道什么时候能回来……",
+                  "speaker_id": 350167,
+                  "text_id": "Main_HuangLong_SYYLFML_299_5"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "巧钗",
+                  "text": "唉……玄方地界变成这样，他估计也难回来了吧。我还想听他讲的戏呢……",
+                  "speaker_id": 350167,
+                  "text_id": "Main_HuangLong_SYYLFML_299_6"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（她还不知道董叔的事……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_299_7"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（但这样看来，今州的人，确实都是在玄方地界失踪的……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_299_8"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "哟……小姑娘，这是你的梁鸢吗？栩栩如生，好生精巧哇，一看就是大师的手艺。",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_300_1"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（梁鸢……这是你的名字么？）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_300_2"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不，伯伯，只是……不知为何，它似乎有意想带我去到各种地方。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_300_3"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "哦？有意思有意思……小姑娘，看你发梢生羽，额有声痕，是共鸣者吧？呵呵，或许这只梁鸢徒生灵性，将你认成了当年的玄翎雀也说不定。",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_300_4"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "玄翎雀……不好意思，伯伯。我不是玄方地界人，能和我讲讲你说的玄翎雀，究竟是什么吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_300_5"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "唉唉……莫说你们，就连本地许多年轻人，也都不再关心玄翎雀的传说啦……",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_300_6"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "早在被归入梦州属地之前，那时候啊，玄方地界曾栖息着一群灵雀……它们通体湛蓝，羽色玄黑，人们便称之为「玄翎」。",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_300_7"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "玄翎雀虽灵智未开，却有辨识感情，传递心意的能力。彼时地界地形险峻交通不便，人们便以玄翎为寄托往来情感，互诉心肠……",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_300_8"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "只可惜……两百年前的那场战争……不仅让玄方地界生灵涂炭，玄翎雀也因此灭绝了……",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_300_9"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（两百年前……指的是那场令今州始建的云渊之役吧。）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_300_10"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "后来，随着玄方城落成，梦州的机关术也传进了玄方地界。本地的工匠为了纪念玄翎雀，便以它们为原型造出了梁鸢，用来传递书信之类。",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_300_11"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "小姑娘，你与这梁鸢有缘，可要好好待它啊。可能……等到人们不再谈及玄翎雀，造梁鸢的人，也会越来越少……",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_300_13"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（说起来……之前它也引了椋羽他们来帮我……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_300_14"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "青黛",
+                  "text": "他……从椋羽回来后就不见了……",
+                  "speaker_id": 350160,
+                  "text_id": "Main_HuangLong_SYYLFML_302_22"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "青黛",
+                  "text": "我问过其他孩子，都说不知道他在哪儿……",
+                  "speaker_id": 350160,
+                  "text_id": "Main_HuangLong_SYYLFML_302_23"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "高云",
+                  "text": "阿彦……我没看见呐，他是因为……唉……",
+                  "speaker_id": 350107,
+                  "text_id": "Main_HuangLong_SYYLFML_302_24"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "请问，是村子里有个孩子不见了吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_302_18"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "青黛",
+                  "text": "嗯嗯！他大概八九岁年纪，个头不高，很瘦……头发乱糟糟的……",
+                  "speaker_id": 350160,
+                  "text_id": "Main_HuangLong_SYYLFML_302_19"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我也帮忙找一找吧，我还挺擅长找人的。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_302_20"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "青黛",
+                  "text": "谢谢、谢谢姑娘……",
+                  "speaker_id": 350160,
+                  "text_id": "Main_HuangLong_SYYLFML_302_21"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "是你啊，能一个人和十几台机傀缠斗那么久，身手真是了得。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_1"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "听椋羽说，你是从今州来的踏白？不愧是抗击残象潮的第一线，一兵一卒都堪称精锐。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_2"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我……并不算什么。只是，先前我与这里的残象交手的时候，它们……就像经历了无数次战斗一样，行动敏捷、招式狠厉，和外界的残象截然不同。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_3"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "……两百年来，玄方城的咎庭便一直在消灭其中的残象，能在机傀和历代定玄卫们的清剿下活那么久的，无一不是狡黠凶狠的个体。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_4"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "不过，玄方城的主力是机傀，我们定玄卫更多时候，也只是在辅助机傀作战而已。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_5"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "真正有实力能单枪匹马对抗强大残象的，除了定玄卫长，也就只有后玄三骑，以及那位行踪不定的镇玄司骑……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_18"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "但现在，机傀倒戈，镇玄司骑被困在咎庭，后玄三骑也只剩下椋羽一人……说实话，即便退守玄方城，我们也根本拦不住机傀和残象的攻势。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_6"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_7"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "不必安慰我，我早就已经看开了。参军十数年，没点觉悟怎么行。只是……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_8"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "这位袍泽，如果你愿意，还请替我们关照一下椋羽的情况。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_9"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "她天资很好，但年纪尚轻，平日里，都是后玄三骑的其余两位在照顾她，她也将那二人视如兄姐。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_10"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "战场不言泣，可我们都看得出来，他们的死对她打击很大。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_11"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "领兵之人，不可在将士面前露怯。椋羽性格要强，恐怕只会把这些心绪咽进肚里。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_12"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "你与她年龄相仿，也并非定玄卫，或许……她会愿意向你敞开心扉也说不定。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_13"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "原来如此……我知道了，我想想办法，看能不能替她分忧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_14"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看得出来，她在大家心中的位置很重。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_15"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "人之常情嘛……她父母走得早，是吃村子里的百家饭长大的，我们这些本地出身的人，很难不把她当小妹看。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_16"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "总之，拜托你了。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_310_17"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "村子里大体都确认过一遍了……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_309_1"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "找定玄卫了解一下现在的情况吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_309_2"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "话说，你刚才有见过一个叫青彦的孩子吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_311_3"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "青彦……啊，是青枳的那个弟弟……是有见过。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_311_1"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "他前不久想偷溜到军帐里，被值班的人轰出去了。那之后……应该是往祠堂的方向走了。",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_311_2"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是吗……谢谢，我知道了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_311_4"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（它……似乎想带着我去什么地方……？）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_312_2"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（跟上去看看吧。）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_312_4"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "你！你是怎么找到这里的！？",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_313_1"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "拜托你……别和我家里人说我在这里可以吗……？",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_313_2"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "我准备到祠堂去……我记得……祠堂那里放了一把剑……",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_313_3"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "只要拿到那把剑……我就能……",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_313_4"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（这孩子……似乎是有什么隐衷……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_314_1"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（他身上发生了什么吗……？）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_314_2"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（总之，先跟着他看看吧。）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_314_3"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（这孩子……应该就是刚才的女子在找的人吧……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_315_1"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（他的姐姐……应该就是椋羽的队友……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_315_2"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（总之，先跟着他看看吧。）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_315_3"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "实在不行……就拿这把剑……",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_321_41"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "小心！这把剑是开过锋的！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_321_42"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "别管我！我要去杀了那些机傀和残象，我要给二姐报仇！",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_321_43"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "铃儿，你这又是何苦……囡囡才三岁，你若是去投军……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_4"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "对不住，阿婆。可我已经决定好了。囡囡她爹没能回来，玄翎告诉我，他是在云陵谷被残象所害……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_6"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "此仇不报，一切海誓山盟皆如云烟……更何况，他画了半辈子的玄方地界，我怎能忍它毁在残象手里。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_7"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "阿婆，去梦州把这把琴当了吧，还应当值不少钱，够您和囡囡过一阵子了。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_8"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "等打完这场仗，我……再去梦州接你们。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_9"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "玄翎……你们是不是已经知道要发生什么了？",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_11"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "知道了的话，就走吧。不要衔走任何东西，让一切都埋葬在这里。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_12"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "你们是大家寄托慰藉的生灵，是将心意相连的鹊桥。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_13"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "别让人们看到你们就会联想到噩兆，别做凶讯的信使。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_14"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "飞吧！离开这里！",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_15"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "离开这处……即将变成深渊的地方。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_321_16"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "青黛",
+                  "text": "阿彦！你这孩子！怎么跑到这里来了！？",
+                  "speaker_id": 350160,
+                  "text_id": "Main_HuangLong_SYYLFML_321_44"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "大、大姐！？我……",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_321_45"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "刚才那是……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_321_46"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "姑娘，你没事吧？看你神情有些恍惚？",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_321_18"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "您是……刚才与椋羽说话的那位……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_321_19"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "嗯……老拙是衔翎村的村长，椋羽那孩子算是老拙看着长大的。",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_321_20"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "村长先生，请问，此处供奉的这柄剑是……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_321_22"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "一柄无名之剑而已，正因它无名，它便属于所有参加了那场战争的将士们。",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_321_23"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "两百年前，云渊之役在玄方地界爆发，不仅梦州派来了诸多军力，玄方地界的大多数青年少壮，也都为了守卫家园而提起剑戟……",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_321_24"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "那时老拙还没出生，只得听长辈描绘那场战争的惨烈……据说，就连苍天都被染上血色，能活着回来的人，十不存一。",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_321_25"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "这柄剑，便是从当年的战场上拾来的，没人知道它的主人是谁，人们只知道，曾挥舞它的，定是为了守护此方地界而牺牲的英雄。",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_321_26"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "战争结束后，曾到梦州避难的玄方人渐渐回到故里，这座祠堂，也是为了纪念玄方地界的英烈们而立。",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_321_27"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（刚才看到的那名女子……就是要去参加云渊之役么？）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_321_28"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（那是剑的记忆……还是说……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_321_29"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "青彦那孩子……老拙能理解他的心情，他平日里和青枳可亲了……",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_322_41"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "本以为一切已成历史，没想到……这片土地还要蒙受新的灾祸，不知道祖辈们看到这些，会作何感想……",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_322_30"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……即便如此，我们也不能坐以待毙。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_322_31"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "事在人为，至少现在，我们还有能做的事。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_322_33"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "村长先生，我想，这柄剑的意义不只在纪念，它或许还能给予人向死而生的……勇气。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_322_34"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "……说得真好，姑娘，倒是显得老拙有些怨天尤人了。",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_322_35"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "不知姑娘可否帮老拙一个忙，取下这把剑，将它交予椋羽，让定玄卫们把剑带到玄方城？",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_322_36"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "残象来犯，所过之处寸草不生。剑虽只是死物，但也算得上是玄方地界的一种传承，老拙还是希望它能被妥善保管。",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_322_37"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没问题，村长先生，我同椋羽说说吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_322_38"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "唉……你说得对啊，秧秧姑娘。机傀是岁主的馈赠，我们依赖这份馈赠，平稳地度过了两百余年的岁月。",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_322_39"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "然而……事在人为，事在人为啊……",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_SYYLFML_322_40"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "青黛",
+                  "text": "阿彦，听话，跟我回去！",
+                  "speaker_id": 350160,
+                  "text_id": "Main_HuangLong_SYYLFML_323_1"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "我……我不走！我走了……二姐的仇谁来报！？",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_323_2"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我问你，你习过武吗？你知道该如何同比你强大数倍的敌人战斗吗？你真的有能力为你的姐姐报仇吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_323_5"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "我……我有看过定玄卫他们操练……",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_323_6"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你的姐姐是定玄卫，她肯定很强，可即便是那么强的人，也没法保证在战场上活下来。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_323_7"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "那……那你要我怎么办！我……姐姐她……再也回不来了……",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_323_8"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那么，你的另一位姐姐呢，你不打算保护她吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_323_10"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "我……",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_323_11"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "和她待在一起，到大家集合的地方去吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_323_12"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "大姐姐……你和我二姐一样，也是军人吗？",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_323_13"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯，我是为了保护那些没有能力保护自己的人，才成为军人的。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_323_14"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这个愿望，不是一朝一夕就能达成的。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_323_15"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "那你……之后能教我吗？教我剑术！教我能打败那些残象的剑术！",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_323_16"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没问题，我答应你，但你也答应我，在那之前，要保护好你的姐姐。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_323_17"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "青彦",
+                  "text": "……嗯！",
+                  "speaker_id": 350161,
+                  "text_id": "Main_HuangLong_SYYLFML_323_18"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（按村长先生说的，去找椋羽聊聊吧。）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_340_1"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（她现在在哪里呢……？）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_340_2"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_3"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "谁——是你啊……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_4"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "找我有什么事吗？虽然斥候还没回来，但等不了这么久了。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_5"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "待村民们集合完毕，我们就该出发了。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_6"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "刚才我遇到了村长先生，他说，想将这把剑交给定玄卫保管。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_345_7"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "剑……？这种时候，还有什么心思关心剑不剑的……撤退路途凶险，我只会要求所有人都保护好自己和周围人的性命，而不是一柄剑。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_8"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……既然这样，那这柄剑先暂时由我带着吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_345_9"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "你……算了，随你怎么办吧。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_10"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "说起来，之前没来得及感谢你们出手相救，还特地腾出房间给我休息。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_345_11"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "别在意，我已经很久没回村子里住了，房子空着也是空着。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_12"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "原来那是你家的……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_345_13"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "一间旧屋罢了……这座村子不久后大概就会被残象夷为平地，徒留一地破砖烂瓦。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_14"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "房子没了，重建就是。可死掉的人却再也不会回来……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_15"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那么，就把目光放在还活着的人身上吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_345_16"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_345_17"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……怎么，还有什么事吗？",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_62"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我们来聊聊吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_63"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "我……没什么好聊的。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_64"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "换作平时，我……肯定不想勉强你这么做。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_65"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但是椋羽，我们是军人，我们有职责在身，不能在这种时候任性。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_66"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我的共鸣能力，能让我感知到来自远方的，由风捎来的讯息。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_18"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "它很方便，很有用……它能让我察觉，在那些不曾被留意的地方，有人正等待着一只向他伸出的手。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_19"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "可有时候，它也……很讨厌。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_20"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "悲剧的回响，灾祸的余音……明明一切已经尘埃落定，明明我已经什么也做不到了，它却还是执着地……让我听见。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_21"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "哪怕直到现在，我还是会因为听到这些声音而心悸。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_23"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "你……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_24"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没关系……我都知道，因为，我已经……听见了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_25"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……我害怕对上他们的视线。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_26"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "我知道大家的期待是什么，因为我也期待着有这样一个人挺身而出。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_27"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "杜仲、青枳就是这样的人，即便不做后玄骑使，他们也是带兵的好料子，可偏偏是他们死了，我活了下来。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_28"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "如果那时候，我能早一点发现……就算用我的命去换……我也……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_29"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "怎么样？说出来，会好受些吧？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_31"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我想……你并不需要别人告诉你什么，你很清楚自己应该怎么做。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_32"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "只是害怕做得不够好，只是因为有些事没有试错的成本。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_33"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "可即便这样，有时候，也只能硬着头皮上，对吧？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_34"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……在那场北落野之役里，你们也是这么想的吗？",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_35"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "其他人我不知道，但到了最后，我的脑海里基本一片空白，只靠本能在战斗了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_36"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那场战争，我们得到了很多人的帮助，才艰难取胜。那个时候，确实有一个人，站在了我……站在了所有人的前面。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_37"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但我也清楚，她不会一直待在我的身边。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_39"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如果仅仅是憧憬着一个身影，自己就永远只是原地踏步。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_40"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我希望，等到和她再次见面的时候，我所站的位置，是与她并肩，而非身后。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_41"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "玄方城的局势虽不明朗，但就像我之前说的，流息将我带到了这里，那我该做的，就只有——",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_42"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……你说得没错，不管怎么说，我得尽到自己的职责。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_43"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "对了，刚才那首歌是……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_44"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "歌？难道是我下意识……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_45"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……一首小调，小时候……我的母亲教给我的。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_46"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "不过我也没学全，据说曲谱早在两百年前就失传了，现在的人，也就只会哼个大概而已。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_47"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是么……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_48"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "你……之前学过这首调子吗？还是说，只听了一遍就记住了？",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_54"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我只是觉得，大家听到这段旋律后，可能心情会变好一些。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_350_55"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……或许吧，毕竟你唱得比我要好听多了。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_350_56"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "明煜",
+                  "text": "椋羽骑使，「巡霄环」监测到有机傀正往这里行进，预计再有两个小时就会抵达衔翎村。",
+                  "speaker_id": 350115,
+                  "text_id": "Main_HuangLong_SYYLFML_355_57"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "不能再拖了，斥候还没传来消息，那就只能一边行军一边向前探查……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_355_58"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "让我去吧。踏白本就有侦察候望之责，我的共鸣能力也可以帮我规避危险。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_355_59"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……好，这是军策府设在城外营地的坐标，那边会有接应的人在，抵达营地后，让守卫用梁鸢将路线图送回这里，我们随后动身。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_355_60"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "我会让负责人给你解锁「云帛机骑」的使用权限，应该能帮你节省不少时间。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_355_61"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "明煜",
+                  "text": "你来了，把终端拿出来吧，我给你录入使用「云帛机骑」的权限。",
+                  "speaker_id": 350115,
+                  "text_id": "Main_HuangLong_SYYLFML_360_1"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "明煜",
+                  "text": "这是我们梦州的华胥研究院和天工共同开发的载具，速度可比滑翔翼快上不知多少倍。",
+                  "speaker_id": 350115,
+                  "text_id": "Main_HuangLong_SYYLFML_360_2"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "明煜",
+                  "text": "要去营地的话，这附近有一条小路可走。",
+                  "speaker_id": 350115,
+                  "text_id": "Main_HuangLong_SYYLFML_360_3"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "明煜",
+                  "text": "玄幽东岳地势险峻，而且还散布着大量隐息雾，路上多加小心。",
+                  "speaker_id": 350115,
+                  "text_id": "Main_HuangLong_SYYLFML_360_4"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "总之……得先掌握附近的地形……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_401_1"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "找个地方观察一下吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_401_2"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（云帛机骑……比想象中的要好操作呢……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_370_1"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（炽霞应该会很喜欢，不知道她现在脱险了没有……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_370_2"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（……抓紧时间吧。）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_370_3"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "机傀……数量不多……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_403_1"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "也许可以迅速解决……！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_403_2"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这是……定玄卫……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_405_1"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "椋羽所说的斥候……应该就是他们……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_405_2"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "已经没有生息了……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_405_3"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "数量太多了……交手的话，会引起大动静……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_404_1"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "另找一条路吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_404_2"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "林念",
+                  "text": "站住！你是什么人！？表明自己的身份！",
+                  "speaker_id": 350116,
+                  "text_id": "Main_HuangLong_SYYLFML_410_1"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "秧秧向守卫们简单讲述了来龙去脉。",
+                  "text_id": "Main_HuangLong_SYYLFML_410_2"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "林念",
+                  "text": "原来如此……椋羽骑使派你来测绘路线，太好了，终于等到了。",
+                  "speaker_id": 350116,
+                  "text_id": "Main_HuangLong_SYYLFML_410_3"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "还有……我在路上发现了几名斥候，他们已经……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_410_4"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "林念",
+                  "text": "是吗……感谢相告。他们迟迟未来，我……也有心理准备了。",
+                  "speaker_id": 350116,
+                  "text_id": "Main_HuangLong_SYYLFML_410_5"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "林念",
+                  "text": "……事不宜迟，我们现在就立刻通知椋羽骑使。",
+                  "speaker_id": 350116,
+                  "text_id": "Main_HuangLong_SYYLFML_410_6"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "林念",
+                  "text": "辛苦你了，营地就在前方，我带你找处地方休息吧。",
+                  "speaker_id": 350116,
+                  "text_id": "Main_HuangLong_SYYLFML_410_7"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（不知道大家是否能安全抵达……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_420_1"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "远志",
+                  "text": "姑娘……你身边是带了一只梁鸢吗？",
+                  "speaker_id": 350117,
+                  "text_id": "Main_HuangLong_SYYLFML_420_2"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "远志",
+                  "text": "不知道……能不能拜托姑娘，用这梁鸢替我寄一封家书，送到梦州去……",
+                  "speaker_id": 350117,
+                  "text_id": "Main_HuangLong_SYYLFML_420_3"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "您这是要……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_420_4"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "远志",
+                  "text": "唉……我离家数载，这次玄方事变，不知是否还能再见上妻儿一面，这封信是我最后的念想……",
+                  "speaker_id": 350117,
+                  "text_id": "Main_HuangLong_SYYLFML_420_5"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "远志",
+                  "text": "我挨个问遍了城里的将士们，他们都说现在事态紧急，梁鸢只能用来传递军情……姑娘，求求你……",
+                  "speaker_id": 350117,
+                  "text_id": "Main_HuangLong_SYYLFML_420_6"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "抬起头来，把信交给我吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_420_7"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "远志",
+                  "text": "谢谢……谢谢姑娘……！",
+                  "speaker_id": 350117,
+                  "text_id": "Main_HuangLong_SYYLFML_420_8"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（如果可以，希望他的家人看到的不是这封信，而是他平平安安地回到家里……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_420_9"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（父亲、母亲、漂泊者……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_420_10"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（快到姐姐说来今州看我的日子了，她找不到我，会不会心急……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_420_11"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（我是不是应该……把在这里遇到的情况写下来……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_420_12"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（就当是整理线索……也许能给看到的人提供一点帮助。）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_420_13"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "是吗……他们都没能……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_1"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "秧秧，多亏了你，我们才能绕开沿途的机傀和残象。这一路有惊无险，实属大幸。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_2"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "大家没事就好。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_440_3"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "不远处就是玄方城了，安顿片刻后，我便让城内守军开启通路，护送大家回城。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_4"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "至于你要查的案子……定玄卫长一直在派梁鸢收集地界内的军情，等见到他后，我们再一起商讨接下来的对策。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_5"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没问题，也许在这段时间，梦州那边已经派人来支援了也说不定。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_440_6"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "呼……那就最好了。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_7"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "接下来——",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_8"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "怎么会——我们明明已经躲开了它们——",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_9"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "发射信号！让城里的人出来接应！",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_10"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "啧——这个速度……来不及了——列阵迎敌！护好平民，给他们撤离争取时间！",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_11"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不行！兵力差了有三倍以上，阵型会一下子被冲垮的！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_440_13"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "椋羽小妹，看样子，我们中得有人留下来断后啊……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_440_17"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "那就让我去——",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_26"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "椋羽，现在你是这里的指挥官，别忘了你肩上的职责。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_440_18"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我可以去当诱饵，引开那些机傀和残象。相信我，我有经验。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_440_27"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "明煜",
+                  "text": "它们数量太多，一个人怕是牵制不住，依我看，最少也得需要三人。",
+                  "speaker_id": 350115,
+                  "text_id": "Main_HuangLong_SYYLFML_440_28"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "你们——",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_19"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "林念",
+                  "text": "椋羽骑使！城内有回应了！",
+                  "speaker_id": 350116,
+                  "text_id": "Main_HuangLong_SYYLFML_440_16"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "我——",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_22"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……颜朗、明煜，麻烦你们去协助秧秧。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_23"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "其余所有人……撤退！保持阵型，以最快的速度撤退！",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_SYYLFML_440_24"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "众定玄卫",
+                  "text": "是！",
+                  "speaker_id": 350120,
+                  "text_id": "Main_HuangLong_SYYLFML_440_25"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "得把这些机傀引到别的方向去……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_445_1"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "你一个人牵制不住那么多机傀，别让它们包围你！",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_450_2"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "明煜",
+                  "text": "我们定玄卫才更了解机傀的特性，怎能让今州夜归独自诱敌？",
+                  "speaker_id": 350115,
+                  "text_id": "Main_HuangLong_SYYLFML_450_3"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "二位——",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_450_4"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……感谢不尽！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_450_5"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "明煜",
+                  "text": "唔——！",
+                  "speaker_id": 350115,
+                  "text_id": "Main_HuangLong_SYYLFML_460_2"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "明煜！可恶——去死！",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_3"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "咳……咳咳……终于结束了……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_4"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "对不起……如果我能早一点……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_5"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "呵呵……你怎么跟……椋羽小妹……说一样的话……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_6"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "我没事……只是需要……休息……歇一会儿就好了……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_7"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "只可惜……明煜那小子……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_8"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "有好几个姑娘……惦记着他呢……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_9"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "颜朗",
+                  "text": "……",
+                  "speaker_id": 350108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_10"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_460_11"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【演出过程略】"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "遍体鳞伤的定玄卫",
+                  "text": "咳……咳咳……",
+                  "speaker_id": 750929,
+                  "text_id": "Main_HuangLong_SYYLFML_464_17"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "遍体鳞伤的定玄卫",
+                  "text": "结……结束了吗……",
+                  "speaker_id": 750929,
+                  "text_id": "Main_HuangLong_SYYLFML_464_18"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "遍体鳞伤的定玄卫",
+                  "text": "玄翎……告诉我……渊城……守下来了……吗？",
+                  "speaker_id": 750929,
+                  "text_id": "Main_HuangLong_SYYLFML_464_20"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "遍体鳞伤的定玄卫",
+                  "text": "拜托你……我有一些话……还想……",
+                  "speaker_id": 750929,
+                  "text_id": "Main_HuangLong_SYYLFML_464_21"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "负伤的定玄卫",
+                  "text": "你……你没事吧？",
+                  "speaker_id": 350168,
+                  "text_id": "Main_HuangLong_SYYLFML_480_1"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "重伤的定玄卫",
+                  "text": "唔……我好像……感觉不到我的腿了……",
+                  "speaker_id": 350169,
+                  "text_id": "Main_HuangLong_SYYLFML_480_2"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "重伤的定玄卫",
+                  "text": "其……其他人呢？",
+                  "speaker_id": 350169,
+                  "text_id": "Main_HuangLong_SYYLFML_480_3"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "负伤的定玄卫",
+                  "text": "不知道……恐怕没几个能活下来吧……",
+                  "speaker_id": 350168,
+                  "text_id": "Main_HuangLong_SYYLFML_480_4"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "负伤的定玄卫",
+                  "text": "姑且拦下了第一波残象，但下一波就……",
+                  "speaker_id": 350168,
+                  "text_id": "Main_HuangLong_SYYLFML_480_5"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "重伤的定玄卫",
+                  "text": "喂……玄翎，你觉得，我们……会赢吗？",
+                  "speaker_id": 350169,
+                  "text_id": "Main_HuangLong_SYYLFML_480_6"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "负伤的定玄卫",
+                  "text": "呵……不管怎样，我想我们两个……都很难知道了……",
+                  "speaker_id": 350168,
+                  "text_id": "Main_HuangLong_SYYLFML_480_7"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "濒死的村长",
+                  "text": "玄翎……是玄翎雀吗……",
+                  "speaker_id": 350170,
+                  "text_id": "Main_HuangLong_SYYLFML_481_1"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "濒死的村长",
+                  "text": "太好了……你们还没有……",
+                  "speaker_id": 350170,
+                  "text_id": "Main_HuangLong_SYYLFML_481_2"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "濒死的村长",
+                  "text": "快走……快走吧……村子已经……",
+                  "speaker_id": 350170,
+                  "text_id": "Main_HuangLong_SYYLFML_481_3"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "濒死的村长",
+                  "text": "答……答应我……去看看……还有没有……人……",
+                  "speaker_id": 350170,
+                  "text_id": "Main_HuangLong_SYYLFML_481_4"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "濒死的村长",
+                  "text": "带他们离开……离开这里……",
+                  "speaker_id": 350170,
+                  "text_id": "Main_HuangLong_SYYLFML_481_5"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（这里……到底发生过多少场战斗……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_490_1"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（还要……发生多少场战斗……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_490_2"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（战场的声音……在不断传过来……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_490_8"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（我……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_490_9"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "年幼的少女",
+                  "text": "呜……呜呜……姐……姐姐……",
+                  "speaker_id": 750922,
+                  "text_id": "Main_HuangLong_SYYLFML_510_1"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "重伤的少女",
+                  "text": "别哭啦……别哭啦……",
+                  "speaker_id": 750923,
+                  "text_id": "Main_HuangLong_SYYLFML_510_3"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "重伤的少女",
+                  "text": "让玄翎……听到你的歌声……",
+                  "speaker_id": 750923,
+                  "text_id": "Main_HuangLong_SYYLFML_510_6"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "重伤的少女",
+                  "text": "它们就会来……带你回家……的……",
+                  "speaker_id": 750923,
+                  "text_id": "Main_HuangLong_SYYLFML_510_10"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_510_17"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "下一波残象马上就要到了……",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_510_29"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "嗯，说明我们来的时机正好。",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_510_30"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "我们的任务是支援西二方位的战线，诸位天工同袍，准备启动刃偶。",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_510_20"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "这批刃偶是我们琢钧堂多年研究的心血，实战就是测试它们的最好环境。",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_510_21"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "渊城乃天工与琢钧堂倾力所建，为人智之结晶，岂能被无智的残象轻易攻破。",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_510_22"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "众工匠",
+                  "text": "是！",
+                  "speaker_id": 350129,
+                  "text_id": "Main_HuangLong_SYYLFML_510_23"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "琢钧堂……椋羽提到过……那是梦州的机关术组织……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_510_24"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "请问……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_510_25"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "玄翎飞……飞断肠……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_500_1"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "天苍苍……地莽莽……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_500_2"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "回来……了……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_1"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "这位姑娘，如今玄方地界不太安稳，此地凶险，可不宜久留啊。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_520_2"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这位先生，这句话，在你自己身上也同样适用吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_3"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "哦……失敬，是我看走眼了。姑娘身佩军刀，是军中人士吧？只是有些面生，穿着打扮，也不似城中的定玄卫……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_SYYLFML_520_4"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我是今州夜归，至于为何会来到玄方地界，缘由复杂，不便在这解释。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_5"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "先生可否报上姓名身份，正如你说的，玄方地界局势严峻，孤山深谷之中有平民游荡，实在是有些不寻常。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_6"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "自然没问题。我叫木禺，是玄方城天工部所属的匠人，姑娘如果信不过，我身上也有令牌为证。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_7"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "昨天，我奉军策府之命，前往附近一座咎庭，做日常维修的工作。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_30"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "没想到……我还没进到咎庭里去，就看到机傀突然发狂，开始胡乱攻击护送我的定玄卫……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_8"
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我运气不错，大难不死，捡回一命。但也因此深入山崖，等到确认附近没了机傀的动静，才敢出来看看情况。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_9"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "那之后，我就看到你停驻在此，神情恍惚。看这周围的情况，恐怕是经历了一场鏖战……这些机傀都是你打倒的么？真是厉害……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_10"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（这个人……总觉得有些……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_11"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "既然你是天工匠人，那我便护送你入城吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_12"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "不不不，现在不是回城的时候。我得到方擎西峰一趟，时间紧迫，可等不得了。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_13"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "方擎西峰……为什么？那里有什么吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_14"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "方擎西峰，坐落着玄方地界最大的机傀生产工厂，以及残象的销毁炉——悬天构。一旦那里沦陷，异常机傀和残象一并涌入玄方地界各处，后果不堪设想。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_15"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "其实，前段时间，我在检查玄方地界各处咎庭的巡防图时，就发现有个别机傀偏离了自己的巡逻路线。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_16"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "机傀是自主运作的机械，我本以为是某几台机体在与残象作战时，内部回路损坏导致的轻微故障。但现在看来，恐怕机傀的「叛变」，在那时便初见端倪。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_17"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "而最初那些曾偏离路线的机傀，行动轨迹所交汇的地方，正是悬天构。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_18"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "所以你怀疑……那里或许藏着有关机傀发狂的线索？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_19"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "正是。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_20"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "机傀异常的原因尚未明了，如你所说，机傀与残象聚集于悬天构，你独自一人前往悬天构，怎么保证自身安全？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_22"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "呵呵，玄方天工，常年奔波在山峦叠嶂之间，以肉身挑战天险，才有了如今的玄方城。这点胆量，我还是有的。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_23"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "更何况，玄方地界处于危急存亡之秋，若是人人只想着明哲保身，并非上策。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_24"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "……不过，这位夜归姑娘，你身手了得，要是能与我一同前往，或许我的安全便不成问题了？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_25"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（今州的失踪案……也正巧是在那段时间发生的……不能忽视这个线索……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_26"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（而且……无论他说的是真是假，都不能就这样放着这个人不管……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_31"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……好，我同你一起去。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_520_27"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "太好了，事不宜迟，我们这就出发吧。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_520_28"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但是，玄幽东岳与方擎西峰之间隔着废弃的渊城，你打算怎么前往那里？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_530_1"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "这不成问题，我们天工熟知玄方地界各处机关构造，自然也包括底下的渊城。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_530_2"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "虽然极少使用，但我知道一条自渊城取道至方擎西峰的旧路。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_530_3"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "此处便是入口，渊城已遭废弃，不用担心有机傀活动，我可以在前为姑娘带路。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_540_1"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……嗯，麻烦了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_540_2"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这些……是当年云渊之役的痕迹……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_541_2"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "不错，云渊之役爆发时，残象潮涌入玄方地界，而主战场，正是梦州先前为抵御残象而修建的渊城。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_541_3"
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这些机关上的标志……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_541_4"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "渊城是天工与琢钧堂主持修建的堡垒，各处留有琢钧堂的标志，并不奇怪。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_541_5"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "渊城战场……即便过了那么多年，还是那么的……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_543_13"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "彼时，残象潮愈演愈烈，梦州岁主心月狐认为，仅靠渊城已经挡不住残象的进攻。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_543_8"
+                },
+                {
+                  "sequence": 404,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "于是，祂倾非人之神秘，以岁主权能，在渊城之上，建造了一座玄方城。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_543_9"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "玄方城，乃机关术的终点。一旦落成，按照岁主所想，便可凭借自身构造，分流、切割残象。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_543_10"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "宛如一台构造精密，运行完美的机械装置，而它的规模，远超出凡人的双手能触及的范围。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_543_11"
+                },
+                {
+                  "sequence": 407,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "可惜，当时的无相燹主瞄准了玄方城即将竣工的时机，朝玄方地界发动了奇袭。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_543_12"
+                },
+                {
+                  "sequence": 408,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "他们……是用自己作为诱饵，将残象引到咎笼之中……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_546_1"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "布置在渊城的重兵，以及琢钧堂的刃偶，在滔天的残象潮前，不过是……一触即溃的土鸡瓦犬。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_546_2"
+                },
+                {
+                  "sequence": 410,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……但也正因为有他们，更多的人才不会被战争所害。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_546_3"
+                },
+                {
+                  "sequence": 411,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里……与其说是被残象摧残，更像是……发生过一场……爆炸。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_550_5"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "……看来，夜归姑娘不知道当年，那场云渊之役的结尾到底发生了什么。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_550_6"
+                },
+                {
+                  "sequence": 413,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "也正常，就连现在大多数梦州人，对于云渊之役，也不过是有一个惨烈的印象。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_550_7"
+                },
+                {
+                  "sequence": 414,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "当他们发现，仅靠人力，无论如何都无法驱赶全部的残象潮时——",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_551_1"
+                },
+                {
+                  "sequence": 415,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "黔驴技穷之下，梦州最后的守军，引爆了整座渊城。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_551_2"
+                },
+                {
+                  "sequence": 416,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "那之后，神智降临于玄方，终结了这场……惨不忍睹的战争。",
+                  "text_id": "Main_HuangLong_SYYLFML_555_1"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "不对……不对，不该是这样……",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_570_1"
+                },
+                {
+                  "sequence": 418,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "是哪里出了问题……武器？运动性能？还是说……",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_570_2"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "唔——！？",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_570_5"
+                },
+                {
+                  "sequence": 420,
+                  "kind": "dialogue",
+                  "speaker": "顽强的定玄卫",
+                  "text": "该死的……残象——！",
+                  "speaker_id": 750930,
+                  "text_id": "Main_HuangLong_SYYLFML_570_8"
+                },
+                {
+                  "sequence": 421,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "这是……？",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_570_9"
+                },
+                {
+                  "sequence": 422,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "有意思……",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_570_13"
+                },
+                {
+                  "sequence": 423,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "将人身上最不可控的部分……改造成踏向完美的基石……",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_570_14"
+                },
+                {
+                  "sequence": 424,
+                  "kind": "dialogue",
+                  "speaker": "年轻的工匠",
+                  "text": "……不也算物尽其用吗？",
+                  "speaker_id": 350128,
+                  "text_id": "Main_HuangLong_SYYLFML_575_2"
+                },
+                {
+                  "sequence": 425,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "怎么了，夜归姑娘？悬天构就在眼前，我们也许马上就能知道机傀暴动的原因了。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_1"
+                },
+                {
+                  "sequence": 426,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你的……右眼。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_2"
+                },
+                {
+                  "sequence": 427,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "嗯？这只眼睛吗？不必在意，早年遭遇残象留下的旧伤而已。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_3"
+                },
+                {
+                  "sequence": 428,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你说的遭遇，是在云渊之役的战场上吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_4"
+                },
+                {
+                  "sequence": 429,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_5"
+                },
+                {
+                  "sequence": 430,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "……有意思，你之前应该没见过我。玄方地界之内，也无人知晓我那些陈年往事。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_6"
+                },
+                {
+                  "sequence": 431,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "一个人在说什么的时候，会不经意地去掩盖他未说出口的事实。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_7"
+                },
+                {
+                  "sequence": 432,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不巧的是，我很擅长看穿这一点。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_8"
+                },
+                {
+                  "sequence": 433,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "哦？你还有这种能力？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_9"
+                },
+                {
+                  "sequence": 434,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "但是，想必你在那处「索诺拉」里，也看到了什么，对吧？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_10"
+                },
+                {
+                  "sequence": 435,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……两百年前，你是琢钧堂的人。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_11"
+                },
+                {
+                  "sequence": 436,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "琢钧堂……现在听到这个词，不禁还是会有些怀念。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_12"
+                },
+                {
+                  "sequence": 437,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "聚集了一帮所谓的「天才」「狂人」和「疯子」的……幼儿园。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_13"
+                },
+                {
+                  "sequence": 438,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "最智慧的人类们，在「神」眼里，和一群最聪明的蚂蚁有什么区别？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_14"
+                },
+                {
+                  "sequence": 439,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "明明「终点」已近在咫尺，岁主……却只是傲慢地欣赏蚂蚁排列成队，转着无意义的圈。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_15"
+                },
+                {
+                  "sequence": 440,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "火焰在这个世界上燃烧了太久，以至于人们都忘记了，最初的火焰，是人类从神明手中窃取而来。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_16"
+                },
+                {
+                  "sequence": 441,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你……就是策划了这一切的主谋？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_17"
+                },
+                {
+                  "sequence": 442,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我并非在谋划着什么。请不要把我想象得跟那群无聊的阴谋家一样——比如，或许你也听过，残星会？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_18"
+                },
+                {
+                  "sequence": 443,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我只是在完成一道「课题」，为此，需要「实验」进行佐证。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_19"
+                },
+                {
+                  "sequence": 444,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这些话，你可以留给军策府的人慢慢说。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_20"
+                },
+                {
+                  "sequence": 445,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我是一个讲究效率的人，与我的目的无相关的人或事，花上一秒的时间也是浪费。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_21"
+                },
+                {
+                  "sequence": 446,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "于这个节点在你眼前现身，是我认为有这个必要。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_22"
+                },
+                {
+                  "sequence": 447,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_23"
+                },
+                {
+                  "sequence": 448,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "……你似乎放了太多的注意力在别人身上，却一直对自己的特殊视而不见。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_24"
+                },
+                {
+                  "sequence": 449,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "可悲，你的生存方式本身，与焚琴煮鹤无异。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_25"
+                },
+                {
+                  "sequence": 450,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我能感知到，由你的频率构成的「残响」，是我曾梦寐以求的完美素材。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_26"
+                },
+                {
+                  "sequence": 451,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "一百……不，一千人的残响，也没有你来得有价值。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_SYYLFML_580_27"
+                },
+                {
+                  "sequence": 452,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "从刚才开始，你就一直在自说自话……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_28"
+                },
+                {
+                  "sequence": 453,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你在说什么，我不明白，也不想明白。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_29"
+                },
+                {
+                  "sequence": 454,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我只知道……风不会把这番话，带往任何地方。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_30"
+                },
+                {
+                  "sequence": 455,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你的妄言，只会留在这里！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_SYYLFML_580_31"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "梦州 第四章",
+          "source_act_id": 40
+        }
+      ]
+    }
+  ]
+}

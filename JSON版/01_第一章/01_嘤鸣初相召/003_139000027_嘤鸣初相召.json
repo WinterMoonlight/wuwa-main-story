@@ -1,0 +1,3568 @@
+{
+  "schema_version": 1,
+  "title": "嘤鸣初相召",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 92,
+      "dialogue": 335,
+      "information_board": 2,
+      "omission": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 1,
+          "title": "嘤鸣初相召",
+          "act": "第一幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 3,
+              "quest_id": 139000027,
+              "title": "嘤鸣初相召",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这里就是今州的中枢信标了~",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_3_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "中枢信标？",
+                  "text_id": "HuanglongM1_1_3_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_3:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嗯，我想想怎么说啊。你可以把他理解成今州最大的服务器，集成中心，大概是这个意思，我也不是特别懂。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_3_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "总之就是一个大型的导航装置、防护系统跟地域信息中心。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_3_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "之前路上碰见的应该都是小型信标。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_3_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "信标和信标之间的数据是互通的，激活一下，地图信息就都同步到你的终端了，是不是很方便？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_3_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "把终端放上去就可以了~",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_3_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我这边已经办完手续了，漂泊者随时可以过来。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_5_1"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "炽霞现在方便带漂泊者来边庭这边吗？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_5_2"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "第一次见边庭前这么热闹啊~",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_1"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我来时也吓了一跳，第一次看见边庭前聚集这么多非公职人员。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_2"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这些人也是会面者吗？",
+                  "text_id": "HuanglongM1_1_7_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "大多数是已经申请过会面的客人了，但听说他们都被婉拒劝回了，并没有见到令尹。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_4"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是被谁劝回？",
+                  "text_id": "HuanglongM1_1_7_5",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:0",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "大多是一开始办手续时便被近卫好声劝回，反而是代为办理的和坚持见面的人留了下来。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_8"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但前去的人似乎都说是“被散华大人看了一眼，就像被定住了”。然后就被一句话劝返了。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_9"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这什么奇怪的形容啊，听起来像某种蛇发女残象，下一步就要把人变成石头了。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_10"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "散华是？",
+                  "text_id": "HuanglongM1_1_7_11",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是令尹的贴身近卫。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_12"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哦我听说过，是位“全能且眼光毒辣武力惊人的冷美人。”",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_13"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "——江湖传言。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_14"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "难道令尹不在边庭。",
+                  "text_id": "HuanglongM1_1_7_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:0",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "有可能不在边庭，但极少可能不在今州境内。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_17"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "或者说，令尹几乎无法离开今州境内。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_18"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "除了公务繁忙案牍劳神难以抽身外，既为州主，则与州土为同运一体，是不可以擅离属地的。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_19"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "除非公差，或者——州有险情。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_20"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "是，那一定是出了大事的！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_21"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "他们等的是我。",
+                  "text_id": "HuanglongM1_1_7_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:0",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这就是漂泊者的自信吗！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_15"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "虽然我也这么觉得，令尹的描述完全对上了。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_16"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "全域通讯留言可以提前录制吗？",
+                  "text_id": "HuanglongM1_1_7_22",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "当然，毕竟是留言嘛。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_23"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是想到了什么吗？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_24"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "令尹也许并不能确认这个客人是谁。",
+                  "text_id": "HuanglongM1_1_7_25",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者的意思是？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_28"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "广发通讯并不止是因为客人“迷茫”。",
+                  "text_id": "HuanglongM1_1_7_29",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "虽然没明白漂泊者在想什么，但我想总之先见一面，去亲自确认一下，会比较好？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_33"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "我也听得云里雾里的，不管令尹是什么目的，什么打算，现在令尹这边算是唯一比较明确的线索了吧。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_34"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "嗯。",
+                  "text_id": "HuanglongM1_1_7_35",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者是怎么想的？陌生的城市还有空白的记忆， 会让你觉得迷茫不安吗……?",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_48"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那是自然。",
+                  "text_id": "HuanglongM1_1_7_49",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_7:32",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "既然这样的话。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_53"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不如先和令尹见上一面吧，诸多疑问，或许她都能够为你一一解答。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_54"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "会面不允许陪同，我和炽霞就在庭外等着。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_55"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "等你回来。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_7_56"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嗯嗯，就在外头！有事就大喊——哦好像不行，应该外面是听不见的，边庭也不许喧哗。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_7_57"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "接引人",
+                  "text": "请随我来。",
+                  "speaker_id": 932,
+                  "text_id": "HuanglongM1_1_8_1"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "接引人",
+                  "text": "您请上座。",
+                  "speaker_id": 932,
+                  "text_id": "HuanglongM1_1_20_1"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "接引人",
+                  "text": "您请稍等。",
+                  "speaker_id": 932,
+                  "text_id": "HuanglongM1_1_21_1"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "抱歉让您久候，初次见面，我是令尹近卫，散华。",
+                  "speaker_id": 849,
+                  "text_id": "HuanglongM1_1_9_2"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "漂泊者。",
+                  "text_id": "HuanglongM1_1_9_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_2:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹现今不在边庭之内，但令尹离去之前，已经提前为您准备了见面礼以及希望交予您的信物。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_9_4"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹让我转告您，她不在的这段时间内，您也可以去见信物所指向的事物，能够提前得到您想要知道的信息。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_5"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "以三日为期，令尹定当与您正式会面。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_6"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "令尹在哪？",
+                  "text_id": "HuanglongM1_1_22_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "恕我现在无法告知，但令尹也非常希望能和您相见。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_11"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "难道她出事了吗？",
+                  "text_id": "HuanglongM1_1_22_12",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "恕我现在无法做出更为详细的回答，但令尹有她必须单独去完成的事情、解决的困境，而与您的会面，她一直牢记在心。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_13"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "只因无法预知，也无法料定您的来时去处，只能通过如此方式。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_14"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么是三日。",
+                  "text_id": "HuanglongM1_1_22_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:3",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "三日已是支撑的极限。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_15"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "这是令尹自己定下的时间，在您到来后的三天内，无论通过何种方式，她都会与您见面。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_16"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我能帮到她吗？",
+                  "text_id": "HuanglongM1_1_22_17",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您……",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_18"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您的好意，我必将转达给令尹，在此，我亦先行感谢您的好意。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_19"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "确有需要您相助之事，但这是请求，并非要求，也非此刻之事，令尹无意相胁，希望您知晓全貌之后，再行考虑判断，是否施以援手。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_20"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我怎么知道这些信物指向什么？",
+                  "text_id": "HuanglongM1_1_22_9",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:3",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹托我转告的是，信物并不是想要为难您的谜题，而是凭证和信号。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_22"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "信物留得仓促，且以如此隐晦繁琐的方式传递，令尹亦感到十分抱歉。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_23"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您比您想象的更为重要，您的信息亦然。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_24"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我知道了。",
+                  "text_id": "HuanglongM1_1_22_10",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:3",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 73,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是怎么确定那个客人是我？",
+                  "text_id": "HuanglongM1_1_22_25",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹身不在此处，我也无法代表令尹确认。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_26"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "但您，很特别。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_27"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我听说很多人直接被“请”出去了。",
+                  "text_id": "HuanglongM1_1_22_28",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "如果您询问的是我如何在众多“来客”之中选择您……",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_29"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "我的眼睛可以看见生物本身的频率。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_30"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "或者说，我只能看到“频率”。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_31"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您与……令尹大人的频率是一样的。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_32"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我的频率是什么样子？",
+                  "text_id": "HuanglongM1_1_22_33",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "是没有被扭曲的，真实的，原本的姿态。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_35"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您是您存在于世间，本来的样貌。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_38"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "其他人的频率是什么样的？",
+                  "text_id": "HuanglongM1_1_22_39",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_5:25",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "各有不同。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_22_40"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "不知道为何，你能感受到散华并不想继续这个话题。",
+                  "speaker_id": 83,
+                  "text_id": "HuanglongM1_1_22_41"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "方便将您的终端给我一下吗？",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_60"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "要做什么？",
+                  "text_id": "HuanglongM1_1_23_61",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_6:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "通行权限的认证需要通过终端操作，另外，最新的探索系统模块的升级，我一并为您检查处理。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_64"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "这是令尹交代下来的事情。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_69"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（递过去。）",
+                  "text_id": "HuanglongM1_1_23_70",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_6:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "在原地稍等了片刻。",
+                  "text_id": "HuanglongM1_1_23_71"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "已将您的探索模块升级到最新版本，感应、控物、钩索等功能可以正常使用了。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_72"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您的通行权限认证也已经以终端的编号方式发送到各个关口及信标处，只需要向守关人出示终端编号或在信标处激活即可。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_42"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您现在在今州应当是畅行无阻的。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_73"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "包括边庭？",
+                  "text_id": "HuanglongM1_1_23_43",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_6:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "是的，包括边庭在内，您都可以任意出入。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_45"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "另外，冒昧问一声，您在今州可有落脚之处？",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_46"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "如若您暂无落脚之处，令尹已为您提前准备了住宿房间，在边庭之内。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_47"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "边庭是我家。",
+                  "text_id": "HuanglongM1_1_23_48",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_6:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您若需要，请告知我一声，我带您前去房间。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_52"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "暂时不必了。",
+                  "text_id": "HuanglongM1_1_23_53",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_3_6:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "明白，我亦在此随时恭候。",
+                  "speaker_id": 93,
+                  "text_id": "HuanglongM1_1_23_58"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "漂泊者！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_1"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "你去了好久，怎么，令尹大人是个小话痨吗？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_2"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "简单地向炽霞、秧秧说明了会面的谈话内容。",
+                  "text_id": "HuanglongM1_1_12_3"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "令尹不在边庭之内吗……",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_4"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_5"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？",
+                  "text_id": "HuanglongM1_1_12_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "起风了，风中有种令人不安的、动荡的气息。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_8"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "陆续复苏的无音区、异常强大的残象、不在边庭的令尹……",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_11"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "还有……神秘的漂泊者！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_12"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "今州……",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_13"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "或许将有异变。",
+                  "text_id": "HuanglongM1_1_12_14",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哎，边庭、军策府和研究院统统上报了一遍了，现在能做的都做了。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_18"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "更何况，瑝珑诶，今州诶，这千百年间哪时候没点动荡的，都是大家一起挺过来的。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_19"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "残象潮年年来涌，且——天塌下不还有一高个子夜归将军顶着，地陷了还有令尹岁主镇着呢！更何况我们也不是吃干饭的。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_20"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "咽喉关口，众志成城，一人当关，万夫莫开，炽霞说得对。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_21"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那这三天里，漂泊者有什么打算吗？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_29"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "闲着也是闲着。",
+                  "text_id": "HuanglongM1_1_12_30",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我们可以看一下令尹交给你的信物吗？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_41"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "向秧秧和炽霞展示了下获得的信物。",
+                  "text_id": "HuanglongM1_1_12_42"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "都是些小玩意？看不出有什么特别的啊？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_43"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（拿起糖果。）",
+                  "text_id": "HuanglongM1_1_12_44",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:0",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "圆圆的，我有印象！我小时候吃过这种糖果，应该叫糖丸？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_49"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "不过好像现在没再见着这种模样的糖果了吧……是不时兴了吗？",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_50"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是小时候的记忆呢。还记得，糖果很甜。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_51"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "小时候我特别害怕打针，有几次打完针，护士姐姐就会奖励一颗这样的糖果。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_52"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但是糖果……又有什么含义呢？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_53"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（拿起小型装置。）",
+                  "text_id": "HuanglongM1_1_12_45",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:0",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这看起来像是一个……小型日晷？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_54"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那是什么？",
+                  "text_id": "HuanglongM1_1_12_55",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:38",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是一种利用太阳的投影方向来测定时刻的计时仪器。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_57"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "一般来说，晷面上标记的刻度为十二时辰，显示节气和月份。但这个日晷的晷面却有点特别。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_58"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "晷面外圈显示的……应当是以十二地支划分十二时辰的时间刻度。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_59"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "里圈似乎是以四神兽为方位指向，《三辅黄图》记载：“苍龙、白虎、朱雀、玄武，天之四灵，以正四方，王者制宫阙殿阁取法焉。”",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_60"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "一般来说，青龙代表东方，白虎代表西方，朱雀代表南方 ，玄武代表北方 。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_61"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "时间和方位吗？但日晷显示的时间是根据真实的时间变化的……且在没有太阳光光源的情况下，日晷将毫无用处。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_62"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哇，听起来就很复杂的样子……",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_63"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（拿起树叶。）",
+                  "text_id": "HuanglongM1_1_12_46",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:0",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这个树叶的颜色有点特别哦。但看不出来是什么树啊。",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_64"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我似乎在它上面感知到一些……",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_65"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "唔……不，没有什么。只是一些很微弱的感知，微弱到像是我的错觉……也许真的是错觉吧。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_66"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我也看不出这是什么品种树木的叶子，抱歉。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_67"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（拿起黑色果实。）",
+                  "text_id": "HuanglongM1_1_12_47",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:0",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这是……莽吉柿。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_68"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "并不是今州本土生长的树木果实，一般都是依靠水陆货运，附近的集市就有卖的。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_69"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但不是经常有卖的，因为今州常有残象潮，战役频生，交通容易被阻断。不过自从夜归建军后，情况比悲鸣后那几年好很多了。",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_70"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（并不行动。）",
+                  "text_id": "HuanglongM1_1_12_48",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:0",
+                  "selected_index": 4
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这些信物里，我和炽霞对糖丸都有相似的童年回忆……难道说，漂泊者也一样？",
+                  "speaker_id": 108,
+                  "text_id": "HuanglongM1_1_12_74"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我没有印象。",
+                  "text_id": "HuanglongM1_1_12_75",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:53",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "既然是糖果之类的零嘴，问问今州的小孩儿肯定是最清楚的！",
+                  "speaker_id": 101,
+                  "text_id": "HuanglongM1_1_12_77"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那就先调查一下吧。",
+                  "text_id": "HuanglongM1_1_12_78",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_1_12:54",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 154,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你好。",
+                  "text_id": "HuanglongM1_1_13_1",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_2_4:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "向小孩子展示糖丸，并询问是否见过。",
+                  "speaker_id": 83,
+                  "text_id": "HuanglongM1_1_13_3"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "小孩子怯生生地摇了摇头。",
+                  "speaker_id": 83,
+                  "text_id": "HuanglongM1_1_13_4"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "半晌，下了很大的决心一般，小孩摊开了手掌，掌心上是一颗小小的糖果。",
+                  "speaker_id": 83,
+                  "text_id": "HuanglongM1_1_13_5"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "小孩子",
+                  "text": "我、没有那个样子的糖果。",
+                  "speaker_id": 984,
+                  "text_id": "HuanglongM1_1_13_6"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "小孩子",
+                  "text": "但是我有这个，也很好吃的，送给你。",
+                  "speaker_id": 984,
+                  "text_id": "HuanglongM1_1_13_7"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么给我？",
+                  "text_id": "HuanglongM1_1_13_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第一幕_嘤鸣初相召_2_4:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "小孩子",
+                  "text": "令尹姐姐说，要对来今州的客人好好的！",
+                  "speaker_id": 984,
+                  "text_id": "HuanglongM1_1_13_10"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哎，稍等，有人找我。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_1_1"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "嗯嗯……啊！什么时候失踪的？没事没事，别着急，我这就来。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_1_2"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "啊啊，值勤时间到了，差点忘了，要迟到了！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_1_3"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "抱歉抱歉，漂泊者秧秧，我得去值勤了，我忙完马上就来找你们！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_1_5"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "如果需要我的话，就原地大喊一声我的名字，我今州飞羽侠即喊即来。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_1_6"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "真的吗？",
+                  "text_id": "Huanglong_main_1_2_1_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_5_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "只用在喊的同时，给我的终端发个讯息就行~我会最快——最快赶到的，嘿嘿。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_1_9"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "……不能磨蹭了，我得先走了，就你们两没问题吧？有好消息记得通知我啊！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_1_11"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "好好好，你放心去吧，我陪着漂泊者，不会丢的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_1_13"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，我们进去吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_1_12"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "白芷没有回复我的通讯，可能正在实验室里忙着。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_3_1"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那边那位，就是安全科的莫特斐先生吧，听白芷提起过他……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_3_2"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "他应该能帮我们联系一下白芷，但是，呃，现在似乎不是时候……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_3_3"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "果然还是去问问吧？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_4_1"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "……怎么，有什么我可以为你们“效劳”的？",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_4_2"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "刚刚说得好！",
+                  "text_id": "Huanglong_main_1_2_4_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_4:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "我可不想纵容那些敲骨吮血，异想天开的资本家的天才想法。潜心研发、需要顾及情态的人有口难开，那倒不如让他们直接瞄准我一个，这一并才好处理。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_4_13"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "两位是？",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_4_14"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "莫特斐先生，我们无意冒犯，其实我们是白芷的朋友，我们来研究院是想找一下她。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_4_8"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "原来是这样，希望刚才没有冒犯到你们。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_4_9"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没有没有，是我们突然打扰……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_4_10"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "白芷应该在数据分析室里，我去知会她一声吧。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_4_11"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "麻烦您了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_4_12"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这位就是安全科远近闻名的莫特斐……他出身新联邦，是近几年加入华胥研究院的，研发实力相当了得。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_38_1"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "虽然看起来可能有些不近人情，但其实是个很热心的人呢……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_38_2"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "听炽霞说，他很受今州孩子的欢迎，孩子们经常缠着他制作一些稀奇古怪的玩具，他对孩子向来来者不拒。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_38_3"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "你们来了。有关云陵谷的采样数据信息已经递交分析了，今天内会有结论。体检的仪器也准备妥当了。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_1"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "前往边庭，你们可有收获？",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_2"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "取出信物，并将面见令尹的情况作了一番说明。",
+                  "text_id": "Huanglong_main_1_2_39_3"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "白芷有什么头绪吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_39_4"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "……",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_5"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "对于糖丸我有一个推测，但未经验证。如果可以的话，我建议在不破坏原本结构的前提下，将所有的信物进行化验或是检测。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_6"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是我未曾预想的方式。",
+                  "text_id": "Huanglong_main_1_2_39_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_20:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "数据总是清晰直接的。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_10"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "前三样信物回音科的化验室都可以处理，但这个小型日晷，需要射线检测仪器，得向安全科黑石相关科室负责人申请。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_11"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "安全科，我似乎刚听到莫特斐就是……",
+                  "text_id": "Huanglong_main_1_2_39_12",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_20:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "莫特斐确实是安全科黑石武器开发专项的负责人。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_14"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "稍等下。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_16"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "不久后，白芷带着莫特斐走了过来。",
+                  "text_id": "Huanglong_main_1_2_39_17"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "现在把需要检测的物品交给我吧 ，有什么注意事项你可以提前说明，二十分钟后来取回物品，分析报告晚五分钟出，右转检测室找我就可以了。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_39_18"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（拿出日晷。）",
+                  "text_id": "Huanglong_main_1_2_39_19",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_20:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "莫特斐接过日晷，轻轻地掂了一下。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_2_39_22"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "这倒是很像我认识的一个人早年的手笔。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_39_23"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "这个日晷的重量很轻，也不是普通日晷的样式，而且，似乎缺少了某一部分，看，这里有个凹槽。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_39_24"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "化验和检测需要一些时间，你们如果还有其他事的话，也可以先去忙，等结果出来了，我联系你们。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_35"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，那我们在研究院里稍等一会吧？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_39_36"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好。",
+                  "text_id": "Huanglong_main_1_2_39_37",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_20:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "可以。但一会儿记得来找我一下，做一下身体检查。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_39_39"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "我已经将检查所需的设备调试好了，分别需要检测你的生理健康情况以及共鸣频率是否存在异常波动。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_2"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "好了，如果你准备妥当，我们就开始吧。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_3"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "稍等，我还想要了解……",
+                  "text_id": "Huanglong_main_1_2_5_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "你还有什么疑问或是顾虑吗？",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_67"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "必须要检查身体吗？",
+                  "text_id": "Huanglong_main_1_2_5_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "根据带回的样本信息，你击败的残象在怒涛级以上。在击败残象之后，从肉眼上看，你使用自己的身体吸收了它的频率能量。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_10"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怒涛级？",
+                  "text_id": "Huanglong_main_1_2_5_40",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "人类根据残象的危险程度划分了不同的威胁等级，分类依据主要是根据其特征频率的含量，普遍认为一个残象的特征频率越高，它的能力就越强。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_42"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "而现有的级别由低至高为轻波级、巨浪级、怒涛级、海啸级，还有特殊的存在，鸣式。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_46"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "你还有什么疑问或是顾虑吗？",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_67"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "声骸是啥来着？",
+                  "text_id": "Huanglong_main_1_2_5_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:3",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "残象被击败后，它的频率能量，即「残响」，有概率成型并留在原地。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_14"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "共鸣者使用的终端能够将它们记录下来，一旦被记录，它就成为了听命于共鸣者的「声骸」。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_15"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "通过终端的功能模块，可以将它们的战斗能力复现，成为共鸣者在战斗中的秘密武器。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_16"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "不仅如此，除了复现，有些声骸的能力如果运用得当，能够使共鸣者短暂地化为它的频率的模样，达到同频的效果。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_17"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "也就是直接变成“它”？",
+                  "text_id": "Huanglong_main_1_2_5_18",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "某种层面上，可以这么理解。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_19"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "好了，如果你准备妥当，我们就开始吧。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_3"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "开始吧。",
+                  "text_id": "Huanglong_main_1_2_5_5",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:2",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "你能试试不通过终端直接将无冠者的数据复现出来吗？",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_25"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不行，我做不到。",
+                  "text_id": "Huanglong_main_1_2_5_26",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "嗯……在你的终端里也没发现无冠者的频率数据，可见确实是被吸收到你的身体之中……",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_30"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "无冠者的频率能量被你的身体“吞噬”掉了，完全不留一点痕迹。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_31"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "但到底是怎么做到的……就像是你的身体之中还存在另外一种能够汲取频率能量的机制……",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_32"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "难道我会变成怪物吗？",
+                  "text_id": "Huanglong_main_1_2_5_34",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "你是如何定义“怪物”的？频率能量的异常波动会给共鸣者带来强烈危害，后果一般都是超频。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_36"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "超频是什么？",
+                  "text_id": "Huanglong_main_1_2_5_49",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "是共鸣者精神与异能超负荷之后，频率能量溢出的一种症状表现。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_51"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "瑝珑已经建立了一套相对完整的检测报告流程，可以预知超频的风险性和可能性。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_54"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "而你波形检测图显示稳定性很高，比我见过的共鸣者都高，你的超频风险极低。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_55"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "可以暂时不用对这种可能性产生太多忧虑。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_56"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "用更简单的话说，更像是你的身体里存在着另一个空间或是……生物。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_60"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Huanglong_main_1_2_5_61",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_5:32",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "看来，只有通过实战检测才能进一步破解你身体里的秘密了。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_68"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "握紧你的终端，不要动。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_5_69"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者！漂泊者！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_128_2"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "呼……太好了……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_134_1"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "白芷，刚刚那是……什么情况？我们和漂泊者的联系突然就断开了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_134_2"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "……漂泊者，方才你都经历了些什么？",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_134_3"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "更具体一点呢？",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_1"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "手持镰刀的巨大残象……",
+                  "text_id": "Huanglong_main_1_2_131_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_26:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "手持镰刀的巨大残象……听你的描述，它应该不是无冠者，恐怕是比它还要高级的残象……",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_4"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "这种情况，也是研究院的模拟领域搭建完成以来，第一次遇到。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_6"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "索诺拉〔声之领域〕能够复现某个时空下的完整情境，一切事物，不论好坏，都会被悉数记录在内。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_7"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "研究院的模拟领域正是仿照着索诺拉建造而成。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_19"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "模拟领域虽然尽可能地只提取了其中纯净的回音能量，但我们也无法保证能够百分百剔除那些“异常频率”。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_8"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "一种可能是，这些“异常频率”，因为漂泊者的到来而被唤醒了。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_9"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "而另一种可能则是，由回音能量构成的模拟领域，有时会折射出进入者的心境或者记忆，因而其在漂泊者频率的影响下发生了重构。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_10"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "我初步怀疑，这很可能与漂泊者的潜意识有关。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_11"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "这类异常可能本就藏在模拟领域中，与漂泊者的潜意识产生了「共感」，亦或是……它本就来自漂泊者的潜意识。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_12"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "结论……我必须等待数据全部回收完毕，认真比对过后才能真正确认。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_13"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "之后我也会再去检查一下模拟领域究竟出了什么问题。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_14"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "但仅就身体状况来看， 你很健康。各项数据表现都很优秀。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_15"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "总之，无论身体上有什么异样，请随时来告知我，可以吗？",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_131_16"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好。",
+                  "text_id": "Huanglong_main_1_2_131_17",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_26:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "你们的日晷，完好无损归还。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_1"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "莫特斐先生，请问检测结果是？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_9_2"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "我直接说结论吧，它是空心的。你听，轻轻叩击外壳还可以听见回响。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_3"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "除此之外，它不仅是一个计时工具，还是一个精巧的榫卯机关盒。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_4"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "这个日晷是一个空腔结构，里面有夹层，通过仪器检测发现夹层里存有一节纸质卷轴。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_5"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "不过，它缺少了一个关键部件。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_6"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "只要找到合适的部件进行安装，晷面上的两轮轮盘结构应该是可以转动的。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_7"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "多亏你能看出端倪。",
+                  "text_id": "Huanglong_main_1_2_9_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_9:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "机关术不是我擅长的领域，我更擅长的是黑石武器的研发，不过这种应用技术的底层理论都差不多。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_10"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "如果是黑石武器的问题，用不了这么久。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_37"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "安装部件然后转动轮盘到正确的位置，就可以牵动机关盒里的结构，打开夹层，拿到里面的纸卷。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_13"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "不过，我暂时还没有想出来这个配件的构造形态。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_14"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "暴力破解吧。",
+                  "text_id": "Huanglong_main_1_2_9_15",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_9:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "确实是不用动脑子的好方法。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_17"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "如果你可以接受里面的信息被保护机制摧毁的话，我们可以试试。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_18"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "稍等，我有一个通讯。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_21"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "……",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_38"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "怎么了？",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_22"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "你倒是消息很灵通。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_39"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "确实是很美妙的数据……品味不错。既然你话都说到这份上了……",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_9_40"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，你有没有感觉，莫特斐先生现在的表情变得柔和了……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_9_41"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "像被顺了毛的猫。",
+                  "text_id": "Huanglong_main_1_2_9_42",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_9:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "还没有拜托莫特斐先生帮忙组装……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_9_45"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说着说着他就做起了需求。",
+                  "text_id": "Huanglong_main_1_2_9_46",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_9:24",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看来莫特斐先生还需要一些时间，在这里旁听着会不会不太好？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_9_49"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，我们等等再过来吧？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_9_50"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "……",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_34"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "你说的没错，这些我已经看出来了。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_24"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "你刚才提到的这个我倒是没想到。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_25"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "你的工作间？那个无处下脚的地方？",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_26"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "哼……你倒也不必说这种话，我知道了。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_35"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "……",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_36"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "不好意思，让你们久等了。我们说回日晷的事吧。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_27"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "这个日晷内部有个精密嵌套结构，所以中间缺少的部件要同时满足两种完全不同的结构需求。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_28"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "考虑到双层与整体的关系，这个配件要在有嵌套指针的基础上再多一个向下的自动卡扣。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_29"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "我会画出图纸，不过相关组装配件则在相里的工作室里，我已经告知他了，不过需要你们协助去取一下。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_30"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么你不去取？",
+                  "text_id": "Huanglong_main_1_2_60_37",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_23:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "分工合作能够更高效地完成这项事宜，另外，相里的工作间我是不想再踏入第二次，就连想到——大脑额叶区都隐隐作痛。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_39"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "相里的工作间会有危险吗？",
+                  "text_id": "Huanglong_main_1_2_60_32",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_23:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "满是杂物堆成的陷阱，那是研究院里的泥沼。危险性堪比悲鸣前无人造访的原始森林，对任何有条理的文明人来说都暗藏杀机。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_60_45"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "就只是“杂乱”而已是吧。",
+                  "text_id": "Huanglong_main_1_2_60_46",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_23:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "既然如此，漂泊者，那我们现在去取回来吧？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_60_33"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好。",
+                  "text_id": "Huanglong_main_1_2_60_49",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_23:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "虽然做了一些心理准备，但现场似乎比莫特斐先生形容的要……好上不少？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_10_1"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不过确实让人有些无从下手……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_10_2"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "应该就是这个了，看起来沉甸甸的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_113_1"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "回去给莫特斐先生看看吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_113_2"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "莫特斐先生，我们找到配件箱了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_1"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "我看看。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_11_2"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "化验结果也出来了。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_3"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "结论是？",
+                  "text_id": "Huanglong_main_1_2_11_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_11:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "莽吉柿是普通水果，无毒、无害、无异常，能够正常食用。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_6"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "紫色的树叶直接检测出了非常细微的残象频率波动，且有两种不同的波动，它们互相重叠的结果反而掩盖了彼此的信息，变得更加难以感知捕捉。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_7"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "两种波动，这并不常见。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_8"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "而波动频率呈扩散状，排除接触残留的可能。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_9"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "这不是普通的树叶，但也并非是残象拟态，结合数据报告，我的初步推测是树叶的来源地点应该是受到过「海蚀」的影响。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_10"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "海蚀？",
+                  "text_id": "Huanglong_main_1_2_11_11",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_11:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "海蚀是人类对悲鸣过后异常现象的总称，无音区的形成、天空海、溯回雨、失重等等，一切不同于往日的异常都被称为「海蚀现象」。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_12"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而悲鸣，是一切异象的起源。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_13"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "至于糖丸，经过成分检测，它并不是真正的糖果，而是一种口服疫苗制剂。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_14"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "这颗糖丸已经过期了二十年，而这种疫苗制剂在低温下的保存期限大约是两年。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_15"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "二十多年前的疫苗……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_16"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_17"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "难道糖丸指向的线索，与二十多年前的那场今州儿童疫病有关？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_18"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "关于糖丸的信息资料，院内公共档案室应该是留有资料存档的。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_19"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "公共档案室的档案分类方式比较特别，可以先通过大厅的信息终端检索关键字，定位到资料存放的所在列架。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_20"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "莫特斐先生……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_21"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "指针配件已经安装完成了，这应该就是它完整的样子。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_11_22"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "现在晷面的两轮轮盘可以转动了……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_23"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "莫特斐",
+                  "text": "是的，将正确的方位信息和时间对准已安装的指针卡扣的方向，应该就是打开机关盒的方法了。",
+                  "speaker_id": 10,
+                  "text_id": "Huanglong_main_1_2_11_24"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（地支为时间。）",
+                  "text_id": "Huanglong_main_1_2_11_25",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_11:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "地支与四象……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_31"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "干支纪法是瑝珑特有的记录日序的方法，相对复杂，多用于历法、术数和命名分类，现在已经很少使用这种记序符号了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_32"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "与这种纪法有关的信息……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_33"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "……命名分类。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_34"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "以「瑝览类书」为始，因传承的缘故，瑝珑大多数据资料及馆藏的分类索引仍采用这种方式，以记录事件的时间去分类档案，序列排布。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_35"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "瑝览类书是什么？",
+                  "text_id": "Huanglong_main_1_2_11_36",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_11:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "「类书」，可以理解为数据库，「瑝览类书」一般指的是瑝珑特有的大型数据库中枢。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_11_39"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "白芷",
+                  "text": "院内的公共档案室也是以十二支的文字记序方式，分类档案资料的。",
+                  "speaker_id": 877,
+                  "text_id": "Huanglong_main_1_2_11_42"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我明白了。",
+                  "text_id": "Huanglong_main_1_2_11_43",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_11:33",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "查到了……是「未」字列。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_37_1"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "卯、辰、巳……午、未，漂泊者，在这里。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_45_1"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "information_board",
+                  "speaker": null,
+                  "display_label": "资料面板",
+                  "text": "《档案：糖丸疫苗和残象潮战役相关》\n摘要：蜚热是尚无有效治疗手段但可通过口服疫苗进行有效预防的急性传染病，多发于6岁以下儿童。蜚热病毒传染性极高，症状凶猛，主要为发热，严重肢体疼痛及分布不规则的严重肌肉萎缩。医疗科成立专项小组研制新型减毒活疫苗，并已于6月16日下午3时通过Ⅲ期临床试验，结果显示免疫效果良好。本综述旨在对该疫苗的研究进展进行总结分析，从而为进一步研究提供一定的参考和借鉴。\n\n    1 基于蜚热假病毒的中和抗体检测方法的初步应用\n    2 注射蜚热减毒活疫苗的临床疗效\n    3 口服蜚热减毒活疫苗“糖丸”的临床试验报告\n    ……\n附件1 临床试验受试者登记档案（一）\n\n登记号：CTR302001\n姓名：相里衍\n性别：女\n年龄：29\n健康状况：健康，无遗传病症。\n试验分期：I期临床试验\n\n登记号：CTR302002\n姓名：相里要\n性别：男\n年龄：7个月\n健康状况：健康，无遗传病症。\n试验分期：I期临床试验\n……\n科员留言：相里老师……真的没问题吗？\n回复：总要做的，就从我和孩子开始吧。\n\n关联档案\n染疫情况通报：4月蜚热致瘫痪病例已达2178人，死亡165人\n华胥研究院医疗科成立蜚热疫苗研究组，首席相里洐任总负责人\n今州残象潮爆发，运输线路中断，医疗物资难以送达\n\n\n标题：口服蜚热减毒活疫苗“糖丸”的量产质量标准及运输概况\n报告人：华胥研究院 医疗科三级科员\n报告编号：MD-E0510\n摘要：悲鸣发生之际，今州作为瑝珑抵御残象潮的前线要地首当其冲。残象潮来势凶猛，夜归军列阵城外，严防死守，但因前线与后方运输线长期阻断，疫苗存储条件及运输条件苛刻，医疗物资难以运达。医疗科研制的二代糖丸状疫苗与一代液体疫苗相比稳定性更强，存储与运输难度更低，且更适合儿童服用，本报告记录了该疫苗的量产质量标准及包括疫苗在内的战时医疗物资运输情况。\n\n      1 疫苗量产质量标准\n      2 疫苗储存和运输管理规范\n      3 疫苗运输现状\n       二代糖丸状疫苗的运输冷藏车配备温度监测设备，运输期间需专业技术人员随行。但因残象潮的影响，今州主运输线路中断，而城内疫病凶猛危急，为保证疫苗能够及时运达，医疗物资分7队进行饱和式运输，由于运输路线地势险峻且可能出现无法避行的无音区，运输全程需共鸣者同行协助以确保物资顺利送达。截至8月5日，在疫苗有效期内成功抵达的运输队伍仅有一支，该运输队中随行的共鸣者清理了途中的残象潮，成功开辟了新的运输路线。\n       ……\n附件2 参与运输的共鸣者检测报告\n\n31号科员留言：关于这份检测报告……那个护送物资成功运达的共鸣者经历了那么高强度的战斗，但波形仍然稳定得不可思议，这个数据令人印象深刻，我确信我在哪里见过，但数据库中登记在册的共鸣者中并没有与该人特征相同的档案，这是怎么回事？\n\n31号科员留言2：找到了，他的数据和之前偶然看到的“第一份共鸣者报告”极为相似，由于当时还未统一共鸣检测报告的相关规范，所以那份报告没有被归档进现在的数据库分区内，我已经将它进行标注放入待处理区，请尽快核实该共鸣者的情况并且重新归档。\n（P.S 本人因身体原因已被上级要求休假就医，故上述相关工作交由34号，预计明天完成交接。）\n\n34号科员留言：未年……建州时的档案……不对啊，如果两份报告中是同一个人，那这时间跨度未免也太长了？这不该是存在于历史中的人物吗？等31号康复回来再问问是不是搞错了，这个报告就暂时放在我这里吧，现在全院都在忙，他也已经熬夜连续3天了，再不好好休息……\""
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里有两张照片……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_46_1"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "一张照片里有一众研究员打扮的人，领头是一位三十岁左右的女性，大家脸上有难掩的激动与开心。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_2_46_2"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "一张照片是一个尚在襁褓的婴儿，画面里一只纤瘦的手，手上握着盛放着一颗糖丸的汤勺，正朝向着婴儿的方向。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_2_46_3"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_46_4"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "information_board",
+                  "speaker": null,
+                  "display_label": "资料面板",
+                  "text": "《档案：第一位共鸣者档案》\n《档案：今州第一份共鸣者报告》\n检测时间：未年████\n检测对象：待确认（需归档，请及时确认该共鸣者状态）\n共鸣检测报告编号：RA1001-G\n\n【共鸣能力鉴定报告】\n无明确共鸣时间，对象主诉失去与共鸣能力相关的记忆。\n对象声痕位于右手手背，共鸣后身体表征未产生明显变化，发动异能时声痕与瞳孔均呈现金色点状光晕。\n共鸣频谱检测与多种频率波动区间接近，测试均具有较强的谐振反应，无法完全确认共鸣源。\n受试样本拉贝尔曲线不具收敛性，具有显著周期性特征，检测结果判断为先天型共鸣者。\n\n【超频诊断报告】\n波形检验图椭圆形波动，时域表示稳定，未见异常波形。\n诊断结果：判断为正常阶段，稳定性极高，无超频风险，无过往超频史。\n\n可查询到的相关记录为云陵谷战役，该共鸣者与危险系数极高的不明残象（无冠者）进行战斗，并将其成功击败，化解危机。以战胜无冠者为起始，军队士气大涨，所向披靡，三日后云陵谷战役告捷，在场士兵皆称见其与降临的「角」并肩而立。同年，今州建州。\n附件影像：今州建州仪式（待修复）\n31号科员留言：存在数据丢失，建议在下次数据库维护前及时处理。\""
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "今州建州的时间也是未年？前几个甲子的未年……边庭、华胥研究院也是在建州同年落成的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_47_1"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "建州的契机是云陵谷一役……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_47_2"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "资料里那个强大的残象……“无冠者”。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_47_3"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，关于糖丸指向的信息……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_77"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谈论有关糖丸的报道。",
+                  "text_id": "Huanglong_main_1_2_16_1",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "悲鸣之后，人们的处境变得更为艰难，可小时候那个甜味，我至今还记得。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_5"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我知道这场与疫病的缠斗，无论是否是共鸣者，孩童一旦沾染，非死即残。而残象潮爆发，交通阻绝，与其他庭州难以联系……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_6"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "仅仅是档案上的数字和寥寥数语，我想我无法体会到当时千万分之一的艰难，以己身试药，以亲子试药，万一失败……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_7"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "成功了。",
+                  "text_id": "Huanglong_main_1_2_16_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "正是由于先辈的努力，我们才能站在这里。总要有人说，有人记着。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_10"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如果糖丸的指向是我们现在获得的这些资料与报道，令尹想要告诉漂泊者的，究竟是什么？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_11"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这与漂泊者的记忆身世有关？还是……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_12"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "跟我的身世有关。",
+                  "text_id": "Huanglong_main_1_2_16_13",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "报道中提及的研究员们，其中带领研发的首席在糖丸研发完成三年后病逝了，而其他人现也已年过半百。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_17"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_18"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者还记得报道影像里的婴儿吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_19"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "按时间来看，他应该与漂泊者年龄相仿？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_20"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不过从留下来的影像看，她并非和漂泊者一样的金瞳……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_21"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，关于糖丸指向的信息……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_77"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谈论今州建州的信息。",
+                  "text_id": "Huanglong_main_1_2_16_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:1",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "今州是瑝珑建州最晚的州府，纵贯南北的云陵山脉将瑝珑分为关内关外，一庭五州位于关内，今州在关外。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_26"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而云陵谷一役正是建州的契机，残象潮的进犯与路线本是有迹可循的，从北落野生成，而无冠者的出现，改变了残象潮原本的行进路径。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_27"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "无冠者？",
+                  "text_id": "Huanglong_main_1_2_16_28",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "无冠者是具象化了战争行为本身的残象——战死者的怨恨，偷生者的恐惧，构成了无冠者的全部。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_29"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "在为数不多的资料里，有研究者猜测它与鸣式有联系。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_30"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "鸣式又是？",
+                  "text_id": "Huanglong_main_1_2_16_31",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "涉及到鸣式，要说的太多了，现在漂泊者可以这么理解，鸣式是最为强大的残象，之前的“鸣式战争”，正是为了抵御它而产生的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_32"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而资料里记载的无冠者，与我们在云陵谷遇到的强大残象，十分相似。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_33"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "且也在云陵谷。",
+                  "text_id": "Huanglong_main_1_2_16_34",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而「角」亦是在那场战役中出现的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_35"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，关于糖丸指向的信息……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_77"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "谈论日晷指向的时间。",
+                  "text_id": "Huanglong_main_1_2_16_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:1",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我们现在能明确获得的信息是「未」。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_36"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但只有时间信息的话，还不能打开机关盒。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_37"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "也许，方位信息也同样隐藏在其余信物所传递的信息之中，又或者，在我们寻找线索的路径之中？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_38"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我也是这么想的。",
+                  "text_id": "Huanglong_main_1_2_16_39",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，关于糖丸指向的信息……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_77"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（说出自己的想法。）",
+                  "text_id": "Huanglong_main_1_2_16_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:1",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 391,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者是怎么想的呢？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_42"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（说说今令尹。）",
+                  "text_id": "Huanglong_main_1_2_16_43",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我仅在授任大典中远远地见过现任令尹一面，令尹的处事个性，我无法妄言。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_46"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但令尹就任后的所有政见策略，在力行之下，大多都是明确且行之有效的举措。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_47"
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "有些举措谋之深远，确实不似令尹的年纪，传言多为参事「长离」出谋划策的缘故。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_48"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "参事长离？",
+                  "text_id": "Huanglong_main_1_2_16_49",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:30",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "参事是为令尹的辅臣参谋，不过听说长离大人亦为今令尹之师，曾官拜中政省长史，却自请前来今州。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_52"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但长离大人亦有“佞臣”的传闻……心思弯绕，倒也确实听过这种评价传言。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_53"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们现在获取的所有线索中，明确拿到的是，糖丸指向的线索包含了解开日晷机关的信息。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2_16_56"
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "也就是说，一个信物不一定指向一个目标，有可能指向多个目标，而一个指向可能包含着多重信息。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2_16_57"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "在此前，我们知道令尹想要见我，是因为她有想要告诉我的信息。而我想要见她，是因为我有想要知道的内容。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2_16_58"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "暗藏在信物中的话语，包含了“她想告诉我”和“我想知道”的两种信息，且并不等同，混杂在一起。所以会显得令尹在“故布疑阵”。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2_16_59"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "亦或者……",
+                  "text_id": "Huanglong_main_1_2_16_60",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:38",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 404,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "她是在情态紧急之下，只来得及布下这第一层信息，无法进行更为精巧的串联。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2_16_61"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "又或是她真算无遗策，心计九九连环，这第一层信息实则……",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2_16_62"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是一种筛选。",
+                  "text_id": "Huanglong_main_1_2_16_63",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_1_22:40",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 407,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是为了让无意间获得这些信息的人，无法精准定位，从而无法利用这些信息。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2_16_65"
+                },
+                {
+                  "sequence": 408,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_68"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "最后，如果是秧秧，在这之后，会怎么精准传达想要传达的信息呢？",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2_16_69"
+                },
+                {
+                  "sequence": 410,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……强调，在接下来的信物所传递的信息里，再三强调正确的信息。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_16_70"
+                },
+                {
+                  "sequence": 411,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "我来了我来了，终于散值了，怎么样，漂泊者身体还利索吗？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_1"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这么说得我像老年人。",
+                  "text_id": "Huanglong_main_1_2_17_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_6_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 413,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "白芷说漂泊者的身体很健康，没有异常。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_17_4"
+                },
+                {
+                  "sequence": 414,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "信物的调查有了一些进展，漂泊者也有了些推断。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_17_5"
+                },
+                {
+                  "sequence": 415,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你那边什么情况？",
+                  "text_id": "Huanglong_main_1_2_17_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_6_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 416,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "还能有什么情况，正常当值，今天就老张叔的三花上了树，落地的时候踩了陈皮叔的脑袋，害他摔了一跤——城西的二黄今天老是吠，吓着了路人，去劝了劝。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_7"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "还有接到了一件报案，是件走失案，刚登了记，我还仔细问了问，跟漂泊者没关系，不过明天得去报案人那瞧瞧。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_8"
+                },
+                {
+                  "sequence": 418,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哦，我还拿了漂泊者的终端编号去搜索了，结果系统查无此编号，最新的记录就是今儿我带漂泊者去登记的！忙活着就到这个时候了。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_9"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我都听困了。",
+                  "text_id": "Huanglong_main_1_2_17_10",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_6_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 420,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这都三更天了，能不困吗？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_14"
+                },
+                {
+                  "sequence": 421,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哦，我答应带你去吃一顿可没忘！但三更天，夜市都收摊了，只能明早起早了。在当值前，约上秧秧白芷你，明早攀花饭馆不见不散！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_18"
+                },
+                {
+                  "sequence": 422,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那现在？",
+                  "text_id": "Huanglong_main_1_2_17_19",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_6_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 423,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "现在当然要回家睡觉啦——难不成漂泊者想摸黑干什么吗？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_21"
+                },
+                {
+                  "sequence": 424,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "摸黑打残象。",
+                  "text_id": "Huanglong_main_1_2_17_22",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_6_1:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 425,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "说不定你适合加入夜归，哦不应该是加入夜不归才对。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_26"
+                },
+                {
+                  "sequence": 426,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者有能落脚休息的地方吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2_17_29"
+                },
+                {
+                  "sequence": 427,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "散华为我准备了房间。",
+                  "text_id": "Huanglong_main_1_2_17_30",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_6_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 428,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这就是贵宾待遇吗！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_34"
+                },
+                {
+                  "sequence": 429,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "再说下去天都亮了，先把漂泊者送回休息的地方吧，其他的明儿再说！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_17_40"
+                },
+                {
+                  "sequence": 430,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "倒也不用。",
+                  "text_id": "Huanglong_main_1_2_17_41",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_6_1:21",
+                  "selected_index": 0
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 2
+        }
+      ]
+    }
+  ]
+}

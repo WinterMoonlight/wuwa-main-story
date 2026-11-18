@@ -1,0 +1,2426 @@
+{
+  "schema_version": 1,
+  "title": "奔策候残星",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 38,
+      "dialogue": 251,
+      "information_board": 3,
+      "omission": 2
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 3,
+          "title": "奔策候残星",
+          "act": "第三幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 5,
+              "quest_id": 139000030,
+              "title": "奔策候残星",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "是这里……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_1_17"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "之前我在树叶上感知到一些若有似无的不祥气息，因为太过微弱，所以我也不能完全确定。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_1_13"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但现在，这种充斥空中，痛苦、憎恨的情绪，甚至不需要我去特意感知……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_1_14"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，这里一定发生过一些很糟糕的事情。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_1_15"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "小心，这里是无音区，我们先把残象清理干净吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_1_16"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里好像有什么东西？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_100_1"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看起来似乎是一些特殊仪式才会使用的木牌……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_59_1"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "为什么会出现在这里？这种物件一般摆在自家宗祠才是……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_59_2"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "况且这看起来……有点不太符合这个时代呢……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_59_3"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……在过去的历史记载中也有过类似的事件，人们出于某种信仰，为了祈愿，会在村落中定期举办大型的古老仪式。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_59_4"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯……再看看其他地方吧。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_4_59_5"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "啊，小心！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_106_2"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的残象",
+                  "text": "叽……叽叽……",
+                  "speaker_id": 860,
+                  "text_id": "Huanglong_main_1_4_106_3"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "奇怪，不攻击吗……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_106_4"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的残象",
+                  "text": "叽……哥哥……",
+                  "speaker_id": 860,
+                  "text_id": "Huanglong_main_1_4_106_5"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的残象",
+                  "text": "……救……救救……",
+                  "speaker_id": 860,
+                  "text_id": "Huanglong_main_1_4_106_6"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（和它对话。）",
+                  "text_id": "Huanglong_main_1_4_106_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的残象",
+                  "text": "哥哥……救救……",
+                  "speaker_id": 860,
+                  "text_id": "Huanglong_main_1_4_106_9"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的残象",
+                  "text": "叽……",
+                  "speaker_id": 860,
+                  "text_id": "Huanglong_main_1_4_106_10"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "哥哥是谁？",
+                  "text_id": "Huanglong_main_1_4_106_11",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的残象",
+                  "text": "救……",
+                  "speaker_id": 860,
+                  "text_id": "Huanglong_main_1_4_106_12"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "似乎只会重复这几句话……这不是普通的残象。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_106_13"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "残象会进行攻击的本质是它们需要吞噬他人的频率，残象的诞生也是频率被打散又组合的结果。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_106_14"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这只残象应该是吞噬了某些……人类的频率。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_106_15"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "将他人残存的意识化为重复不断的呓语……这是来自谁的将死之音，又或是出自谁血腥的创造呢……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_106_16"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "秧秧蹲下来将手放在残象头上，随着流息的感知，她露出悲伤的神情。",
+                  "text_id": "Huanglong_main_1_4_106_26"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "对不起……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_36"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你在和它沟通吗？",
+                  "text_id": "Huanglong_main_1_4_2_37",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没有，我无法做到那样的事。我只是在它身上感知到一些复杂的情绪……浓烈的悲伤，与一种异样的期许。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_38"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我有一个猜想。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_39"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你说。",
+                  "text_id": "Huanglong_main_1_4_2_40",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "它似乎在等待着解脱与救赎，但这种期许并不是指向它自身，我听见了它的悲鸣……不，是来自这座村庄的悲鸣。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_41"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这座村庄在悲鸣着，期望能够从深渊中被解救出来。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_42"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里发生了非常糟糕的事……甚至还残留着受害者的回响。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_43"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "从此处的痕迹以及这里的废墟来看，发生的时间也许并不久远，风中的讯息也还未能消散。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_44"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "也许是因为无音区的影响，也许是有人从中作祟，这里的事并未暴露在阳光之下。但我认为……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_45"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "此时此刻，这里一定还有我们能做的事，也许受害者还留在此处，我能感知到，与之相关的人就在这里不远处……这里，很危险。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_46"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我会将这里的事态同步告知炽霞，但在正式调查人员来到之前，我们能先留在此处调查吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_47"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "抱歉，我这么说似乎太主观了……这只是一种没有依据的预感而已……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_48"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不，我相信你。",
+                  "text_id": "Huanglong_main_1_4_2_49",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "呼……谢谢你，漂泊者。请一定要提高警惕。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_51"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这个小东西……让它留在这里吧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_2_52"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "痕迹面积不大却凌乱，看起来不像是战争留下的，更像是，伤者被拖拽而留下的……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_101_1"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "快看，这里有许多脚印，这些是打斗的痕迹……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_101_2"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里曾发生过伤人事件……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_101_3"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这是……原来如此……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_53"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这很可能是残星会的手笔。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_54"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "残星会？",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_4_3_55"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯，我对他们的了解不算太深入，只是由于身为踏白，曾接触过与残星会有关的案件。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_56"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "他们是一群热衷于将人类与残象融合的极端疯子，组织庞大，曾在各国界内都引发过多起大小不一的恐怖袭击事件。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_57"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "将人类与残象融合……",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_4_3_58"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "在今州境内也有残星会活动的痕迹，但都是些比较边缘的成员，在他们组织内部被称作造匠。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_59"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而在造匠之上，则是作为领导者存在的会监。会监往往都拥有各自不同的手段与影响力，造成的危害也是造匠无法比拟的……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_60"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我不知道他们实际上的目的是什么，有其成员自称是要灭世，也有自称是为了追求永恒的力量。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_61"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而其中有一名格外疯狂的会监，即便是在一群疯子中也疯得足够醒目。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_62"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "视一切秩序为无物，破坏行恶并以此为乐，是混乱狂欢的代言人……这几张卡牌，我在残星会相关的档案中见过。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_63"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "正是出自残星会会监之一，伤痕。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_64"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如果是他，那么他对村庄中的人做出了怎样残忍变态的事……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_3_65"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "看来……精心准备的自我介绍派不上用场了。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_4_4_1"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你是……伤痕？",
+                  "text_id": "Huanglong_main_1_4_60_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "如果你需要我再自我介绍一遍……是的，我是伤痕。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_3"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "那个“残忍、变态的疯子”。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_4"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "秧秧呢？",
+                  "text_id": "Huanglong_main_1_4_60_5",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "难得的会面，不应该有强干扰项，不是吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_6"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "那个女孩会影响你的判断。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_7"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你到底想做什么？",
+                  "text_id": "Huanglong_main_1_4_60_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "放心吧，我暂时还没有让你仇视我的打算……所以，她现在很安全。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_10"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "让我们先好好享受当下的独处时光，把无关紧要的人抛之脑后吧，毕竟，我们还有许多话要说。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_11"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "听说，你失去了自己的记忆？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_13"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你怎么知道？",
+                  "text_id": "Huanglong_main_1_4_60_14",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "看来是真的喽？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_16"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "想来也是，否则你苏醒时那副弱不禁风的样子，真的会让我怀疑传闻的真实性。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_17"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你跟踪我。",
+                  "text_id": "Huanglong_main_1_4_60_18",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你察觉到了？这才像样嘛。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_19"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "别对我抱有这么大的敌意，既然有所感知，你就应该知道，我只是看客中的一位而已。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_20"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "但是，开诚布公走到你面前的，却只有我一个人。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_21"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "在你还对这个世界一无所知的时候，你就已经是角逐战中的一个筹码了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_23"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "一个混沌不明的因素，刚一出现就引来了疯狂的抢夺。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_24"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "从睁开眼的那一瞬间开始，你所见到的每一个人，都明白你的作用，包括你在意的那个女孩。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_25"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "这个世界就是这样贪婪，残忍地将一个活生生的人变成了功能性的棋子。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_26"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "所以，我要站出来告诉你真相，因为，我真诚地将你视作朋友，对你即将面对的一切感到抱歉。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_27"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "这是我对你的诚意。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_28"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这就把自己摘出来了？",
+                  "text_id": "Huanglong_main_1_4_60_29",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵呵，看来简单的语言无法撼动你呢。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_31"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我的目的很简单，只是想要让我们互相了解更深一些而已。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_61"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "看看这个村子吧，然后告诉我你所看到的真相。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_62"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "对这个世界多了解一分，人的倾向就会更加明显，我们的游戏才会变得……更加有趣。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_63"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "在这期间，我不希望我们之间难得的独处时间被打扰……仅此而已。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_35"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "残星会对这个村子做了什么？",
+                  "text_id": "Huanglong_main_1_4_60_36",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "不要理所当然的把我们想象成施暴者啊……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_37"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你想问的应该是，这个村子曾经发生了什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_38"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "但是，直接告诉你太没意思了。我不是说了吗，由你来向我讲述你所看见的故事。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_39"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "那么来说说吧，你看见了什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_64"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "大型仪式。",
+                  "text_id": "Huanglong_main_1_4_60_40",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:31",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵呵，已经注意到这么多了吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_43"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "那这些线索会让你觉得这里发生过什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_44"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "残星会蛊惑、伤害了村民。",
+                  "text_id": "Huanglong_main_1_4_60_45",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_6_1:33",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "很经典的故事。无辜的羔羊，凶恶的狼群，界限分明的善与恶，满足着人们一成不变的想象，暗中规束着整个世界。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_47"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "但是，你真的相信，真实世界里的故事也是这样的吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_48"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "让我为你提供一些不可或缺的关键信息吧。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_52"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "这个村子的故事远没有那么简单。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_53"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "首先，故事围绕着谁来展开？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_54"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "一名无辜的少女，一位德高望重的村长，一群淳朴的村民。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_55"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "那么，最重要的情节是什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_56"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "愚昧的崇拜，摇摆的善意，众人皆知的谎言，肆意予夺的生命，还有，那渺小而特殊的存在……被众人推上死路。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_57"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "漂泊者，接下来，书写的笔就要交给你了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_58"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我很期待在你深入了解这个村庄之后，你口中的故事将会变成什么样子。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_60_59"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "怎么，还想和我聊点什么吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_61_1"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "再给我一点提示。",
+                  "text_id": "Huanglong_main_1_4_61_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_4:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你想从我这里舍远求近？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_61_4"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "很聪明，不拘于已有规则，我喜欢。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_61_5"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "但我还不希望你的想法现在就被我影响，让我们的第一次相见变成一场无趣的学舌。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_61_6"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "不要让我这么快就对你感到失望。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_61_9"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……行。我去找线索。",
+                  "text_id": "Huanglong_main_1_4_61_10",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_4:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "破碎的绘本残页，夹在一张撕下来的日记纸中，纸张上字迹稚嫩。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_4_62_12"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（阅读日记内容。）",
+                  "text_id": "Huanglong_main_1_4_62_13",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_5:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 117,
+                  "kind": "information_board",
+                  "speaker": null,
+                  "display_label": "资料面板",
+                  "text": "撕下的日记纸\n3.12\n你好，我是■■，我们搬到新家已经二个月了！\n这是村长尗又尗又送给我的心本子，尗又尗又告诉我，可以在上面记下来，中要的事。\n以前的家，被可怕的怪物占领，所以我们走了很久，找到了第二个家\n我问尗又尗又，爸爸妈妈什么时候可以赶上我们，尗又尗又说，他们很快就赶上来找我，我希望爸爸妈妈可以快点来新家。\n这里很票亮，有很大的桃花树，城里很闹，虽然大家很少去。\n爸爸妈妈快点找到我，是我最中要的事。\n……\n12.5\n今天是■■的生日。\n大家都对我很好，说我是大家的护身符，因为我可以让那些怪物离得远远的。我很开心，大家都喜欢我。今天吃了蛋糕、长寿面，还收到了礼物。已经很久很久没有看到爸爸妈妈了，他们还会回来吗？\n……\n12.5\n这是我在这里度过的第四个生日，村长正式收养了我作为养女……虽然在这之前，我也是由大家挨个照顾、吃百家饭长大的，父亲告诉我，我是祈池村的孩子，我应该为自己能够作为”祈池村的孩子“诞生而感到庆幸。\n能够被那么多人爱着，我真的感到很幸运。尽管我的力量还很微小……但我会尽自己的能力！继续保护祈池村不受到残象的侵害！"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "瞧，故事就是从这里开始的……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_1"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "村庄里有一群自由而快乐的小羊，它们每日靠着自己的辛勤劳动寻找食物……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_2"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "每到傍晚，它们便回到聚集地躲起来，互相保护，躲避野狼的猎捕。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_3"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你好像很喜欢讲故事。",
+                  "text_id": "Huanglong_main_1_4_62_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_5:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "人们从古至今都喜欢从寓言中吸取教训、领悟真理。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_5"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "而这些故事的灵感却往往或多或少汲取自他人的人生。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_6"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "同样的故事，在不同人的口中传递出全然不同的样貌。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_7"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "身处其中的人最终所理解的也不过是其中一个版本而已。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_8"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "就像我们现在，正处于一个巧妙的情节之中，而造成这一切的却不是我。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_9"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "这个村庄是我与今州渊源的开始……呵呵……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_10"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "今令尹引你来到这里与我相遇，才是真正的好算计。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_62_11"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "树枝上挂满了纸条，上面似乎记录着由不同人写下的愿望。大部分纸条上的字被浸湿过，已经无法阅读。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_4_63_16"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（阅读纸条上的愿望。）",
+                  "text_id": "Huanglong_main_1_4_63_17",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_6:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 131,
+                  "kind": "information_board",
+                  "speaker": null,
+                  "display_label": "资料面板",
+                  "text": "树枝上的纸条\n「真的会有用吗……如果可以的话，我希望自己可以再次站起来……」\n\n「我想要钱！我想要一辈子都花不完的钱！」\n\n「太神了 谢谢村长大人 我的腿真的恢复了！！！」\n\n「为什么……母亲去世后给我留下了一笔财产  可是我并不想要用这种■■■实现愿望啊？！我想要母亲回来 我想要■■■回来」\n\n「好奇怪 明明经过村长大人的治疗我的身体已经很强壮了 可是最近好像又变得虚弱 身体似乎不受自己■■■是我献给村长大人的■■还不够吗……」\n\n「■■■ 求求■求求您 不要夺走我的愿望 什么代价我都会付出的」\n\n「这■■真的■■大家■■想要的吗」"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "另一张破碎的绘本残页，静静地躺在泥土中。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_4_63_18"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "一天，一名牧羊人来到了村庄里。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_1"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "牧羊人为它们带来食物与庇护，满足小羊们的愿望，羊群从此过上了幸福而安稳的生活……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_2"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这个故事……就这样结束了？",
+                  "text_id": "Huanglong_main_1_4_63_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_6:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "恰恰相反，牧羊人到来，让这个故事才刚刚开始呢。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_4"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "他给这些小羊带来了能够实现愿望的力量。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_5"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "小羊只要低头向牧羊人摇尾乞怜，就能获得更多的青草、更安全的庇护。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_6"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "不用付出劳动就可以拥有无尽的资源、完美的生活。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_7"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "就这样，牧羊人成为了羊群的“神”。它们向那高大的身姿祈拜，感恩他、崇敬他……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_8"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Huanglong_main_1_4_63_9",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_6:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "怎么？看你的脸色，似乎对这些感到不适。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_10"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "如果你也是那群羊羔中的一员，面对这样的诱惑和他者的裹挟，你不会甘愿低头、向上位者乞讨吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_11"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "人与人是平等的，没有等级之分。",
+                  "text_id": "Huanglong_main_1_4_63_12",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_6:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "哈哈……没想到这么快我们就已经有所共识了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_13"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你说得对，但现在的世界还远远不是你所说的样子，牧羊人依旧存在，羔羊们却习以为常。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_14"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "那个理想世界，需要我们去将它实现。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_63_15"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "破碎的绘本残页静静地躺在泥土中。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_4_64_14"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "羊群日日夜夜举办篝火派对，狂欢着牧羊人的到来，除了……羊群之中的那只黑羊。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_1"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "夜幕之下，只有黑羊发现小羊的数量正在逐渐减少。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_2"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "漂泊者，你相信这世上有不付出任何代价就能够实现的愿望吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_3"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我更相信等价交换。",
+                  "text_id": "Huanglong_main_1_4_64_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_7:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵呵……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_5"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "曾经我也认为只要付出足够的代价，就能换取平等的报酬。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_6"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "然而，真正的等价交换是这世间难以企求的。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_7"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "世界本就不公平，不是吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_8"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "想要获取相等的回报，你必须付出更多、更多……更多。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_9"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "如果实现愿望意味着沉重的代价，那么许下愿望的人就会再三考量，权衡利弊。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_10"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "但如果这样的代价，能够让他人替自己背负……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_11"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "想必大家只会争先恐后许下更多的愿望，从而忽视掉，自己也可能成为他人实现愿望的代价。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_12"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "多有趣啊……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_64_13"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "墙上有一些污渍。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_4_66_7"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "仔细观察，隐约可见模糊的字迹。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_4_66_8"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "再凑近一些，墙上密密麻麻写着”异类“、”驱逐她“、”怪物“、“都是因为她”之类的词语。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_4_66_9"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "破碎的绘本残页静静地躺在泥土中。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_4_66_10"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "后来，牧羊人告诉小羊们，造成羊群数量减少的罪魁祸首是它们之中那唯一的黑羊。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_66_1"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "最终，可爱的小羊们迎来了照常升起的太阳，黑羊却再也不见踪影。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_66_2"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "牧羊人为村庄带来了新的规则，可那只黑羊却打破了规则。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_66_3"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "隐秘的真相被揭露，牧羊人不再为小羊们实现愿望，牺牲也不再发生。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_66_4"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "看到黑羊的所作所为，听到牧羊人权威性的话语……你觉得羊羔们会对那只黑羊做出什么样的行为呢？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_66_5"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "这些可怜又愚蠢的羔羊，不知道最可怕的恶魔其实一直都在它们身边。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_66_6"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "很好，再小的细节也没能逃过你的眼睛。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_1"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我很好奇现在你认为村子里的故事是什么。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_2"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "在此之后，我将告诉你这个村庄的真相。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_3"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "在你看来，羊群日渐消失的罪魁祸首是谁？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_6"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "牧羊人。",
+                  "text_id": "Huanglong_main_1_4_68_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_11:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "的确，造成小羊消失的直接凶手是牧羊人。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_10"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "牧羊人可以帮助它们实现愿望，但是要付出的代价小羊们并非全然不知。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_11"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "只可惜，在这样的诱惑面前，一切潜在的危机它们都闭口不谈，而这仅仅是因为，灾难没有降临到自己的头上。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_12"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "如果给它们重来的机会……我相信，它们仍然不会改变自己的决定。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_13"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "既然如此，当屠刀落下，它们也只能接受自己的命运。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_14"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "那么，第二个问题，实现愿望的代价是什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_22"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "生命。",
+                  "text_id": "Huanglong_main_1_4_68_23",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_11:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "一向如此，还有什么比生命更珍贵呢？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_26"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我的最后一个问题，黑羊去哪了？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_31"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "别着急回答这个问题，漂泊者。这一次，告诉我你所看到的故事吧。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_32"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你所拼凑起来的真相，究竟是什么？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_33"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "白羊和牧羊人联手解决了黑羊。",
+                  "text_id": "Huanglong_main_1_4_68_34",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_11:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "牧羊人以其他羊为代价实现愿望，羊群知道真相并成为帮凶，献祭了打破规则的黑羊。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_4_68_37"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "哈哈哈哈哈，你的猜测很准确。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_68_38"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【演出过程略】"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "怎么样，是不是很不错的故事？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_60"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "故事结束了，村庄的真相想必你已经明白了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_61"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "反叛规则的黑羊，屈服于权力与贪欲、自私自利的白羊。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_62"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "被献祭的少女，贪婪冷漠、互相迫害、将同胞打成异端的村民……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_63"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "……这一切都是他们咎由自取。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_64"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "只需将反叛者推上刑架，便能震慑羊群，笼络人心，维持那无法被撼动的既有规则……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_65"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这就是你成为“牧羊人”的理由？",
+                  "text_id": "Huanglong_main_1_4_198_66",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_38:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "错，大错特错。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_67"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我从来都不是“牧羊人”，我，我们，是“黑羊”，那只打破已有规则的黑羊。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_68"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "屠龙者终成恶龙。",
+                  "text_id": "Huanglong_main_1_4_198_69",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_38:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "哈哈哈哈……有意思，漂泊者，我真是越来越喜欢你了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_70"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "既然如此，不如看看，这只黑羊是否会如你所说，那么简单就被覆灭！",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_198_71"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "无穷无尽，身处混沌……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_69_1"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "趁现在想想清楚吧，到底什么才是正确的方向。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_69_2"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "头摇摇眼眨眨，变出一群羊娃娃。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_998_4"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "羊娃娃真可爱，有黑有红又有花。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_998_5"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "倒在你脚下的，是勇于走向清醒的先行者啊。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_997_6"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "和他们一样在这条正确的道路上笃定地前进吧，我将为你在前方准备更热烈的欢迎！",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_997_7"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "干脆利落、毫不留情，你瞧……我们有这么多的共同点……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_995_9"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "别急着否认，既然来到了我的面前，我倒是很想知道你的答案……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_995_10"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你想成为创造规则的牧羊人，还是成为打破规则的黑羊？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_994_11"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "如果一个清醒的人在疯子之中独活，你又该称其为清醒者，还是唯一的异端疯子？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_994_12"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "想想看吧，牧羊人并不是既定真理的化身，只要他彻底消失，黑羊获得信任……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_994_13"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "世上就不会再有加害者与受害者这样的分类！",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_994_14"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……漂泊者……！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_993_15"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "啧，她还真是难缠呢。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_993_16"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者……漂泊者！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_1"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……秧秧。",
+                  "text_id": "Huanglong_main_1_4_70_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_4_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我打破了他的幻境，他应该也受伤了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_3"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵呵……我该谢谢你的手下留情吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_4"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "离漂泊者远一点！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_5"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "唉，来之前不是说好的，把时间留给我和漂泊者吗？",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_7"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "神秘红衣女子",
+                  "text": "希望你没有忘记这个条件的前提。",
+                  "speaker_id": 1309,
+                  "text_id": "Huanglong_main_1_4_70_8"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "神秘红衣女子",
+                  "text": "不要即兴发挥，给别人带来困扰。",
+                  "speaker_id": 1309,
+                  "text_id": "Huanglong_main_1_4_70_9"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "呵呵，别这么急着出来维护你那脆弱的“完美乐章”。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_10"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我有分寸。什么该做，什么不该做，不需要你来提醒我。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_11"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "看来这次的约会……只能到此为止了。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_12"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "不过，希望你记得我提醒你的。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_13"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "我想知道，你最终会选择从天而降的馈赠，还是开诚布公的交易，或是一掷千金的豪赌……",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_14"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "你是个聪明人，我相信你不会轻易做出决断。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_15"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "伤痕",
+                  "text": "很快，我们会再见面的。",
+                  "speaker_id": 446,
+                  "text_id": "Huanglong_main_1_4_70_16"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "他们要跑了……要追吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_17"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……算了，实力不明。",
+                  "text_id": "Huanglong_main_1_4_70_18",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_4_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_49"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "伤痕的共鸣能力似乎是空间传送和制造异空间，我被他关在一个封闭的空间里，只能感知到距离这里并不远……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_21"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我花了一些时间才打破幻境，抱歉，我来晚了……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_22"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你没事就好。",
+                  "text_id": "Huanglong_main_1_4_70_23",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_4_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的残象",
+                  "text": "唧唧，唧唧……哥……哥……",
+                  "speaker_id": 860,
+                  "text_id": "Huanglong_main_1_4_70_24"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "咦，这个小家伙怎么跑到这里来了？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_25"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可能是刚才因为害怕躲起来了吧。",
+                  "text_id": "Huanglong_main_1_4_70_26",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_4_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我还从来没见过有残象会表现出这么生动的情绪……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_27"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不过，它叫的哥哥……不会是……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_28"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "伤痕……哥哥？",
+                  "text_id": "Huanglong_main_1_4_70_29",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_4_1:23",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "有可能，毕竟伤痕曾经也来过这里……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_30"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "比起这些……漂泊者，刚才我不在的时候都发生了什么？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_31"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "将此前发生的事与调查到的线索告诉秧秧。",
+                  "text_id": "Huanglong_main_1_4_70_48"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看来祈池村的真相，与那场“仪式”密切相关。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_32"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "也藏在伤痕的“寓言”中。",
+                  "text_id": "Huanglong_main_1_4_70_33",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_4_1:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "用“寓言故事”粉饰自己的理念与立场，这的确也很符合他那随心所欲、难以捉摸的个性……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_47"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "只有找到”仪式“真正发生的地点，才能佐证这是否是伤痕的一面之词。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_34"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "嗯，去看看吧。",
+                  "text_id": "Huanglong_main_1_4_70_35",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_4_1:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "咦，怎么了？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_36"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……没什么。",
+                  "text_id": "Huanglong_main_1_4_70_37",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_4_1:30",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "双重的残象频率波动痕迹……原来如此。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_38"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "风中传来的讯息在那边，跟我来。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_70_45"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（……南边。）",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_4_70_46"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "他们没有大碍，无须担心。",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_4_70_39"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "和您推断的一样，伤痕并没有伤害到他们……嗯，依照您的意思，我没有出手。",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_4_70_40"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您那边还好吗？",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_4_70_41"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "……请您一定要保护好自己，令尹大人。",
+                  "speaker_id": 93,
+                  "text_id": "Huanglong_main_1_4_70_42"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "对了……漂泊者，能把我们先前找到的那半块木牌拿出来吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_200_1"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "果然没错……我在这边感知到了相同的气息，跟我来。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_200_2"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是木牌的另一半……应该能组合起来。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_4_201_1"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "快看，洞口的水位正在下降！",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_203_1"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这底下……竟然还有这样的空间……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_71_1"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "奇怪，明明是在水下，走进来却十分干燥，一点水渍也没有，甚至植被都生长得很好……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_71_2"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "难道这是伤痕的手笔？联系到他的共鸣能力，做到此事倒也不稀奇。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_71_3"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那棵树……好美丽。甚至美丽到有些……说不出的妖异。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_yindao_10_1"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的残象",
+                  "text": "……救救……大家。",
+                  "speaker_id": 860,
+                  "text_id": "Huanglong_main_1_yindao_10_2"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你是想告诉我们……这里有什么特别的东西吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_yindao_10_3"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "它怎么消失了……！？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_104_1"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里有一本日记。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_104_2"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "information_board",
+                  "speaker": null,
+                  "display_label": "资料面板",
+                  "text": "破损的日记本\n6.19\n今天家里来了一个奇怪的哥哥，他很友好，但是不知道为什么，那种友好和村里的家人不太一样……他似乎知道很多我的事情，说‘我们是同类’，还给我讲很奇怪的童话。童话的结局有点可怕……那位哥哥却说现实比故事要更加残酷，还问我，如果我就是故事中的小黑羊会怎么办，我不知道怎么回答，他只留下一句”下次再来看我“就消失了。我把这件事告诉父亲，父亲却说，根本没有来过这样的人……他究竟是谁呢？\n……\n7.20\n抱歉……对不起……（钢笔写下的字体被水渍洇开）如果不是我太弱了 我没办法驱离那几只残象 如果不是要保护我……\n一定还会有办法的，父亲说我的共鸣能力能够操纵残象转化残象的频率，小西你现在的样子只是暂时的……我会用尽全力让你恢复到原本的样子。我知道你还有意识。\n父亲答应了我，他那么厉害，一定能帮我找到挽救这一切的办法\n……\n12.17\n距离那件事发生已经三个月了。\n养父似乎完全忘记了我有写日记的习惯……这个日记本还是他送给我的。如果被他知道我在日记里记录这些，大概会勃然大怒吧。\n养父命令我必须听从他的指令，操纵重组残象的频率。如果事情一旦败露，失踪的小西实际上是为了保护我死亡，又被我变成了残象这件事……足以让我被当作怪物杀死。我会被大家驱逐，没有人会理解、接纳我这样可怕的能力……除了他。\n就算是逝去的生命……真的能够通过频率重组而重新回到我身边吗？如果真有那种可能性，到那时，在那躯壳之中破碎的灵魂，又会被缝补成什么样子呢？\n我不知道。\n……\n2.8\n我总觉得越来越不安……村子里的人越来越少……而养父带回来的那些残象……\n一定是错误的，我有这样的预感，自己行走在一条无法通向未来的道路上，却无法逃脱，无法停下来。\n我不知道养父到底做了什么……村里死气沉沉又一触即发的氛围是出自什么缘由。我已经很久不被允许出门了，每当我问及这些时，他都只是敷衍我几句。\n如果实现我愿望的前提是更多血腥的代价……\n……\n（没有写日期）\n家门外被村民们围堵了。\n看样子是事情败露了。\n杀人犯……那是在叫我吗？还是养父？\n又有什么区别呢？\n事到如今……有人可以来救救我吗？\n如果祈池村必须要以我为代价……\n如果有神的话……我希望可以……\n救救这个村子■\n\n（最后一篇日记的末端，一个陌生的字迹留下了一句留言。）\n“看来，你幸运很多呢。”"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "直到最后……那个女孩所祈愿的都是，村庄中的人能够得到救赎。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_107_3"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但牺牲是不会换来救赎的……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_107_4"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那只残象，就是为了传达女孩的愿望而留在这里的吧……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_107_5"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……对不起。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_107_1"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我感觉这里有些太冷了……我们可以先回去吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_107_2"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "抱歉，在那下面让我觉得不是很舒服……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_1"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那下面的风几乎是静止的，但我仍然感知到了很多情感和讯息，来自多年前的悲鸣围绕着我。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_2"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "大家许下愿望时的期冀，愤恨，绝望……和那本日记上所带着的，深深的悲伤和思念。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_3"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "日记的主人在思念什么呢？是之前平和的生活，还是思念一手促成这一切的骨肉至亲……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_4"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……抱歉，我又沉浸在自己的世界里了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_5"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没关系。",
+                  "text_id": "Huanglong_main_1_4_72_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_15:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我真的希望，从此今州不会再发生这样的事。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_8"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但我还没有这样的勇气和信心……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_9"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这也是我成为踏白的原因，我希望自己能有勇气和信心，去阻止这种悲剧发生。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_10"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我无法阻止这个世界的悲鸣，但至少，我要尽可能阻止身边的悲鸣。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_11"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我相信你。",
+                  "text_id": "Huanglong_main_1_4_72_12",
+                  "choice_key": "剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_15:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你也是这样想的吗？谢谢你……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_14"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "事情已经发生，怨天尤人或是沉浸于此都是无用的。回去后，我会将发生在这里的事件和得到的线索整理好上报。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_15"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯，我们回去吧，一起。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_4_72_18"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 4
+        }
+      ]
+    }
+  ]
+}

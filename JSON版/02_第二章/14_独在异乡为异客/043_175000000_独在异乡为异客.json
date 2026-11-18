@@ -1,0 +1,2902 @@
+{
+  "schema_version": 1,
+  "title": "独在异乡为异客",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 8,
+      "dialogue": 346,
+      "omission": 3
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 14,
+          "title": "独在异乡为异客",
+          "act": "幕间",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 43,
+              "quest_id": 175000000,
+              "title": "独在异乡为异客",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "你回来啦，要继续我们刚才的故事吗？",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_700_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我准备好了。",
+                  "text_id": "HRT_Rinascita_Interludes_700_2",
+                  "choice_key": "剧情_2_7_黎那汐塔主线_下半_11_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "……这场战斗可不轻松，就连桂冠也深陷其中。",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_1"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "她落入黑潮不见踪迹，就连我们也无能为力。",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_2"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "满眼哀伤如此无助，难道一切就要在这里结束？",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_3"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "直到漆黑的猎人击败劲敌，在绝望的深渊中鼓动她纯白的羽翼！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_4"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "无数光芒将她托举，而那疯狂的鸣式已经不足为惧！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_5"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "尽管眼前的黑暗无穷无尽，如今合一的光芒在前指引。",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_6"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "她高举提灯将黑潮消灭，黎那汐塔的灾难，也就此终结！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_7"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "虽然那漆黑的英雄已经离去，而那桂冠就在这里！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_8"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "咳……",
+                  "speaker_id": 750088,
+                  "text_id": "HRT_Rinascita_Interludes_1_9"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "那可是一场载入史册的战役，只要能编织歌谣流传下去，就会一直留在拉古那和七丘人的记忆里，成为整个黎那汐塔的故事。",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_10"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "黎那汐塔会因此而重生，也因此记住那些不幸的罹难者……",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_11"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这就是吟游诗人的工作吗……",
+                  "text_id": "HRT_Rinascita_Interludes_1_12",
+                  "choice_key": "剧情_2_7_黎那汐塔主线_下半_1_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "哎，不过，在这个故事里，还有另一个人……",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_14"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "他既不是拉古那人，也不是七丘人。这个异邦人的故事，你可曾知晓？",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_15"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "既然这样，就让这旋律，化为故事，在你眼前再现……",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_1_16"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "嗯，这位先生？你好？",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_1"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "乞者……您需要帮助吗？",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_2"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "英白拉多在上，拉古那的隐海修会，定会尽力帮助您。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_3"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "我想见芬莱克。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_2_4"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "您是想要跟他亲自告解吗？真不巧，最近芬莱克大人外出宣讲福音了。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_5"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "如果有困难的话，您就和路边的人打听隐海修会，去那边的水星天教堂就行。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_6"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "只要您愿意，在水星天教堂就能找到我，兄弟，我叫利奥。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_7"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "愿英白拉多与你同在。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_8"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "与鸣式沆瀣一气的圣座，何来告解之说。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_2_9"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "但他若是不在的话，只能去找“圣女”……或是漂泊者了吧。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_2_10"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "诶！你好呀！这位……",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_2_11"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "看你的打扮，像是瑝珑来的？旅游观光的话，黎那汐塔可有不少好去处呢……",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_2_12"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "…………",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_2_13"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "拉古那居民",
+                  "text": "啊！！！！！！",
+                  "speaker_id": 1565,
+                  "text_id": "HRT_Rinascita_Interludes_2_14"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "逃难的群众",
+                  "text": "怪， 怪物！",
+                  "speaker_id": 1568,
+                  "text_id": "HRT_Rinascita_Interludes_2_15"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "逃难的群众",
+                  "text": "小心那些黑泥！",
+                  "speaker_id": 1568,
+                  "text_id": "HRT_Rinascita_Interludes_2_16"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "卫冕节使，保护群众！市民们，往教堂去！",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_17"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "孩子和老人先走，快！",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_18"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "大家不要怕，修会一定会保护大家！",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_2_19"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "和漂泊者描述过的情景有些相似……",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_2_20"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "这就是……「天国」之前的「末日」吗？",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_2_21"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "大家，快离开这里！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_2_22"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "瑝珑的客人，你也快跟着去避难，这些怪物很危险！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_2_23"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "带平民离开。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_2_24"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这里留给我。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_2_25"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "……哼，鸣式的余孽。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_201_2"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "接引教士",
+                  "text": "利奥大人，你也快上船！",
+                  "speaker_id": 300014,
+                  "text_id": "HRT_Rinascita_Interludes_202_1"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "接引教士",
+                  "text": "教堂里快要装不下那么多人了！",
+                  "speaker_id": 300014,
+                  "text_id": "HRT_Rinascita_Interludes_202_2"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "你们先撤！城里还有人需要撤到安全的地方！",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_202_3"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "告诉菲比，一定要保护好教堂里的民众！",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_202_4"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "是你……",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_1"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "去安全的地方。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_203_2"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "广场那边，还有人没撤出来！",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_3"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "莫塔里家的珂莱塔。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_5"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "利奥先生？还有这位……",
+                  "speaker_id": 50001,
+                  "text_id": "HRT_Rinascita_Interludes_203_6"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "仇远。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_203_7"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "如果不是这位瑝珑的先生出手相助，恐怕我早已死于非命。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_8"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "感谢您的帮助，瑝珑的客人。",
+                  "speaker_id": 50001,
+                  "text_id": "HRT_Rinascita_Interludes_203_9"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "利奥先生，这些残象突然之间就在城中出现，毫无征兆——",
+                  "speaker_id": 50001,
+                  "text_id": "HRT_Rinascita_Interludes_203_10"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "珂莱塔小姐，莫塔里区呢！怎么样，平民有没有撤到安全的地方？",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_11"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "还在陆续向水星天教堂撤离，这个您不用担心。",
+                  "speaker_id": 50001,
+                  "text_id": "HRT_Rinascita_Interludes_203_12"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这座城市已经笼罩在鸣式的阴云之下……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_203_14"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "竟然能够透过这黑潮看到你？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_203_15"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "莫非……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_203_16"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "您这就要离开了吗？",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_17"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "记住，这里不安全，你们必须撤退。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_203_19"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "……愿英白拉多与你同在，朋友。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_20"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "好奇怪的人，怎么自说自话就走了……",
+                  "speaker_id": 50001,
+                  "text_id": "HRT_Rinascita_Interludes_203_21"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "无论怎样，我相信这位先生没有恶意，而且……他似乎正追寻着什么。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_22"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "利奥先生早就认识他？",
+                  "speaker_id": 50001,
+                  "text_id": "HRT_Rinascita_Interludes_203_23"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "不，我也是刚刚才在银行街遇到他。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_24"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "鸣式利维亚坦的阴翳不能盘踞在异邦人的心中……不过，蒙英白拉多的福，愿他能找到自己追求的东西，寻到他自己的道。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_25"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "珂莱塔！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_203_26"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "广场的平民应该都撤到教堂去了，我挨家挨户敲的门！只剩这几个孩子了！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_203_27"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "这位……托卡塔。",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_28"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "夏空",
+                  "text": "这座城市和她的人民呼唤着我们，我们一定能扛过去！",
+                  "speaker_id": 150036,
+                  "text_id": "HRT_Rinascita_Interludes_203_29"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "利奥",
+                  "text": "节使们，拉古那危在旦夕，铭记起你们古老的使命，保卫城市和人民！",
+                  "speaker_id": 1567,
+                  "text_id": "HRT_Rinascita_Interludes_203_30"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "珂莱塔",
+                  "text": "准备好，要来了！",
+                  "speaker_id": 50001,
+                  "text_id": "HRT_Rinascita_Interludes_203_31"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "从气息来看，漂泊者就在这里。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_3_1"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "不过这座塔里，还有异样的气息。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_3_2"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "从气息来看，似乎是那圣女留下的……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_3003_1"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "正合一用。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_3003_2"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这风息也是那圣女所设。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_3004_1"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "但从这里走过的人不止有漂泊者。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_3004_2"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "还有另一个……燃着黑色恶火的杀意从这里经过。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_3004_3"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "火铳的声音……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_301_1"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "看来有人先我一步到了这里。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_301_2"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【互动操作过程略】"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "明庭的人……不，我认得你。",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_1"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "你是那个梁先生手底下的……仇远。",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_2"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "……你认识梁大人？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_3"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "我曾经亲自去明庭见到了许多明庭要员，专司岁主事务的谛天鉴特意向我介绍了你们镇抚司。",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_4"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "绝对不会错，跟在梁先生身后的，那个双眼失明却又能看见一切的人……那个“心绝”。",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_5"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "我只是能看到你们看不到的东西，仅此而已。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_6"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这子弹杀了卡提希娅，却感受不到丝毫杀意。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_7"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "生于光明，却振翼于黑暗之中。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_8"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你究竟……寻找着怎样的火焰呢？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_9"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "卡提希娅，岁主的共鸣者，鸣式的共鸣者。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_10"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "即便是“死”，这两股力量，也还在你的身体里寄宿着。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_11"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "反倒是……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_12"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "明庭的卷宗里，没有关于你的记录。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_13"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你所有的气息，都指向了鸣式。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_14"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "融合，混沌，吞噬……这是残象。这力量并不完全属于你。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_15"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你复仇的对象，你要杀的不是她，而是……神。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_17"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "但你没有把这件事告诉漂泊者，不然事情也不会这样突然。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_51"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "因为这场大火，除了火星和柴薪，还要有另一个人——",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_18"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "漂泊者，果然是你。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_19"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你果真和今令尹的近卫说的一样，只是现如今……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_21"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "鸣式的遗毒，利维亚坦的黑潮，正笼罩着你。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_22"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "大约正因如此，我才能透过那城中的黑潮隐约感知到你。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_23"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "沾染鸣式之人，唯有毁灭一途。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_24"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "即便以炬火驱散黑暗，可到了你必须做出选择的时候……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_25"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你手中的剑，该如何指向自己？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_26"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那女人开枪杀了卡提希娅，漂泊者已经追上去了。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_27"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这里头还另有隐情。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_52"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "你怎么知道？",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_28"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "我能感知到残留在这里的气息。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_29"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "岁主已逝，圣女不在，黑潮蔓延……",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_30"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你们寡不敌众。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_31"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你若是亲自拜访过明庭要员，除了梁大人之外，那你应该也见过明庭军策府的本兵大人。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_32"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "她委托我来黎那汐塔诛杀一个叫做伤痕的残星会会监，也托我来此地帮助漂泊者。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_33"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "明庭已经预料到这一切了？",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_34"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那不是我关心的事了。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_35"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "“必以得位不正之人手中炬火，驱散天星黑暗。”",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_36"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "谛天鉴交给我这么一句话，这炬火……你可有什么头绪？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_37"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "得位不正……炬火……",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_38"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "也许，是说主座芬莱克和掌握在他手中的拉古那“始源圣器”。",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_39"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那便大约是能助她一臂之力的物件。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_40"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "芬莱克如今应该在他秘密修建的试验场中。",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_41"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "狄萨莱海脊西南海域，具体位置，恐怕只能你自己寻找了。",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_42"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "好。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_43"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "对了，不要提起我来过这里。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_44"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "知道了吗？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_45"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "坎特蕾拉",
+                  "text": "为什么？你不是明庭官方的人吗？",
+                  "speaker_id": 150009,
+                  "text_id": "HRT_Rinascita_Interludes_302_46"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "过去是，现在不是了。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_47"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "明庭……应该已经不是你曾经以为的模样了。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_48"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "保护好卡提希娅的肉身，去更安全的地方吧。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_302_49"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "海面之下竟然有这样的设施。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4_1"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "如此亵渎，如此……荒谬。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4_2"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "翻腾于黑暗中的怪物……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4001_1"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "让你们见识下真正的黑暗吧。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4001_2"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处有未解析过程，接续后续剧情】"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "嗯？",
+                  "speaker_id": 178,
+                  "text_id": "HRT_Rinascita_Interludes_401_1"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "这里早已污秽横流，为何还要来以身犯险，兄弟？",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_40"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "「残星会」……是你。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_41"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "装作别人的模样……这是你一直以来的恶趣味吗？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_42"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "英白拉多在上，你不认得我了？",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_43"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你的伪装，在我面前毫无意义。我认得你的气息。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_44"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "呵……我们又有什么不同呢？兄弟。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_45"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "外表不过是可悲的皮囊，我是教士……",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_46"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "正如同你即便成为逃犯，今仍披着这身当朝为官时的衣装。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_47"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "可惜，过去在明庭你没能杀了“他”，现如今也不可能。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_6"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你为什么会在这里。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_8"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "这片大地已经升起一座为漂泊者而准备的阴森的舞台。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_10"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "我也只是受人之情，出演一个，小小的配角而已。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_48"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "作为配角，我如今的任务，是来这里阻止你。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_49"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "而教士，只有对“英白拉多”坚不可摧的虔诚，肉身却可以被轻易磨灭。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_50"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你杀了那个教士。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_51"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "他可活得好好的呢，眼下，他应该正在那座金库里救助伤员吧。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_52"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "再说，一个普通人，还用不上我动手。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_53"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "真是残忍，我只是一个手无寸铁的教士罢了。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_54"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "自然是比不上，梁东园那副文武双全的躯壳。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_12"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "杀害梁大人的血债，必须以你的血来偿。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_13"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "可我记得，这笔债，不是算在你身上了吗？",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_14"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "倒是你，身为明庭重犯，却带着军策府的命令私下来黎那汐塔追杀「伤痕」。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_15"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "没想到，明庭竟然把他看得这么重。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_16"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你知道这件事就说明，明庭里还有你的人。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_17"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "当然，我可以在“任何地方”。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_18"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "不过这个时候伤痕应该在七丘吧。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_19"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "今州的事办得不干净，那是他自己的事。你们之间，我不会管。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_20"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "而这位手握着一个残酷命运的王，我们的主座，未曾享有自己名号的殉道者……",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_21"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "你来这儿的目的，是他吧？",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_22"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "“必以得位不正之人手中炬火，驱散天星黑暗。”",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_23"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "瑝珑能得到这样的预言，难道不也是神明写下的剧本吗？",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_24"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你对他做了什么。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_25"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "我可什么都没做。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_26"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "现如今变成这副模样，全是他践行命运的结果。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_27"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "但这里还保管着他些许残存的意识，就在这盏灯里。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_28"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "让开。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_401_29"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "当然没问题，一个手无寸铁的教士，怎么挡得住瑝珑的利刃呢？",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_30"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "不过，我得提醒你……",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_55"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "芬莱克和你……没有什么不同。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_37"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "你杀了那么多人，唯独错在一场仁慈之中。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_38"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "为了这场仁慈，你付出的代价，不比芬莱克少。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_39"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "一束炬火，又怎能驱散两层黑暗。",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_35"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "利奥？",
+                  "text": "残忍的灵魂呀，那最后一个去处，正等着你呢！",
+                  "speaker_id": 1649,
+                  "text_id": "HRT_Rinascita_Interludes_401_36"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "前面是……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4003_1"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "残星会。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4003_2"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "熄灭吧……熄灭吧……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_403_1"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "那短促的烛光……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_403_2"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "如同那愚者的故事……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_403_3"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "喧嚣而无物。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_403_4"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "是黑潮，看来他仍然保有着和鸣式的连接……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_403_5"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我的……教堂。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_1"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "这里是……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_2"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这里是我心中一隙，因人而变。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_3"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这座教堂，也正是你的执念吧。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_4"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "瑝珑人……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_5"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "这里既无你能领受的福音，也无你能承受的惩罚。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_6"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "鸣式已经夺走了你的一切。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_7"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你们的圣女已经死了，你的城市也正在分崩离析。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_8"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那黑色的潮水，很快就会吞噬整座城市。你和鸣式相连，你应该知道地上究竟发生了什么。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_9"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "将那盏提灯交给我。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_10"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "哦？我凭什么将我们的一切交给你？",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_11"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "“以不义开始的事业，必将以罪恶巩固……”",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_12"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "不，就是在这磐石之上，我们才建立起我们的事业。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_13"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "一代又一代的主座，都是在这里，以我们残缺的肉体……抵抗着祂。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_14"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "只是……无论是利维亚坦、卡提希娅还是残星会，他们都不能将拉古那从我手中夺去。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_15"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "拉古那在我们手中缔造出繁荣的奇迹，人民也将在我们的指引下免遭鸣式的荼毒，抵达同一的乐土。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_16"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "人民需要一个统一的信念，这就是身为主座的统治的意义，身为主座的信念。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_17"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "这便是过去二十年中，我能够不断对抗，利用着鸣式的原因。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_18"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "只是……那信念带来的命运将我吞噬。我原以为能够利用鸣式，锻造出一个能对抗它那「天国」的乐土，却反过来被它利用。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_19"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "这是我的命运，我欣然接受。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_20"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "而如今支撑着我的，只有……对于背叛的怒火和仇恨。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_21"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你们只是普通人，普通人怎么可能对抗得了鸣式。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_22"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "它日夜在我们的脑海中低语，这样的痛苦，无人能够承受。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_23"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "就算英白拉多残存的力量只能维持我们失去理智前的最后一丝意识，一代又一代的主座们，也都选择了这条道路。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_24"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "即便如此却还想要利用鸣式吗？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_25"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "野心和执念支撑着你对抗鸣式。它们和鸣式也让你流落于此。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_26"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你的经文上满是仁义道德，自己却恶贯满盈。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_27"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我的双脚已步入血河，覆水难收。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_28"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "我曾有机会杀死一个即将迈入那血河之中的人。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_29"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "现在，有另一个机会在我面前。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_404_30"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "“凡属此世之人，无法伤我分毫。”",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_31"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "属于我的预言和命运正在前方指引着我……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_32"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "以残暴开始的欢愉，终将以残暴终结。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_33"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "怀有愧疚之人，向我告解吧。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_404_34"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【演出过程略】"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "告诉我，为什么？",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_1"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "兰台御史有书，要镇抚司来取你的性命。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_2"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "我？",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_3"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "他们检举你……在今州各地烧杀抢掠，串通残象，扰乱地方。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_19"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "笑话……",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_20"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "我杀它们还不够。",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_21"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你杀了这些残象，他们是你救下来的。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_22"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "是又如何。",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_23"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "边关这个样子，你们镇抚司只知道当那些贪官墨吏的走狗。",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_25"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "不如就在这里……杀了我。",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_28"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "动手吧。",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_29"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "若是你不杀我，迟早……你们这些镇抚司的狗，派来的人……",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_30"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "还有那些残象，我会把你们杀个……片甲不留。",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_31"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "镇抚司的梁大人可是为你说话的。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_26"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "那你来做什么？",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_27"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "……这几天，我也查了你在今州本地的档案。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_32"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那些兰台御史，身为言官，却欺瞒镇抚司……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_33"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "一个伍长，哪有什么神通能串通残象烧杀抢掠。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_34"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你只是一个普通人。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_11"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "它们屠戮平民，我……不可能放任它们。",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_12"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "哥舒临",
+                  "text": "只要有残象，就必须被消灭，我会不惜一切代价，直至……灭绝它们。",
+                  "speaker_id": 800012,
+                  "text_id": "HRT_Rinascita_Interludes_4051_13"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "今州生民性命，皆尽系于能否抵御残象。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_14"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你有着巨大的潜力，但你……必须谨慎地使用你的这份力量。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_15"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "剑不在杀，而在藏。切忌锋芒毕露，反受其害。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_16"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你手中的剑，能杀残象，也能救人。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_17"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "只要你守护一方的决心坚定不移，将来，必成大业。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_4051_18"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我……我看到了你心中的执念，你的记忆……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_1"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我能看到那个雨夜，那场战争，还有那个以战争为食粮的鸣式。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_2"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "那个在尸山血海的平原上，那个在黑色火焰中燃烧的男人……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_3"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "他最后——",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_4"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "落入了无相燹主的深渊之中。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_5"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "像我一样……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_6"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "或许当时他并非作恶多端，仍然心存善念，只是最后落得那么个下场。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_7"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "你应该在那时就杀了他。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_8"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "历史没有如果，人死也不能复生。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_9"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "我如今失去了一切，却也还不清那些死在战场上的人们的债。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_47"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "我能做的，不过是再见到他时，毫不犹豫地杀了他。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_10"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "如果让你再选一次，你还会当主座吗？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_11"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "会。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_12"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "即便世人皆知我得位不正，也必将知道我宵衣旰食。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_13"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我知晓我的罪恶，也知晓如今的命运将走向何方。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_14"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "但让我再选一次，我还是会走上这条道路……即便它须背弃历代主座的教诲，即便它遍布恐惧和磨难。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_15"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "现如今……请你拿上它吧。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_16"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "“必以得位不正之人手中炬火，驱散天星黑暗。”",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_17"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这就是“始源圣器”？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_18"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "当初，那不盖勒二世，带着它驱散了席卷拉古那的黑潮，也恰是那时，鸣式就已经盯上了隐海修会。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_19"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "这盏灯……请你带出去吧。倘若巡游天国果真降临，必然出现在远方的七丘，那漂泊的义人，也一定在那里。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_20"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "漂泊者她也沾染了与你身上类似的黑潮。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_21"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "黑潮将一切连接在一起，我的确感知到了她。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_22"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "她已经成为了新的代行者，她也逐步迈上了一条……不该属于她的道路。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_23"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "正因如此，她才比我更需要这盏提灯。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_24"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这算是你的忏悔吗？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_25"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我从不忏悔，只是一个不久于世的主座，不应该再继续拿着它了。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_26"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "这是属于我的……命运。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_27"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我从谎言和欺骗中建立起统治和事业，而凡属此世之人，无法伤我分毫。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_28"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "那漂泊的义人……绝非常人。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_29"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "带上这盏灯！",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_30"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那野心和执念的火焰已然熄灭，唯余这灯中烛火。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_31"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那么，你想要复仇吗？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_32"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我将亲手终结那以残暴开始的欢愉……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_33"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "鸣式可没有那么容易被杀死。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_34"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我的子民，隐海修会的教士们，还有那漂泊的义人……她们一定能做到……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_35"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "即便我将要在地狱中沉沦，利维亚坦……也将与我一同在地狱中燃烧。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_36"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "成为我的棋子，带上它，离开这里。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_37"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我就能完成……我自己的命运……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_38"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "……芬莱克·麦克白……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_39"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "纵然我无法跻身那些伟大主座的行列之中……",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_40"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "后人也将称我为……芬莱克……一世。",
+                  "speaker_id": 50076,
+                  "text_id": "HRT_Rinascita_Interludes_406_41"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "……史笔如铁，自有后人评断。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_43"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "这就是，隐海修会芬莱克一世的末路。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_44"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你的愿望，我收到了。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_406_46"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "漂泊者，你来了。",
+                  "speaker_id": 1475,
+                  "text_id": "HRT_Rinascita_Interludes_601_1"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "赞妮小姐和我正在清查埃弗拉德金库和水星天教堂的损失情况。",
+                  "speaker_id": 1475,
+                  "text_id": "HRT_Rinascita_Interludes_601_2"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "赞妮",
+                  "text": "金库……倒也没什么，只是照着珂莱塔小姐的意思丢出去了一些藏品而已。",
+                  "speaker_id": 1477,
+                  "text_id": "HRT_Rinascita_Interludes_601_3"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那时多亏了你们。",
+                  "text_id": "HRT_Rinascita_Interludes_601_4",
+                  "choice_key": "剧情_2_7_黎那汐塔主线_下半_5_2:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "赞妮",
+                  "text": "和居民们的安全相比，这些损失都不算什么。",
+                  "speaker_id": 1477,
+                  "text_id": "HRT_Rinascita_Interludes_601_5"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "话说回来……",
+                  "text_id": "HRT_Rinascita_Interludes_601_6",
+                  "choice_key": "剧情_2_7_黎那汐塔主线_下半_5_2:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 303,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "有看到那位叫做仇远的瑝珑人吗？",
+                  "text_id": "HRT_Rinascita_Interludes_601_7",
+                  "choice_key": "剧情_2_7_黎那汐塔主线_下半_5_2:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "我好像之前在广场那边看到过他。",
+                  "speaker_id": 1475,
+                  "text_id": "HRT_Rinascita_Interludes_601_8"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "因为是瑝珑人，所以显得很特别。",
+                  "speaker_id": 1475,
+                  "text_id": "HRT_Rinascita_Interludes_601_9"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "菲比",
+                  "text": "那边应该还有不少来拉古那商讨重建的七丘客人，漂泊者也可以问问他们。",
+                  "speaker_id": 1475,
+                  "text_id": "HRT_Rinascita_Interludes_601_10"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "拉古那的风貌，确实和七丘完全不一样。",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_1"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "这种四通八达的海港，也更适合出海贸易……",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_2"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这是奥古斯塔第一次来拉古那吗？",
+                  "text_id": "HRT_Rinascita_Interludes_602_3",
+                  "choice_key": "剧情_2_7_黎那汐塔主线_下半_5_3:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "的确如此，毕竟在这之前，拉古那一直是封闭状态。",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_4"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "不过，和莫塔里家族以及隐海修会商谈完贸易的事，我们也要尽快回去了。",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_5"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那位独守了七丘防线的瑝珑人……",
+                  "text_id": "HRT_Rinascita_Interludes_602_6",
+                  "choice_key": "剧情_2_7_黎那汐塔主线_下半_5_3:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "那位叫做仇远的剑客？",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_8"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "刚才我倒是在码头那边遇到了他，攀谈了几句，他似乎准备坐船回去。",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_9"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "我听那些孤守在地上的角斗士们说，我们被残星会掀起的黑潮吞没之后，他一个人守住了最要紧的关隘。",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_10"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "要是没有他，地上防线的伤亡不堪设想……",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_11"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我正准备找他道谢。",
+                  "text_id": "HRT_Rinascita_Interludes_602_12",
+                  "choice_key": "剧情_2_7_黎那汐塔主线_下半_5_3:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "奥古斯塔",
+                  "text": "这时候船还没开，他应该就在码头上。",
+                  "speaker_id": 250022,
+                  "text_id": "HRT_Rinascita_Interludes_602_13"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "老伯，还有多久开船。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_1"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "年老的商人",
+                  "text": "船长说，等七丘的这批货搬完，应该准备一下我们就出发了。",
+                  "speaker_id": 1650,
+                  "text_id": "HRT_Rinascita_Interludes_603_2"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "好像没有修士来监督你们了？",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_3"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "年老的商人",
+                  "text": "我以为您真的看不见呢，原来您看的见啊？",
+                  "speaker_id": 1650,
+                  "text_id": "HRT_Rinascita_Interludes_603_4"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "不……只是感觉，没有人来干扰你们。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_5"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "年老的商人",
+                  "text": "拉古那和七丘遭了这么大的灾，是那些英雄们带我们度过了这个难关。",
+                  "speaker_id": 1650,
+                  "text_id": "HRT_Rinascita_Interludes_603_6"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "年老的商人",
+                  "text": "还有芬莱克大人和很多拉古那历史上的老主座，他们提着一盏灯，跟在英白拉多后面，驱散了我们眼前的黑雾。",
+                  "speaker_id": 1650,
+                  "text_id": "HRT_Rinascita_Interludes_603_45"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "年老的商人",
+                  "text": "不过现在想起来，还有点后怕……",
+                  "speaker_id": 1650,
+                  "text_id": "HRT_Rinascita_Interludes_603_13"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "都过去了，老伯。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_14"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "年老的商人",
+                  "text": "是啊……",
+                  "speaker_id": 1650,
+                  "text_id": "HRT_Rinascita_Interludes_603_15"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "您先上船吧，再等一会，我也准备登船了。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_16"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "年老的商人",
+                  "text": "好，也谢谢你啦，小伙子。",
+                  "speaker_id": 1650,
+                  "text_id": "HRT_Rinascita_Interludes_603_17"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你来了。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_18"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这就准备走了？",
+                  "speaker_id": 750088,
+                  "text_id": "HRT_Rinascita_Interludes_603_19"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "事情还没做完，也该走了。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_20"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "伤痕和残星会他们还是逃跑了……",
+                  "speaker_id": 750088,
+                  "text_id": "HRT_Rinascita_Interludes_603_21"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "本兵大人应该也料定，他们一定有办法从这里脱身。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_22"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "只是可惜，不知道那颗羊头，经不经得起我这一剑。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_23"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "七丘的事，我还没有向你正式道谢。",
+                  "speaker_id": 750088,
+                  "text_id": "HRT_Rinascita_Interludes_603_24"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "利维亚坦针对着的是黎那汐塔，换了外人，似乎便难以受到影响。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_25"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "而且，是本兵大人委托我来这里帮你一把。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_26"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "要谢的话，等你将来去了明庭，亲自向本兵大人道谢吧。她似乎对你很有兴趣。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_27"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "明庭……我还只见过今州风貌。",
+                  "speaker_id": 750088,
+                  "text_id": "HRT_Rinascita_Interludes_603_28"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "天下之大，四海之内，漂泊不定，总会去到的。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_29"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "对了，关于哥舒临……",
+                  "speaker_id": 750088,
+                  "text_id": "HRT_Rinascita_Interludes_603_30"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你认识忌炎，打过北落野那场仗，也知道今州三年前到底发生了什么。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_31"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你应该也知道，落入鸣式手中的人，都是什么下场。不是所有人，都能像这里的人一样，受得住鸣式的诱惑。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_32"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你还在追杀他吗？",
+                  "speaker_id": 750088,
+                  "text_id": "HRT_Rinascita_Interludes_603_33"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那时，那些贪官墨吏，骗了镇抚司，骗了我和梁大人去今州杀他。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_43"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "但他当时……根本不是那么一回事。只是后来，他的确落入了鸣式手中。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_44"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "对那些死在战场上的人而言，死亡对他来说远远不够。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_34"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "但为他送上死亡，是我只能，也必须做到的事。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_35"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "年老的商人",
+                  "text": "小伙子，这趟去梦州的船，赶不上就只能等明天啦！",
+                  "speaker_id": 1650,
+                  "text_id": "HRT_Rinascita_Interludes_603_36"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "你虽漂泊不定，却终究是有家的人，有鞘的剑。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_37"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "那些和你站在一起的人，就是你的家人，你的剑鞘。他们会为你而挥剑，你便也为他们而挥剑。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_38"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "也许有一天……",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_39"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "会的。",
+                  "speaker_id": 750088,
+                  "text_id": "HRT_Rinascita_Interludes_603_40"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "不愧是你。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_41"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "仇远",
+                  "text": "江湖路远，再会吧。",
+                  "speaker_id": 1563,
+                  "text_id": "HRT_Rinascita_Interludes_603_42"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "黎那汐塔 第二章",
+          "source_act_id": 24
+        }
+      ]
+    }
+  ]
+}

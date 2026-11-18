@@ -1,0 +1,2229 @@
+{
+  "schema_version": 1,
+  "title": "玄翎振壑定澜音",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 10,
+      "dialogue": 241,
+      "subtitle": 21
+    }
+  },
+  "chapters": [
+    {
+      "number": 4,
+      "title": "第四章",
+      "sections": [
+        {
+          "number": 2,
+          "title": "玄翎振壑定澜音",
+          "act": "第二幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 68,
+              "quest_id": 189000006,
+              "title": "玄翎振壑定澜音",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没想到……姐姐居然和梦州的岁主还有这样的渊源……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_2"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "抱歉，漂泊者，之前没和你说。我和心的交易本是秘密，在见到心之前，我也不确定和你袒露这些，会不会节外生枝……",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_3"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "谢谢你找到秧秧，结果，我没能在这件事上帮到什么忙……",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_4"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "别这么说，姐姐。都过去了，你肯定也一个人承担了很多压力。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_5"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没有你，我们也没办法安全离开悬天构。",
+                  "text_id": "Main_HuangLong_XLZHDLY_270_6",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_1_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "……总之，岁主之物现在已经到了你的手上，意味着你与心月狐的因果纠缠在了一起。至于什么时候会解开，我也说不准。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_7"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "我能隐约感觉到……祂似乎有什么难言之隐。祂不肯……又或者是「不能」和我说明实情。可能需要你亲自去找祂才行了。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_30"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "也不是第一次了。",
+                  "text_id": "Main_HuangLong_XLZHDLY_270_8",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_1_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "在这之前，我们得先阻止机傀继续暴乱才行。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_10"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "姐姐，你之所以怀疑琢钧堂，是因为在梦州那边了解到了什么吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_11"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "琢钧堂是梦州独树一帜的机关术组织，其势力在梦州盘根错节，单论技术水平，恐怕比起梦州的华胥研究院也不遑多让。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_12"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "然而他们组织松散，也没有一个统一的行事准则。为首的堂主花间傀更是行事诡秘，善恶难辨……",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_13"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "秧秧，漂泊者，你们应该听说过「归魂互助会」吧，虽然现在已经覆灭，但它的首领「偃师」，正是琢钧堂出身。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_14"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（归魂互助会……）",
+                  "text_id": "Main_HuangLong_XLZHDLY_270_15",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_1_1:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那个自称木禺的人……两百年前确实是琢钧堂的人……但如今他似乎已经和那里断了关系……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_17"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "两百年……即便是共鸣者，能活到这个岁数的也极为少见，两百年间他有可能已经变换了无数身份，确实不好追根溯源。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_18"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "而且，他好像还认出了我。听他的语气，好像很清楚我做过什么。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_19"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "还提到了一个「穿红衣的女人」……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_20"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "难道，是之前在今州出现的，那个伤痕的同伴？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_21"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "不，应该不是她……恐怕是某个没见过的，蛰伏在瑝珑某处的会监吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_29"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "琢钧堂……残星会……如果他同时拥有这两方的背景……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_22"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "再加上他那尚不清楚是什么的共鸣能力……入侵机傀的系统，在玄方地界制造这一系列事端，似乎也并非不可能的事。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_23"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但是……为什么？他一直挂在嘴边的「实验」是什么意思？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_24"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可能和他在悬天构取走的那样东西有关。",
+                  "text_id": "Main_HuangLong_XLZHDLY_270_25",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_1_1:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不过，现在至少知道，我们该阻止的人是谁了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_27"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "带着这些线索去找椋羽和定玄卫长吧，说不定他们听了之后，能有一些新的头绪。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_270_28"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "说起来，之前把异常机傀的核心让阿布「分析」了一下……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_271_1"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "里面似乎混杂了很多负面情感，如果是从外部植入的话……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_271_2"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "木禺也许就是用这种办法，操控机傀的……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_271_3"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（但是……那些情感的来源，莫非……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_271_4"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "……军策府、天工还有华胥研究院，如果有空余的地方，也都腾出来，优先安置老人与孩子。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_290_2"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "确认城外的人都收容进来后，余下的兵力，除了部分斥候外，全部撤回来。城内机傀虽然运作正常，但也需时刻盯紧，在异常诱因明晰之前，不可让它们参与战斗。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_290_3"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "明白，我这就派人去办——嗯？你们来了。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_XLZHDLY_290_4"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这位就是定玄卫长……？",
+                  "text_id": "Main_HuangLong_XLZHDLY_290_5",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_1_10:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "……三位想必就是椋羽提到的协助者了。如今玄方城战情窘迫，三位的义举无异于雪中送炭，秋鸿感激不尽！",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_290_7"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "秋鸿卫长，我们有些事想与您和椋羽商议。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_290_8"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "我这边也刚好调度完人手，那么，请借一步到军策府前说话吧。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_290_9"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "众人来到军策府前，交换了各自的情报。",
+                  "text_id": "Main_HuangLong_XLZHDLY_295_10"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "木禺……潜伏玄方天工多年，意图染指岁主技术的工匠吗……实在是我们的疏忽……",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_11"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "至于琢钧堂……他们从不对外公布成员的身份，恐怕无从查起……",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_12"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "只不过，真要细究起来，玄方城对于琢钧堂而言，或许是有一层不被常人所知的意义。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_13"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "您是指……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_14"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "这也是我闲暇时查阅历代定玄卫长留下的卷宗时看到的。当年，在北落野的鸣式复苏，残象潮愈演愈烈之际，岁主心未雨绸缪，决定修建玄方——这是众人皆知的事实。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_15"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "然而玄方城也并非岁主以一己之力建成，彼时的心为此，需要选出一批协力者。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_16"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "琢钧堂在梦州的历史源远流长，其作为最顶尖的机关术组织，同时也是渊城的设计者，自然毛遂自荐，希望接下玄方城的建设委托。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_17"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "但不知出于什么原因……岁主最后没有选择琢钧堂。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_18"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那最后，是谁帮助心建造了玄方城呢？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_19"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我记得相里要和我说过……曾经有一群稷廷的人来到了梦州……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_20"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "没错，正是稷廷最后帮助修建了玄方城。然而在那之后，却没有任何文书记录他们的去向了。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_21"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "难道说……是因为当年琢钧堂没能被选上，他才会对岁主和玄方城怀恨在心……",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_22"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "能坚持恨了两百年再动手，那个叫木禺的人也怪有耐心的。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_23"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不……虽然只是一种模糊的预感，但他的目的应该没那么简单。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_24"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "操控机傀引起暴乱，应该只是他计划的其中一步。如今，玄方地界内还未被异常机傀和残象所染指的地方，也就只有……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_25"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "……这座城市本身。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_26"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "这里也是玄方地界最有「价值」的地方吧。很难想象他不会对玄方城动什么歪心思。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_27"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "总之，我们需要时刻做好御敌准备。或许……还要在没有外界支援的情况下，同异常机傀和残象殊死一战。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_28"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "算我一个吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_29"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不管结果如何，我们始终勠力同心。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_30"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "这里的人们，守护这座城已有两百余年……",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_31"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "希望这份传承，不会断在这一天才好……",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_32"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "此前，玄方地界的通讯因不明原因失效。现在天工赶制出了一批节点，在玄方城布置完成后，除了能恢复城内的通讯外，还能联动城内的防御设施。",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_33"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "这对我们布防会有很大帮助，但如今人手短缺……漂泊者，可否请你们帮忙设置一部分节点？",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_34"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没问题。",
+                  "text_id": "Main_HuangLong_XLZHDLY_295_35",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_1_3:25",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我陪你去吧，漂泊者。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_295_37"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "说起来……得把这柄剑还给村子里的人……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_1"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这是？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_2"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "说来话长，是先前遇到的玄方人让我暂时保管的。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_3"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "只是……不知道为什么，总觉得这柄剑上，有种熟悉的气息……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_4"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "偶尔还会通过它，看到一些过去的景象……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_5"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "就像当初，我看到角的雕像那样吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_6"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但那是因为漂泊者和角有很深的渊源……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_7"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "可我此前从没来过玄方地界……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_8"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "可能你也和我一样，失忆了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_9"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者……真是的，这怎么可能嘛……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_10"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（是啊，应该……不可能吧……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_300_11"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这样，委托给我们的两处节点就设置完了……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_310_1"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "还有一点时间，我们去找村长先生吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_310_2"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "秧秧姑娘……！你平安回来了？",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_27"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯，我没事，让您担心了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_28"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "没事便好……没事便好……",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_29"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "对了，您让椋羽保管的这柄剑……虽然途中经过了一些波折，不过我完好地带回来了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_30"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "钱坤",
+                  "text": "这……谢谢，谢谢秧秧姑娘……",
+                  "speaker_id": 350114,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_31"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不用谢，村长先生。我不是说过了吗，这柄剑，会给予人向死而生的勇气。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_32"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "它……会见证我们，渡过眼前的难关。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_33"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "刚才那是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_16"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_17"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我听到了一阵歌声……",
+                  "text_id": "Main_HuangLong_XLZHDLY_313_19",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_1_13:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，你也听到了吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_26"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这里是玄方城……似乎……我们又回到了过去。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_21"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这首歌是……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_24"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，我们循着歌声去看看吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_313_25"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这些鸟儿……莫非就是玄翎雀么？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_320_1"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没想到居然还能见到……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_320_2"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（为什么……看到它们的时候，我的心中……会有一种……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_320_3"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "玄翎，我马上就要走了。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_2"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "为什么要如此固执呢……除了玄方地界之外，这个世界上，明明还有很多很多你没听过的歌声……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_3"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "嗯？",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_5"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你是……椋羽……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_6"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "椋羽？椋……羽……真不错，念起来很好听。可惜，我不叫这个名字。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_8"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "我叫铃坊，二位也是刚刚参军吗？看来现在真的已经山穷水尽，军策府连军服都发不出来了。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_9"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（她……就是之前在记忆里看到的那位……难道说……她是椋羽的……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_10"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我没记错的话，您之前应该是一名乐师……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_13"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "欸……没想到出了梦州，居然还有人认识我啊。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_14"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "可惜，不能在这里给你们弹一曲，我的琴已经托人卖掉了，毕竟可不能抱着它上战场。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_15"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "只留下丈夫送我的这支箫……是他亲手做的，没舍得扔掉。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_44"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "不过我没告诉他，他笨手笨脚的，这支箫，根本吹不出声音就是了……",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_45"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你之所以参军，是为了……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_16"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "没什么冠冕堂皇的理由，残象杀了我的爱人，我用剑为他报仇，就这么简单。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_18"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "我父亲本是梦州军策府中人，小时候跟他练了几年武，觉得没意思，就偷跑出家学艺去了。云游四方时，机缘巧合之下，我认识了他。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_19"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "我的丈夫，在别人看来没什么特别的，一个落魄画家而已。但我知道，他曾有去明庭画院的机会，只是舍不得这片育他长大的家乡。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_20"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "他犹爱画玄翎雀，只因玄翎替不善表达的他向我传达了一次情意……",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_21"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "这一切，皆因残象烟消云散。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_22"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "一想到它们会来到这里，践踏这片他钟爱的地方……",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_23"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "我就……怒火中烧。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_24"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "……如今我重拾起剑，倒也算圆了父亲的心愿。只是他朝我灌输的那些为国为民的思想，我到现在还不太能理解就是了。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_25"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……是一样的。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_27"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不论是为了某个人，某个愿景，还是某些更深邃难懂的东西……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_28"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "人会因为「珍视的事物」悲伤、高兴、恐惧、羞耻，乃至愤怒。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_29"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "所以，人们才会去「守护」。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_30"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "您守护的不仅是你们二人的回忆，也是在此之后，无数珍贵的回忆与情感即将诞生的地方。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_31"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "守护吗……只可惜，我的孩子……我本也想守护她长大……",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_33"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不必担心，她一定会健康地、平安地长大。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_36"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "她会遇到自己所爱的人，找到自己想终其一生的事业，她会成家生子，她会用自己的爱守护她的孩子。下一代如此，下下一代也是如此……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_37"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "直到未来，直到遥不可见的明天。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_38"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "是吗……",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_40"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "那就……借你吉言。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_41"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "我就要走了，不知名的姑娘，上阵厮杀前，能听到你这一番话，甚是幸运。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_42"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "铃坊",
+                  "text": "我无以回报，便……赠你一首歌吧。",
+                  "speaker_id": 350139,
+                  "text_id": "Main_HuangLong_XLZHDLY_330_43"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "椋羽（通讯中）",
+                  "text": "漂泊者、秧秧，能听到吗！",
+                  "speaker_id": 750937,
+                  "text_id": "Main_HuangLong_XLZHDLY_340_2"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "椋羽（通讯中）",
+                  "text": "刚刚最后一处节点设置好了，玄方城附近的通讯应该已经恢复了。",
+                  "speaker_id": 750937,
+                  "text_id": "Main_HuangLong_XLZHDLY_340_3"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "椋羽（通讯中）",
+                  "text": "我们调出了一切还能用的重兵器，秋鸿卫长也做好了城防的布置。",
+                  "speaker_id": 750937,
+                  "text_id": "Main_HuangLong_XLZHDLY_340_4"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "椋羽（通讯中）",
+                  "text": "但是……敌人似乎比我们想象的要来得更快。",
+                  "speaker_id": 750937,
+                  "text_id": "Main_HuangLong_XLZHDLY_340_5"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "椋羽（通讯中）",
+                  "text": "来不及细说了，到正门集合吧！",
+                  "speaker_id": 750937,
+                  "text_id": "Main_HuangLong_XLZHDLY_340_6"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……走吧，漂泊者。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_340_8"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这次，轮到我们去守护这里了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_340_9"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "不行……不能让它们落到城里……",
+                  "text_id": "Main_HuangLong_XLZHDLY_350_3"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "数量差太多了……",
+                  "text_id": "Main_HuangLong_XLZHDLY_350_6"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "你们尽可能地去支援其他定玄卫……",
+                  "text_id": "Main_HuangLong_XLZHDLY_350_5"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "正面……就交给我吧。",
+                  "text_id": "Main_HuangLong_XLZHDLY_350_7"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "敌人的数量太多……一旦它们突破这里，玄方城必会失守……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_360_1"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "心月狐……就让我借用一下你的力量吧……！",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_360_2"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "震惊的定玄卫",
+                  "text": "好厉害……！居然真的牵制住了那么多机傀和残象！",
+                  "speaker_id": 350189,
+                  "text_id": "Main_HuangLong_XLZHDLY_550_1"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "诸位将士，我们乘胜追击！",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_550_2"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "热血的定玄卫",
+                  "text": "冲啊！",
+                  "speaker_id": 350190,
+                  "text_id": "Main_HuangLong_XLZHDLY_550_3"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（漂泊者承担了绝大部分压力……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_361_1"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（我绝不能拖她的后腿……！）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_361_2"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（再逼自己一点……再更强一点……！）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_361_3"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（我要……保护好所有的人！）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_361_4"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "这就是……名副其实的战场……",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_362_1"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "（秧秧她……就是一直在这种地方……）",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_362_2"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "奋战的定玄卫",
+                  "text": "谢谢！帮大忙了……！",
+                  "speaker_id": 750931,
+                  "text_id": "Main_HuangLong_XLZHDLY_363_1"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者！你还好吧！？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_364_1"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "这些敌人……打倒了一批，马上又冒出新的一批……",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_364_2"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "集中精神！先撑过这一波攻势！",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_364_3"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "可恶……！这些残象杀不完吗！",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_XLZHDLY_600_1"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "我们已无路可退……唯有战至最后一刻！",
+                  "speaker_id": 350151,
+                  "text_id": "Main_HuangLong_XLZHDLY_600_2"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "……时间也差不多了。",
+                  "text_id": "Main_HuangLong_XLZHDLY_370_7"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "为这场「实验」……收尾吧。",
+                  "text_id": "Main_HuangLong_XLZHDLY_370_8"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "清宵司骑！？",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_15"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……抱歉，我来晚了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_16"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "咎庭……增殖了……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_17"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "木禺……恐怕就在那座咎庭里。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_5"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "敌人的攻势愈发猛烈，剑阵撑不了太久，必须速战速决。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_7"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "你若能找到幕后黑手的位置，就直接去斩灭恶孽的源头吧。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_8"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "清宵司骑说得对，秧秧，漂泊者，你们去吧，这里交给我们！",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_9"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "椋羽",
+                  "text": "……在你们回来前，我们一定会守住这里！",
+                  "speaker_id": 350101,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_10"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "……秧秧！",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_13"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "……一路小心。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_14"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……我知道了，漂泊者，我们去吧！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_380_12"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "（流息的感应越来越强了……）",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_3"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "怎、怎么了——？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_5"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "……「祀声之人」，你……可想明白了？",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_6"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你是……谁……？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_7"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "哪怕此时此刻你所面对的，只是向无垠汪洋中掷下的一颗小石子……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_9"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "它所掀起的「涟漪」，也仍会波及到整个世界〔星球〕的命运。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_10"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "就此停下，将之后的事交给■■■解决，那么，你仍能一无所知地，只为「自己」活下去。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_12"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "一旦这阵「风」吹起，就再也停不下来了。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_13"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_15"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不好意思……我听不懂你到底在说什么……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_16"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但无论如何，我不会让她一个人去面对的。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_17"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "是么……",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_18"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "抱歉，「我们本无意，让还存于世间的任何人，听到这道声音」。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_19"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "「因为直到每一次结束，他们无一例外，都没能拯救任何东西」。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_20"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "不知道这一次，结果是否会有所不同。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_22"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "倘若这是你的意志，你的愿望，你所选择的道路——",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_23"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "？？？",
+                  "text": "那请务必……做好弃绝一切的准备。",
+                  "speaker_id": 178,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_24"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "秧秧，怎么了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_28"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……不，没什么。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_26"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "走吧，漂泊者。我们一起……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_27"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "去结束这一切。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_390_29"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "哦？追到这儿了，这场过家家你们是否玩得开心？尤其是你，到底有什么恶趣味，就这么喜欢扮演「人类」吗？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_2"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "虽然还不清楚你是怎么操控那些机傀的……",
+                  "text_id": "Main_HuangLong_XLZHDLY_400_3",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_3_2:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 193,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "但你最好立刻让它们停下。",
+                  "text_id": "Main_HuangLong_XLZHDLY_400_4",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_3_2:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "不，毫无疑问，所有的机傀都在「正常运转」，一切功能都没有出错。岁主的造物，怎是凡人能轻易驾驭的？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_6"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……胡说八道，正常情况下，岁主制造的机傀，又怎么可能会伤害祂想保护的人们？",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_7"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "呵……岁主保护人类——这是何等……荒谬的认知。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_11"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "因为岁主是文明的引导者？因为瑝珑是人与岁主共治之国？你出身今州是吧，是那个与岁主共鸣的黄毛丫头，给了你这样美好的幻想吗？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_12"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "岁主的设计图纸、内部构造——为什么岁主会掌握着远超人类文明的知识，我们……一概不知。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_13"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "「岁主保护人类」，这一条规则，是写在岁主的底层代码之中吗？是岁主亲口承认过的不变铁律吗？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_14"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "不，都不是，这句话，不过是源于肤浅的经验主义，源于享受着岁主的庇佑，便觉得自己高枕无忧的麻木。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_15"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "岁主……为什么要引导文明？祂们所引导的那个结局到底是什么，没有人知道。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_16"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "一厢情愿地认为岁主会保护人类，难道是祂们对人类产生了所谓的「感情」吗？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_17"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……是又怎样？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_19"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我所见的每一位岁主，都为祂们所保护的人们付出了一切。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_20"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "纵使你想如何侮辱祂们，这个事实也不会改变。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_21"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "是吗……「感情」，如果你想说，我们的世界就是在如此脆弱的联系下如履薄冰……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_22"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "那么我恰好证明了，这种东西，是多么容易地被用于……杀戮与伤害。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_23"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "残响的声音",
+                  "text": "杀……杀了你们……残象……不可饶恕……",
+                  "speaker_id": 350152,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_25"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "残响的声音",
+                  "text": "一个不留……一个都不能留下……！",
+                  "speaker_id": 350152,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_27"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这些声音是……！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_28"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我花了两百年的时间，学会如何将这些无意义的激情，转化为对我真正有用的东西。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_30"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "不得不承认，研究它们的过程，不乏乐趣。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_31"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我修改了这些残响的认知〔参数〕，将它们怨恨、愤怒的对象，从「残象」替换为「人」。随后，再将它们植入到机傀中。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_33"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "然后，本应保护的对象就成了机傀猎杀的目标。仅凭一点无聊的执念，就能让精心设计的逻辑与指令彻底失效。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_35"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "情感……就是如此危险。是理性的敌人，是一切混沌的开端，是人要学会操控……不，是终要舍弃的事物。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_37"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……你错了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_39"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "重要的人被杀害、珍视的家园被践踏……不能看着心爱的孩子长大、纵使厌恶战斗，却也要为了活下去而拿起武器……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_40"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "当然会悲伤……当然会怨恨……当然会不甘……当然会愤怒！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_41"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "人类不是任凭摆布的玩偶，人从诞生的那一刻开始，就会发出属于自己的「声音」。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_42"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那是欢笑也好，哭泣也好，嘶吼也好，悲鸣也好……它们，才是构成这个世界的「底色」。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_43"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "歪曲、玩弄这些声音的你，只把它们作为「道具」的你，理解不了它们到底意味着什么。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_45"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你不过是一个捂住了耳朵的自欺欺人者，一个把自己的臆想奉作真理的疯子！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_47"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你自以为看清了一切，实际上，你只是比自己瞧不起的人更愚蠢一些。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_50"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而且，在此之前……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_59"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你会被你自己所亲手制造出的「愤怒」吞噬。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_400_60"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "明明只是添加了一点「多余」的东西，完美的卫士，便能一瞬之间成为令人畏惧的刽子手。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_410_1"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "岁主如果只是因为「情感」保护人类，同样，总有一天，总有某一刻，总有某一个岁主，会因为相同的原因，做出完全相反的事。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_410_59"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "还不明白吗！你只是单纯地不相信，却想证明自己比任何人都正确。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_410_2"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你的所作所为……连被辩驳的价值都没有！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_410_3"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……秧秧！",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_443_1"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "这些残响，在深渊之底回荡了两百年，直至今日，仍然采掘不尽。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_415_1"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "你所肯定，所哀悼的这些声音，如今却在埋葬你们，不觉得讽刺吗？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_420_2"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "残响的声音",
+                  "text": "残象……该死……",
+                  "speaker_id": 350152,
+                  "text_id": "Main_HuangLong_XLZHDLY_428_1"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "残响的声音",
+                  "text": "一定要……全部把它们……一个不留地……",
+                  "speaker_id": 350152,
+                  "text_id": "Main_HuangLong_XLZHDLY_428_2"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（不拔剑）",
+                  "text_id": "Main_HuangLong_XLZHDLY_428_4",
+                  "choice_key": "剧情_3_5_玄方城_决战_4_3_29:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "停下了？是对这些残响心存怜悯吗？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_421_1"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "呵……你们所谓的「愤怒」，也仅此而已。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_421_2"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "不……不要……",
+                  "text_id": "Main_HuangLong_XLZHDLY_430_5"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "求求你……",
+                  "text_id": "Main_HuangLong_XLZHDLY_430_6"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "杀了……我……",
+                  "text_id": "Main_HuangLong_XLZHDLY_430_7"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我无以回报，便……赠你一首歌吧。",
+                  "text_id": "Main_HuangLong_XLZHDLY_430_17"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "这份……力量……？",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_431_1"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "果然……我没有看错，你很「特别」……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_431_2"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "在悬天构没能得到你的残响，不过，现在也不晚……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_431_3"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……痴人说梦！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_431_4"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你已经……玩弄不了任何人了……！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_431_5"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者！",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_432_2"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "秧秧……你的样子……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_432_3"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "大家……把最后的声音，托付给了我……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_432_4"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我们……送他们最后一程吧，漂泊者。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_432_5"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "仅凭两个人，竟能与千傀重楼角力到这个程度……",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_440_6"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我们的身上，寄托着玄方地界两百年的时光——",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_440_5"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你所面对的意志，要远比你想象的强大！",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_440_7"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "……可悲、愚昧，你们守护了这座城市两百余年，却连它根本是什么都不明白。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_440_8"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "木禺",
+                  "text": "我离「终点」只有一步之遥，在此发生的，不过是一场余兴。",
+                  "speaker_id": 350131,
+                  "text_id": "Main_HuangLong_XLZHDLY_440_9"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……所有人都比你要明白，这座城到底意味着什么。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_440_10"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "靠着践踏他人才走到现在的你——",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_440_11"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "永远不可能抵达，你所想象的那个「终点」。",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_440_12"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "傀儡……？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_HuangLong_XLZHDLY_450_1"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_450_5"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我……",
+                  "speaker_id": 108,
+                  "text_id": "Main_HuangLong_XLZHDLY_450_6"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "在那场云渊之役中……",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_1"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我们曾失去了积累起的一切。",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_11"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "然而，它在人们心中……",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_2"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "仍是“家”的模样。",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_12"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "损坏过，修补便好。",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_3"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "毁灭过，重建就好。",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_4"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "所以，哪怕灾难如轮回一般上演。",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_7"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我们——",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_8"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我们——",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_16"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "——仍会做出同样的选择。",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_9"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "随后，从过去走向明天。",
+                  "text_id": "Main_HuangLong_XLZHDLY_460_10"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "梦州 第四章",
+          "source_act_id": 41
+        }
+      ]
+    }
+  ]
+}

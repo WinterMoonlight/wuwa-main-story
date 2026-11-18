@@ -1,0 +1,801 @@
+{
+  "schema_version": 1,
+  "title": "捕梦于神秘园中",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 9,
+      "dialogue": 84,
+      "omission": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 8,
+          "title": "捕梦于神秘园中",
+          "act": "第七幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 36,
+              "quest_id": 172000001,
+              "title": "捕梦于神秘园中",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_154_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_154_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "接下来怎么走？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_154_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "去顶层。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_154_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "前面那是……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_158_1"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "快。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_158_2"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我愿为首，却作众人的仆人。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_159_1"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那是……黑潮？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_159_2"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "失效了……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_159_3"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "在此接引他们归来，为拉古那带来真正的和平。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_159_4"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "芬莱克能召唤黑潮造物？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_160_1"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "“强大的代行者将在拥趸之间，将黑潮中的生命与毁灭带来这个世界……”",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_160_2"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "他是代行者！",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_160_3"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "宝石的力量增强了。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_161_1"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克&利维亚坦",
+                  "text": "「拯救」、「向上」、「联结」，将是终路。",
+                  "speaker_id": 300054,
+                  "text_id": "Main_Linaxita_2_7_161_2"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "芬莱克！别进去！鸣式在蛊惑你，你是黑潮的代行者！",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_163_1"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "荒谬，我将对抗它，又怎会是它的傀儡。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_163_2"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "岁主啊，请将囿于黑暗的灵魂带回人间！让意志重归统一！",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_163_3"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "宝石，想要逃进黑潮？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_163_4"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "原来……历代的教诲……我……",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_165_43"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "“以不义开始的事业，必将以罪恶巩固……”",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_165_44"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "哈哈哈，不，即使形殁，仍可留下希望与救赎。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_165_45"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "义人……请你……将黎那汐塔的灵魂从「天国」中拯救……",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_165_46"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你的计划行不通的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_165_1"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "艰难岁月中无数次的尝试，你一跃而过，如今，又依靠着什么在此妄下定论。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_2"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你已经试过那么多办法了，难道还没有看清，你走的是一条只能走到这的死路。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_165_3"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "成千上万条道路，总有一条路能让我走到他们身边。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_4"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "即便错了，我也不怕从头再来。这样的重复，我已经经历了无数遍。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_5"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "如果前方的目标并不现实、并不存在，你不断地前行还有意义吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_165_6"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "他们存在。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_7"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我看到了彼岸里的他们。",
+                  "text_id": "Main_Linaxita_2_7_165_8",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_11:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那些不断衰减的残响并没有重新成为真正的生命。无论你还要将他们的频率保留千年还是万年，结果都是一样的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_165_9"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "人死不能复生，他们终究只是残象。如果你要将小镇里的人都变成那个样子，你所创造的到底是天堂还是地狱？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_165_10"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "“人死不能复生”……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_11"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "所以，你看到了他们“人”的模样。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_12"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Main_Linaxita_2_7_165_13",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_11:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "那你又怎么能说目标并不存在？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_14"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你的目标是残星会给你的。",
+                  "text_id": "Main_Linaxita_2_7_165_15",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_11:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "他们施与你的目标，他们带到你面前的特莉丝，那样短暂、不稳定、如同幻影，你就这样相信他们所说的一切都真的能变为现实？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_165_16"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "残星会让我看到了在这条路上更进一步的可能。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_17"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "哪怕他们想让这件事成功的背后另有目的，哪怕我们之间只是单纯地互相利用……我不在乎。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_18"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "他们助我向前走出这一步，那么我将有可能走出下一步，再一步，即便每一步都需要巨大的代价，也终究能走到终点。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_19"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "友爱？真诚？同心？信任？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_20"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "你和你身边人所相信与践行的，对残星会来说可笑至极。从不存在永恒而深刻的联结，也就没有所谓的欺骗与背叛。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_21"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我也不再相信那些。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_22"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "毕竟，即便你真诚地相信、热切地盼望、耐心地站在十字路口旁等待……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_23"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "你所等待的那个人也有可能早就忘记了这里的存在，忘记了自己还要回来实现曾许下的承诺。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_24"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我等过很久。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_25"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我不会再等了。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_26"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "再难以忘怀的相知也已可以化作织线，去织构“他们”的天堂。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_27"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你陷得太深了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_165_28"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "呵呵……这句话由你说出，倒像是个有趣的笑话。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_29"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "明明有漫长的生命，无数的可能，却选择从头再来，甚至不惜牺牲全部记忆的，不是你吗？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_30"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "独一无二的情怀与牵绊是人类短暂而脆弱的一生中最闪耀的光辉、最值得珍藏的宝藏。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_31"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "到底是多么冷酷的心境、多么疯狂的局面、多么艰难的目标才能让你把这一切统统遗忘？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_32"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "你才是那个更加偏执的人。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_33"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "或许你比我更相信，只有在无限的时间中，才能创造永恒的完美。只有到那时，世界才将会是全然不同的样貌。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_34"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "不过是不同方向、同样疯狂的两条路，又何须感慨，谁比谁陷得更深？",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_35"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "不过是……你忘了。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_36"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你根本没明白人们生命的真正价值何在。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_165_37"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "你也没有踏出死亡在人类思想中留下的藩篱。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_38"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们的合作到此结束了。",
+                  "text_id": "Main_Linaxita_2_7_165_39",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_11:39",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "呵呵……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_40"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "……",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_41"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "这就是你我的终章。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_165_42"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "对不起。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_166_1"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "弗洛洛",
+                  "text": "我回来了。",
+                  "speaker_id": 560,
+                  "text_id": "Main_Linaxita_2_7_166_2"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（芬莱克刚才提到的……天国……是什么？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_167_1"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（从中拯救黎那汐塔的灵魂……他是在提示我黎那汐塔异常的源头？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_167_2"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我听到了……他们对我低声而深刻的诅咒……我理应承受。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_167_3"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "祂即将拥有足够的力量，裹挟众人，将黎那汐塔淹没于黑色的浪潮之下。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_167_4"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "芬莱克？",
+                  "text_id": "Main_Linaxita_2_7_167_5",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_13:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "宝石并非问题的核心，虚假的巡游天国伪造了长久的和平，掩盖了真正的灾难源泉。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_167_6"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那你……",
+                  "text_id": "Main_Linaxita_2_7_167_7",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_13:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "我将留在这里，封住黑潮在此的蔓延。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_167_8"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "现在的我可以清晰地感受到它。天国在拉古那没有任何波动，但是，远方的七丘……",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_167_9"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "芬莱克",
+                  "text": "那里的情况我无法触及，只能你去寻找、帮助，解决，才能让那些早已远离信仰的人们保住他们的家园。",
+                  "speaker_id": 50076,
+                  "text_id": "Main_Linaxita_2_7_167_10"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "呼……累死我了……",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_167_11"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "刚才突然出现的那扇门真是可恶！它竟然把我送去了好远好远的一间实验室！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_167_12"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "可算是赶回来了……怎么样，后来发生了什么，我们成功了吗？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_167_13"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "鸣式宝石被残星会的人拿走了。",
+                  "text_id": "Main_Linaxita_2_7_167_14",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_13:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "啊？那怎么办？我们继续追！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_167_15"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不用了，还有更重要的事要做。",
+                  "text_id": "Main_Linaxita_2_7_167_16",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_13:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "什么事？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_167_17"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们寻找宝石是为了通过它找到黎那汐塔异常状态的根本原因。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_167_18"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "现在已经有了更加明确的线索——巡游天国。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_167_19"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "残星会拿走宝石，最终目标应该也与这个有关。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_167_20"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们直接去七丘把它调查清楚，看看如何解决。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_167_21"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "或许……该和那位总督谈谈了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Linaxita_2_7_167_22"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哦……那好吧，我们现在回去吗？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Linaxita_2_7_167_23"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这里，还需要有个交代。",
+                  "text_id": "Main_Linaxita_2_7_167_24",
+                  "choice_key": "剧情_2_5_隐海试验场_主塔_1_13:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "“我或曾梦见，与你亲密无间。”",
+                  "text_id": "Main_Linaxita_2_7_181_1"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "“醒来后发现，你我形同陌路。”",
+                  "text_id": "Main_Linaxita_2_7_181_2"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "黎那汐塔 第二章",
+          "source_act_id": 18
+        }
+      ]
+    }
+  ]
+}

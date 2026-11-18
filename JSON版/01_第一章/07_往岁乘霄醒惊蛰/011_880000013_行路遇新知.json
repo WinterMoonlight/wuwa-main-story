@@ -1,0 +1,1221 @@
+{
+  "schema_version": 1,
+  "title": "行路遇新知",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 18,
+      "dialogue": 127
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 7,
+          "title": "往岁乘霄醒惊蛰",
+          "act": "第七幕",
+          "notes": [
+            "《行路遇新知》的前置是上一幕任务 `140800000` 的子任务 `330`。"
+          ],
+          "tasks": [
+            {
+              "sequence": 11,
+              "quest_id": 880000013,
+              "title": "行路遇新知",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这边这边！可算来啦！",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "诶，秧秧不是说你身边多了个不得了的小家伙？哪儿去了？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我也不知道……",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "竟、竟然直接从声痕……",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "唔……是好闻的味道！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "所以，先前在北落野它也是……呃，这样“钻”出来的？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯，那时候……",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我正在清剿靠近的残象，却感受到雕像内传来了强烈的能量波动。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "两股力量对峙、碰撞，强烈的振荡之后，其中一方败下阵来，开始消散……",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "与忌炎将军和漂泊者汇合后我才知道，那是小家伙从她身体内涌现，替她挡住甚至“吃掉”了溢出的鸣式能量。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "联想到漂泊者同样能直接吸收特殊频率能量的体质，我们第一时间带她前往研究院，找白芷检查。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_11"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "通过比对检测数据，白芷判断小家伙应该就是我们先前发现的、存在于你体内的“空间”或“生物”，但很显然，我们那时候的形容还不够准确。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_12"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "小家伙的频率与构成残象的残响类似，细分下来，它更像经过数据坞转化的声骸，只是承载它的载体并不是终端，而是你。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "也就是说，你可以将小家伙理解成你的专属声骸，它被你捕捉或吸收，无法脱离你独立行动。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但也正因此，白芷无法得出结论，直接吸收频率能量的究竟是你，还是小家伙，又或者……是你和小家伙互相影响、共同作用所致？",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_15"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而进一步佐证这些可能的，是白芷解析你和小家伙频谱后的发现。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_16"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你的体内多出一股与无冠者同源、却比它更为强大的力量——是你们在北落野打败的那个残象。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_17"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "被小家伙“吃掉”的力量，却到了你的体内，与你原有的力量融合、为你所用……换句话说，除声骸和载体的关系外，你和小家伙之间还存在着依存性趋同。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_18"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……依存性趋同？",
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_19",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_1_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "呃，大意是说……你和小家伙虽是两个相对独立的个体，却会受到依附存在的另一方的影响。你们共享能量、生命状态，甚至会拥有和对方相近或相同的感受。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_21"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "一方变强，则另一方也会得益，但不排除一方受伤，另一方也会受损、觉得疼痛的可能……",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_22"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "万幸的是，既然小家伙不能脱离你独自行动，应该就不算能被单独攻击的实体？真有人想对它下手，也可以及时躲回你的身体。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_23"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "大概算是明白了。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_24",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_1_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那……差不多就是这样？原本，该是白芷亲自和你们说明的，但诏州那边突现蜃境，她不得不过去一趟，所以就由我代劳了。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_26"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "等等等等，信息量太大了！我概括下，重点是……它帮漂泊者对抗了鸣式？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_27"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "真的假的？这么小一只，看着不像是能对付鸣式那种大家伙的……",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1_28"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "哼，少瞧不起人了！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_45"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "哦，不对，是少瞧不起骸了！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_1"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "那个给我做检查的冰山脸研究员都被吓了一大跳，说我可不是什么一般的声骸，而是那种超超超厉害、超超超罕见的声骸！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_2"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这是你“加工”后的说法吧……",
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_3",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_2_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "没有没有，小家伙的措辞是夸张了那么一点，但就实际结果而言，白芷确实是这个意思。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_7"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "她和我说，瑝珑之外的其他国家，的确存在更加机动自主的声骸，它们参与了人类生活的方方面面，更有着让人意想不到的特殊能力。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_8"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不过它们非常罕见，至少我、还有专门研究声态的白芷，之前都没亲眼见过，也许……小家伙就是那些异国声骸中的一员？",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_9"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "很有可能！要是能搞清楚这个小家伙的来历，说不定我们还能找到更多像它这样的声骸呢！",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_10"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你接受的速度未免太快了点。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_12",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_2_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "既然忌炎将军和白芷都给出了判断，那肯定不会有假。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_14"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "再说了，这事要是发生在别人身上，我肯定特别特别惊讶，但这可是你。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_15"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "你能像传说中那样用肉身吸残响嘛，遇见小家伙，然后这样那样唰地吸进身体里了……听着还挺合理的。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_16"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "所以说——",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_17"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "你知不知道你是在哪里被漂泊者吸收的？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_18"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "哈？这种事情我怎么知道……不对，你怎么不直接问她？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_19"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "因为她们知道我失忆了。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_20",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_2_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "对嘛对嘛，很明显，你是她在失忆之前吸收的，只能从你这找找线索了。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_22"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但……就算声骸能有记忆，一般也是从初次召唤才开始算起吧？不知道小家伙会不会也是这个情况？",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_24"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "哼哼，这算是说到点子上了。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_25"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "你刚刚的问题，那个绿色头发的严肃男人也问过我，但在那什么北落野我出来之前的事情，我确实一点印象都没有。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_26"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "大概……是一直都在漂泊者身体里睡觉吧，睡着的时候，哪能知道什么。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_27"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "睡觉？不是吧，一路走来那么长时间，发生了那么多事，架都打了不少，你就什么都没听到？这睡眠质量……也太好了。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_28"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在身体里……就不用一直醒着了。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_29",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_2_1:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "哎呀，尊重个人隐私嘛，我懂的。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_31"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "你放心，你身体的隔音效果超强，不管是之前还是现在，只要我一钻回去，就咻地一下睡着，什么都不知道了。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_32"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "比较烦的是，什么时候醒了再出来，我也不是很清楚……而且每次呆不了多久就又困又饿，又得钻回去休息。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_33"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "哼哼，肯定是吃得不够饱的原因！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_34"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "怪不得之前几次，你一会出现一会消失……原来是因为能量不够充沛，又回去睡了。有道理，声骸有时是会受终端能源限制的。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_35"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "好吧，我还以为你在各个方面都会比普通声骸特别点呢，现在看来，共性还不少。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_36"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这样说的话，你应该也不知道自己的名号或绰号咯？我说大家怎么一直小家伙小家伙的叫你，还以为你就叫这个呢……",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_37"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "名号？那是什么？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_38"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "就是大家约定俗成的对于一些特殊声骸的称呼，可以理解成人类的名字，有时候我们会从残象的特征、能力或者所处环境之类的对他们进行命名。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_39"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "我的名号是……一点也没有印象，我竟然……没有名字吗？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_40"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "不行，绝对不行！其他特殊声骸都有，我怎么可以没有？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_41"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "而且炽霞说得很对，什么小家伙，这个称呼听着也太随便了，一点都不霸气、不特别！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_42"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "不如这样，你们帮我重新起个名字，我呢，把好吃的分……",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_43"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "呃，一不小心全吃完了……",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2_44"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "那……下次，下次再有好吃的我肯定第一时间给你们留！这次就……先帮我起个名字呗？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_1"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "起名字？现在？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_2"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "对，就现在！你们看哈，你叫炽霞，你叫秧秧，你呢，你叫……",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_3"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "漂泊者。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_4",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "漂泊者？漂泊者……这名字有点意思，等等，不是说你失忆了吗？还能记得……",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_5"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不，这是我给自己起的新名字。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_6",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "原来的名字和失去的记忆一起，无迹可寻。重新起一个名字，既方便称呼，也预示着一段新的开始。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_7"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "对对对，还是你比较会总结，我就是这个意思！你们每个人都有自己的名字，我呢，也想像你们一样有个正经名字。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_8"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "……当然，这个名字要是能霸气一点、特别一点，听上去就觉得超响亮、超厉害，那就更好啦！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_9"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你的要求还挺多……",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_10",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "那当然，起了就不好随便改了，要用一辈子的。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_12"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "之后亮出名号不好使，后悔不是来不及了！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_13"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "这倒也是。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_14"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "让我想想……厉害又霸气……霹雳无敌大声骸？怎么样？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_15"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "不要不要，这这这，这什么直白的形容，和小家伙有什么区别！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_16"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "很不一样好吧，霹雳无敌——英雄戏里变身都要喊上这么一嗓子的！",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_17"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "又或者，你会飞，耳朵也特别，就叫……正义飞使？正义飞杰？正义飞侠？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_18"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "不要不要不要，怎么你起的这些都那么、那么……",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_19"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那么什么？大家喊我飞羽侠的时候，我可高兴了，这还不霸气？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_20"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "呵，呵呵……总之，完全不是我名字的感觉，绝对不要！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_21"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这也不行那也不行，不不不的……",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_22",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 85,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "同音不同字，你干脆叫阿布吧。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_23",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "我就说漂泊者肯定……嗯？怎么有种很敷衍的感觉？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_24"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "你该不会是，随便用两个字凑出来的吧……",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_25"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "阿布？啊不！简单的就是最好的！",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_26",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "简简单单一个不字，好记又响亮，听着是比炽霞那一大串好上不少……特别倒是蛮特别的，但霸气什么的，就……",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_28"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "……",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_30"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "…………",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_31"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（怎么，这名字不是挺好嘛……）",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_32",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:25",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "（小家伙半天不说话，是对这名字不满意？不该啊，记着好记叫着响亮，不羁中带着淡淡诙谐，这样好的名字很难想出第二个吧？）",
+                  "speaker_id": 83,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_34"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "阿布，阿布……阿布……克斯萨拉？阿布拉克萨斯？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_37"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "怎么啦？你在小声嘀咕些什么呀，什么拉什么克的……听起来和念咒似的。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_38"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "阿布……哎呀，我也说不上来，但……我的名字似乎就该是这种感觉？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_39"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "……嗯！我决定了！阿布，我喜欢这个，我就叫这个名字了！",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_40"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "真的假的，还以为你不太满意。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_41",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:31",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "怎么可能，好不容易有了新名字，还是漂泊者给我起的……我那就是适应适应！而且，我刚刚又说了几个不字？我和这个名字好像真挺有缘的？",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_43"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "“小家伙”",
+                  "text": "总之，从现在起，我就叫阿布了，都不许再小家伙小家伙地喊我咯。",
+                  "speaker_id": 1330,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_44"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "知道啦知道啦。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_45"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "原本是想把小家……不，是阿布的来历当作突破口，结果一路盘下来，反而是帮它重新起名字了，难道真就一点线索都没有？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_46"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "要是能搞清楚阿布来自哪里，不说一定能找到其他像它一样的声骸，至少不用等令尹和岁主回来，我们就能提前找到漂泊者身世的线索了。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_47"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我想，或许可以试试从阿布的特殊能力入手？",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_48"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "特殊的声骸会有一些特殊能力和表现，将阿布的能力表现和已有的数据、记录一一比对，说不定就能确定阿布来自哪里。而且……能对付鸣式，应该也是因为阿布的能力吧？",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_49"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "很有可能。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_50",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:38",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "怎么连漂泊者都不是很确定的样子，你不是就在现场吗？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_51"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "事发突然，看得不是特别清楚。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_52",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_3_1:39",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "那要不，让阿布给我们演示下？其实我也挺好奇的，说不定就有什么新发现呢？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_54"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哼哼，真是拿你们没办法，那就给你们好好露两手！不过……这地方都是桌椅，我也不好施展，那边吧，那边宽敞！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3_55"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哼哼，都瞧好咯！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_1"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "什、什么情况？这次不算！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_2"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "呃……这、这……",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_3"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "状态不好，难免发挥失常……不是做不到哈！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_4"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "之前遇见那什么鸣式，我往漂泊者前面这么一站，它就……它就不行啦！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_5"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "合着……你那时候什么都没做？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_6"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "也不能这么说吧！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_7"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "不是说了吗，我之前一直在沉睡什么都不知道嘛，就那时候突然一下，我第一次闻到一阵强烈、诱人的频率味道，越来越近、越来越近……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_8"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "我根本来不及反应什么，就出来挡了那么一下。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_9"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这么说来，阿布的特殊能力也是被动触发或者有限制条件的？或者说，阿布目前还没掌握随时使用的方法。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_10"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "有道理，毕竟现在它连一直留在漂泊者体外，都不太能做到……",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_11"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "喂喂，你们这是什么意思！我，我我……只是不在状态而已！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_12"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "你们想啊，我就随便挡一下都这么厉害，要是真再做点什么，那简直不敢想象啊！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_13"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "之后漂泊者再有什么危险，乖乖躲在我身后就好，我有信心，关键时刻一定不掉链子。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_14"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "你倒是挺讲义气。",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_15"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "那当然，都说了我很强，肯定要护着她嘛。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_16"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不过……这样一来，线索好像又断了。一时之间，我也想不到什么很好的切入点了。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_17"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "慢慢来吧，不必急于一时。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_18",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_4_1:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "果然，事关漂泊者就是无法一下子得出结论……要不等白芷回来，叫上她、相里要，整个今州，不，整个瑝珑的研究员一起想办法，好好研究下阿布——",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_20"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "绝对不可能！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_21"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "你这说法，上次那个冰山脸研究员提出的时候，我就拒绝过了！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_22"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "我呢，肯定是要和漂泊者一起的。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_23"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "的确，阿布现在如同漂泊者的秘密武器，不能脱离她单独存在，我们总不好因为这个限制了漂泊者的行动。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_24"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，你在哪里吸收的阿布、阿布的特殊能力是什么、发生在你们之间的故事……这些问题的确让人困惑，不过，或许只能等你找回自己的记忆，才能有答案了。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_25"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "岁主能知晓未来，一切都会按照祂所预知的轨迹发展，记得之前你也算是遵循岁主和令尹的嘱托前往北落野的吧？",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_26"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如今，鸣式的危机已经告一段落，若是能再与令尹和岁主会面，你所追寻的一切也一定会水落石出的。",
+                  "speaker_id": 108,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_27"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "等今汐回到今州，我会再去找她。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_28",
+                  "choice_key": "剧情_1_1_阿布引入间章剧情_4_1:25",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "放宽心放宽心，不就是和那什么岁主见面、找回记忆嘛，有我陪你一起，肯定顺顺利利！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_30"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "不过，通晓未来……这个岁主听起来还挺厉害的嘛，嗯，这个名字也很不错，属于霸气侧漏的那种，和我的不相上下！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_31"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "祂长什么样？在哪能见到？咱们拜访祂也算做客吧，不知道祂那会不会有什么好吃的……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_32"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "岁主可是守护我们一方的存在，当然厉害！",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_33"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "不过……怎么又是吃的，你刚刚都吃了那么多了……你的肚子是无底洞嘛？",
+                  "speaker_id": 101,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_34"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "没办法，我就是一直觉得很饿嘛……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_35"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "与秧秧、炽霞告别后，你一边等待着今汐的回复，一边带着阿布熟悉今州各处，看看有无更多关于记忆的线索。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_36"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "很快，时间来到了几天之后。",
+                  "text_id": "Chengxiaoshan_main_1_1_1_4_37"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 8
+        }
+      ]
+    }
+  ]
+}

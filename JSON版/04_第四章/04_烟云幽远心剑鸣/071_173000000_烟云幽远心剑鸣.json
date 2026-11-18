@@ -1,0 +1,3170 @@
+{
+  "schema_version": 1,
+  "title": "烟云幽远心剑鸣",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 31,
+      "dialogue": 352,
+      "scene_heading": 1,
+      "subtitle": 2,
+      "system_tip": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 4,
+      "title": "第四章",
+      "sections": [
+        {
+          "number": 4,
+          "title": "烟云幽远心剑鸣",
+          "act": "第三幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 71,
+              "quest_id": 173000000,
+              "title": "烟云幽远心剑鸣",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【手机消息】"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "秧秧·玄翎",
+                  "text": "漂泊者，现在有空吗？",
+                  "speaker_id": 750924,
+                  "text_id": "Main_Mengzhou_3_6_1_1"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "秧秧·玄翎",
+                  "text": "【表情：图片内容尚未核验】",
+                  "speaker_id": 750924,
+                  "text_id": "Main_Mengzhou_3_6_1_2"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "秧秧·玄翎",
+                  "text": "【表情：图片内容尚未核验】",
+                  "speaker_id": 750924,
+                  "text_id": "Main_Mengzhou_3_6_1_3"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "system_tip",
+                  "speaker": null,
+                  "display_label": "系统提示",
+                  "text": "对方戳了戳你",
+                  "text_id": "Main_Mengzhou_3_6_1_4"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？",
+                  "text_id": "Main_Mengzhou_3_6_1_5",
+                  "choice_key": "剧情_3_6_玄方城_2_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "发生什么了，有急事？",
+                  "speaker_id": 701052,
+                  "text_id": "Main_Mengzhou_3_6_1_6"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "秧秧·玄翎",
+                  "text": "姐姐……",
+                  "speaker_id": 750924,
+                  "text_id": "Main_Mengzhou_3_6_1_7"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "秧秧·玄翎",
+                  "text": "姐姐马上就要回梦州城了！",
+                  "speaker_id": 750924,
+                  "text_id": "Main_Mengzhou_3_6_1_8"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这么突然？",
+                  "text_id": "Main_Mengzhou_3_6_1_9",
+                  "choice_key": "剧情_3_6_玄方城_2_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "穗穗现在在什么地方？她还没出发吧？",
+                  "speaker_id": 701052,
+                  "text_id": "Main_Mengzhou_3_6_1_10"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "秧秧·玄翎",
+                  "text": "姐姐就在我边上……我们快到离开玄方地界的关口了。",
+                  "speaker_id": 750924,
+                  "text_id": "Main_Mengzhou_3_6_1_11"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "等我一下。",
+                  "text_id": "Main_Mengzhou_3_6_1_12",
+                  "choice_key": "剧情_3_6_玄方城_2_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "等我一下，我马上就到。",
+                  "speaker_id": 701052,
+                  "text_id": "Main_Mengzhou_3_6_1_13"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "秧秧·玄翎",
+                  "text": "嗯，我们等你。",
+                  "speaker_id": 750924,
+                  "text_id": "Main_Mengzhou_3_6_1_14"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "秧秧·玄翎",
+                  "text": "【表情：图片内容尚未核验】",
+                  "speaker_id": 750924,
+                  "text_id": "Main_Mengzhou_3_6_1_15"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "姐姐……真的不再多留几天吗？",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_20_1"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "好啦，别撒娇了。我走以后，记得多多休息，按时吃饭。遇到难事不要勉强，还有……",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_2"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "漂泊者，你总算来啦。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_3"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "要走怎么连飞讯都不发一条？",
+                  "text_id": "Main_Mengzhou_3_6_20_4",
+                  "choice_key": "剧情_3_6_玄方城_3_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "哎，本打算谁都不说直接走的，未承想半途就让秧秧发现了。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_6"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "怎么，舍不得我走了？",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_7"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "突然回梦州城，是有什么要紧事吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_20_8"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "没什么大事。既然妹妹已经找到了，还成长得独当一面，我也可以放心去处理商会事务了。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_9"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "此外，我准备动用商会的人脉和渠道，调查琢钧堂和木禺的底细。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_10"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "木禺……先前的战斗中他以傀儡之躯脱逃。真身还不知躲藏在哪里，在谋划什么。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_20_11"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "接下来，我会暂时作为军策府一员参与玄方城周边的巡逻，搜寻他的踪迹。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_20_12"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "那个人在玄方地界引发如此规模的动乱，但梦州边庭却对玄方城未加重视……真是耐人寻味。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_13"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你认为，这一切在梦州城，或许可以查出些什么。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_20_14"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "是呀，那就是我擅长的领域了。你在这还有更重要的事。比如，找到那位曾和我交易的梦州岁主〔心月狐〕。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_15"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "当时祂不曾透露所在的位置，但我总觉得，祂离玄方城并不远。而且……",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_16"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "那个我曾去过的引歧帘，最近又出现了。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_32"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "对于玄方地界的当前局面，岁主确实是最有可能给出解答的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_20_17"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "既然你曾在雾隐阁取得祂的信物，见到过祂的频率，说不定在那能找到关于祂的线索。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_20_18"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "所以，这里便由你们照看了，梦州城就交给我来操心，我们分工合作。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_19"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你在梦州城要注意安全。",
+                  "text_id": "Main_Mengzhou_3_6_20_20",
+                  "choice_key": "剧情_3_6_玄方城_3_1:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "放心吧，我可是堂堂「昭明商会」的理事长，声乐世家的大小姐，以及……秧秧的姐姐~",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_22"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "穗穗，我相信你，但如果你遇到了什么解决不了的麻烦，一定要联系我们。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_20_23"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "……原本，我不想做一些多余的事的。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_24"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "……我呀，可很贪恋和你们一起度过的这段时光。临走前，我还想提醒你——",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_25"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "记得看好秧秧。如果把她弄丢了……我可是会找你麻烦的哦。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_27"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "姐姐……我听得见……",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_20_28"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "那我们就先别过啦。改日一定带你们到梦州城好好玩一趟！",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_20_29"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "咦，这琴声……好像在哪听到过？",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_20_30"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……听上去，弹琴的人像在等待着什么。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_20_31"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……是「心」。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_2"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "？？？（心）",
+                  "text": "……清宵真人，在吗？",
+                  "speaker_id": 400001,
+                  "text_id": "Main_Mengzhou_3_6_30_3"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "？？？（心）",
+                  "text": "清宵仙子？小，清，宵——",
+                  "speaker_id": 400001,
+                  "text_id": "Main_Mengzhou_3_6_30_22"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我在听。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_4"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "？？？（心）",
+                  "text": "我说，你什么时候考虑搬到玄方城去？神宫里可专门给你留了一间雅室。",
+                  "speaker_id": 400001,
+                  "text_id": "Main_Mengzhou_3_6_30_5"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "？？？（心）",
+                  "text": "没必要总是待在冷清的山上，嗯……湿气都重得快把我尾巴打湿了。",
+                  "speaker_id": 400001,
+                  "text_id": "Main_Mengzhou_3_6_30_6"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "此地清幽僻静，远离人烟，于修行正合适。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_7"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "？？？（心）",
+                  "text": "又是这个回答。",
+                  "speaker_id": 400001,
+                  "text_id": "Main_Mengzhou_3_6_30_8"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "？？？（心）",
+                  "text": "现在，倒是像极了我们初次见面的时候。",
+                  "speaker_id": 400001,
+                  "text_id": "Main_Mengzhou_3_6_30_21"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……心，你是为了要事而来的吧。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_9"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "是呀，这次我确实有求于你。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_6_30_10"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "清宵司骑，将来若玄方城发生变故，我希望你——能为此地军民出剑。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_6_30_11"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "如果局势无可挽回，你便可以代行吾〔岁主〕之权柄。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_6_30_12"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "你……发生什么事了？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_13"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "你的请托，清宵收到了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_14"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "有你在，我很放心。或许不久后……你便能找到那道天问的「答案」。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_6_30_15"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……你接下来准备去哪？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_16"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "心",
+                  "text": "嘘，这还是秘密唷。",
+                  "speaker_id": 400002,
+                  "text_id": "Main_Mengzhou_3_6_30_17"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "现在已经是时候了吗？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_18"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "走吧，我们下山。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_30_20"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "呼唔……唔……刚才我好像听到秧秧在说话，她已经走了吗？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_39_1"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你醒了？穗穗刚启程去梦州城，秧秧去参加例行巡逻了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_39_2"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "诶——？怎么都走了……那你现在又要去哪？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_39_3"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "去雾隐阁，心月狐的频率曾现身的地方。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_39_4"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这确实是穗穗曾走过的路线。但她曾提到过的隐息雾，这一路上似乎没有出现。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_40_1"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "（……确实，本布也没闻到那种让骸头晕的怪雾，它好像完全散掉了。）",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_40_2"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "先进去看看情况吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_40_3"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "当心，有残象从附近的咎笼逃逸了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_1"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你是……清宵司骑？我们见过。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_50_2"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前正门战场上时间紧迫，没来得及多做交流。你怎么来了这里？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_50_3"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "是梁鸢带我来的。我在找一个重要的“人”。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_7"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "你也是来找心月狐的？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_10"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你怎么知道？",
+                  "text_id": "Main_Mengzhou_3_6_50_26",
+                  "choice_key": "剧情_3_6_玄方城_8_1:35",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我听说过你在今州的事迹，你曾与「角」、今令尹一同解了乘霄山的时流之祸。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_11"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "与岁主有关的你，来到与「心」有关的雾隐阁，想必不会是单纯的巧合。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_12"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你居然知道乘霄山发生的事。",
+                  "text_id": "Main_Mengzhou_3_6_50_25",
+                  "choice_key": "剧情_3_6_玄方城_8_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "不必多虑，知道内情的人并不多。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_14"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "“执花”“今州的大英雄”“黑色闪电”“桂冠”“英雄王”“虚诞虫骑士”……外事府只粗略记录了你的这些事迹。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_15"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……外事府也知道太多了吧？",
+                  "text_id": "Main_Mengzhou_3_6_50_16",
+                  "choice_key": "剧情_3_6_玄方城_8_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我也是来找祂的，却发现多处咎笼失灵，用于迷惑残象的雾气也平息了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_17"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "附近有一处存放岁主旧物的密室，可能也会受到异象波及。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_18"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你说的“岁主旧物”……是指这个？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_50_19"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "它确与「心」身上的饰物相似。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_20"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "先前穗穗曾在那间密室见到过心月狐，并最终从祂手中取得了这枚「宿镜」。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_50_21"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "清宵司骑，既然我们目的相同，不如一起行动，相互有个照应？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_50_22"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "也好。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_23"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……之后，请直接叫我清宵吧。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_50_24"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "机傀的身上没有损伤，与上次情况不同，并未受到残响的侵害。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_60_1"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "也就是说，这与木禺曾使用的手段无关？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_60_2"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "嗯，它们更像是陷入了休眠。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_60_3"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这里就是密室的入口了，好像……不用做什么就能进去。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_61_1"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "看起来，原有的出入禁制已经失效了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_61_2"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "喂，你们注意到没，附近好像有一股奇怪的味道。嗅嗅……嗯？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_70_3"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_4"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "唔唔唔……漂泊者，她看我的眼神不太对劲！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_70_5"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我早年游历瑝珑各州，见识过诸多残象声骸，却也未曾见过这样奇异的个体。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_6"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这位是一直陪着我的伙伴。",
+                  "text_id": "Main_Mengzhou_3_6_70_7",
+                  "choice_key": "剧情_3_6_玄方城_12_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "是呀。那个……你好哇。初次见面，我是阿布。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_70_9"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "你好。阿布……这个名字我记住了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_11"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "附近没有「心」的气息，祂不在这里。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_1"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "「宿镜」也一直没有反应……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_70_2"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "我找到刚才那股味道的来源了，跟我来！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_70_12"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_70_13"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "它的频率和上次那个味道很怪的机傀核心很像啊。",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_70_14"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前，穗穗提到过一位和她在雾隐阁外接头的线人——",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_70_15"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "……如果没出意外，「鬼猫挈灯」很可能已经和木禺搭上线了。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_70_16"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "……虽说他确实是潜伏在琢钧堂里的“自己人”啦，但他与商会的合作是互有保留的，我们甚至不知道他的真名。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_70_17"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "……辨识特征？除了眼睛处的声痕，还有身上的青蚨〔铜钱〕挂饰，以及……那盏总是冒着火光的怪灯。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_70_18"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "穗穗",
+                  "text": "据商会的情报，那盏灯里关着一只特殊的精怪〔回音生物〕。这也是他江湖外号的来源。",
+                  "speaker_id": 350099,
+                  "text_id": "Main_Mengzhou_3_6_70_19"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那个人身上就佩戴着类似的饰品。它不会无缘无故地出现在这个隐秘的地方，很可能是他特意留下的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_70_20"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "他选择这么做，大概是因为他猜到，有人不久后就会来这里。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_21"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "而会来这间密室的，只有与「心」相关或是打算寻找「心」的人。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_22"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "也就是说，这很可能是他给我们留下的某种线索。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_70_23"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "唔……有点难懂，他为什么只留下这件挂饰呢？直接在这里留一封信、一张字条不就行啦？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_70_24"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "或许……他当时根本来不及留讯息，只来得及留下一件贴身之物。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_70_25"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我见过这种样式的铜钱。在梦州的乡野地方，不少人将它唤作「阴钱」。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_26"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "阴钱？",
+                  "text_id": "Main_Mengzhou_3_6_70_27",
+                  "choice_key": "剧情_3_6_玄方城_12_1:24",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我所知不多，衔翎村的村民们应该比较熟悉。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_28"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "眼下也没有其他线索……不如去衔翎村问问关于它的情报。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_70_29"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "弄清楚了它的含义，说不定就能明白那位「鬼猫挈灯」的用意。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_70_30"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我也去。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_31"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "此地的异常并不简单。倘若残象逃逸的事态加剧，最先遭殃的，便是井栈周边的民众。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_70_32"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "这个声音……是四鸣井的预警。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_80_1"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "御剑飞行……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_80_2"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "在残象被消灭之后，民众们纷纷聚了过来。",
+                  "text_id": "Main_Mengzhou_3_6_90_23"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "常峦",
+                  "text": "呼，多谢搭救，清宵司骑，还有……啊，不久前帮定玄卫守护了玄方城的大英雄。",
+                  "speaker_id": 400004,
+                  "text_id": "Main_Mengzhou_3_6_90_1"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "常峦",
+                  "text": "没想到村子附近又会出现残象，要是像以前一样有机傀来对付它们就好了。",
+                  "speaker_id": 400004,
+                  "text_id": "Main_Mengzhou_3_6_90_2"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "机傀出现了什么状况吗？",
+                  "text_id": "Main_Mengzhou_3_6_90_3",
+                  "choice_key": "剧情_3_6_玄方城_15_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "辛缘",
+                  "text": "其实……上次的事结束后，村子附近就没剩下多少能活动的机傀了。",
+                  "speaker_id": 400005,
+                  "text_id": "Main_Mengzhou_3_6_90_4"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "辛缘",
+                  "text": "最近还经常看到机傀上一秒还好端端的，下一秒就倒下了。天工部的师傅来看了也修不好。",
+                  "speaker_id": 400005,
+                  "text_id": "Main_Mengzhou_3_6_90_5"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（……听上去，和雾隐阁里机傀的异常情况很像。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_90_6"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "常峦",
+                  "text": "现在周边的安全只能仰赖军策府的将士们了，但他们也在忙着各种善后事宜，实在分身乏术啊。",
+                  "speaker_id": 400004,
+                  "text_id": "Main_Mengzhou_3_6_90_7"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "不必担心。四鸣井已响，定玄卫不久后就会赶到，我会告诉他们当前情况。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_90_8"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "辛缘",
+                  "text": "既然清宵司骑下山了，我们也就安心了。家母在家里可经常念叨您的帮助，给您上香火呢。",
+                  "speaker_id": 400005,
+                  "text_id": "Main_Mengzhou_3_6_90_9"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "上香火……",
+                  "text_id": "Main_Mengzhou_3_6_90_10",
+                  "choice_key": "剧情_3_6_玄方城_15_1:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "辛缘",
+                  "text": "怎么了？就是给「剑仙大人」的牌位上香，祈求福运和安康呀。哎，有些老一辈的比较信这个。",
+                  "speaker_id": 400005,
+                  "text_id": "Main_Mengzhou_3_6_90_11"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_90_12"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "正好，有一件事想要问你们。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_90_13"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们想知道这件挂饰，在梦州有什么来历。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_90_14"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "常峦",
+                  "text": "嘶……这上面的铜钱可不一般。梦州那群「寻幽客」就经常带着这样的特殊铜钱。",
+                  "speaker_id": 400004,
+                  "text_id": "Main_Mengzhou_3_6_90_16"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "寻幽客？",
+                  "text_id": "Main_Mengzhou_3_6_90_17",
+                  "choice_key": "剧情_3_6_玄方城_15_1:28",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "常峦",
+                  "text": "这里人多不方便讲……听人说，那是一群目无法纪，行事隐秘的“贼”啊。",
+                  "speaker_id": 400004,
+                  "text_id": "Main_Mengzhou_3_6_90_18"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "辛缘",
+                  "text": "那也不至于这么下定论，也有说他们是侠义之士的。",
+                  "speaker_id": 400005,
+                  "text_id": "Main_Mengzhou_3_6_90_22"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "常峦",
+                  "text": "哎，恩人，如果你们想知道更多，就去询问住在村口的烟舒婆婆吧。",
+                  "speaker_id": 400004,
+                  "text_id": "Main_Mengzhou_3_6_90_19"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "辛缘",
+                  "text": "那位婆婆人不坏，只是因为一些特殊原因……村里人很少和她往来。",
+                  "speaker_id": 400005,
+                  "text_id": "Main_Mengzhou_3_6_90_20"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "好，我会去找她问问。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_90_21"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那位“烟舒婆婆”似乎与寻幽客有关。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_100_1"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我见过他们口中的那位老人。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_100_2"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……她已过世的丈夫，就是一名寻幽客。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_100_3"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_110_1"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "？？？（若云）",
+                  "text": "哎，本以为不需要让玄翎雀去麻烦你下山的。",
+                  "speaker_id": 400042,
+                  "text_id": "Main_Mengzhou_3_6_110_2"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "？？？（若云）",
+                  "text": "没想到光靠刃偶还是无法抵挡这次的残象潮……",
+                  "speaker_id": 400042,
+                  "text_id": "Main_Mengzhou_3_6_110_3"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "带其他人疏散，余下的我会处理。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_110_4"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_110_6"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "怎么了？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_110_7"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这幅旧画像里的……好像是你和玄翎雀？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_110_8"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "不错。当时它总静不下来，要啄我的头发。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_110_9"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（我记得，玄翎雀早在两百年前的云渊之役就灭绝了……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_110_10"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "清宵司骑，敢问你今年贵庚啊？",
+                  "text_id": "Main_Mengzhou_3_6_110_11",
+                  "choice_key": "剧情_3_6_玄方城_24_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "不必拘谨。修行者求的是长生久视。年岁寿数于我，已没有太多意义。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_110_13"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "况且……你的年纪并不比我小。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_110_14"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Main_Mengzhou_3_6_110_15",
+                  "choice_key": "剧情_3_6_玄方城_24_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "她来了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_110_18"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "呵呵呵……这幅画是我百年前的先祖留下来的，说是有辟邪纳福的功用。这么多年了也没褪色……",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_1"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "清宵司骑，您也来了，早知道该给您备一壶好茶。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_2"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "不必费心，我们这次来，是想请你确认一件饰品。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_111_3"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这是在雾隐阁中找到的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_111_4"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们向其他村民打听过，这上面的铜钱与梦州的「寻幽客」有关。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_111_6"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "不错，这确实是据说能沟通阴阳的「阴钱」，寻幽客的随身物件。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_7"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "寻幽客……到底是做什么的？",
+                  "text_id": "Main_Mengzhou_3_6_111_8",
+                  "choice_key": "剧情_3_6_玄方城_24_1:7:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "想必你是听过一些不好的说法了吧？其实，他们更像是一群不惜命的“旧时代遗物”。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_9"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "自古以来，梦州便不乏风水奇诡、残响汇聚之地，若是放任不管，往往会发展为蜃境〔索诺拉〕，滋生残象。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_10"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "寻幽客，便是指精通相地之术，专职探寻这些蜃境的探险者，是一门相当古老的行当。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_11"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "听上去，像是先行公约做的事。",
+                  "text_id": "Main_Mengzhou_3_6_111_12",
+                  "choice_key": "剧情_3_6_玄方城_24_1:33:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "呵呵……可没那么光鲜。寻幽一门，一面破除蜃境以消除灾患，一面倒卖蜃境中的无主古物以行走江湖。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_13"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "门规松散，鱼龙混杂，行在幽冥之地，自然招致了不少误解。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_14"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "这些年寻幽客越来越少，只因这一行能善终的人不多。我老伴三刀，也是这样……最后连个念想也没给我留下。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_15"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "抱歉，有些跑题了。你们问的这件挂饰，便是寻幽客惯常携带的信物。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_16"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "它象征着对神鬼之事的敬畏，对往生之人的尊重，往往能在蜃境里起一些特殊作用。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_17"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "寻幽客在进入蜃境时，必定会带着这样的挂饰？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_111_24"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "嗯，很少有例外。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_25"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这么说来，那个人留下这件饰品的用意很可能与蜃境相关。雾隐阁中的异状，或许也与他的行动有联系。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_111_18"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "等一下，它的这种编织手法，我好像在哪见过……",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_19"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "难道……是阿景的？可是……",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_111_20"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，清宵司骑！",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_111_21"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "附近有咎庭停摆了，要尽快安排民众撤去玄方城。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_111_22"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "天字寰阵……？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_111_23"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "这里不安全了，大家去井栈的凌空栈！",
+                  "text_id": "Main_Mengzhou_3_6_120_1"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "subtitle",
+                  "speaker": null,
+                  "display_label": "字幕",
+                  "text": "我来争取时间。",
+                  "text_id": "Main_Mengzhou_3_6_120_2"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "有一部分残象已提前入阵，我会尽快清除它们。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_121_1"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我也来，要确保撤离的路是安全的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_121_3"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "井栈那一侧更需要你。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_121_4"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "放心吧，秧秧和定玄卫们在那边照看。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_121_5"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "入阵的残象已经清理得差不多了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_123_1"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "去凌空栈吧，秧秧他们应该快要出发了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_123_2"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "云帛机骑……",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_125_1"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_125_2"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "军策府给我发过一辆，我用不习惯。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_125_3"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "附近都是撤离的痕迹，大部分人都已经撤走了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_126_1"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "殿后的军人",
+                  "text": "多谢相助，我们这就去和秧秧骑使他们会合。",
+                  "speaker_id": 400109,
+                  "text_id": "Main_Mengzhou_3_6_805_1"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "撤离的民众",
+                  "text": "呼，谢谢！幸好有你们在。",
+                  "speaker_id": 400108,
+                  "text_id": "Main_Mengzhou_3_6_800_1"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "啊，你们来了！只剩下最后一批民众了，你们也一起登上飞舟吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_124_1"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "里面的位置还有不少，足够大家都坐下。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_124_4"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我就不必了。我在一旁御剑护送，以防有变。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_124_6"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "按照军策府的应急预案，秋鸿卫长已经安排人手，在安置刚过去的民众了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_124_7"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "事不宜迟，我们出发吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_124_8"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "（唔呼……总算把大家都安全带到军策府附近了。）",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_130_1"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "怎么说的好像都是你做的一样？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_130_2"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "（我也出力了呀！刚才的小朋友丢下的鞋子，还有那位老爷爷丢掉的行李，不都是我飞到残象堆里取回来的？）",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_130_3"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "知道啦。这次面对逃逸的残象，军民们的应对都很迅速。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_130_4"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "（毕竟类似的事，不久前才来过一次，大家也有经验了。）",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_130_5"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "受伤的军人",
+                  "text": "唔……唔……",
+                  "speaker_id": 400079,
+                  "text_id": "Main_Mengzhou_3_6_140_1"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "无助的女孩",
+                  "text": "他看起来很难受。",
+                  "speaker_id": 850355,
+                  "text_id": "Main_Mengzhou_3_6_140_19"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "担忧的母亲",
+                  "text": "是伤口疼得睡不着吗？刚才华胥的医师怎么说？",
+                  "speaker_id": 350224,
+                  "text_id": "Main_Mengzhou_3_6_140_2"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "平静的父亲",
+                  "text": "已经包扎好了，伤势暂时不会恶化。但……止痛药不够，现在只能先熬一下了。",
+                  "speaker_id": 400094,
+                  "text_id": "Main_Mengzhou_3_6_140_3"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "担忧的母亲",
+                  "text": "一个才刚入伍的年轻人……为了掩护我们，身上挨了好几下……",
+                  "speaker_id": 350224,
+                  "text_id": "Main_Mengzhou_3_6_140_4"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "无助的女孩",
+                  "text": "神仙姐姐，拜托您了，能不能帮帮这个大哥哥？",
+                  "speaker_id": 850355,
+                  "text_id": "Main_Mengzhou_3_6_140_5"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我知道了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_140_6"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "受伤的军人",
+                  "text": "啊……是……清宵司骑……",
+                  "speaker_id": 400079,
+                  "text_id": "Main_Mengzhou_3_6_140_7"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "受伤的军人",
+                  "text": "……我太弱了，又给大家拖后腿了……",
+                  "speaker_id": 400079,
+                  "text_id": "Main_Mengzhou_3_6_140_8"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "你做得很好，放心休息吧。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_140_9"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……伤痛暂时不会打扰他了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_140_10"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "无助的女孩",
+                  "text": "谢谢……谢谢您！",
+                  "speaker_id": 850355,
+                  "text_id": "Main_Mengzhou_3_6_140_11"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "怎么不说话？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_140_12"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你刚才做了什么？",
+                  "text_id": "Main_Mengzhou_3_6_140_13",
+                  "choice_key": "剧情_3_6_玄方城_36_1:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "只是简单的清心术法，能起一点安眠的作用，但也仅此而已。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_140_15"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……无法消除他们真正的伤痛。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_140_16"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "但你真切地帮到了那名军人。",
+                  "text_id": "Main_Mengzhou_3_6_140_17",
+                  "choice_key": "剧情_3_6_玄方城_36_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "走吧，定玄卫长他们在前面等你。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_140_18"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "目前情况怎么样？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_141_1"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "应急预案很有效，撤离行动只出现了少量伤员，大部分残象也还在城外游荡。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_141_2"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "但玄方城历经波折，尽管有各州的支援，物资依旧有缺口。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_141_3"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "眼下形势不能拖太久……需要找到事情的根源。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_141_4"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "……城内机傀皆已停止运作，包含「护玄屏」在内的机关防护也失效了。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_1"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "守正门的做法行不通了，须由外向内分层设防，将人员集中在相对稳固的军策府周边。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_2"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "当前只有零星残象登上了玄方城，还有足够的布防时间——啊，你们来了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_150_3"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "关于这次突发事件，军策府这有什么发现？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_150_4"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "我们派人清点了当前情况，近三成的咎庭停摆了。天工部还没有头绪，这显然不是简单的机关故障。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_5"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不久前，我和其他人前往悬天构巡逻，便遇到了一群刚逃逸的残象。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_150_6"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "等我们突围出来，附近的咎庭已经停摆，机傀也瘫倒在地，就像所有的机关……都失灵了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_150_7"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "若说有什么可能引发此等规模的异变，那便只有……",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_8"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "神宫。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_150_9"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "那是「心」的行宫，也是玄方城的控制中枢所在。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_150_10"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "正是，或许是神宫内部发生了变故。现在想来，之前的行动确有疏漏——",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_11"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "残象和机傀并未在玄方城内肆虐，我们便下意识以为神宫是安全的，仅派了少量人员看守要道。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_12"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前军策府在搜索木禺真身的行踪时，是否进入过神宫内部？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_150_13"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "漂泊者，你的意思是……木禺……",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_14"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "他说不定就藏在神宫里面。",
+                  "text_id": "Main_Mengzhou_3_6_150_15",
+                  "choice_key": "剧情_3_6_玄方城_38_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那时候……木禺曾暗示我们，他操纵机傀进攻玄方城，是为了别的目的——",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_150_17"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "木禺（回忆）",
+                  "text": "可悲、愚昧，你们守护了这座城市两百余年，却连它根本是什么都不明白。",
+                  "speaker_id": 400015,
+                  "text_id": "Main_Mengzhou_3_6_150_18"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "木禺（回忆）",
+                  "text": "我离「终点」只有一步之遥，在此发生的，不过是一场余兴。",
+                  "speaker_id": 400015,
+                  "text_id": "Main_Mengzhou_3_6_150_19"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "他引发动乱，草菅人命，只是为了制造接近神宫的机会……",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_150_20"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "守城战时，所有人都在关注交战激烈的正门广场周边……神宫确有可能被乘虚而入。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_21"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "无论如何，得去神宫看看情况。",
+                  "text_id": "Main_Mengzhou_3_6_150_22",
+                  "choice_key": "剧情_3_6_玄方城_38_1:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "虽然还只有猜测，但潜逃的木禺、停摆的咎庭、失踪的岁主……有太多的事件在指向神宫。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_150_23"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "它极有可能是异变的源头。或许我们在里面不仅能找到事件的真相，还能找到心月狐的踪迹。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_150_24"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我也去。神宫内部机关复杂，变幻多端，稍有不慎便会迷失。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_150_25"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我曾应「心」邀请进神宫做客，可以勉强充当向导。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_150_26"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "“未经岁主许可不得踏入神宫”本是玄方城的铁律。眼下……确实顾不得这么多了。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_27"
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "事后若梦州边庭怪罪，我愿承担一切责任，哪怕再摘一次我的“帽子”也无妨。不过……",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_28"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "秋鸿",
+                  "text": "目前城中布防尚未完成，还需要两位停留一晚，明早再出发，以防事态有变。",
+                  "speaker_id": 350151,
+                  "text_id": "Main_Mengzhou_3_6_150_29"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我会和定玄卫们一起完成布防的相关事宜，做好应对残象的准备。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_150_30"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，你和清宵司骑今晚就好好休息，为神宫之行做准备吧。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_150_31"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "有劳你了，秧秧。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_150_32"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……清宵？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_150_33"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我还有一些准备工作要做。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_150_34"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "我们又见面了。这些天，玄方地界可真是不太平啊。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_151_1"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "您还好吗？",
+                  "text_id": "Main_Mengzhou_3_6_151_2",
+                  "choice_key": "剧情_3_6_玄方城_39_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "多谢关心。刚才一路上，清宵司骑很关照我，那位叫秧秧的女孩也帮了大忙。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_151_4"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "你来得正好……我想说说那件挂饰的事。它的编织手法有点眼熟，像是我家阿景做的。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_151_5"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "阿景……",
+                  "text_id": "Main_Mengzhou_3_6_151_6",
+                  "choice_key": "剧情_3_6_玄方城_39_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "全名叫景燃。他算是我和三刀抚养大的，跟着三刀有样学样，成了一名寻幽客。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_151_7"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "他也是一名寻幽客？你对「鬼猫挈灯」这个名字有印象吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_151_8"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "呵……这又是什么江湖诨名。虽然没听阿景提起过，但这倒像是他会取的名字。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_151_9"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "……都有几年没见了，当初说是要一个人去闯荡江湖。这半年来，家里时不时地会多出一些糕点和钱财。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_151_10"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "我还以为是三刀的老朋友来过了。现在看来啊，怕是那孩子偷偷回来了，又不敢见我。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_151_11"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "如果后续见到了他，麻烦通知我一声。",
+                  "text_id": "Main_Mengzhou_3_6_151_12",
+                  "choice_key": "剧情_3_6_玄方城_39_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "烟舒",
+                  "text": "好啊，希望阿景没给你添什么麻烦。夜深了，早点休息。",
+                  "speaker_id": 400011,
+                  "text_id": "Main_Mengzhou_3_6_151_13"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我会的。",
+                  "text_id": "Main_Mengzhou_3_6_151_14",
+                  "choice_key": "剧情_3_6_玄方城_39_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 285,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（睁开眼）",
+                  "text_id": "Main_Mengzhou_3_6_160_3",
+                  "choice_key": "剧情_3_6_玄方城_43_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这是……在送穗穗走后听到过的琴声？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_160_1"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（但好像和那一次不太一样，听上去……有些忧郁。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_160_2"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（原来……是她。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_31"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "怎么不休息？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_1"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_2"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "所以，这就是你说的“准备工作”。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_3"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "嗯。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_4"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我可以通过琴声，将一缕「剑意」交托他人。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_5"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "在衔翎村的时候，我也见过这样的光芒。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_6"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "是由心念凝结的无形之剑，在危急时可以激发一道剑气，保人性命。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_7"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你担心进神宫后，外面可能发生变故？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_8"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "接下来若有更多咎庭停摆，局势便会难以预料。留下些保险，也是图个心安。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_9"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "那些受伤的军民还好吗？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_10"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "军策府安排了专人照顾，应该不用担心。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_11"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_12"
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "由我们前往神宫，定玄卫留守玄方城，是大家共同商议后的结果，也是当前最合适的安排。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_13"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "就像他们相信我们一样，我们也应该相信他们。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_14"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……玄方城本不该陷入如今的境地。作为镇玄司骑，我有不可推卸的责任。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_15"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "近来一系列变故的开端，就是某座咎庭中出现了异常的残象反应。我当时就在随队调查。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_16"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我听说了……是你主动断后让他们得以从发狂的机傀间逃生。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_17"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……可这也正中了木禺的计谋。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_18"
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "他提前布置陷阱，打散我们的队形，算准了我会去救那些被押入咎庭深处的将士——",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_19"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "木禺虚影（回忆）",
+                  "text": "清宵司骑，这些机傀拦不住你，残象胜不了你。恐怕面对整座咎庭，你也能一路突破重围，畅行无阻。",
+                  "speaker_id": 400016,
+                  "text_id": "Main_Mengzhou_3_6_161_20"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "木禺虚影（回忆）",
+                  "text": "但……这些定玄卫呢？这些实力孱弱、胆战心惊的凡人呢？",
+                  "speaker_id": 400016,
+                  "text_id": "Main_Mengzhou_3_6_161_21"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "木禺虚影（回忆）",
+                  "text": "来做个选择吧。因保护弱者而被无穷无尽的敌人拖住，还是干脆地抽身而去，挽救下一个战场？",
+                  "speaker_id": 400016,
+                  "text_id": "Main_Mengzhou_3_6_161_22"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "木禺虚影（回忆）",
+                  "text": "说起来，「云渊之役」的时候，剑仙大人是不是也选了一批人……去送死？",
+                  "speaker_id": 400016,
+                  "text_id": "Main_Mengzhou_3_6_161_23"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……我知道，这已是所有人尽力后的结果，但……或许总会有更好的选择……",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_24"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们现在已经做出了选择，不是吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_25"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "接下来，只要你像之前一样，贯彻这个选择就行了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_26"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你曾救下的许多人，也是因为你贯彻了当初的选择，才得救的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_27"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "只要我们明天尽快完成调查，与大家合流，就不用担心玄方城，也不用再担心什么所谓的选择了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_161_28"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……好。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_161_29"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……这是……清心术？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_162_1"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者，昨晚休息得还好吗？清宵司骑已经等了你一会儿了。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_1"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "还不错。",
+                  "text_id": "Main_Mengzhou_3_6_170_2",
+                  "choice_key": "剧情_3_6_玄方城_47_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那就好，神宫内还不知道是什么情况，要养足精神。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_4"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "军策府这边情况还好吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_170_6"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "周边的布防都完成了，有不少民众自发来帮忙。来自今州的新一批支援也在刚才顺利赶到了玄方城。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_7"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "又有夜归军的支援了啊。",
+                  "text_id": "Main_Mengzhou_3_6_170_8",
+                  "choice_key": "剧情_3_6_玄方城_47_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "今州第一时间回应了我们的求援，但北落野近期出现了鸣式的异动，牵制住了夜归的主力。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_9"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "无相燹主……",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_170_10"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "虽然能来的人不算多，但他们都是夜归中的精锐，对局势帮助很大。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_11"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "目前我们已足够应对出现在城内的残象，只是……附近出现了一些异常的机关部件。你们看——",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_12"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "就像……是从什么地方外溢到城里来的。天工的匠人们去检查过，目前它们对人没有实质性的危害。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_13"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "我会尽快完成神宫内的调查，一旦情况明了，就立即赶回来。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_170_14"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "如果遇到危险的情况，不要太勉强自己。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_170_15"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯，你也是。我会和大家一起守住防线。玄方城会一直屹立于此。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_16"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "秧秧。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_170_17"
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "此剑是我的剑意所化，虽不具备破军之威能，却也能护你一二。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_170_18"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "清宵司骑……你们一定要平安归来。",
+                  "speaker_id": 108,
+                  "text_id": "Main_Mengzhou_3_6_170_19"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "这些异常的机关部件，像是机关本身陷入了无序状态。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_171_1"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "这也有零星的残象。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_172_1"
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "速战速决吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_172_2"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "神宫的大门，果然紧闭着。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_180_1"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "这段时间，军策府曾多次派人前往神宫，我也曾来过这里，但神宫从未回应。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_180_2"
+                },
+                {
+                  "sequence": 341,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "之前不这样？",
+                  "text_id": "Main_Mengzhou_3_6_180_3",
+                  "choice_key": "剧情_3_6_玄方城_49_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "在过去，「心」会派出使者接应求见的人。如果祂无心见客，便会直截了当地传达拒绝的口谕。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_180_4"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "只是现在……",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_180_5"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看起来……还是不行。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_180_7"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "既然如此——",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_180_8"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "不如用剑破开大门。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_180_9"
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……等一下？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_180_10"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "喂，之前捡到的那串铜钱好像对你的共鸣力有反应！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_180_11"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……这扇门，像是蜃境〔索诺拉〕的入口？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_180_12"
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "它连接着一条通道，似乎直通神宫内部。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_180_13"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "……所以，这铜钱串其实就是这扇门的钥匙？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_180_15"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "那个人会在密室留下挂饰，是算准了能够拿到它的人，迟早会为了心找到神宫来。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_180_17"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "嗯……也就是说，那个神神秘秘的家伙特意给你留了扇进神宫的门。那他人在哪里呢？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_180_18"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "也许等我们进去后，很快就能知道了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_180_19"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "唔……这里面闻上去就臭烘烘的。那个……没什么事的话，本布就先回去了。有事记得喊我！",
+                  "speaker_id": 1316,
+                  "text_id": "Main_Mengzhou_3_6_180_20"
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "眼下，确实没有其他进入神宫的简便方式。走吧。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_180_21"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "嗯，我们出发。",
+                  "text_id": "Main_Mengzhou_3_6_180_22",
+                  "choice_key": "剧情_3_6_玄方城_49_1:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 358,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "这是用共鸣力塑造的小型蜃境，环境里还有不少残响……",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_181_1"
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "开个价吧，开这条通道要多少命？",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_182_1"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "？？？（山猫妖）",
+                  "text": "半年。",
+                  "speaker_id": 400018,
+                  "text_id": "Main_Mengzhou_3_6_182_2"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "嘿……你的胃口还真是越来越大了啊。",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_182_3"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "？？？（山猫妖）",
+                  "text": "少给我讨价还价，你再大声被那家伙发现了怎么办！",
+                  "speaker_id": 400018,
+                  "text_id": "Main_Mengzhou_3_6_182_4"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "咳嗯——",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_182_5"
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "？？？（山猫妖）",
+                  "text": "臭小鬼……四个月！",
+                  "speaker_id": 400018,
+                  "text_id": "Main_Mengzhou_3_6_182_6"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "成交。",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_182_7"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "刚才的声音是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_183_1"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "应是在不久前被残响记录下来的。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_183_2"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "收敛气息。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_190_1"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这雾气里……混着残响。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_190_2"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……有人在。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_190_5"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "唷。何人胆敢，擅闯神宫？",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_190_6"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你就是……",
+                  "text_id": "Main_Mengzhou_3_6_190_7",
+                  "choice_key": "剧情_3_6_玄方城_53_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "负责守门的小喽啰。",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_190_8"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "哎，我可打不过你，投降。",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_190_9"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "……木禺。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_190_10"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "木禺虚影",
+                  "text": "噢？看来没必要拦了，有本事……就追过来吧。",
+                  "speaker_id": 400019,
+                  "text_id": "Main_Mengzhou_3_6_190_11"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "时间差不多咯。",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_190_12"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "？？？（景燃）",
+                  "text": "我们……地府见。",
+                  "speaker_id": 400017,
+                  "text_id": "Main_Mengzhou_3_6_190_13"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "他们逃了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_190_14"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "那个人在有意试探你的身手……他就是「鬼猫挈灯」？",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_190_25"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，大概是在确认我是否值得合作。在木禺的监视下，他不能直接暴露自己的身份。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_190_17"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "漂泊者，看前面。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_190_19"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "那是……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_190_20"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "玄方城的控制中枢。它控制着城内大大小小的机关，现在却已经被残响侵蚀了。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_190_21"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "木禺曾用残响篡改过机傀的程序逻辑，看来这一次，他也用了相似的手段。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_190_22"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "清宵",
+                  "text": "这就是，此次异变的源头。",
+                  "speaker_id": 350141,
+                  "text_id": "Main_Mengzhou_3_6_190_23"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……宿镜有了反应？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Mengzhou_3_6_190_24"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "梦州 第四章",
+          "source_act_id": 43
+        }
+      ]
+    }
+  ]
+}

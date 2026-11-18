@@ -1,0 +1,4404 @@
+{
+  "schema_version": 1,
+  "title": "在熔解的夜空下",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 58,
+      "dialogue": 478,
+      "information_board": 1,
+      "system_tip": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "第三章",
+      "sections": [
+        {
+          "number": 11,
+          "title": "在熔解的夜空下",
+          "act": "幕间",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 63,
+              "quest_id": 119000000,
+              "title": "在熔解的夜空下",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "她说得对，小家伙……也许你的确还有转机。",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "因为你的痛苦和她不同。虽然无法让你变强，却也不会折磨太久……",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "别再盯着那只死鸟了，达妮娅。",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你为什么杀它？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "没价值的个体并不值得延续，你明白吗？这是慈悲。",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_5"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "就在几个小时前，你成为了世界上第一个接受阿列夫一馈赠的个体，现在，告诉我，那是什么感觉？",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_6"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "什么都……没有。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_7"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "你是说虚无，还有黑暗……嗯，我们的老朋友。",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_8"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "为何你在颤抖呢？达妮娅。一切都自虚无中诞生，特别是你，更应该倍感亲切才对……",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_9"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你为什么……要杀它？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_10"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "呵……毫无意义的自我意识，族群进化的可悲错误。",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_11"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "现在，抬起头，达妮娅，告诉我你看见了什么？",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_12"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……虚无……还有黑暗。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_13"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "很好，记住它们的样子。",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_14"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "娜波摩",
+                  "text": "你必须学会接受它，融入祂，达妮娅。这是世界赠与你的最初和最后的礼物。",
+                  "speaker_id": 150058,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_90_15"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "然后，总有一天，我们都会在恒常的黑暗中重逢。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_94_1"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_95_1"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "检测到生命体征持续复苏中，虚质粒子活性暂无异常——目标频率仍未恢复谐振，即将启动第二方案。",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_95_2"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "N.A.N.A.",
+                  "text": "你能听到我的声音吗？达妮娅同学？",
+                  "speaker_id": 100205,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_95_3"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "诶……达妮娅，她还好吗？",
+                  "speaker_id": 1316,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_2_1"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（达妮娅……直到她醒来，残星会都没采取过任何行动。他们究竟是放弃了来之不易的成果，还是真的别有所图？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_2_2"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "先去确认一下情况吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_2_3"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "漂泊者到了，好，我明白，校长您放心。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_1"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "抱歉，突然叫你过来，漂泊者。我是给你发过飞讯的阿里曼。情况比预期的更棘手，我们长话短说。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_2"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅怎么样了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_3"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "醒了，但……就和我们担心的一样，残星会的确对她做过些手脚。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_4"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "她的频率在苏醒后迅速进入了系统性衰竭的阶段。根据拉贝尔学部的判断……她的时间最多还有一周。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_5"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "问题出在哪里？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_6",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "不知道。我们甚至来不及判断它是生理性的，还是……因鸣式而导致的。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_7"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "新联邦正因隧门事件和黯原残留的频率发起指控，要求我们立刻将达妮娅送过去。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_8"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "当然，我们没有同意这个要求。她毕竟曾是星炬学院的学生，送到那边只会被当成一个纯粹的“样本”……我们也将彻底失去接触真相，或者驳回指控的机会。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_9"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "情况我理解了……你刚说驳回指控，你们认为打破现状的关键在达妮娅身上？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_10"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "是的。一方面达妮娅和虚无鸣式间的联系具有极大的研究价值，即便隧门已经关闭，她也能为虚质科学带来新的研究方向。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_11"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "另一方面则是，I.R.I.S.分析过我们的接触记录，她认为达妮娅其实知道黯原鸣式频率的源头，甚至很有可能知道自己现状的成因。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_12"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "所以只要她主动配合，我们就能在新联邦发出最后通牒前把这事处理好——我们对她提供治疗，她协助我们完成报告……这本该是个双赢的选择。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_13"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "看来你们的沟通不太顺利。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_14"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "的确。她……似乎很抵触与我们接触。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_15"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "我们需要你的帮助，漂泊者……你明白的，精神安定是频率稳定的必要条件。你和她原本就有接触，而且……你的鸣式对策经验和判断力也能成为交涉的保障。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_16"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（从达妮娅这里打开突破口的确是个可行方案，但残星会的计划和去向都尚未查清，不能贸然做出决策……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_17"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我可以和她聊聊。但我需要根据现场的情况再做判断。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_18"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "并且……我希望这次会面的内容不要留档。包括I.R.I.S.的数据库。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_19"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "……可以，那就拜托你了，漂泊者。目前关于她身份的知情范围很小，这点我保证。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_4_20"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "漂泊者，还有什么需要确认的吗？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_1"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "对黯原鸣式频率的调查有进展吗？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_3_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "初步锁定了方位，那边虚质污染比较严重，清理和调查都需要时间。不过从近期的频谱分析上来看……那种频率似乎与她的身体状态直接相关。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_6"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "漂泊者，还有什么需要确认的吗？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_1"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅与你们沟通时是什么状态？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_3",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_3_1:1",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "该说是……冷漠吧，连N.A.N.A.都觉得无从下手。也不确定是不是因为鸣式的影响，我们从没见过她这样。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_7"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你以前见过达妮娅？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_8"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "嗯。我负责过虚质科学的必修课……那时她总在课上睡觉。所以我有印象。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_9"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "漂泊者，还有什么需要确认的吗？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_1"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "之前电话里是洛瑟菈？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_4",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_3_1:1",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "是的，校长正和上面的大人物们周旋。她托我向你带来问候。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_10"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "哦，对了，她有句话要我转达来着。她说：“只有活下来的孩子，才能成为大人。”",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_11"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这是在暗示我关于达妮娅的事？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_12"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "我不知道，她这人总是这样……常说些捉摸不透的话。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_13"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "漂泊者，还有什么需要确认的吗？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_1"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没什么事了",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_5_5",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_3_1:1",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（无论她那时出于什么目的救下我和绯雪……她都曾是残星会计划的实行者。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_6_1"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（目前会长的计划还有太多不明之处……必须谨慎些。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_6_2"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_1"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我刚看到西格莉卡了。好厉害啊，漂泊者，没想到你居然真的……击退了那种东西。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_2"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "就这样一直看着？难道漂泊者看望其他病人时，也连个蛋糕或者水果都不带吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_3"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（看来她的确已经脱离了鸣式的影响，只是，这副说话的口吻……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_4"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你清楚你现在的状况吗？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_5",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_8_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "清楚呀，我快死了嘛。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_6"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "毕竟那个人很久以前就送过我一份礼物……她说等时候一到，我就能去睡个好觉了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_7"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "礼物？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_8",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_8_1:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "谁知道呢？不过……也不难理解吧？就像给猫猫狗狗套的项圈，他们总要有个保险措施。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_10"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "哦……不过说猫猫狗狗好像也不太合适，比起那种能咬人的，我现在，应该更像是只小白鼠吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_11"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者，你也是来尝试说服一只小白鼠的吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_12"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅，我今天来见你，是我个人的决定。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_13"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我们的确曾一度成为敌人……但——",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_14"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你怎么还是这么一本正经。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_15"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "因为我想试着相信你。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_16"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那……听你这么说……我是不是应该表现得更开心一点？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_17"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "但是，很可惜啊，漂泊者。我却无法相信你啊。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_18"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "见识过我那副样子后，你还能说出这样的话……是因为你也有想从我这知道的事吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_19"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这件事我无法否认。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_20",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_8_1:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "真是坦诚，这一点我倒是不讨厌。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_22"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不过，如果你真的有想知道的事，那我们不妨来做个交易吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_24"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "交易？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_25"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "是啊，各取所需的交易。深空联合想要的我给不了。但你想知道的，我也许可以告诉你。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_26"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说说你的条件。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_27",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_8_1:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者来陪我过个生日吧？就这周末。我还想在学院里再转一圈。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_28"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这周末是你生日？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_29"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "是不是倒不重要，重点应该是有你陪着我。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_30"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "毕竟，我时间不多了嘛，有些事，总要选个好日子去做个了断的。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_31"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（了断……她是打算在那天具体做些什么？但以她现在的状态……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_32"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "怎么？如果有你在也不放心，那就干脆给我也装个限制器或者炸弹咯？反正……多一个也不多。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_33"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……我去帮你协商。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_34"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你认真的？那学院里的人……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_35"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "深空联合没有公开你的身份。至少那天，你仍然可以是名为达妮娅的学生。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_36"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "（净做些多余的事。）",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_37"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……好啊，那就这样说定了？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_38"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "放心，这几天我会配合他们的研究。不过你最好也别抱太大期望。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_39"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……毕竟，残星会的会长，总不至于连个我都处理不利索吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_40"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "行啦，现在想太多也没用。周末再见吧，漂泊者。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_7_41"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者……是还有什么不放心的吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_1"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于会长你知道些什么？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_8_2:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你说那个人啊……我还没见过她真正的那一张脸呢。说不定真正的她早就死了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_6"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你很在意这个？那关于她的事，还是等交易完成后再讲给你吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_7"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者……是还有什么不放心的吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_1"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你怀念在学院的生活吗？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_3",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_8_2:1",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "怀念？漂泊者怎么会这么想？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_8"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "因为你今天总是盯着窗外。而那个方向，是学生公寓。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_9"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "这么说的话，也许是有点？毕竟校长在讲座上说，每个人长大以后都会怀念自己的学生时代。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_10"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "所以这也就是我最好的时代咯？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_11"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者……是还有什么不放心的吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_1"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你为什么会被会长留在那？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_4",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_8_2:1",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "没价值的东西就丢掉，你明白的……况且我搞的那些小动作，她应该也早就发现了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_12"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不过……也说不定，会长只是觉得我死在你们这更好？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_13"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "毕竟漂泊者你总是想拯救所有人，甚至包括我这种……哈，就是你的坚守令她觉得如鲠在喉吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_14"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者……是还有什么不放心的吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_1"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没什么。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_5",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_8_2:1",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "期待周末再见了，漂泊者。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_9_15"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "漂泊者，怎么样？她愿意协作吗？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_1"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "你向阿里曼说明了达妮娅的条件。",
+                  "speaker_id": 83,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_2"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "在学院里……过生日？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_3"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "……我明白了。这的确是一个我们预料之外的请求。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_4"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "但如果这是与她合作的关键，那深空联合会将其视为一项特殊事件来应对。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_5"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "她说她打算做个了断，但我还不确定她的真正目的，谨慎些。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_6"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "明白。我们会立刻着手进行全面的风险评估，并制订详尽的行动流程和安保预案。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_7"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "辛苦你了，漂泊者，这周末下午你有时间吗？毕竟，她指定了你……",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_8"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没问题。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_9",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_4:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "感谢你的配合。请放心，漂泊者。我们会把流程和预案做到万无一失。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_11"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "到时候我把准确的规划发给你。周末我们飞讯上联系！",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_8_13"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "漂泊者，你来了。流程和接触人员名单已经发到你的终端了。所有环节和预案都在里面。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_1"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "information_board",
+                  "speaker": null,
+                  "display_label": "资料面板",
+                  "text": "达妮娅的生日行程\n标题：关于特殊收容共鸣者“达妮娅”的外出流程管控方案及接触人员名单\n密级：内部受限\n一、行动批准依据\n根据《拉海洛虚质防护安全条例》，经深空联合虚质科学部及校长洛瑟菈审议，现批准收容共鸣者“达妮娅”进行限定区域的外出活动。\n二、行动流程\n项目责任人：阿里曼博士\n现场负责人：漂泊者\n安全配置：全程漂泊者随行，战术响应组成员待命。收容共鸣者“达妮娅”将佩戴共鸣抑制设备，该设备已连接至I.R.I.S.系统，启动权限交由漂泊者负责。现场负责人可以在任意时刻命令I.R.I.S.系统激活目标设备。\n阶段一-出发：在星炬学院站台处将目标“达妮娅”移交至现场负责人监管。\n阶段二-中枢电梯-经中枢电梯抵达星炬学院一层，在该区域允许会见申报接触目标。\n阶段三-花园区活动-允许于休闲花园区内活动，由负责人管控目标对次级接触人员的接触限制。\n阶段四-生活区访问-允许访问通讯区及商业区，仅允许浏览橱窗，禁止购买物品，并由负责人管控目标对次级接触人员的接触限制。\n阶段五-文献中心访问-允许进入文献中心，阅览资料或会见申报接触目标，该区域已提前进行人员配置管控。\n阶段六-返程-由漂泊者陪同返回星炬学院车站，搭乘专属列车返回深空联合并进行收容。\n流程内需要注意与次级接触人员的接触时间，同时禁止目标于流程内进行任何计划外的饮食摄入。\n三、安全预案\n场地物资管控：对流程中的场地区域及流动人员进行管制，减少与非必要人员的接触时间。\n虚质污染管控：若检测到达妮娅频率波动异常或虚质活性超过阈值，立即触发警报并进入紧急抑制管控审批流程。\n突发接触管控：由战术响应组进行通行限制，如有意外接近者，由现场负责人漂泊者进行判断，响应组随时待命。\n紧急抑制管控：由现场负责人通过终端或语音向I.R.I.S.系统发布激活抑制设备的命令。随后战术响应组将对目标进行回收。\n此外，现场负责人有权根据自身判断对突发情况采取必要行动。\n四、附录：接触人员名单\n核心接触人员：漂泊者（现场负责人）\n主要接触人员：西格莉卡（申报接触目标），绯雪（响应组负责人），娜斯塔霞（申报接触目标）\n次级接触人员：波西亚（学院车站），班鲁（当日于广场区申请部门活动），埃尔斯卡（当日于广场区申请部门活动），梅森（当日于广场区申请部门活动），科斯莫（广场区）……"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "相当周详。我看到了共鸣抑制设备和申报接触人员的信息，这些你们达成共识了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_2"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "嗯，应达妮娅本人要求，我们用她的终端以康复出院为由约了目标会面。她今天会以学生的身份接触他们。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_3"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "至于那上面提到的抑制设备……那是她自己提的合作保障。她说这样比较公平，可其实，以她现在的身体状态根本没必要戴这个。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_4"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "总之，你先拿上这个，漂泊者，如果她今天出现并发症就给她服下。这能让她好受点。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_5"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "找到缓解她频率衰竭问题的办法了？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_6"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "没有……这些只是安定类药物，我们根据情况调整了配比。具体的治疗方案……我们会尽快再研讨一个版本出来。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_7"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（果然，从之前和达妮娅会面时的态度来看……她早就预料到了这种情况。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_8"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……是哪里遇到了难题？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_9",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_5:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "根据拉贝尔学部的诊断，问题似乎不在共鸣能力上，而是共鸣者自身调节机制的失效……",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_10"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "我们还在对症状的几个假设进行验证，相信很快就会有结果。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_11"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（情况似乎比预期更糟，但如果是关于鸣式频率的问题，也许黑海岸会有更合适的治疗方案……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_12"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "这些研究问题就不劳烦漂泊者了，今天的流程还需要拜托你。有问题我们及时联络。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_13"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "流程可以开始了？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_14"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "嗯，祝你们度过愉快的一天。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_15"
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那……今天就请多关照咯，漂泊者同学。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_16"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不是说好了陪我过生日吗，怎么你今天这么严肃？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_17"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我需要对现场流程负责。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_18",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_5:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那也不能板着一张脸呀……同学们会察觉到气氛不对劲的。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_20"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你这样……来，像我一样做个表情管理。嘴角放轻松，眉眼自然点……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_22"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "对嘛，笑起来才好看。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_26"
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "可以。但你明白自己的处境，别——",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_23"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……知道啦。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_11_24"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "呼，终于放我出来走走了——",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_13_1"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "当学生的感觉还挺不错的，是吧，漂泊者同学？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_13_2"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "说起来，今天明明是周末，学院里却没有多少人在呢……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_13_3"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不会是知道我要来，所以大家全都躲起来了吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_13_4"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_13_5"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "默认了？至少也试着安慰我两句嘛。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_13_6"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "深空联合需要对校内的安全问题负责。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_13_7"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "诶……没意思。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_13_8"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "从这里下去……就快到花园区了吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_14_1"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，流程上你和西格莉卡会在这里见面。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_14_2"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……哈，西格莉卡。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_14_3"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "上次和她一起逛街是什么时候来着……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_14_4"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "从这里下去……就快到花园区了吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_14_1"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯，流程上你和西格莉卡会在这里见面。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_14_2"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……哈，西格莉卡。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_14_3"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "上次和她一起逛街是什么时候来着……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_14_4"
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "如果电梯坏了，我们会被一直困在这吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_15_1"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我可以把它切开。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_15_2"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不行，那不是破坏学院公物嘛……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_15_3"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "电梯怎么这么快就到了？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_92_1"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "该走了，达妮娅。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_92_2"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "诶……忽然有种要去参加考试的感觉……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_92_3"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "到时候，你可要帮忙打下掩护呀……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_92_4"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_93_4"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……你就这么不想和我一起坐电梯吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_93_1"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者，你的防备心也太重了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_93_2"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "算啦……也不是不能理解，走吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_93_3"
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者同学，有没有兴趣……和我先去游戏厅那边看看？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_1"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你要躲开西格莉卡吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_2"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "啧，你看见了啊……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_3"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这是你自己申请的流程。给我一个取消的理由。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_4"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "理由就是……我，我身体有点不太舒服，总之我们先——",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_5"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "前辈，达妮娅！",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_6"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "！",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_7"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "嗨，你好哇，西西，在这等很久了吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_8"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "没有，我也是刚到……咦，前辈今天怎么会和达妮娅在一起呀？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_9"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我受医生委托陪同病患。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_10",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_7:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "这样啊。我听说达妮娅在病房里躺了好多天。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_12"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "每次去医务室，陆医生都说“病患还需静养”之类的……你现在身体好些了吗？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_15"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "早就好了呀……哈……可能就是换了地方有点睡不踏实吧。毕竟，病房哪有自己屋里舒服呀。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_16"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "睡不踏实……你这两天又做噩梦了？我听说好多人都受到了上次那件事的影响……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_17"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "达妮娅你该不会，也出现了虚质侵蚀的后遗症吧？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_18"
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "怎么可能……其实我就是多装了两天病。我才不想那么快回去上课。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_19"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "行啦，看护人员有漂泊者同学一个就够啦，西西就别念了，你不是想要去公园拍白鸟吗?再念叨白鸟都要下班了……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_20"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "好吧……那前辈也要快点跟过来哦。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_21"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "好娅娅你知道吗，最近听说摄影同好会打算申请一个拍摄棚。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_22"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "他们还有经费？不会是上次在学院活动里拿的那个奖吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_23"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "是呀，你都不知道，他们可感谢你了。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_16_24"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "你今天哈欠比平时还多，不会真有什么后遗症吧？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_17_1"
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "怎么可能，只是在屋子里待久了，稍微有点怕阳光……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_17_2"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "那可不行，不可以老是窝在屋子里。要多晒太阳才能健康成长。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_17_3"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "诶，好耀眼……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_17_4"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "看，摄影部的人也在，达妮娅要去打个招呼吗？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_1"
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "算了……一群摆弄光学器材的怪人。他们拿奖金和我又没什么关系。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_2"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "怎么会呢，要不是你帮忙，他们现在多半已经废社了哦。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_3"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "奖金？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_4",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_9:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "学院内宣的事……命题好像是“星炬幸福瞬间”，怎么了？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_5"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你很擅长摄影？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_6",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_9:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我是模特啦。有人找到我说请我吃豪华自助午餐，条件是吃饭时配合拍两张照……我想学校里居然还有这种好事？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_8"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那天我故意饿了一顿才过去，结果到了地方发现，所谓的豪华自助午餐居然指的是食堂。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_9"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "可你拍出来的照片效果不是很好嘛，都被餐能中心拿来做《海豹也能懂的入学手册》里的宣传图了。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_10"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那都是骗骗新生的啊。无论吃什么都要努力撑出幸福的笑容，大概，给校方当模特就是这种感觉……而且你忘了？我以前可最讨厌拍照了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_11"
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "好像……确实。唯一一张合照，还是娜波摩拉着你拍的。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_12"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "诶……说到娜波摩，也不知道她现在怎么样了。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_13"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……西西。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_14"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "嗯？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_15"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我们再来拍一次合影吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_16"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "真的吗？这还是你第一次主动要拍照呢！",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_17"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者同学也一起来吧。顺便……借你的相机一用。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_18"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "原来这才是主要目的？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_19",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_9:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "来，要拍了哦——3——2——1——",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_20"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "茄子！",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_21"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "照片就先保存在漂泊者同学的终端里了，有机会把它洗出来看看吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_22"
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "诶？照片这里，是那种白色的小鸟……它往那边飞了！",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_20_23"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "未确认的稀少品种……传说中的纯白之鸟。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_23_1"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "从我们目击它起已经一年了，还从没近距离观察过呢。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_23_2"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "哈……你冷静点，说不定那只是某些人的共鸣能力呢……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_23_3"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "怎么会呢，好娅娅你又讲这种冷笑话。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_23_4"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "应该是往这个方向飞的……跑到哪里去了？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_25_1"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不如我们分头找找？西西往那边，我和漂泊者同学去这边。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_25_2"
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "好呀。有发现就终端联系！",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_25_3"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你说，如果告诉她那只白鸟其实只是绯雪的能力，她会露出什么表情？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_1"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你注意到了？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_26:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……果然是她。那种冰冷的频率，还是挺令人印象深刻的。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_4"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "今天的整个流程……她都会这样一直监视着吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_6"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "绯雪只是在履行自己的职责。而且，她是个很温柔的人。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_7"
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那种事，我早知道了……毕竟她有时候和你还挺像的。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_8"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "可惜我最讨厌这样的人了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_9"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_10",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_26:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 241,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "怎么……难道漂泊者其实很在意我的想法？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_11"
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "对不起呢，这样子打直球可是行不通的哦？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_12"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_13",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_26:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 244,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "好了，不逗你啦……也不知道西格莉卡那边怎么样了。我们该去找她了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_27_14"
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "刚刚她是往这个方向走的吧……跑到哪里去了？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_28_1"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "前辈那边也没找到吗……看来不是今天呢……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_1"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "如果西西去做生物学家，应该已经在索拉里斯名垂青史了……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_2"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "嘿嘿，我只是想在毕业前确认这种未发现的鸟类啦。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_3"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "不过达妮娅你总窝在屋里多不好，平时也多出来活动一下吧。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_4"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "饶了我吧。我可不像你一样擅长跑步或者战斗……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_5"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（你到底哪里不擅长战斗了？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_6"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "对了，西西。你之前不是说要和家里通话来着？通讯亭现在好像没人。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_7"
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "真的诶，平时这里都是要排队的……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_8"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "快去吧，别让家里人担心。我也得借漂泊者的终端应付下“家里”才行。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_9"
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "好哦……那一会儿见！",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_30_11"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "放心，我知道你一直在担心什么。我记得那时的所有事……怎么可能会去联系那群人。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_1"
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……那你准备把电话打给谁？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_2"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "这样就行，随便点开个通讯界面骗骗她，然后陪我在这等一会儿。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_3"
+                },
+                {
+                  "sequence": 259,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你每次都是这样？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_4",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_13:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 260,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "是啊，全都是为了让她安心而编织的谎言。不过我也没想到，圆一个随口说出的谎居然需要做这么多。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_5"
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你这样做只会让事情更麻烦。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_6"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "但我总不能和她实话实说吧。你看她那么小的个头，每天笑嘻嘻的，却背地里烦恼那么多事……我这个做朋友的还是让她安心点吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_7"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "而且……有这样一个天真，可爱，信赖你的朋友在，你的身份才不容易暴露，对吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_8"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "自欺欺人。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_9",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_13:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……我还以为你会说得委婉点。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_10"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "好了，看起来西格莉卡已经聊完了，我们回去吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_32_11"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "时间刚刚好，我们该去看新出的甜品啦。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_33_1"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "终于到这个环节了……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_33_2"
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "达妮娅今天为什么忽然要来食堂买蛋糕呢？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_33_3"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "到时候你就知道咯。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_33_4"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "新出的甜品有如下几款：寒地星苔团，蕨团蒲藻饼，松针岩绒卷，还有特价的鱼罐头松糕……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_1"
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "这些名字听起来……好硬核。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_2"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你说，把它们拼起来能组成一个蛋糕吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_3"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "好娅娅，你怎么会有这么恐怖的想法……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_4"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（……先抛开味道不谈。流程里强调过食品摄入的问题，蛋糕的事，还是和阿里曼谈下吧……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_5"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "病患需要注意饮食安全。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_6",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_15:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我就是走个形式……她替我吃了就行。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_7"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我认识一家专业的甜品研究组织。真想要蛋糕，可以问问能不能在他们那订一个。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_8"
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你有什么想要的蛋糕样式吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_9"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "哦~真的假的？那我想加彩虹豆豆跳跳糖可以嘛？再加上匍炬松的松子，还有喀拉喀拉？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_10"
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "达妮娅，蛋糕上是不能加跳跳糖的，你要先选个能作为基底的口味……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_11"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "这样啊，那我想想……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_12"
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "订个橘子的吧。我答应过西格莉卡一起过生日，她喜欢橘子。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_13"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "但我刚刚说的那些漂泊者同学要记得加上去哦。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_34_14"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说明蛋糕的事情",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_1",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_6_4:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅需要一个生日蛋糕，我看了一下，学院内售卖的似乎不太合适。",
+                  "speaker_id": 701052,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_2"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "那些产品他们自己都不吃，别买。",
+                  "speaker_id": 250075,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_3"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "蛋糕交给我们来准备吧。材料和工艺都需要筛查一下。",
+                  "speaker_id": 250075,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_4"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "她有说要什么样的蛋糕吗？",
+                  "speaker_id": 250075,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_5"
+                },
+                {
+                  "sequence": 290,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "橘子蛋糕",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_6",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_6_4:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 291,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "橘子蛋糕。",
+                  "speaker_id": 701052,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_7"
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "收到。",
+                  "speaker_id": 250075,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_8"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "还有一些额外条件",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_9",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_6_4:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 294,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "加上彩虹豆豆跳跳糖，匍炬松松子，还有喀拉喀拉。",
+                  "speaker_id": 701052,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_10"
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "？",
+                  "speaker_id": 250075,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_11"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "system_tip",
+                  "speaker": null,
+                  "display_label": "系统提示",
+                  "text": "阿里曼已撤回一条消息。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_12"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "行，我们准备。需要一些时间，晚上一定弄好。",
+                  "speaker_id": 250075,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_35_13"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "决定好了吗？达妮娅选了什么口味？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_1"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "暂时保密。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_2"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "蛋糕大概今晚能做好。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_3",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_15:2:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "要等到晚上啊……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_4"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "晚上的话，我可能有点不太方便……我……和莫宁老师约好了去炉芯那边帮忙……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_5"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_6"
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "可惜呀，西西，本打算和你一起分生日蛋糕的，这下只能给你吃剩的那块咯。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_7"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "生日蛋糕……等下，原来今天是你生日吗？所以，前辈也是因为这个才……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_8"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅想给你个惊喜。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_9",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_15:7:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "那我……我现在就联系下莫宁老师——",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_10"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不用了，西西。莫宁老师那边是很重要的事吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_11"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "但我其实，偶尔请一天假也……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_12"
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不行。不可以逃避哦。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_13"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "连这种事都逃避的话，是无法成为你憧憬的那种人的。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_14"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "但是……一直以来，跟我说“逃避也可以”的人不就是达妮娅吗？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_15"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那只是安慰啦。我其实对谁都那么说。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_16"
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "不对，你今天好奇怪。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_17"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "无论是突然约我出来，拉着我拍照，和我坦白生日……还有鼓励我不要逃避——这些，全都不像是平时的你……",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_18"
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "西西，你听我说……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_19"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "你今天，是不是有什么瞒着我的？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_20"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……这种时候，你就不能笨一点吗？西格莉卡。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_21"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "如果达妮娅希望我继续装傻的话，我可以像以前一样，什么都不问。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_22"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "但是，我现在只想确认一件事……明年今天，达妮娅还是会过生日的，对吧？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_23"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……会。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_24"
+                },
+                {
+                  "sequence": 322,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "那明年这个时候……我们就再来一起过个生日，好不好？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_25"
+                },
+                {
+                  "sequence": 323,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "好。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_26"
+                },
+                {
+                  "sequence": 324,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "到那时候，我们来一起亲手做个蛋糕吧？",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_27"
+                },
+                {
+                  "sequence": 325,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不是说只确认一个问题的吗……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_28"
+                },
+                {
+                  "sequence": 326,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅今晚还需要做一些检查，过些天，等她彻底康复后——",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_29"
+                },
+                {
+                  "sequence": 327,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "前辈，说了和陆医生一样的话呢。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_30"
+                },
+                {
+                  "sequence": 328,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "没关系的，既然约定好了……那我今天，就先回去整理资料了。",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_31"
+                },
+                {
+                  "sequence": 329,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "加油啊……西格莉卡。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_32"
+                },
+                {
+                  "sequence": 330,
+                  "kind": "dialogue",
+                  "speaker": "西格莉卡",
+                  "text": "生日快乐，达妮娅！",
+                  "speaker_id": 150088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_33"
+                },
+                {
+                  "sequence": 331,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "好累……我真的，不擅长应付她。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_34"
+                },
+                {
+                  "sequence": 332,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "最后居然还把气氛搞得这么尴尬……如果你那时听我的，直接绕过去就好了……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_35"
+                },
+                {
+                  "sequence": 333,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "西格莉卡真的很在乎你。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_36",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_15:33:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 334,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……好狡猾啊，这种时候又突然变得这么温柔。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_38"
+                },
+                {
+                  "sequence": 335,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不过，漂泊者同学真厉害啊，能说出这样的话……你一定经历过很多次道别吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_39"
+                },
+                {
+                  "sequence": 336,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "既强大，又体贴，你再努努力，搞不好我真的会心动哦？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_40"
+                },
+                {
+                  "sequence": 337,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_41",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_15:36:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 338,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "好啦，休息时间结束了。这些天在病房里待得好无聊，漂泊者同学陪我去玩会儿游戏吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_38_42"
+                },
+                {
+                  "sequence": 339,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "好多种类……漂泊者同学打算玩哪个呢？顺便一提……我想玩拉海洛方块哦。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_39_1"
+                },
+                {
+                  "sequence": 340,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "接好饭。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_39_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_7_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 341,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "诶？真的假的……我明明都这样暗示了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_39_3"
+                },
+                {
+                  "sequence": 342,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者同学难道是那种，会在约会的时候说“我们分头看电影吧一会儿在这里集合”的人吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_39_4"
+                },
+                {
+                  "sequence": 343,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "和你玩拉海洛方块会想起不好的事情。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_39_5"
+                },
+                {
+                  "sequence": 344,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "呃……漂泊者同学的记忆力可真好……那，我们就从接好饭开始吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_39_6"
+                },
+                {
+                  "sequence": 345,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "看来我和西格莉卡并不适合做伙伴……真可惜。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_41_1"
+                },
+                {
+                  "sequence": 346,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "菜，就多练……",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_41_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_7_2:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 347,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "新出的游戏我不太懂啦，漂泊者同学还是和我去玩拉海洛方块吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_41_4"
+                },
+                {
+                  "sequence": 348,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我们来比谁的分更高怎么样？我从小就很擅长这个游戏哦。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_41_5"
+                },
+                {
+                  "sequence": 349,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可以。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_41_6",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_7_2:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 350,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "太好了，谢谢你，漂泊者同学~",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_41_8"
+                },
+                {
+                  "sequence": 351,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你今天，是打算和她道别的吧？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_1"
+                },
+                {
+                  "sequence": 352,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "是啊……本打算请她吃个蛋糕，然后趁着气氛不错就把事说了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_2"
+                },
+                {
+                  "sequence": 353,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你指的是生日，道别，还是你一直在骗她？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_3"
+                },
+                {
+                  "sequence": 354,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……都有吧。其实我本以为她会更生气一点的。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_4"
+                },
+                {
+                  "sequence": 355,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你希望她生气？为什么？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_7",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_7_3:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 356,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "因为这样……等她意识到我已经离开的时候，也就不会那么难过了啊……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_8"
+                },
+                {
+                  "sequence": 357,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "死掉一个曾经的朋友，总比死掉一个现在的朋友要好受吧？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_9"
+                },
+                {
+                  "sequence": 358,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "她不会这么想的。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_10",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_7_3:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 359,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "诶……所以我才讨厌你们这样的人。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_11"
+                },
+                {
+                  "sequence": 360,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "明明可以选择逃避，却偏要把一切都背负起来……我就是讨厌这样的生存方式。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_12"
+                },
+                {
+                  "sequence": 361,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "可你仍然鼓励了她。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_13"
+                },
+                {
+                  "sequence": 362,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者同学太狡猾了，居然趁我说话的时候把分数打得比我还高……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_14"
+                },
+                {
+                  "sequence": 363,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不然恐怕赢不了你。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_15",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_7_3:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 364,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "在无关紧要的事情上，偶尔犯点小错误，才会让人觉得更好接近哦？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_17"
+                },
+                {
+                  "sequence": 365,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不过时间也剩得不多了，我们还是继续逛逛吧……我平时喜欢去文献中心，我想再去那里看看。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_43_18"
+                },
+                {
+                  "sequence": 366,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "达妮娅？我听阿里曼说你这几天住院了，身体好些了吗？",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_1"
+                },
+                {
+                  "sequence": 367,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我没事的啦，不用担心。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_2"
+                },
+                {
+                  "sequence": 368,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "看面色总感觉没以前精神呢。病患注意多休息啊。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_3"
+                },
+                {
+                  "sequence": 369,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "这位是……等下，你是那位漂泊者吧……达妮娅居然会和你在一起，她没惹什么麻烦吧？",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_4"
+                },
+                {
+                  "sequence": 370,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "没有，她今天过生日，医务室委托我陪她出来走走。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_5"
+                },
+                {
+                  "sequence": 371,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "真的假的，你这样说我反而更不放心她了。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_6"
+                },
+                {
+                  "sequence": 372,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们认识很久了？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_7",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_18:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 373,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "是啊，她入学第一周在这补觉的时候就认识了。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_8"
+                },
+                {
+                  "sequence": 374,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "当初一听我说需要虚质磁暴的数据，仗着她那不靠谱的泡泡就往校外跑……也不知道天天脑子里装了些什么。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_9"
+                },
+                {
+                  "sequence": 375,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那都多久之前的事了……别念了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_10"
+                },
+                {
+                  "sequence": 376,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "再不念都没机会了，我马上就毕业了。你呀，以后少点逞强，也学习下怎么依赖别人吧。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_11"
+                },
+                {
+                  "sequence": 377,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "毕业？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_12"
+                },
+                {
+                  "sequence": 378,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "来，收下这个。之前一直没机会送到你手里。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_13"
+                },
+                {
+                  "sequence": 379,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "你和我念叨过的，罗伊族童话故事的合集，我托人帮做了本实体彩印的。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_14"
+                },
+                {
+                  "sequence": 380,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "我都不知道今天是你生日，就当作是生日礼物吧，达妮娅。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_15"
+                },
+                {
+                  "sequence": 381,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "娜斯塔霞，你的手……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_16"
+                },
+                {
+                  "sequence": 382,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "之前的那起事件的一点后遗症，别担心，陆医生说休养几年就好了。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_17"
+                },
+                {
+                  "sequence": 383,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "是那时的虚质侵蚀……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_18"
+                },
+                {
+                  "sequence": 384,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不过，既、既然能康复……那也没必要离开吧？深空联合的技术那么厉害……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_19"
+                },
+                {
+                  "sequence": 385,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "是呀。所以他们判断我不适合继续留在这了，说什么拉海洛的环境可能加剧神经侵蚀。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_20"
+                },
+                {
+                  "sequence": 386,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "可，可是……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_21"
+                },
+                {
+                  "sequence": 387,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "没想到，自己的论文会成为劝自己退休的佐证啊。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_22"
+                },
+                {
+                  "sequence": 388,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "可是娜斯塔霞说过……你的梦想就是……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_23"
+                },
+                {
+                  "sequence": 389,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "“亲手为人类揭开虚质粒子的秘密”？的确是说过这种大话来着……但达妮娅，你听我说，梦想这种东西呢有时候……",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_24"
+                },
+                {
+                  "sequence": 390,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不对。不是的，就算是我这样的人也知道——这里的所有人……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_25"
+                },
+                {
+                  "sequence": 391,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "每一个人都签过协议，一旦选择离开拉海洛，就意味着——",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_26"
+                },
+                {
+                  "sequence": 392,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "盖牌认输？我可没那种打算，也许几年以后我就会从新联邦回来。唯一可惜的是，等我回来你都毕业了。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_27"
+                },
+                {
+                  "sequence": 393,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不是的，娜斯塔霞一直都那么优秀……不应该是这样的。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_28"
+                },
+                {
+                  "sequence": 394,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "冷静点，达妮娅。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_29",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_18:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 395,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "所有的事情，全都是因为我……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_30"
+                },
+                {
+                  "sequence": 396,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "你这孩子今天是怎么了，这和你有什么关系。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_31"
+                },
+                {
+                  "sequence": 397,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "抱歉，娜斯塔霞，达妮娅的身体还没完全康复，我们得先告辞了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_32"
+                },
+                {
+                  "sequence": 398,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "好，回去的时候看着点路啊，她今天状态不对。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_33"
+                },
+                {
+                  "sequence": 399,
+                  "kind": "dialogue",
+                  "speaker": "娜斯塔霞",
+                  "text": "还有，生日快乐！达妮娅。",
+                  "speaker_id": 250073,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_44_34"
+                },
+                {
+                  "sequence": 400,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅，没问题吧。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_45_1"
+                },
+                {
+                  "sequence": 401,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_45_2"
+                },
+                {
+                  "sequence": 402,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你的频率非常不稳定，先把药吃了，跟我来。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_45_3"
+                },
+                {
+                  "sequence": 403,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "好些了吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_39"
+                },
+                {
+                  "sequence": 404,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_40"
+                },
+                {
+                  "sequence": 405,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（从并发症出现时的频率来看，情况要比阿里曼说的更严重。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_41"
+                },
+                {
+                  "sequence": 406,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这样下去根本维持不了一周……难道，她选择今天是因为……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_42"
+                },
+                {
+                  "sequence": 407,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "尝试安抚她。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_43",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:43",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 408,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "娜斯塔霞很优秀，深空联合是不会放弃她的。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_46"
+                },
+                {
+                  "sequence": 409,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_47"
+                },
+                {
+                  "sequence": 410,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "尝试拉近距离。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_44",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:43",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 411,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "…………",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_48"
+                },
+                {
+                  "sequence": 412,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "将娜斯塔霞的礼物递给她",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_45",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:43",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 413,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……你说的对……是我一直以来，都在自欺欺人。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_49"
+                },
+                {
+                  "sequence": 414,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "对不起啊，我骗了你。其实，今天根本就不是我的生日。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_1"
+                },
+                {
+                  "sequence": 415,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "当时为什么选这个借口？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 416,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "因为……人们不都这么说吗？生日，是一个人诞生的证明。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_3"
+                },
+                {
+                  "sequence": 417,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "每个人都有生日……西格莉卡有，娜斯塔霞也有……就连那些被制造出来的准时宝，都有自己的生日。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_4"
+                },
+                {
+                  "sequence": 418,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "可是，我没有啊。残星会没有我的诞生记录，也没有任何身份证明。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_5"
+                },
+                {
+                  "sequence": 419,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "只有一段始终无法洗去的影像，一次又一次在梦中播放……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_6"
+                },
+                {
+                  "sequence": 420,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "在那里，我总是会踏入同一片湖泊。一个女人在风中摇晃手臂，她在哭。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_7"
+                },
+                {
+                  "sequence": 421,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "她总是遥遥地看着我，对我喊：达妮娅，达妮娅……达斯维达妮娅。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_8"
+                },
+                {
+                  "sequence": 422,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "所以你说，如果我真的有一个名字，是不是再加上一个生日，就能以一个人的身份去死了？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_9"
+                },
+                {
+                  "sequence": 423,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么会这么想？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_10",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 424,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "因为我没时间了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_11"
+                },
+                {
+                  "sequence": 425,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "很多事都来不及了，但我总得……选个像样点的死法吧？至少像个“人”那样，承担罪责，体面地告别……然后再死得其所。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_12"
+                },
+                {
+                  "sequence": 426,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "可惜啊，难得挑了个好日子，但我根本没练习过怎样和她们道别。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_13"
+                },
+                {
+                  "sequence": 427,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我唯一擅长的……就只有说谎。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_14"
+                },
+                {
+                  "sequence": 428,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这样的结局，你就满足了吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_15"
+                },
+                {
+                  "sequence": 429,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "当然不满足了，但是，我至少最后还能看到她们像以前一样，对着我傻笑，被我骗得团团转……这样我才会，死得心安理得一点吧。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_16"
+                },
+                {
+                  "sequence": 430,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可你在哭。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_17",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 431,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我只是……条件反射而已。每次一想到一切都将消失，一切要回到虚无里，就习惯性地想哭。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_18"
+                },
+                {
+                  "sequence": 432,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "很多年前……第一次与祂接触时就是这样……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_19"
+                },
+                {
+                  "sequence": 433,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "在你死去以后，明天，太阳依旧会照常升起。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_20"
+                },
+                {
+                  "sequence": 434,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我当然知道了，我也没觉得……我死后这个世界会发生什么变化。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_21"
+                },
+                {
+                  "sequence": 435,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "它会变化。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_22",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 436,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "西格莉卡和娜斯塔霞的人生会变化，她们会失去重要的朋友。无论最后能否走出阴霾……失去的，永远都不会回来。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_23"
+                },
+                {
+                  "sequence": 437,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没想过活下去吗？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_24",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:42",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 438,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我，配吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_25"
+                },
+                {
+                  "sequence": 439,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……我无法评价。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_26"
+                },
+                {
+                  "sequence": 440,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "但在黎那汐塔……我曾见过与你很像的人。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_27"
+                },
+                {
+                  "sequence": 441,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "在他们被强加的生命中，一切幸福都转瞬即逝，唯有痛苦和恐惧，永不消弭。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_28"
+                },
+                {
+                  "sequence": 442,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "可偏偏，在最后的最后……他们却为了那些被施舍的、片刻的幸福，战斗到了最后一刻。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_29"
+                },
+                {
+                  "sequence": 443,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "你曾开玩笑地说，漂泊者是个救世主，但是，在黎那汐塔……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_30"
+                },
+                {
+                  "sequence": 444,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我没能救下他们。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_31"
+                },
+                {
+                  "sequence": 445,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "可那，听起来……是他们做出了自己的选择……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_32"
+                },
+                {
+                  "sequence": 446,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是。就像你那时劝我回头一样。你也做出过在你看来最好的选择……你们，都希望更多人能活下去。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_33"
+                },
+                {
+                  "sequence": 447,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "而我也是。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_34"
+                },
+                {
+                  "sequence": 448,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "所以，如果这个世界上人和造物的界限本就模糊不清，那决定我们是谁的，究竟是什么？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_35"
+                },
+                {
+                  "sequence": 449,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "我……我不知道。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_36"
+                },
+                {
+                  "sequence": 450,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "是心。达妮娅。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_37"
+                },
+                {
+                  "sequence": 451,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "决定你是什么的，从不是你的来处，而是你的心。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_46_38"
+                },
+                {
+                  "sequence": 452,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "心。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_1"
+                },
+                {
+                  "sequence": 453,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你愿意相信我吗？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_2",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:1:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 454,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "在这里。会长留下的礼物——埋在我频率中的书页……就在这里。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_3"
+                },
+                {
+                  "sequence": 455,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（这难道是……利维亚坦？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_4"
+                },
+                {
+                  "sequence": 456,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……“常回家看看”？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_5"
+                },
+                {
+                  "sequence": 457,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "哈，果然如此……",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_6"
+                },
+                {
+                  "sequence": 458,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "漂泊者，果然是一位能带来奇迹的人呢。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_7"
+                },
+                {
+                  "sequence": 459,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_8"
+                },
+                {
+                  "sequence": 460,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不愧是……我最讨厌的那种人。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_9"
+                },
+                {
+                  "sequence": 461,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "现在，能告诉我讨厌的理由了吗？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_10",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:25:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 462,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "嗯……让我想想——",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_11"
+                },
+                {
+                  "sequence": 463,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "漂泊者，我们监测到了剧烈的频率波动！你们还好吗？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_12"
+                },
+                {
+                  "sequence": 464,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "一切顺利，我们很快就会回去。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_13"
+                },
+                {
+                  "sequence": 465,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "好……辛苦了。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_14"
+                },
+                {
+                  "sequence": 466,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "看来阿里曼教授有点等不及了，漂泊者，我们该回去啦。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_15"
+                },
+                {
+                  "sequence": 467,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "答案呢？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_16",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:13:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 468,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "啊……漂泊者可真是个急性子，不行，还差那么最后一点点，暂时保密。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_17"
+                },
+                {
+                  "sequence": 469,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "而且，我们也还有约定没完成呢，蛋糕可不能浪费。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_18"
+                },
+                {
+                  "sequence": 470,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "明天以后，漂泊者还会想要再和我一起出来吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_19"
+                },
+                {
+                  "sequence": 471,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "会的。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_20",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_20:16:group2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 472,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "嗯~那可麻烦了。毕竟……我也有不得不去做的事啊。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_22"
+                },
+                {
+                  "sequence": 473,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "……如果，今天能再长一点就好了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_23"
+                },
+                {
+                  "sequence": 474,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "不过，漂泊者难道就没有想过吗？我活下来，留在这里，也许会是更大的麻烦哦？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_25"
+                },
+                {
+                  "sequence": 475,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……如果你觉得这里不适合，那未来有一天，你愿不愿意——",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_26"
+                },
+                {
+                  "sequence": 476,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "停——只是个玩笑哦。我可不想看你为难。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_27"
+                },
+                {
+                  "sequence": 477,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "放心啦。今天可是我生日啊，我哪里都不会去的。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_28"
+                },
+                {
+                  "sequence": 478,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "至少对你……这就是最后一个谎言了。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_47_29"
+                },
+                {
+                  "sequence": 479,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "N.A.N.A.正在对达妮娅进行检查，这一天真是辛苦你了，漂泊者。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_1"
+                },
+                {
+                  "sequence": 480,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "她的状态看起来比早上好了不少，那时候的频率波动……是发生了什么事吗？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_2"
+                },
+                {
+                  "sequence": 481,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "关于这件事的话……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_3"
+                },
+                {
+                  "sequence": 482,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "你将会长留下的书页的事告知了阿里曼。",
+                  "speaker_id": 83,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_4"
+                },
+                {
+                  "sequence": 483,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "黎那汐塔的鸣式残留？难道鸣式之间存在相互作用？这……残星会这群人，居然是通过这种手段控制她，遏制她的能力的？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_5"
+                },
+                {
+                  "sequence": 484,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "难怪我们一直无法找到症状的源头，好在还有你协助。漂泊者。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_6"
+                },
+                {
+                  "sequence": 485,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "明天起，达妮娅会怎么样？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_7",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_21:6",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 486,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "……就和前几天一样。虽然不至于被送到新联邦去，但她依然只能在被收容管制的状态下协助研究。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_8"
+                },
+                {
+                  "sequence": 487,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "我能理解你在想什么，漂泊者……我今天一直关注着你们的行程和现场报告。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_9"
+                },
+                {
+                  "sequence": 488,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "但就算所有人都清楚她同样是受害者，深空联合的工作和责任也不会改变。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_10"
+                },
+                {
+                  "sequence": 489,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "我们目前拿不出更好的处理方案，这就是事实。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_11"
+                },
+                {
+                  "sequence": 490,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "她的生日蛋糕呢？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_12",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_21:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 491,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "我们还没来得及去取，还在扎希拉那边。她要的那种喀拉喀拉现在只有扎希拉能弄到……",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_13"
+                },
+                {
+                  "sequence": 492,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "不过既然她希望能由你陪她过生日，就麻烦你亲手将蛋糕带给她了……我们会在这等你。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_48_14"
+                },
+                {
+                  "sequence": 493,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "以前，在学院教课的时候，有个总在我课上睡觉的问题学生。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_49_1"
+                },
+                {
+                  "sequence": 494,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "我那时每次都会故意叫她起来回答问题。因为她根本不知道自己浪费了什么。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_49_2"
+                },
+                {
+                  "sequence": 495,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "后来，一个叫娜斯塔霞的助教过来求情，说她只有在安心的地方才能睡着，说至少她在我的课上的成绩都还不错。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_49_3"
+                },
+                {
+                  "sequence": 496,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "……我知道那个女孩帮虚质科学部很多人都采集过数据，但问题的关键在于，我根本无法理解她的行为。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_49_4"
+                },
+                {
+                  "sequence": 497,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "为什么大家都在追求科研梦想，而你却在这里睡觉呢？难道你的梦想就是做一辈子科研助理吗？",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_49_5"
+                },
+                {
+                  "sequence": 498,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "……直到鸣式事件以后，我终于知道了答案。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_49_6"
+                },
+                {
+                  "sequence": 499,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "老实说，刚刚给你发通讯的时候，我甚至有一瞬幻想你会跟我说，你要带她离开拉海洛……去一个没人找得到的地方。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_49_7"
+                },
+                {
+                  "sequence": 500,
+                  "kind": "dialogue",
+                  "speaker": "阿里曼",
+                  "text": "……哈哈。漂泊者，还好你没有那么做，不然我们就真要完蛋了。",
+                  "speaker_id": 250071,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_49_8"
+                },
+                {
+                  "sequence": 501,
+                  "kind": "dialogue",
+                  "speaker": "扎希拉",
+                  "text": "你是来取走定制的生日蛋糕的吧？请稍等……",
+                  "speaker_id": 100206,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_1"
+                },
+                {
+                  "sequence": 502,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（达妮娅……她那时说的，不得不去做的事情到底是什么？是关于黯原的鸣式频率吗？）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_2"
+                },
+                {
+                  "sequence": 503,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（如果让深空联合找到达妮娅是会长计划的一部分，那书页被拆除真的就不在他计划中吗？还是说……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_3"
+                },
+                {
+                  "sequence": 504,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（换个角度，如果我是达妮娅的话……）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_4"
+                },
+                {
+                  "sequence": 505,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "“放心啦。今天可是我生日啊，我哪里都不会去的。”",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_5"
+                },
+                {
+                  "sequence": 506,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "终端上的时间显示，现在是夜间零点十五分。",
+                  "speaker_id": 83,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_6"
+                },
+                {
+                  "sequence": 507,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "达妮娅的生日已经过去了。",
+                  "speaker_id": 83,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_7"
+                },
+                {
+                  "sequence": 508,
+                  "kind": "dialogue",
+                  "speaker": "扎希拉",
+                  "text": "请收好……虽然晚了一点，但我相信它足以传达你们的心意。",
+                  "speaker_id": 100206,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_8"
+                },
+                {
+                  "sequence": 509,
+                  "kind": "dialogue",
+                  "speaker": "I.R.I.S.",
+                  "text": "漂泊者，达妮娅目前已经离开了星炬学院，正在前往黯原区。",
+                  "speaker_id": 100204,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_9"
+                },
+                {
+                  "sequence": 510,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……她是怎么离开的？",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_10",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_22:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 511,
+                  "kind": "dialogue",
+                  "speaker": "I.R.I.S.",
+                  "text": "共鸣能力。我们在站台处检测到了残留的虚质粒子。阿里曼教授被她困在了泡泡中，所幸没有受到任何伤害。",
+                  "speaker_id": 100204,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_11"
+                },
+                {
+                  "sequence": 512,
+                  "kind": "dialogue",
+                  "speaker": "I.R.I.S.",
+                  "text": "目前，她并没有选择拆掉共鸣抑制装置和定位设备，需要立即启动紧急备案吗？",
+                  "speaker_id": 100204,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_12"
+                },
+                {
+                  "sequence": 513,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……不，把她的位置信息同步给我。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_13"
+                },
+                {
+                  "sequence": 514,
+                  "kind": "dialogue",
+                  "speaker": "I.R.I.S.",
+                  "text": "明白，数据已同步……祝您一路顺风，漂泊者。",
+                  "speaker_id": 100204,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_14"
+                },
+                {
+                  "sequence": 515,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我以为你会阻止她。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_15",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_22:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 516,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "我试过了。",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_16"
+                },
+                {
+                  "sequence": 517,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "但她的身体状态太差……继续下去的话，她会死。",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_17"
+                },
+                {
+                  "sequence": 518,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……有点不太像你的作风。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_18",
+                  "choice_key": "剧情_3_3_拉海洛主线_下半_1_22:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 519,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "树会长高，叶子会变绿……漂泊者。",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_19"
+                },
+                {
+                  "sequence": 520,
+                  "kind": "dialogue",
+                  "speaker": "绯雪",
+                  "text": "那孩子只是，做出了大人的选择。",
+                  "speaker_id": 200138,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_50_20"
+                },
+                {
+                  "sequence": 521,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "眼皮渐渐下沉，朦胧中，你似乎又回到了当初那个场景。",
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_1"
+                },
+                {
+                  "sequence": 522,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "达妮娅……关于你记忆中的影像，你有什么线索吗？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_2"
+                },
+                {
+                  "sequence": 523,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "没有。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_3"
+                },
+                {
+                  "sequence": 524,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "那只是，一段影像罢了。说不定只是我小时候看的某场电影？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_4"
+                },
+                {
+                  "sequence": 525,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……但我想，也许，你还有机会……",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_5"
+                },
+                {
+                  "sequence": 526,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你这样，倒是让我想起了娜斯塔霞的话呢。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_6"
+                },
+                {
+                  "sequence": 527,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "什么？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_7"
+                },
+                {
+                  "sequence": 528,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "“抬起头，你看见了什么”，漂泊者？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_8"
+                },
+                {
+                  "sequence": 529,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "……拉海洛的夜空。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_9"
+                },
+                {
+                  "sequence": 530,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "是啊，不过那时我说，虚无，还有黑暗。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_10"
+                },
+                {
+                  "sequence": 531,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "她怎么说的？",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_11"
+                },
+                {
+                  "sequence": 532,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "她说，其实那是光明在对抗黑暗。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_12"
+                },
+                {
+                  "sequence": 533,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "“可看起来黑暗占了上风。”我这样回答。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_13"
+                },
+                {
+                  "sequence": 534,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "但最初……拉海洛本就是一片黑暗。后来才有了光。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_14"
+                },
+                {
+                  "sequence": 535,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "哈哈，你的回答和她一模一样。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_15"
+                },
+                {
+                  "sequence": 536,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "所以是光赢了。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_16"
+                },
+                {
+                  "sequence": 537,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "你说得对，漂泊者。",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_17"
+                },
+                {
+                  "sequence": 538,
+                  "kind": "dialogue",
+                  "speaker": "达妮娅",
+                  "text": "如果执着得够久，故事就一定能迎来好结局，不是吗？",
+                  "speaker_id": 200144,
+                  "text_id": "Main_LahaiRoi_ZRJDYKX_68_18"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "拉海洛 第三章",
+          "source_act_id": 37
+        }
+      ]
+    }
+  ]
+}

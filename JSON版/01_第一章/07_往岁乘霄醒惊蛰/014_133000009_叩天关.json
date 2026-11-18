@@ -1,0 +1,1122 @@
+{
+  "schema_version": 1,
+  "title": "叩天关",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 18,
+      "dialogue": 107,
+      "omission": 4,
+      "scene_heading": 5
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 7,
+          "title": "往岁乘霄醒惊蛰",
+          "act": "第七幕",
+          "notes": [
+            "《行路遇新知》的前置是上一幕任务 `140800000` 的子任务 `330`。"
+          ],
+          "tasks": [
+            {
+              "sequence": 14,
+              "quest_id": 133000009,
+              "title": "叩天关",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [
+                "【已定位的正文按章节回顾排列】",
+                "【部分流程或交互暂略，详情见同名JSON】"
+              ],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "这里怎么会有残象？不对，这些怪物……好像和真正的残象不太一样。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_171_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "看样子，这大概也是稷廷的手笔。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_171_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "是通过某种装设创造影像，模拟残象的战斗行为，来达到防卫遗址的目的吗？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_171_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处回顾片段暂略】"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【完成步骤时调用的局部对白，实际播放完成时机待确认】"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "前头的那个……也是机关吗？",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_175_1"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "拟像消失后，机关似乎解锁了。去看看。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_175_2"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "……石门上有星辰流光跃动，是「曜纹」。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_1"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "也是稷廷的机关？",
+                  "text_id": "Chengxiaoshan_main_1_1_176_2",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_10_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "嗯，「曜纹」虽繁琐，但只要有耐心，倒也不算难解。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_3"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "你看，这「曜纹」上的每一颗星辰都对应一处「曜岩」。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_4"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "我们方才无意中破解的机关，就是其中之一。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_5"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "所以相应的星辰印记暗淡了下去。",
+                  "text_id": "Chengxiaoshan_main_1_1_176_6",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_10_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "没错，我们还要找到另外两处「曜岩」才能打开这扇石门。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_7"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "……等等。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_8"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "这血迹和鳞片……是今汐的……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_9"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "今汐受伤了？",
+                  "text_id": "Chengxiaoshan_main_1_1_176_10",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_10_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "……更有可能是，她已经接近超频的界限。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_12"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "……留给我们的时间不多了。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_176_13"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "原来岁主的状况竟如此堪忧……在驾临乘霄山时，祂就已经受了重伤……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_1"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "“时序之法失其一”……这次负伤，让岁主失去了复原时流的能力，只剩下了时间的凝滞和回溯。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_2"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "所以当年岁主用时流的力量保护了虹镇人之后，时流就一直留在了乘霄山之中？",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_179_3"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "不错……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_4"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "而且卷宗上提到，岁主的伤势会随着时间推移而加剧，一旦岁主因伤殒命……乘霄山的时流便会彻底失控，直至吞没整座今州。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_5"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "……",
+                  "speaker_id": 83,
+                  "text_id": "Chengxiaoshan_main_1_1_179_6"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "看来残星会的所为，不过是在乘霄山原本就深入骨髓的伤口上撒了一把盐……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_7"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "有办法能治愈岁主的伤吗？",
+                  "text_id": "Chengxiaoshan_main_1_1_179_8",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_9_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "无计可施。起码在卷宗的记载中，我看到的结论是笃定的。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_9"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "卷宗上说……唯有眠龙庭能勉强起效。但也只是暂缓伤情，解决不了根本。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_10"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "是以岁主与那位可以抵御时流的“奇人”，最后想得一法。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_11"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "「溯流仪」。",
+                  "text_id": "Chengxiaoshan_main_1_1_179_12",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_9_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "既然无法修复岁主本身，那便通过共鸣，在共鸣者身上，还原岁主原本的时序之能。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_14"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "「溯流仪」就是那个实验品，一个人造共鸣物。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_15"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这样看来，成功了？",
+                  "text_id": "Chengxiaoshan_main_1_1_179_16",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_9_1:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "不，「溯流仪」能复原的范围太过狭小，完全不可与岁主之能相比。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_17"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "既然物不行，那如果是人……",
+                  "text_id": "Chengxiaoshan_main_1_1_179_18",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_9_1:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "行至此处，答案……也即将显露。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_20"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "还剩下两处「曜岩」，不论如何，我们必须先跟上今汐的步伐。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_179_21"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "又是「溯流仪」……第二个「曜岩」应该就在这扇门的背后。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_192_1"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "漂泊者，老样子，操纵「溯流仪」让倒塌的门恢复原状吧。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_192_2"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【完成步骤时调用的局部对白，实际播放完成时机待确认】"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【完成步骤时调用的局部对白，实际播放完成时机待确认】"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "还剩最后一个「曜岩」。这里有处运载栈……「曜岩」是在更下层吗？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_197_1"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "应该很快就能见到今汐了……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_197_2"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "竟然是这样吗……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_1"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你看出了什么？",
+                  "text_id": "Chengxiaoshan_main_1_1_205_2",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_8_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "从这份卷宗上来看，「溯流仪」的确是一种人造共鸣物。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_3"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "共鸣源只需对其造成足够强烈的冲击，「溯流仪」便可与共鸣源达成同频共振，产生共鸣效果。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_4"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "而这也就解答了我在隙光滩时的疑问——「溯流仪」的时间回溯机能，是经由与岁主共鸣来实现的。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_5"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那岂不是很厉害？",
+                  "text_id": "Chengxiaoshan_main_1_1_205_6",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_8_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "不，还差得远。先不说「溯流仪」的使用条件实在苛刻，一旦远离了岁主亦或乘霄山时流，它便无法正常运行。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_8"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "此外，作为人造共鸣物，它能承载的共鸣力也相当有限。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_9"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "按照稷廷人的记述，为了使「溯流仪」发挥更强的威力，他们提出一个假说——二次共鸣假说。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_10"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "这一假说指出，频率的碰撞或可引发二次共鸣，而这所谓“频率的碰撞”即是彼此共鸣的两方力量的对抗与冲撞。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_11"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那个预言……",
+                  "text_id": "Chengxiaoshan_main_1_1_205_12",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_8_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "……是为了二次共鸣，为了让今汐施展出更为强大的共鸣能力——可以逆转、复原时流的完整的时序之能。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_14"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "稷廷人的实验成功了吗？",
+                  "text_id": "Chengxiaoshan_main_1_1_205_15",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_8_1:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "在无数的实验之中，大量的「溯流仪」与岁主发生频率碰撞，皆因无法承担那样强悍的能量而损毁，最终化作齑粉。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_16"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "……",
+                  "text_id": "Chengxiaoshan_main_1_1_205_17",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_8_1:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "只有一例例外，有一个「溯流仪」短暂地展现出复原时序的能力，而后也碎裂开来。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_19"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "但这至少验证了，二次共鸣可使共鸣对象发挥更强的威力，是可行的。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_32"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "在这唯一的成功案例中，实验人员提到，该「溯流仪」是以一种超负荷的形式启动运作的。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_20"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "——这种运作模式，非常接近共鸣者的超频现象。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_33"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "超频是什么？",
+                  "text_id": "Chengxiaoshan_main_1_1_205_21",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_8_1:14",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "超越本身的能力界限去使用能力，也就是，超负荷使用共鸣能力。那个实验人员认为，超频，或许是二次共鸣的前提条件。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_22"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "听起来不是什么好事。",
+                  "text_id": "Chengxiaoshan_main_1_1_205_23",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_8_1:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "没错，过度消耗自身，只会走向灭亡……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_24"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "另外，在卷宗的记录中，有一件小事颇为引人注目。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_25"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "「溯流仪」是死物，需在人为操控之下方能与岁主共鸣。而岁主「角」似乎也听从着某人的指令，依令行事。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_26"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "在那次例外中，在「溯流仪」超载接近崩毁的一瞬，那位岁主身侧的“奇人”似对祂下达了一条指令。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_27"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "岁主似乎因此将某些能量成功传输至了「溯流仪」本体。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_35"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "超频……",
+                  "text_id": "Chengxiaoshan_main_1_1_205_28",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_8_1:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "漂泊者，你是否已有想法？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_205_31"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "今汐……",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_210_1"
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……你们……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_1"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "放心吧，漂泊者身怀殊异，乘霄山的时间乱流未伤及她分毫。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_2"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我……咳咳……那老师你……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_3"
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "……",
+                  "speaker_id": 83,
+                  "text_id": "Chengxiaoshan_main_1_1_215_61"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "我既说了要做你的棋子，无论是为师还是为臣，我都该言出必行。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_4"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "再则，若是我不做这个“引路人”，又如何能送来漂泊者这个天降神兵？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_5"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "漂泊者本就与此地有极深的渊源，这一程若想破局，你们二人，缺一不可。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_6"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "可……漂泊者已帮了今州、帮了我太多太多。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_7"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "再帮一次也无妨。",
+                  "text_id": "Chengxiaoshan_main_1_1_215_8",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_11_1:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "谢谢你，漂泊者。谢谢。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_10"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "漂泊者，我会尽我所能助岁主尽快脱困。那之后我们一起去见岁主，祂那里，一定有你想要的答案。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_14"
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "情况危急，我们长话短说吧。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_15"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "今汐，你独自深入叩天关时，可有什么发现？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_16"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……我看到，稷廷的卷宗上提及……岁主在初次降临乘霄山时已有伤在身，且这伤情有愈演愈烈之势。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_18"
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "经年累月，乘霄山内曾受制于岁主的时流逐渐失控……或可累及今州。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_19"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "而唯有岁主的共鸣者，能够复现岁主曾经的时序之能……力挽狂澜……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_20"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "方法是——",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_21"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "以交锋促成共鸣力的碰撞，在达至二次共鸣时，岁主的共鸣者将超越本身的能力界限，回正时流，并消去寿命代偿。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_17"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "即便能回正时流、消去代价，但你明白自己要付出的是什么吗？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_22"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我明白的。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_23"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……我与岁主因共鸣而心灵相通，可我似乎从未真正了解祂，竟……对祂的痛苦知之甚少。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_24"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "细数起来，自建州至今，岁主所做决策、所给建议，无一不考虑周全、伏脉千里。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_25"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "就连如今的时流隐患，也是因守护虹镇才留下的。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_26"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "……倘若当年没有岁主升起时流摒除残象，今日的今州，极可能仍是一片蛮荒之所。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_27"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "所以，你打算如何做呢？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_28"
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "一旦确认岁主确有无法治愈的伤疾，时间乱流究竟会扩散至何种境地，你我都无法预料。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_29"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "到那时，乘霄山如今的惨况，便是来日今州城的写照。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_30"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我……我打算……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_31"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "若真到了那时，预言缺失的那一环，我会亲手扣上……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_32"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "这是我唯一能救下乘霄山、保全今州的方式。也是唯一能帮到岁主的方式。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_33"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "可今汐，我希望你仔细考虑这样做的后果。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_34"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "你想借交锋中的碰撞与岁主达成二次共鸣，就不得不面对随时可能超频的风险。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_35"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "超频者轻则灵识全无，重则化为齑粉……你的结局，很可能与那些在超负荷之下被撕裂的「溯流仪」并无分别。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_36"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "更何况，若真到了那一步，你就想以这种状态去应战吗？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_38"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "我如何看不出你在硬撑……在我看来，你的决定与自寻死路无异。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_39"
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "可老师你呢？",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_40"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "我的所作所为不过是遵循你的脚步，你为了自己所追寻的事又何时惜过命？",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_41"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "哦？我何时教过你这些？",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_42"
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "生死虽有常，可活着，能做更多。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_43"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "你只有活下来承袭岁主的力量，才能做到你想要的拯救，而这拯救也能绵延更久。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_44"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "老师……我……",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_45"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "……今汐，我无意阻拦你。你心意已决，我又何尝不明白。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_46"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "所以……我把漂泊者带来了。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_47"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "你应当也猜到了，漂泊者就是典籍中那个与岁主并肩作战的建州英雄，那位曾到访乘霄山的“奇人”。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_48"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "我们找到的所有证据，都在指向这一事实。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_49"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "如果说除了你之外，还有一人能够左右乘霄山的局势，那人，便是漂泊者。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_50"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "虽然失忆了，但应该也能帮上忙。",
+                  "text_id": "Chengxiaoshan_main_1_1_215_51",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_11_1:48",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "今汐",
+                  "text": "今汐……谨记老师的教导。",
+                  "speaker_id": 186,
+                  "text_id": "Chengxiaoshan_main_1_1_215_54"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "还有一事，别忘了，残星会是如何禁锢岁主的目前尚无定论，而这一点，关系到你是否能成功谒见岁主。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_55"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可能残星会就是挺强的……",
+                  "text_id": "Chengxiaoshan_main_1_1_215_56",
+                  "choice_key": "剧情_1_1_乘宵山主线_岩壁遗迹_11_1:50",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "你说的这些，都有可能。辛夷大人正在为此事奔波，相信很快我们就能得到答复。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_59"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "我们要找的心核，应该就在入口石室的石门后面。还有一处「曜岩」没有解开，走吧。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_215_60"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "看，那些悬浮的地板之上，是我们最后一个目标。想办法让地板复原吧。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_222_1"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【完成步骤时调用的局部对白，实际播放完成时机待确认】"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "omission",
+                  "speaker": null,
+                  "text": "【此处交互过程略】"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【完成步骤时调用的局部对白，实际播放完成时机待确认】"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "三个「曜岩」都解决了。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_240_1"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "长离",
+                  "text": "很好，现在我们返回石门。去往存放心核房间的通路，应当已经打开了。",
+                  "speaker_id": 999,
+                  "text_id": "Chengxiaoshan_main_1_1_240_2"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 8
+        }
+      ]
+    }
+  ]
+}

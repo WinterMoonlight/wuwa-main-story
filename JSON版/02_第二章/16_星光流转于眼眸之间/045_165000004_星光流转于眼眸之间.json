@@ -1,0 +1,560 @@
+{
+  "schema_version": 1,
+  "title": "星光流转于眼眸之间",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 14,
+      "dialogue": 49
+    }
+  },
+  "chapters": [
+    {
+      "number": 2,
+      "title": "第二章",
+      "sections": [
+        {
+          "number": 16,
+          "title": "星光流转于眼眸之间",
+          "act": "幕间",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 45,
+              "quest_id": 165000004,
+              "title": "星光流转于眼眸之间",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "丽露",
+                  "text": "啊，漂泊者，你回来了！是来确认千咲的情况吗？",
+                  "speaker_id": 750043,
+                  "text_id": "Shixifeidu_main_2_8_43_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "千咲怎么样？",
+                  "text_id": "Shixifeidu_main_2_8_43_2",
+                  "choice_key": "剧情_2.8千夏活动主线_2_11:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "丽露",
+                  "text": "千咲现在已经转入黑海岸的封闭式房间，正在接受监测和分阶段的治疗干预。",
+                  "speaker_id": 750043,
+                  "text_id": "Shixifeidu_main_2_8_43_4"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "丽露",
+                  "text": "因为身体长时间处在一种接近超频的高负荷状态，她的几项生命体征数据确实不太理想，简单来说就是……身体还在撑着，但已经很疲惫了。",
+                  "speaker_id": 750043,
+                  "text_id": "Shixifeidu_main_2_8_43_5"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "丽露",
+                  "text": "不过！好消息是，我们已经找到了一些方法，从初步反应来看，还是有效果的。虽然没法立刻将她调整到最佳状态，但只要给我们一点时间，后续问题应该不会太大。",
+                  "speaker_id": 750043,
+                  "text_id": "Shixifeidu_main_2_8_43_6"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "在千咲的封闭治疗结束后，你再度回到了黑海岸群岛……",
+                  "text_id": "Main_Honami_2_8_2_2_19"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "漂泊者，来得正好，有些情况需要和你同步。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_1"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "这段时间，黑海岸接管了穗波市所在的索诺拉，发现内部起了一些新的变化——",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_2"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "穗波市和现实的连接变得稳定，内部的时间流速也已经和现实趋同。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_3"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "但泰缇斯系统监测到，它近期和外界的频率交换，其实有相当一部分没有经过这道裂隙。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_4"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这意味着什么？",
+                  "text_id": "Main_Honami_2_8_2_2_5",
+                  "choice_key": "剧情_2_8_下半_穗波市_1_2:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "或许这只是叠加的数据误差所导致的误报，或许……这表示着穗波市的索诺拉和外界还存在别的出入口。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_6"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "此外，穗波市仍有许多原理不明的现象，仍未探明的危险区域。黑海岸会继续保持研究和监测。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_7"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说起来，千咲的情况怎么样了？",
+                  "text_id": "Main_Honami_2_8_2_2_8",
+                  "choice_key": "剧情_2_8_下半_穗波市_1_2:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "她刚在黑海岸完成了封闭治疗，情况还算乐观，她的拉贝尔曲线落在了正常区间，身上没留下显著的超频后遗症。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_9"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "但不建议她今后再像在穗波市里那样激进地……运用共鸣能力了。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_10"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "请稍等。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_11"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "……嗯，嗯。我知道了。她正好在我这。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_12"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "我接到消息，千咲在不久前向黑海岸报备行程后，独自前往了穗波市。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_13"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么要回穗波市？",
+                  "text_id": "Main_Honami_2_8_2_2_14",
+                  "choice_key": "剧情_2_8_下半_穗波市_1_2:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "她没在外出申请里写具体的理由，只提到“想回去看看”。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_15"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "这些天负责指引千咲的泰缇斯终端就留在新枝地，它应该知道一些情况。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_2_16"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我先过去看看，以千咲的性格……她很少会这么随性地行动。",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Honami_2_8_2_2_17"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "还有什么想了解的吗？只要在我的信息权限范围内，我都可以解答。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_1"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于穗波市的时间流速……",
+                  "text_id": "Main_Honami_2_8_2_3_2",
+                  "choice_key": "剧情_2_8_下半_穗波市_1_9:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "穗波市毁灭时被悲鸣的力量封存在特殊的索诺拉里，如同凝固的琥珀，内部的时间流速远远低于外界。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_6"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "和乘霄山当时的情况有点像，在里面待上一天，外界可能已经过去了上百天。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_7"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "但这样的状态并非一成不变。随着穗波市和现实的连接增强，它的时间流速也在恢复正常。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_8"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "……在你被那道裂隙吸入穗波市后，守岸人很担心你的安危，一直在密切观测穗波市的动向。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_9"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "幸好，当时穗波市的时间流速已经和外界差别不大。对我们来说，你没离开太久。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_10"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "还有什么想了解的吗？只要在我的信息权限范围内，我都可以解答。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_1"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于千咲在黑海岸的生活……",
+                  "text_id": "Main_Honami_2_8_2_3_3",
+                  "choice_key": "剧情_2_8_下半_穗波市_1_9:3",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "休养期间，千咲申请了部分黑海岸数据库的查阅权限，主要是一些通识性的知识和流行资讯。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_11"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "偶尔还能看到她在黑海岸的生活区域散步，观察着周围的设施，就像许多新枝刚来的时候。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_12"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "更具体的情况，负责照顾千咲的泰缇斯终端应该知道。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_13"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "还有什么想了解的吗？只要在我的信息权限范围内，我都可以解答。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_1"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于执花澄夏……",
+                  "text_id": "Main_Honami_2_8_2_3_4",
+                  "choice_key": "剧情_2_8_下半_穗波市_1_9:3",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "澄夏确实是在多年前失踪的黑海岸成员，当年我们曾派出人力搜寻她的下落，但一直没有结果。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_14"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "……千咲在向我们提交的事件回顾中，详细地说明了澄夏在穗波市的行动和遭遇。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_15"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "她是谬误收容所最为优秀的研究员之一，也是让黑海岸感到骄傲的精英执花。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_16"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "星图会永远铭记她求索真相的崇高。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_17"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "瓦莲京娜",
+                  "text": "还有什么想了解的吗？只要在我的信息权限范围内，我都可以解答。",
+                  "speaker_id": 750018,
+                  "text_id": "Main_Honami_2_8_2_3_1"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我没有别的问题了。",
+                  "text_id": "Main_Honami_2_8_2_3_5",
+                  "choice_key": "剧情_2_8_下半_穗波市_1_9:3",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "库休休",
+                  "text": "库库……怎么走得这么急？该不该清理掉呢？",
+                  "speaker_id": 50201,
+                  "text_id": "Main_Honami_2_8_2_4_12"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "库休休",
+                  "text": "啊，执花，你来了，千咲小姐已经走了有一段时间了。",
+                  "speaker_id": 50201,
+                  "text_id": "Main_Honami_2_8_2_4_1"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "她离开前有什么特殊情况吗？",
+                  "text_id": "Main_Honami_2_8_2_4_2",
+                  "choice_key": "剧情_2_8_下半_穗波市_9_1:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "库休休",
+                  "text": "她就和往常一样在附近区域休息，但最近这段时间，她的心情指数不太高。",
+                  "speaker_id": 50201,
+                  "text_id": "Main_Honami_2_8_2_4_3"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "库休休",
+                  "text": "之前她还在兴致勃勃地查阅各种资料，但这几天她经常会看着某个方向发呆，或者拿随身的小剪刀剪纸。",
+                  "speaker_id": 50201,
+                  "text_id": "Main_Honami_2_8_2_4_4"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "剪纸……？",
+                  "text_id": "Main_Honami_2_8_2_4_5",
+                  "choice_key": "剧情_2_8_下半_穗波市_9_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "库休休",
+                  "text": "是的，剪纸手工品。你看，这边的桌上就留着一些。每次她都会收拾干净，但这次……",
+                  "speaker_id": 50201,
+                  "text_id": "Main_Honami_2_8_2_4_6"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（看起来是剪纸时留下的边角料，还有这座剪到一半的高塔……看起来很眼熟。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Honami_2_8_2_4_7"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "库休休",
+                  "text": "帮千咲小姐递交申请后，我还特意询问过她，要不要让人陪同。但她都拒绝了。",
+                  "speaker_id": 50201,
+                  "text_id": "Main_Honami_2_8_2_4_8"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "情况我了解了。",
+                  "text_id": "Main_Honami_2_8_2_4_9",
+                  "choice_key": "剧情_2_8_下半_穗波市_9_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "库休休",
+                  "text": "好，千咲小姐就拜托了。",
+                  "speaker_id": 50201,
+                  "text_id": "Main_Honami_2_8_2_4_11"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "洄游鱼向你展示了此处曾经的景象——",
+                  "speaker_id": 83,
+                  "text_id": "Main_Honami_2_8_2_6_1"
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "少女倚靠着围栏眺望远方，目光深陷在湛蓝的天空。她究竟在思考什么呢……",
+                  "speaker_id": 83,
+                  "text_id": "Main_Honami_2_8_2_6_2"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "怎么了，漂泊者？为什么突然回头？",
+                  "speaker_id": 50179,
+                  "text_id": "Main_Honami_2_8_2_71_1"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "刚才，收音机里传出来了一个声音。",
+                  "text_id": "Main_Honami_2_8_2_71_2",
+                  "choice_key": "剧情_2_8_下半_穗波市_10_1:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "一个声音？收音机不是已经坏掉了吗？",
+                  "speaker_id": 50179,
+                  "text_id": "Main_Honami_2_8_2_71_4"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "所以……你没听到奇怪的声音？",
+                  "text_id": "Main_Honami_2_8_2_71_6",
+                  "choice_key": "剧情_2_8_下半_穗波市_10_1:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "千咲",
+                  "text": "……嗯。你是不是有点累了？我们先回咖啡厅休息？",
+                  "speaker_id": 50179,
+                  "text_id": "Main_Honami_2_8_2_71_7"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好，确实该歇一歇了。",
+                  "text_id": "Main_Honami_2_8_2_71_8",
+                  "choice_key": "剧情_2_8_下半_穗波市_10_1:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "（但是，刚才听到的那些话……不像是简单的幻听。）",
+                  "speaker_id": 750088,
+                  "text_id": "Main_Honami_2_8_2_71_10"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "时隙废都 第二章",
+          "source_act_id": 26
+        }
+      ]
+    }
+  ]
+}

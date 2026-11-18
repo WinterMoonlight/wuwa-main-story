@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "title": "千里卷戎旌",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 2,
+      "dialogue": 25,
+      "scene_heading": 1,
+      "scene_note": 2
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 6,
+          "title": "千里卷戎旌",
+          "act": "第六幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 10,
+              "quest_id": 140800000,
+              "title": "千里卷戎旌",
+              "reading_status": "ordered_draft_with_gaps",
+              "notes": [
+                "【按数据库对白衔接整理。段间顺序为阅读草稿，暂略的片段见同名JSON】"
+              ],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "scene_note",
+                  "speaker": null,
+                  "text": "【战后回到今州。坐下后，场景切入。】"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "上回书说到……那羽发的少女独守天堑，力战群敌……",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_1"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "就在那千钧一发之际……",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_2"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "煌煌曦光刺破云翳，霎时间百鬼荡涤，天朗气清。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_3"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "伴随着光芒，一同从那尊巨像中走出的……",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_4"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "正是漂泊者与忌炎将军。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_5"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "巨石倾颓，巉岩崩塌……无相燹主大势已去。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_6"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "山河清朗，偃武休兵……一场大战就此止息。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_7"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "正所谓……天意何所惧？世事皆人为。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_8"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "纵使一时无法破局，也总有人踏在寻求解法的道途之上。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_9"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "曾逐星野，龙鸣铮铮响天悬。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_10"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "今我入关，凯歌声声震云边。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_11"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "说书人",
+                  "text": "欲知后事如何，且待……来日方长。",
+                  "speaker_id": 967,
+                  "text_id": "Huanglong_main_1_7_178_12"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "scene_heading",
+                  "speaker": null,
+                  "text": "【同场可选交谈 · 岳辉】"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "真巧啊，漂泊者，想不到你也在这听书呢。",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_1"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "怎么样，听到自己的事迹被改编为了说书人口中的故事，心情应该挺激动的吧？",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_2"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "真希望有朝一日，我也能和漂泊者你一样，名扬千里……",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_3"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "现在所有人都知道我是“漂泊者”了。",
+                  "text_id": "Huanglong_main_1_7_179_4",
+                  "choice_key": "剧情_新主线_第五章1_10_1:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "因为孤身一人漂泊至此，所以大家都习惯了称呼你为“漂泊者”……",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_6"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "“漂泊者”这三个字，估计在之后很长的一段时间里，都会和“大英雄”划上等号了！",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_7"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "接下来的这段时间里，就请好好休息吧，也希望你能体验一下我们今州人的热情啊！",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_9"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于你……",
+                  "text_id": "Huanglong_main_1_7_179_10",
+                  "choice_key": "剧情_新主线_第五章1_10_1:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "我吗？北落野大战结束后，我就被忌炎将军“赶”回来养伤了。",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_11"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "哦，不过你别太担心！实际上，我的伤势也没有多么严重。",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_12"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "多亏了这次周密的战前部署，各单位都发挥出了远超平时的实力，人员损伤也远低于平时。",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_13"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "与残象正面作战是我的专长，作战时受些小伤也很正常。",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_14"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "倒是将军他……在之前的战斗中明明受了不小的伤，现在却还在前线组织战后恢复工作……",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_15"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "唉，我真的很想过去帮忙啊！",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_16"
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "岳辉",
+                  "text": "……抱歉，我扯远了。总之，感谢你帮助今州！",
+                  "speaker_id": 800009,
+                  "text_id": "Huanglong_main_1_7_179_17"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "scene_note",
+                  "speaker": null,
+                  "text": "【离开指定区域后，显示章节提示。】"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "schema_version": 1,
+  "title": "梦境遗尘",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 15,
+      "dialogue": 70
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 7,
+          "title": "往岁乘霄醒惊蛰",
+          "act": "第七幕",
+          "notes": [
+            "《行路遇新知》的前置是上一幕任务 `140800000` 的子任务 `330`。"
+          ],
+          "tasks": [
+            {
+              "sequence": 12,
+              "quest_id": 125000120,
+              "title": "梦境遗尘",
+              "reading_status": "ordered_draft",
+              "notes": [
+                "【已定位的正文按章节回顾排列】"
+              ],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "漂泊者，你刚才听到什么声音没有？我的肚子，好像在咕咕叫诶。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "唔……真的好饿……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_2"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "要不我们一起去上次和秧秧、还有炽霞吃的那家铺子？",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_3"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "那个味道，好想再试一次！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_1_4"
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "唔唔……好吃好吃！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_1"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "喂，喂喂，漂泊者，怎么又开始发呆了。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_2"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "这么一大桌子好吃的，不尝一尝吗？呃……你要不吃的话，我可就一口气全都吃光光，不客气了哦。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_3"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "一整天都心不在焉的……不会是又想起昨晚那个奇怪的梦了吧。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_4"
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "你说梦到了岁主，那家伙就和你面对面站着，像你上次见到岁主雕像时记起的画面一样？",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_5"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "这次我看到了更多的信息。",
+                  "text_id": "Chengxiaoshan_main_1_1_5_6",
+                  "choice_key": "剧情_1_1_乘宵山主线_7_3:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "对哦，好像岁主“咻”得一下就飞了起来，带你去到了一座龙形的山。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_8"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "那里发生了一场危机，有好多好多残象，幸好有岁主在那儿保护了大家，保护了小镇！",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_9"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "是怎么保护的来着……你怎么说的来着，岁主把那儿的时间变得和外面不一样了？",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_10"
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "嗯……从外界看，山里的时间似乎变得很慢很慢，那些残象也因此进不去了。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_11"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我想，岁主应该是通过改变一小片区域的时间流速，利用区域内外的“时间差”形成屏障结界。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_12"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "以此隔绝残象和人们的定居地，造就了一方不受残象侵扰的世外净土。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_13"
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "而且……梦中的我仿佛不受那种异常时流的影响，可以自由进出结界。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_14"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "哎呀，能和我做朋友，你有什么不得了的能力都不意外啦。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_15"
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "不过你说梦里的那座山，叫……什么？有点记不清了。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_16"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "梦境中我隐约听到了岁主的声音，祂称那里为“乘霄山”。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_17"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "乘霄山？确实没听说过……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_18"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "dialogue",
+                  "speaker": "九思",
+                  "text": "小姑娘，没听过乘霄山？不是今州人吧。",
+                  "speaker_id": 1336,
+                  "text_id": "Chengxiaoshan_main_1_1_5_19"
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "什么什么？你知道乘霄山？",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_20"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "九思",
+                  "text": "哎哟！这、这声骸怎么会说话？",
+                  "speaker_id": 1336,
+                  "text_id": "Chengxiaoshan_main_1_1_5_21"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "它叫阿布，是我的朋友。",
+                  "text_id": "Chengxiaoshan_main_1_1_5_22",
+                  "choice_key": "剧情_1_1_乘宵山主线_7_3:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "庆祥",
+                  "text": "哈哈哈，老九，莫慌莫慌。这会说话的声骸虽然少见，倒也不是啥要了命的稀罕事儿。",
+                  "speaker_id": 1335,
+                  "text_id": "Chengxiaoshan_main_1_1_5_24"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "庆祥",
+                  "text": "据说有个叫黎什么的外邦？那儿的声骸啊，就个顶个的厉害。",
+                  "speaker_id": 1335,
+                  "text_id": "Chengxiaoshan_main_1_1_5_25"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你们说的乘霄山，是怎么回事？",
+                  "text_id": "Chengxiaoshan_main_1_1_5_26",
+                  "choice_key": "剧情_1_1_乘宵山主线_7_3:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "庆祥",
+                  "text": "小姑娘是外乡人，不知道也正常。",
+                  "speaker_id": 1335,
+                  "text_id": "Chengxiaoshan_main_1_1_5_27"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "庆祥",
+                  "text": "这乘霄山传说是今州先民的祖地，整座山瞧上去就像是照着岁主「角」的模样凿刻出来的。",
+                  "speaker_id": 1335,
+                  "text_id": "Chengxiaoshan_main_1_1_5_28"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "庆祥",
+                  "text": "只不过打我出生，就从没听有人真的去过那地界。传闻说，那些去寻山的人，要么在海雾里迷了路，要么就再也没消息咯。",
+                  "speaker_id": 1335,
+                  "text_id": "Chengxiaoshan_main_1_1_5_29"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "庆祥",
+                  "text": "你要好奇得紧，就往东南走，乘霄山在怨鸟泽东面的海上，远远就能瞧得见。",
+                  "speaker_id": 1335,
+                  "text_id": "Chengxiaoshan_main_1_1_5_30"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "东南边啊……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_31"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？你想到了什么？",
+                  "text_id": "Chengxiaoshan_main_1_1_5_32",
+                  "choice_key": "剧情_1_1_乘宵山主线_7_3:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "——我这几天，尤其是今天早上，闻到东南面飘过来一股很奇特的气息，就是他们说的那座山的方向。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_33"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "奇特的“气息”，是什么？",
+                  "text_id": "Chengxiaoshan_main_1_1_5_34",
+                  "choice_key": "剧情_1_1_乘宵山主线_7_3:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "闻起来像是很强大的频率能量散发出来的，具体是什么我也说不上来，反正感觉怪怪的，是不太自然的味道……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_35"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "……不会和你说的“时间慢慢的”有关吧？",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_36"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "唔……难道——你想去看稀奇？",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_37"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "记忆中我见过岁主……地点也许就在乘霄山……",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_38"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "此刻，似乎有种不知名的力量正指引着我，想要我去找到什么……",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_39"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前在边庭，今汐说过要去找岁主，她答应会给我带岁主的消息。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_40"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "但是到现在为止，我都没有收到边庭的传讯……",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_5_41"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "那……一起去问问？我看这事不简单。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_5_42"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "先去找今汐了解一下进展吧。",
+                  "text_id": "Chengxiaoshan_main_1_1_5_43",
+                  "choice_key": "剧情_1_1_乘宵山主线_7_3:35",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "阿布，你又困了？",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_6_1"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "让我……睡一会嘛，我竖着耳朵睡，有什么动静你叫我，我肯定……醒，我保证……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_6_2"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "漂泊者，是您？",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_1"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您来边庭，所为何事？",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_2"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我来找今汐，询问关于岁主的事。",
+                  "text_id": "Chengxiaoshan_main_1_1_15_3",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹现下不在边庭，而是去往了乘霄山。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_4"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "实际上……令尹与边庭的联系，已经中断了数日。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_5"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "所以你们也不清楚今汐的现况？",
+                  "text_id": "Chengxiaoshan_main_1_1_15_6",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "嗯，此事还请您替为保密，鸣式一战后，今州的局势尚不稳定。有关令尹的诸事，切不可被外界知晓。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_7"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "发生了什么？",
+                  "text_id": "Chengxiaoshan_main_1_1_15_8",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "我们设局擒获伤痕时，他曾扬言残星会已将岁主囚禁。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_9"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "与此同时，令尹也失去了对岁主的感应。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_10"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "若当真有此变故，或是这一消息被有心人加以利用，于今州而言......皆是不亚于鸣式来犯的灭顶之灾。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_11"
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "为能尽快确认岁主的安危，前段时间，令尹已动身赶往祂最近一次的现身地——乘霄山，追查其动向。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_12"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "有人与今汐同行吗？联系看看。",
+                  "text_id": "Chengxiaoshan_main_1_1_15_13",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹并无指派陪同。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_14"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "一因当时鸣式复苏在即，令尹不欲抽调人手，分散兵力。二是事关岁主，并非单凭武力可解。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_15"
+                },
+                {
+                  "sequence": 63,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我想去乘霄山见岁主。",
+                  "text_id": "Chengxiaoshan_main_1_1_15_16",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:11",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您是令尹所信所托之人，我无权阻拦。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_18"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "不过去乘霄山的路暗藏玄机，需得“引路人”相伴方能到达，具体情状，我也不甚了解。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_19"
+                },
+                {
+                  "sequence": 66,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "在哪里能找到“引路人”？",
+                  "text_id": "Chengxiaoshan_main_1_1_15_20",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "眼下……她大概在怨鸟泽附近的渡口，稍后我会传讯于她。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_21"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "您可以先到渡口与她相见，以她的身份，应当比我更了解乘霄山的现状。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_22"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好的。",
+                  "text_id": "Chengxiaoshan_main_1_1_15_23",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:15",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 70,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "我相信令尹的决策。在她离开的这段时日，我会尽心看顾好边庭的事务。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_24"
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "……只不过，我心中放不下忧虑。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_25"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "在令尹传回的最后一则通讯中，我注意到令尹比平日看上去虚弱，且她似乎在极力掩饰这点，强打精神。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_26"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "令尹现在的处境，恐怕不太乐观……",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_27"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "漂泊者，您也是。乘霄山一行还需多加保重。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_28"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "散华",
+                  "text": "渡口的位置我已传至您的终端。无论结果如何，散华先谢过了。",
+                  "speaker_id": 93,
+                  "text_id": "Chengxiaoshan_main_1_1_15_29"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（阿布。）",
+                  "text_id": "Chengxiaoshan_main_1_1_15_30",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:22",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "我在。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_15_32"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "说起来，乘霄山那边那种怪怪的气味闻起来还挺香的，但感觉不太能吃……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_15_34"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你很饿吗？",
+                  "text_id": "Chengxiaoshan_main_1_1_15_35",
+                  "choice_key": "剧情_1_1_乘宵山主线_11_3:25",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "倒不是饿，就是容易犯困。我好像只能在睡觉的时候消化吃下去的频率，不然噎得慌。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_15_38"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "反正，只要你遇到危险，我就会本能地醒过来，跟之前一样。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_15_41"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "除非，没有东西能对你造成一丁点威胁。",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_15_42"
+                },
+                {
+                  "sequence": 83,
+                  "kind": "dialogue",
+                  "speaker": "阿布",
+                  "text": "自然也就叫不醒……我……",
+                  "speaker_id": 1316,
+                  "text_id": "Chengxiaoshan_main_1_1_15_43"
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "先去渡口吧。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_25_1"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "关于乘霄山……那位\"引路人\"应该知道不少信息。",
+                  "speaker_id": 354,
+                  "text_id": "Chengxiaoshan_main_1_1_25_2"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 8
+        }
+      ]
+    }
+  ]
+}

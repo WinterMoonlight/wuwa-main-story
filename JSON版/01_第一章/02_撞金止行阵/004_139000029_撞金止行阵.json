@@ -1,0 +1,2663 @@
+{
+  "schema_version": 1,
+  "title": "撞金止行阵",
+  "language": "zh-Hans",
+  "configdb_version": "3.8.11",
+  "source_index": "主线分块索引.md",
+  "stats": {
+    "chapter_count": 1,
+    "section_count": 1,
+    "task_count": 1,
+    "events_by_kind": {
+      "choice": 54,
+      "dialogue": 266,
+      "narration": 1
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章",
+      "sections": [
+        {
+          "number": 2,
+          "title": "撞金止行阵",
+          "act": "第二幕",
+          "notes": [],
+          "tasks": [
+            {
+              "sequence": 4,
+              "quest_id": 139000029,
+              "title": "撞金止行阵",
+              "reading_status": "ordered_draft",
+              "notes": [],
+              "events": [
+                {
+                  "sequence": 1,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "攀花姨，我带朋友来了！这次要三碗小面，加辣的！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2_132_1"
+                },
+                {
+                  "sequence": 2,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "所以说——早餐，来一碗热辣滚烫的小面，是真让人身心畅快！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_1"
+                },
+                {
+                  "sequence": 3,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者吃得惯吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_2"
+                },
+                {
+                  "sequence": 4,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "还没吃上第一口。",
+                  "text_id": "Huanglong_main_1_2EX_480_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 5,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "白芷似乎把自己锁在研究院了，说是自打昨天就没出来过，看来得把那些数据资料研究透了才能见到她了。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_6"
+                },
+                {
+                  "sequence": 6,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "哦，不对，漂泊者可能是特例，毕竟是数据样本来源之一，说不定绑在研究院门口——",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_7"
+                },
+                {
+                  "sequence": 7,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "往外扯扯，能把华胥研究院所有人成串钓出来，最前头就是白芷，开口第一句就是问漂泊者情况！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_8"
+                },
+                {
+                  "sequence": 8,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "倒也可以试试。",
+                  "text_id": "Huanglong_main_1_2EX_480_9",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 9,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "是吧是吧！下次有急事，就出动漂泊者！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_13"
+                },
+                {
+                  "sequence": 10,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "对了，昨儿不是说，糖丸和日晷都有眉目了，现在就剩奇怪的树叶跟一点也不奇怪的莽吉柿？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_15"
+                },
+                {
+                  "sequence": 11,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "没想到顺路一趟研究院就解决了两，该说漂泊者太聪明还是令尹确实没打算为难人。",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_16"
+                },
+                {
+                  "sequence": 12,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "下一步，漂泊者打算怎么办？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_17"
+                },
+                {
+                  "sequence": 13,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "先调查莽吉柿。",
+                  "text_id": "Huanglong_main_1_2EX_480_18",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 14,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "莽吉柿的话，不远的市集就有在贩卖出售？去问问看或许有什么线索？",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_22"
+                },
+                {
+                  "sequence": 15,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "莽吉柿并非今州本土的水果，应当是通过港口运输到今州城内的，或是先从源头寻起？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_23"
+                },
+                {
+                  "sequence": 16,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "出城看看吧。",
+                  "text_id": "Huanglong_main_1_2EX_480_25",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 17,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者是认为，接下来的信物一定是引导出城吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_27"
+                },
+                {
+                  "sequence": 18,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（诉说一开始的梦境。）",
+                  "text_id": "Huanglong_main_1_2EX_480_31",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 19,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "星海……黑发少女……倒悬的天空海……从手背声痕逸出的声弦……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_34"
+                },
+                {
+                  "sequence": 20,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "最近的方向是云陵谷和北落野……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_35"
+                },
+                {
+                  "sequence": 21,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "之前从未听漂泊者提起过这些。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_36"
+                },
+                {
+                  "sequence": 22,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "没找到合适的时机。",
+                  "text_id": "Huanglong_main_1_2EX_480_37",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:21",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 23,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "天空海和声弦是存在的，而在漂泊者的描述里，声弦落下的地界，确确实实是云陵谷和北落野。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_39"
+                },
+                {
+                  "sequence": 24,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "或许……那并不是梦。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_40"
+                },
+                {
+                  "sequence": 25,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "或许找到那个少女，是找回漂泊者记忆的关键，除去今令尹提供的信息，梦境的指向之一，是北落野。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_41"
+                },
+                {
+                  "sequence": 26,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "鸣式战争的战场，残象潮的发源地，也是，夜归军的前线驻地。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_42"
+                },
+                {
+                  "sequence": 27,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "不过出城的话，我就没法再跟着了，怕耽误了值勤时间。秧秧要保护好漂泊者啊，有啥事报个信报个平安！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_2EX_480_52"
+                },
+                {
+                  "sequence": 28,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说反了吧。",
+                  "text_id": "Huanglong_main_1_2EX_480_53",
+                  "choice_key": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:35",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 29,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "嗯，我会的。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_480_58"
+                },
+                {
+                  "sequence": 30,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不论是共鸣者，还是共鸣者所配备的声骸，想要提升其能力，都需要投入特定的资源。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_yindao_7_1"
+                },
+                {
+                  "sequence": 31,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如果需要提升能力，漂泊者随时可以去训练营寻找严彦教官进行对应的训练，获取提升所需资源。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_yindao_7_2"
+                },
+                {
+                  "sequence": 32,
+                  "kind": "dialogue",
+                  "speaker": "炽霞",
+                  "text": "秧秧，你听到了吗……我、我怎么感觉……好像听到有人在哀嚎！",
+                  "speaker_id": 101,
+                  "text_id": "Huanglong_main_1_yindao_6_1"
+                },
+                {
+                  "sequence": 33,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那个方向……是夜归军用于备战训练的训练营吧……没有炽霞你说得那么夸张啦。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_yindao_6_2"
+                },
+                {
+                  "sequence": 34,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "负责训练夜归新兵的严彦教官确实比较严格，不过如果是漂泊者的话，大概那位教官也挑不出什么毛病吧……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_yindao_6_3"
+                },
+                {
+                  "sequence": 35,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "城门的戒备和防御都增强了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_1_1"
+                },
+                {
+                  "sequence": 36,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "回城那时并没有这种阵仗……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_1_2"
+                },
+                {
+                  "sequence": 37,
+                  "kind": "dialogue",
+                  "speaker": "守城的士兵",
+                  "text": "再往外走就出城了。除非有通行权限，现在北落野方向，不允许通行了。",
+                  "speaker_id": 1091,
+                  "text_id": "Huanglong_main_1_2EX_2_1"
+                },
+                {
+                  "sequence": 38,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "……",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_2"
+                },
+                {
+                  "sequence": 39,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "你这小道士，这城门岗已经换了几轮，你怎么还守在这儿？",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_3"
+                },
+                {
+                  "sequence": 40,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "您是昨天中午守城的军士，有幸再会。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_2EX_2_4"
+                },
+                {
+                  "sequence": 41,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "小道是共鸣者，自小习武，有一定自保能力，想要出城寻人。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_2EX_2_5"
+                },
+                {
+                  "sequence": 42,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "小道答应了失踪者的爷爷，必须寻回他。恳请二位军士通融。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_2EX_2_6"
+                },
+                {
+                  "sequence": 43,
+                  "kind": "dialogue",
+                  "speaker": "守城的士兵",
+                  "text": "尽管你是共鸣者，但现在我们也不能让你过去，请见谅。",
+                  "speaker_id": 1091,
+                  "text_id": "Huanglong_main_1_2EX_2_7"
+                },
+                {
+                  "sequence": 44,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "明明城内一切运作正常，前线战事已经紧张到这个程度了吗？",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_2EX_2_8"
+                },
+                {
+                  "sequence": 45,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "正是为了让城内百姓能安心，才有必要做到这个地步。",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_9"
+                },
+                {
+                  "sequence": 46,
+                  "kind": "dialogue",
+                  "speaker": "守城的士兵",
+                  "text": "况且，忌炎将军就带着兵在北落野，战场危险是危险，有忌炎将军在，他会看好每一个兵的。",
+                  "speaker_id": 1091,
+                  "text_id": "Huanglong_main_1_2EX_2_10"
+                },
+                {
+                  "sequence": 47,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "我们早将你的情况上报了，你大可以舒舒服服在城内等通知，又何必在这跟我们风吹雨淋，苦苦相求。",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_11"
+                },
+                {
+                  "sequence": 48,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "小道也已向巡宁所投了案，各种方法也有尝试，应了他人的事，理应尽力而为。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_2EX_2_12"
+                },
+                {
+                  "sequence": 49,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "明白军士难处。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_2EX_2_13"
+                },
+                {
+                  "sequence": 50,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "小道并不欲军士为难，若是在这打扰到两位军士，小道可隐蔽身形，退往五丈开外，百丈外亦可，但以小道目力，千丈之外堪堪看清……",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_2EX_2_14"
+                },
+                {
+                  "sequence": 51,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "军行急捷，也没有准信，就算你在这等着，也不一定能在这等到夜归军回来，回来也不一定找得到你要找的人。",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_15"
+                },
+                {
+                  "sequence": 52,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "而前线危险，路途迢远，要等出去的机会，那通行权限也不会从天而降凭空出现……",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_16"
+                },
+                {
+                  "sequence": 53,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "权限核实无误……",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_19"
+                },
+                {
+                  "sequence": 54,
+                  "kind": "dialogue",
+                  "speaker": "守城的士兵",
+                  "text": "两人同行，是吗？",
+                  "speaker_id": 1091,
+                  "text_id": "Huanglong_main_1_2EX_2_20"
+                },
+                {
+                  "sequence": 55,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是的。",
+                  "text_id": "Huanglong_main_1_2EX_2_21",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_22:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 56,
+                  "kind": "dialogue",
+                  "speaker": "？？",
+                  "text": "两位少侠，小道鉴心，有一事相求。",
+                  "speaker_id": 849,
+                  "text_id": "Huanglong_main_1_2EX_2_23"
+                },
+                {
+                  "sequence": 57,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "出城一事，小道想要出城寻人，但无权限，如若方便，可否应允小道伴随同行？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_2_24"
+                },
+                {
+                  "sequence": 58,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我答应你。",
+                  "text_id": "Huanglong_main_1_2EX_2_25",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_22:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 59,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "少侠大义，小道先谢过！",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_2_29"
+                },
+                {
+                  "sequence": 60,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "两位军士，小道如此行事，是否有碍？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_2_36"
+                },
+                {
+                  "sequence": 61,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "这……",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_37"
+                },
+                {
+                  "sequence": 62,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可以吗？",
+                  "text_id": "Huanglong_main_1_2EX_2_38",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_22:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 63,
+                  "kind": "dialogue",
+                  "speaker": "守城的士兵",
+                  "text": "出示的权限等级显示是最高级别，在流程上是可以的。",
+                  "speaker_id": 1091,
+                  "text_id": "Huanglong_main_1_2EX_2_40"
+                },
+                {
+                  "sequence": 64,
+                  "kind": "dialogue",
+                  "speaker": "轮岗的士兵",
+                  "text": "（这个权限等级，带兵出城都可以了……）",
+                  "speaker_id": 1090,
+                  "text_id": "Huanglong_main_1_2EX_2_41"
+                },
+                {
+                  "sequence": 65,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "那我们走吧。",
+                  "text_id": "Huanglong_main_1_2EX_2_42",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_22:29",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 66,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "是！",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_2_44"
+                },
+                {
+                  "sequence": 67,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "鉴心向我们讲述了出城的缘由和所寻之人情况。",
+                  "text_id": "Huanglong_main_1_2EX_3_1"
+                },
+                {
+                  "sequence": 68,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "也就是说，小道长想前往荒石高地的夜归营地，寻找退役军士的亲人？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_3_2"
+                },
+                {
+                  "sequence": 69,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "秧秧姑娘说的是。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_3"
+                },
+                {
+                  "sequence": 70,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你和所寻之人什么关系？",
+                  "text_id": "Huanglong_main_1_2EX_3_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_23:20",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 71,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道与“致远”并不相识。小道是在下山的路途中，遇到了致远的亲人，宗业爷爷，当时他正独自寻找自己的孙子，但似乎自己也迷路了。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_9"
+                },
+                {
+                  "sequence": 72,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "老人家独身在外实在危险，于是我护送他到最近的今州城里来，等安全了再做打算。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_10"
+                },
+                {
+                  "sequence": 73,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "完全不认识但是却一路保护，把老人家安全送到城内。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_3_11"
+                },
+                {
+                  "sequence": 74,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "小道长是个好人。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_3_12"
+                },
+                {
+                  "sequence": 75,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "我和宗业爷爷两人一路走到今州，也是多亏有许多好心人帮忙。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_13"
+                },
+                {
+                  "sequence": 76,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么执着寻人？",
+                  "text_id": "Huanglong_main_1_2EX_3_5",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_23:20",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 77,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "宗业爷爷有些糊涂，他独自出来寻找参军的孙子陷入了难处，小道理应出手帮助。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_14"
+                },
+                {
+                  "sequence": 78,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "老人家的情况小道也报过案，因城外情况，宗业爷爷心焦，常常趁人不意，独自四处找寻……小道难安。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_15"
+                },
+                {
+                  "sequence": 79,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你对莽吉柿有了解吗？",
+                  "text_id": "Huanglong_main_1_2EX_3_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_23:20",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 80,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "这个莽吉柿……",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_16"
+                },
+                {
+                  "sequence": 81,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "叶片色泽鲜艳，果皮柔软回弹好，蒂瓣足有八片，果肉饱满，是个好果子。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_17"
+                },
+                {
+                  "sequence": 82,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "学到了。",
+                  "text_id": "Huanglong_main_1_2EX_3_18",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_23:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 83,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你从哪里来的？",
+                  "text_id": "Huanglong_main_1_2EX_3_7",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_23:20",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 84,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道自小在道馆里长大的，大部分时间都在山上跟着师父们修道练武。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_23"
+                },
+                {
+                  "sequence": 85,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "后来师父说修道之人不能单纯地修炼方术、遁隐山林，入世生活也是一种不可或缺的修行。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_24"
+                },
+                {
+                  "sequence": 86,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "所以我就开始下山游历，世道人情，千端万绪，走过千山百城，目睹七情六欲，收获颇丰，但依旧有许多要学的东西。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_25"
+                },
+                {
+                  "sequence": 87,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我知道了。",
+                  "text_id": "Huanglong_main_1_2EX_3_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_23:20",
+                  "selected_index": 4
+                },
+                {
+                  "sequence": 88,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "……通过搜集的信息，得出宗业爷爷的孙儿极有可能在荒石高地。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_26"
+                },
+                {
+                  "sequence": 89,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "而幸好遇到两位，现在方能出城。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_27"
+                },
+                {
+                  "sequence": 90,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们也打算去荒石高地。",
+                  "text_id": "Huanglong_main_1_2EX_3_28",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_23:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 91,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "明白。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_3_31"
+                },
+                {
+                  "sequence": 92,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "你们是军人吗？怎么会这个时候在这里，前面就是残象潮的后方战场了。",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_1"
+                },
+                {
+                  "sequence": 93,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我是夜归军下的踏白成员秧秧。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_4_2"
+                },
+                {
+                  "sequence": 94,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "秧秧向其出示了夜归凭证，鉴心向其打听了所寻之人。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_2EX_4_3"
+                },
+                {
+                  "sequence": 95,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "寻人……致远……",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_4"
+                },
+                {
+                  "sequence": 96,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "你找的这个人，是个普通人对吧？不是共鸣者？",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_5"
+                },
+                {
+                  "sequence": 97,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "是，军士是曾见过？他人可还平安？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_4_6"
+                },
+                {
+                  "sequence": 98,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "是见过一面，他不是在役夜归军对吧，他似乎一直很想参军，好像从去年起就偷偷跟在夜归行军队伍后面，赶也赶不走。",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_7"
+                },
+                {
+                  "sequence": 99,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "后来应该是被伏波营的军需官带走了，如果他现在不在城内的话……",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_17"
+                },
+                {
+                  "sequence": 100,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "应当是在前方伏波营的驻扎点，再远了去，就是前方战场了，夜归是不会允许非军役的人以身犯险的。",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_8"
+                },
+                {
+                  "sequence": 101,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "有消息了。",
+                  "text_id": "Huanglong_main_1_2EX_4_9",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_2:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 102,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "谢谢军士！",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_4_11"
+                },
+                {
+                  "sequence": 103,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "如果你们是往那个方向去的话，我有事想请踏白的同僚相助。",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_13"
+                },
+                {
+                  "sequence": 104,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "在你们去的路上，我们有两个附近的侦查塔失联了，可以拜托去看看是什么情况吗？",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_14"
+                },
+                {
+                  "sequence": 105,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "明白了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_4_15"
+                },
+                {
+                  "sequence": 106,
+                  "kind": "dialogue",
+                  "speaker": "路过的夜归军人",
+                  "text": "我把侦查塔的坐标发到你的终端上。",
+                  "speaker_id": 1014,
+                  "text_id": "Huanglong_main_1_2EX_4_16"
+                },
+                {
+                  "sequence": 107,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "前面便是侦查信标了？怎会围着那么多人？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_41_1"
+                },
+                {
+                  "sequence": 108,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看起来不是军人……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_41_2"
+                },
+                {
+                  "sequence": 109,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "请问，你们在这里干什么呢？这里离战场很近，很危险的。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_42_1"
+                },
+                {
+                  "sequence": 110,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的平民？",
+                  "text": "啊？我们……我们没干什么，我们这不是南下进城呢。",
+                  "speaker_id": 1036,
+                  "text_id": "Huanglong_main_1_2EX_42_2"
+                },
+                {
+                  "sequence": 111,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "别藏了，你不会以为我看不到吧？",
+                  "text_id": "Huanglong_main_1_2EX_42_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 112,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "请问，这个侦查塔……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_42_4"
+                },
+                {
+                  "sequence": 113,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的平民？",
+                  "text": "大家快跑！",
+                  "speaker_id": 1036,
+                  "text_id": "Huanglong_main_1_2EX_42_5"
+                },
+                {
+                  "sequence": 114,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "有古怪。",
+                  "text_id": "Huanglong_main_1_2EX_42_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 115,
+                  "kind": "dialogue",
+                  "speaker": "胆小的平民？",
+                  "text": "哥，我走不动了……太饿了……",
+                  "speaker_id": 1092,
+                  "text_id": "Huanglong_main_1_2EX_43_1"
+                },
+                {
+                  "sequence": 116,
+                  "kind": "dialogue",
+                  "speaker": "慌张的平民？",
+                  "text": "别，别抓我们！我们……我们实在没办法了才偷东西的！",
+                  "speaker_id": 1093,
+                  "text_id": "Huanglong_main_1_2EX_43_2"
+                },
+                {
+                  "sequence": 117,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "你们是遇到什么困难了吗？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_43_3"
+                },
+                {
+                  "sequence": 118,
+                  "kind": "dialogue",
+                  "speaker": "胆小的平民？",
+                  "text": "这不是现在北边战事紧张吗，我们这些人没有物资实在活不下去了，想来想去还是打算回城过活。",
+                  "speaker_id": 1092,
+                  "text_id": "Huanglong_main_1_2EX_43_4"
+                },
+                {
+                  "sequence": 119,
+                  "kind": "dialogue",
+                  "speaker": "胆小的平民？",
+                  "text": "我们只是太久没吃东西了，身上的钱也用完了，很多人饿得都快要走不动路了。",
+                  "speaker_id": 1092,
+                  "text_id": "Huanglong_main_1_2EX_43_5"
+                },
+                {
+                  "sequence": 120,
+                  "kind": "dialogue",
+                  "speaker": "胆小的平民？",
+                  "text": "我们路过这正好看到这里有些值钱设备，军队都去打仗了，现在这里也没什么人，所以才想趁机偷点东西去换钱。",
+                  "speaker_id": 1092,
+                  "text_id": "Huanglong_main_1_2EX_43_6"
+                },
+                {
+                  "sequence": 121,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "侦测塔的损坏可能会让这个方位突然出现残象潮入侵。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_43_7"
+                },
+                {
+                  "sequence": 122,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你们有没有想过，如果真的发生了这种事情，前线将士们将陷入腹背受敌的境地。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_43_8"
+                },
+                {
+                  "sequence": 123,
+                  "kind": "dialogue",
+                  "speaker": "慌张的平民？",
+                  "text": "我们管不了那么多！要是不偷，残象潮还没来呢，我们就先饿死在这了！",
+                  "speaker_id": 1093,
+                  "text_id": "Huanglong_main_1_2EX_43_9"
+                },
+                {
+                  "sequence": 124,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "不可窃取公物，请把零件还回去。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_43_10"
+                },
+                {
+                  "sequence": 125,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "这里到今州城还有段距离，我这有锅盔，给你们吃吧。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_43_11"
+                },
+                {
+                  "sequence": 126,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "这饼你拿着吧，喏，这还有一些吃的，还有这些钱你们也拿着，这些应该足够你们走到今州城了。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_43_12"
+                },
+                {
+                  "sequence": 127,
+                  "kind": "dialogue",
+                  "speaker": "胆小的平民？",
+                  "text": "这些……都给我们？谢谢……谢谢！",
+                  "speaker_id": 1092,
+                  "text_id": "Huanglong_main_1_2EX_43_13"
+                },
+                {
+                  "sequence": 128,
+                  "kind": "dialogue",
+                  "speaker": "慌张的平民？",
+                  "text": "你！你们别抢！别光顾着吃了！快来谢谢恩人啊！",
+                  "speaker_id": 1093,
+                  "text_id": "Huanglong_main_1_2EX_43_14"
+                },
+                {
+                  "sequence": 129,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "师父说过，常善救人，故无弃人。所以，不必客气！",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_43_15"
+                },
+                {
+                  "sequence": 130,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "小心！",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2EX_43_16"
+                },
+                {
+                  "sequence": 131,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的平民？",
+                  "text": "嘁……还是块硬骨头。",
+                  "speaker_id": 1036,
+                  "text_id": "Huanglong_main_1_2EX_400_1"
+                },
+                {
+                  "sequence": 132,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道好心相救，你为什么还要伤人？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_400_2"
+                },
+                {
+                  "sequence": 133,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的平民？",
+                  "text": "我们这么多人，你给的这点东西可不够，识相的话，就把你们身上所有值钱的东西和食物全部拿出来！",
+                  "speaker_id": 1036,
+                  "text_id": "Huanglong_main_1_2EX_400_3"
+                },
+                {
+                  "sequence": 134,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的平民？",
+                  "text": "我们也不想欺负你们三个年轻人，所以你们最好还是乖乖配合……",
+                  "speaker_id": 1036,
+                  "text_id": "Huanglong_main_1_2EX_400_4"
+                },
+                {
+                  "sequence": 135,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的平民？",
+                  "text": "否则，这么多人下手没轻没重的，到时候丢了命可别怪我们。",
+                  "speaker_id": 1036,
+                  "text_id": "Huanglong_main_1_2EX_400_5"
+                },
+                {
+                  "sequence": 136,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "不义之事，小道不从。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_400_6"
+                },
+                {
+                  "sequence": 137,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "两位恩人请后退，勿要被伤及。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_400_7"
+                },
+                {
+                  "sequence": 138,
+                  "kind": "dialogue",
+                  "speaker": "奇怪的平民？",
+                  "text": "不给是吧，不给别怪我们不客气！",
+                  "speaker_id": 1036,
+                  "text_id": "Huanglong_main_1_2EX_400_8"
+                },
+                {
+                  "sequence": 139,
+                  "kind": "dialogue",
+                  "speaker": "慌张的平民？",
+                  "text": "停停停！我们认输！我们错了！别打了！真倒霉……",
+                  "speaker_id": 1093,
+                  "text_id": "Huanglong_main_1_2EX_44_1"
+                },
+                {
+                  "sequence": 140,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "我已经给了你们食物与钱，为什么还要抢劫？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_44_2"
+                },
+                {
+                  "sequence": 141,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "难道除了我们看到的这些人，你们还有其他同伴吗？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_44_3"
+                },
+                {
+                  "sequence": 142,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "看装扮和身手……你们应该不是普通百姓吧？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_44_8"
+                },
+                {
+                  "sequence": 143,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "说！你们到底是谁！",
+                  "text_id": "Huanglong_main_1_2EX_44_9",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:4",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 144,
+                  "kind": "dialogue",
+                  "speaker": "年长的流放者",
+                  "text": "谁说我们不是普通百姓！我们是啊！只不过……前段时间刚刚成为流放者而已。",
+                  "speaker_id": 852,
+                  "text_id": "Huanglong_main_1_2EX_44_10"
+                },
+                {
+                  "sequence": 145,
+                  "kind": "dialogue",
+                  "speaker": "年长的流放者",
+                  "text": "本来是想出城躲开巡尉抓捕，谁能想到北边战事这么快就严重起来了，我们在营地里人还没认熟呢，老大的家底就被掏空了，我们想了想还是回城算了……",
+                  "speaker_id": 852,
+                  "text_id": "Huanglong_main_1_2EX_44_11"
+                },
+                {
+                  "sequence": 146,
+                  "kind": "dialogue",
+                  "speaker": "胆小的流放者",
+                  "text": "我们走到半路，粮食和钱确实不够了，这才打起偷东西的主意的。",
+                  "speaker_id": 791,
+                  "text_id": "Huanglong_main_1_2EX_44_12"
+                },
+                {
+                  "sequence": 147,
+                  "kind": "dialogue",
+                  "speaker": "胆小的流放者",
+                  "text": "要不是赶上军营这边没人，我们也不敢来偷军队的零件……",
+                  "speaker_id": 791,
+                  "text_id": "Huanglong_main_1_2EX_44_13"
+                },
+                {
+                  "sequence": 148,
+                  "kind": "dialogue",
+                  "speaker": "胆小的流放者",
+                  "text": "对了，既然你们好心，不如再多给我们些盘缠吧。你看我们这么多人，现在又负伤一批，这点东西真的不够用啊……",
+                  "speaker_id": 791,
+                  "text_id": "Huanglong_main_1_2EX_44_14"
+                },
+                {
+                  "sequence": 149,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们还有些物资。",
+                  "text_id": "Huanglong_main_1_2EX_44_15",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 150,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "等等，刚才给的物资应该已经足够他们到今州城了，应当还有一些富余。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_44_16"
+                },
+                {
+                  "sequence": 151,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道曾净身下山，知道一个人存活于世、行至今州需要多少物资。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_44_17"
+                },
+                {
+                  "sequence": 152,
+                  "kind": "dialogue",
+                  "speaker": "年长的流放者",
+                  "text": "嘿！你这丫头怎么回事！多给点怎么了，我看你们也不缺啊！",
+                  "speaker_id": 852,
+                  "text_id": "Huanglong_main_1_2EX_44_18"
+                },
+                {
+                  "sequence": 153,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "贪欲多苦，知足者富。小道刚才所施只是为了你们可以顺利进城。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_44_19"
+                },
+                {
+                  "sequence": 154,
+                  "kind": "dialogue",
+                  "speaker": "胆小的流放者",
+                  "text": "不是，小姑娘你不知道，现在这时节钱也不好赚……我们要是进城找不来活，那可难办啊……",
+                  "speaker_id": 791,
+                  "text_id": "Huanglong_main_1_2EX_44_20"
+                },
+                {
+                  "sequence": 155,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道也是从山上而来，一路行至今州。小道愚钝，世事半知不解，亦能在今州得一口饭吃，诸位明明各有能耐，为何不行？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_44_21"
+                },
+                {
+                  "sequence": 156,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "若是入城后确实找不着活计，可以到六羡茶馆寻小道，小道名鉴心，可以同诸位一起找活，做活。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_44_22"
+                },
+                {
+                  "sequence": 157,
+                  "kind": "dialogue",
+                  "speaker": "年长的流放者",
+                  "text": "这！好吧，好吧，我们不要就是了。",
+                  "speaker_id": 852,
+                  "text_id": "Huanglong_main_1_2EX_44_24"
+                },
+                {
+                  "sequence": 158,
+                  "kind": "dialogue",
+                  "speaker": "年长的流放者",
+                  "text": "我们走，快走，我可不想再听这个小道士的说教了。",
+                  "speaker_id": 852,
+                  "text_id": "Huanglong_main_1_2EX_44_25"
+                },
+                {
+                  "sequence": 159,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道并非……算了，请等一等，零件留下。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_44_26"
+                },
+                {
+                  "sequence": 160,
+                  "kind": "dialogue",
+                  "speaker": "年长的流放者",
+                  "text": "记性真好……给给给！都在这了！",
+                  "speaker_id": 852,
+                  "text_id": "Huanglong_main_1_2EX_44_27"
+                },
+                {
+                  "sequence": 161,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你们只破坏了这一个侦查塔吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_44_28"
+                },
+                {
+                  "sequence": 162,
+                  "kind": "dialogue",
+                  "speaker": "年长的流放者",
+                  "text": "是啊！刚偷第一个就被你们撞见了。",
+                  "speaker_id": 852,
+                  "text_id": "Huanglong_main_1_2EX_44_29"
+                },
+                {
+                  "sequence": 163,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "但那边的侦查塔……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_44_30"
+                },
+                {
+                  "sequence": 164,
+                  "kind": "dialogue",
+                  "speaker": "年长的流放者",
+                  "text": "那可不关我们的事！那个看起来早就坏了，而且周围还有好多荆棘，我们想过去也过不去啊。",
+                  "speaker_id": 852,
+                  "text_id": "Huanglong_main_1_2EX_44_31"
+                },
+                {
+                  "sequence": 165,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "好，我们知道了。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_44_32"
+                },
+                {
+                  "sequence": 166,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "夜归的后方营地也不远了，漂泊者，鉴心小道长，我们可以把这些侦查设备修好再过去吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_44_33"
+                },
+                {
+                  "sequence": 167,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好。",
+                  "text_id": "Huanglong_main_1_2EX_44_34",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:28",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 168,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "小心！那边似乎有什么危险的气息...",
+                  "speaker_id": 108,
+                  "text_id": "Flow_139000007_984"
+                },
+                {
+                  "sequence": 169,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "居然真是被荆棘挡住了，甚是奇怪……我们先想办法把它们清除掉吧，然后再修好，应该就没问题了。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_yindao_8_1"
+                },
+                {
+                  "sequence": 170,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "只是这荆棘着实难以靠近，不如先找找看周围有没有什么能利用的东西……",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_yindao_8_2"
+                },
+                {
+                  "sequence": 171,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "小道长，你还好吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_47_1"
+                },
+                {
+                  "sequence": 172,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "这是我第一次上战场，这里……和城里的氛围完全不一样。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_47_2"
+                },
+                {
+                  "sequence": 173,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "我知道今天来过一批物资，我已经清点过了，不够，还不够，你再去联系一下城里，让他们尽快补送些过来。",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_1"
+                },
+                {
+                  "sequence": 174,
+                  "kind": "dialogue",
+                  "speaker": "运送士兵",
+                  "text": "可是审批还得……",
+                  "speaker_id": 853,
+                  "text_id": "Huanglong_main_1_2EX_48_2"
+                },
+                {
+                  "sequence": 175,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "让城里人加急办，这里争分夺秒，慢一秒钟都有可能拖垮前线，他们心里还没数吗？给你，清单。",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_3"
+                },
+                {
+                  "sequence": 176,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "实在不行，让他们直接联系我！去吧，快去！",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_4"
+                },
+                {
+                  "sequence": 177,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "动作快，动作快，这些物资怎么还没搬完？！",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_5"
+                },
+                {
+                  "sequence": 178,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你好。",
+                  "text_id": "Huanglong_main_1_2EX_48_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_10:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 179,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "怎么还有人来？你们也是来支援的吗？",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_7"
+                },
+                {
+                  "sequence": 180,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "等等，你们不是夜归军吧？",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_8"
+                },
+                {
+                  "sequence": 181,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我是夜归军下踏白成员秧秧，这两位是……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_48_9"
+                },
+                {
+                  "sequence": 182,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "秧秧出示了夜归军的身份凭证。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_2EX_48_29"
+                },
+                {
+                  "sequence": 183,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "不好意思，稍等。",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_10"
+                },
+                {
+                  "sequence": 184,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "小心！这箱子里都是药物，一会儿伤员下来要是没得用药，我看你还能不能在营里待下去。轻拿轻放啊！",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_11"
+                },
+                {
+                  "sequence": 185,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "踏白？是支援人员对吧，这里马上会有一批前线伤员回来，正好……",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_12"
+                },
+                {
+                  "sequence": 186,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "不好意思，我有一个通讯要接。",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_13"
+                },
+                {
+                  "sequence": 187,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "是我，怎么了？",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_14"
+                },
+                {
+                  "sequence": 188,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "有共鸣者超频了？好，好，马上转移，我这就来接应。",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_15"
+                },
+                {
+                  "sequence": 189,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "麻烦了麻烦了……那个……你们先过来，帮我个忙。",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_16"
+                },
+                {
+                  "sequence": 190,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "现在伤员已经在往下运输了，他们需要有人接应，但是我现在要去处理超频共鸣者的事情，所以，能麻烦你们接应一下伤员们吗？",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_17"
+                },
+                {
+                  "sequence": 191,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "需要我们具体做什么吗？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_48_18"
+                },
+                {
+                  "sequence": 192,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "你们只需要保证他们下来之后的安全就可以了，治疗的工作交给医护人员就好。",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_19"
+                },
+                {
+                  "sequence": 193,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "好，放心吧，交给我们。",
+                  "text_id": "Huanglong_main_1_2EX_48_20",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_10:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 194,
+                  "kind": "dialogue",
+                  "speaker": "休兰",
+                  "text": "谢谢了。",
+                  "speaker_id": 854,
+                  "text_id": "Huanglong_main_1_2EX_48_21"
+                },
+                {
+                  "sequence": 195,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "原来军队里这么忙碌……看起来，他们连喝口水的时间都没有。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_48_22"
+                },
+                {
+                  "sequence": 196,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "物资、医疗、维修、人员、后勤……只有他们在繁忙中有条不紊，才能更好地支撑前线。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_48_24"
+                },
+                {
+                  "sequence": 197,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "原来，这个世界上正在发生的战争是这样的……我竟然从来都不知道，局势如此严峻。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_48_25"
+                },
+                {
+                  "sequence": 198,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "其实大部分人都是接触不到这些景象的，所以不知道才是常态。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_48_26"
+                },
+                {
+                  "sequence": 199,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "我想，这也是军队想要看到的。他们想让人们能够无忧无虑地生活，而不是每个人都活得忧心忡忡、担惊受怕。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_48_27"
+                },
+                {
+                  "sequence": 200,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "伤员到了，我们过去吧。",
+                  "text_id": "Huanglong_main_1_2EX_48_28",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_10:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 201,
+                  "kind": "dialogue",
+                  "speaker": "穗禾",
+                  "text": "我说了这点小伤不用下来！放我回去！",
+                  "speaker_id": 1278,
+                  "text_id": "Huanglong_main_1_2EX_49_1"
+                },
+                {
+                  "sequence": 202,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "请冷静一下，你的伤口还没止血。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_49_2"
+                },
+                {
+                  "sequence": 203,
+                  "kind": "dialogue",
+                  "speaker": "穗禾",
+                  "text": "这点血算什么？！少条胳膊也拦不住我！",
+                  "speaker_id": 1278,
+                  "text_id": "Huanglong_main_1_2EX_49_3"
+                },
+                {
+                  "sequence": 204,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "别这时候逞强了。",
+                  "text_id": "Huanglong_main_1_2EX_49_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_11:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 205,
+                  "kind": "dialogue",
+                  "speaker": "穗禾",
+                  "text": "我没有逞强！我的共鸣能力是可以自行愈合伤口的，只不过这次慢了点而已！这些医疗支持去给更需要的人吧！",
+                  "speaker_id": 1278,
+                  "text_id": "Huanglong_main_1_2EX_49_5"
+                },
+                {
+                  "sequence": 206,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "别动了，我们的检测不会出错的，来了就安心待着！",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_49_6"
+                },
+                {
+                  "sequence": 207,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "你们帮我摁好他。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_49_7"
+                },
+                {
+                  "sequence": 208,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "好……",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_49_8"
+                },
+                {
+                  "sequence": 209,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "经过一番折腾，我们协助医护人员为伤员完成了治疗。",
+                  "text_id": "Huanglong_main_1_2EX_49_9"
+                },
+                {
+                  "sequence": 210,
+                  "kind": "dialogue",
+                  "speaker": "昕宇",
+                  "text": "呼……呼……",
+                  "speaker_id": 1277,
+                  "text_id": "Huanglong_main_1_2EX_50_1"
+                },
+                {
+                  "sequence": 211,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "您还好吗？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_50_2"
+                },
+                {
+                  "sequence": 212,
+                  "kind": "dialogue",
+                  "speaker": "昕宇",
+                  "text": "不用……我就是……感觉……有点呼吸困难……",
+                  "speaker_id": 1277,
+                  "text_id": "Huanglong_main_1_2EX_50_3"
+                },
+                {
+                  "sequence": 213,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "听起来很严重。",
+                  "text_id": "Huanglong_main_1_2EX_50_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_12:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 214,
+                  "kind": "dialogue",
+                  "speaker": "昕宇",
+                  "text": "没事……没事……",
+                  "speaker_id": 1277,
+                  "text_id": "Huanglong_main_1_2EX_50_5"
+                },
+                {
+                  "sequence": 215,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "我去寻一下医护人员。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_50_6"
+                },
+                {
+                  "sequence": 216,
+                  "kind": "dialogue",
+                  "speaker": "旁白",
+                  "text": "将医护人员带领到伤员面前。",
+                  "text_id": "Huanglong_main_1_2EX_50_7"
+                },
+                {
+                  "sequence": 217,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "谢谢你们的帮忙。累了吧？快来歇一会儿。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_1"
+                },
+                {
+                  "sequence": 218,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "他们看起来伤得挺重的……",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_51_2"
+                },
+                {
+                  "sequence": 219,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "别担心，都已经做了妥善处理和治疗，他们会慢慢恢复的。自从忌炎将军改制并成立了夜归军，伤员状况已经不像几十年前那样触目惊心了……",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_3"
+                },
+                {
+                  "sequence": 220,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "听前辈们说，以前军队里还有很多普通人，那时候的战场……空气里凝聚的血腥味连大雨都无法洗刷。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_4"
+                },
+                {
+                  "sequence": 221,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "相比于那种惨状，现在已经好过太多。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_5"
+                },
+                {
+                  "sequence": 222,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "……这些伤口背后，可是他们击溃了成千上万只凶猛残象的证明。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_6"
+                },
+                {
+                  "sequence": 223,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "能进夜归军的共鸣者哪一个不是以一敌百，伤到这种程度下来的人，击杀数绝对不低于这个数。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_7"
+                },
+                {
+                  "sequence": 224,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "都是英雄。",
+                  "text_id": "Huanglong_main_1_2EX_51_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_13:7",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 225,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "助国救民，普济群生，这些将士做到了，相较而言，小道所做所为原来还远远不够。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_51_9"
+                },
+                {
+                  "sequence": 226,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "也不要这么说嘛，要不是你们在，我们也不可能这么快处理完。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_10"
+                },
+                {
+                  "sequence": 227,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "现在伤员都稳定的差不多了，如果你们还有事的话，可以先去忙。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_11"
+                },
+                {
+                  "sequence": 228,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "多有叨扰，小道来此是想找一下军需官。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_51_12"
+                },
+                {
+                  "sequence": 229,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "军需官不在这，他在军营上部，现在应该正在指挥军需发放。你们要找他的话，从那架电梯上去就行。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_13"
+                },
+                {
+                  "sequence": 230,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "那我们……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_51_14"
+                },
+                {
+                  "sequence": 231,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "先跟着小道长。",
+                  "text_id": "Huanglong_main_1_2EX_51_15",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_13:13",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 232,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "这是些道馆里的食补方子，或许会对伤员恢复有帮助，请收下吧。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_51_17"
+                },
+                {
+                  "sequence": 233,
+                  "kind": "dialogue",
+                  "speaker": "医护人员",
+                  "text": "哦？好啊，谢谢了。",
+                  "speaker_id": 856,
+                  "text_id": "Huanglong_main_1_2EX_51_18"
+                },
+                {
+                  "sequence": 234,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "库存确认了吗？备件清单呢？尽快把耗材统计好，通讯路线也要检查……",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_1"
+                },
+                {
+                  "sequence": 235,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "来，小玥，把这份清单帮我送到上部阿瑟那边去……哦，不是小玥啊，小玥呢……你有什么事吗？",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_2"
+                },
+                {
+                  "sequence": 236,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "叨扰了，我是夜归军属下踏白成员，这是漂泊者和来寻人的鉴心小道长。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_5_30"
+                },
+                {
+                  "sequence": 237,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "为什么这么忙？",
+                  "text_id": "Huanglong_main_1_2EX_5_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:26",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 238,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "今州是瑝珑的关口，荒石高地则是今州的第二道关口。若是这里的关口有失守的风险，可就远远不止是今州的事了。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_7"
+                },
+                {
+                  "sequence": 239,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "残象不是人类，可不讲谈判休战那一套……只要残象还存在一日，战争就不会停止。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_8"
+                },
+                {
+                  "sequence": 240,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "而面对不休不止的战争，补给对于军队而言就是最重要的血液，我的工作就是为军队输血，现在正是缺血的时候。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_9"
+                },
+                {
+                  "sequence": 241,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "需要帮忙吗？",
+                  "text_id": "Huanglong_main_1_2EX_5_4",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:26",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 242,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "刚才看到你帮忙处理伤员，休兰那可能更需要支援。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_10"
+                },
+                {
+                  "sequence": 243,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "虽然感谢你的好意，但军需十分重要，我得亲自在这盯着。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_11"
+                },
+                {
+                  "sequence": 244,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（说明找人的事。）",
+                  "text_id": "Huanglong_main_1_2EX_5_5",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:26",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 245,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "鉴心向军需官询问了情况。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_2EX_5_12"
+                },
+                {
+                  "sequence": 246,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "致远……",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_13"
+                },
+                {
+                  "sequence": 247,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "致远那小子竟然一次都没往家里报过信？",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_14"
+                },
+                {
+                  "sequence": 248,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "夜归军近年来已经几乎不招收普通人了，致远那小子却是个犟的，去年战事还未像如今这么紧张，他就多次偷偷跟着伏波营行军，总想着往前线去。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_15"
+                },
+                {
+                  "sequence": 249,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "送回城内，劝回去，又跑了过来，索性我就收他在后方帮忙了。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_16"
+                },
+                {
+                  "sequence": 250,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "但现今战事紧张，前线危险，我再留他也不合矩，我正想让他跟着此次物资运送回城，正好你们来了。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_17"
+                },
+                {
+                  "sequence": 251,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "对了，他现在应该就在上部那。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_18"
+                },
+                {
+                  "sequence": 252,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "鉴心小道长要不要先去寻人？",
+                  "text_id": "Huanglong_main_1_2EX_5_6",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:26",
+                  "selected_index": 3
+                },
+                {
+                  "sequence": 253,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "是，那小道先行离去寻人，晚点来找漂泊者、秧秧姑娘汇合。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_5_31"
+                },
+                {
+                  "sequence": 254,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我们待会过去找你。",
+                  "text_id": "Huanglong_main_1_2EX_5_32",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:16",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 255,
+                  "kind": "dialogue",
+                  "speaker": "无署名",
+                  "text": "鉴心向大家行了一个礼，便先行离去了。",
+                  "speaker_id": 83,
+                  "text_id": "Huanglong_main_1_2EX_5_38"
+                },
+                {
+                  "sequence": 256,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（拿出莽吉柿。）",
+                  "text_id": "Huanglong_main_1_2EX_5_34",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:17",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 257,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "这、你干什么！",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_19"
+                },
+                {
+                  "sequence": 258,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "怎么了？",
+                  "text_id": "Huanglong_main_1_2EX_5_20",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:18",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 259,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "哦……这，我错了眼，还以为你掏出了榴弹，哈哈……这是……莽吉柿？",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_22"
+                },
+                {
+                  "sequence": 260,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "榴弹？",
+                  "text_id": "Huanglong_main_1_2EX_5_23",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:27",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 261,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "是一种旧式武器。悲鸣带来的巨大影响让整个世界都出现了科技倒退、资源短缺的问题。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_26"
+                },
+                {
+                  "sequence": 262,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "虽然那时已经研发出了一部分黑石武器，但人们对黑石的认知还并不全面，也因此造出了许多新旧结合的不稳定产物。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_27"
+                },
+                {
+                  "sequence": 263,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "榴弹也是其中之一，但如今黑石武器进展迅速，而军队改制规范，已经很少能见到这种武器了。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_28"
+                },
+                {
+                  "sequence": 264,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "关于莽吉柿你有什么了解的吗？",
+                  "text_id": "Huanglong_main_1_2EX_5_24",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:27",
+                  "selected_index": 1
+                },
+                {
+                  "sequence": 265,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "嗯……这并非今州本地的水果，需要从外进口，多以水运。最近残象潮频发，优先保障城内生活物资，这类水果得等北落野前线捷报，忌炎将军凯旋之后了。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_29"
+                },
+                {
+                  "sequence": 266,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "现在仅开放水运路线，由今州城以南的怨鸟泽鲧巢港运输入口，由夜归调配伏波军士护送进城。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_36"
+                },
+                {
+                  "sequence": 267,
+                  "kind": "dialogue",
+                  "speaker": "伏波营地军需官",
+                  "text": "嗯……再有的话……这种水果保鲜时间短，还有形似榴弹易于混淆的问题，一般不会作为军用补给。",
+                  "speaker_id": 1037,
+                  "text_id": "Huanglong_main_1_2EX_5_37"
+                },
+                {
+                  "sequence": 268,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "感谢，我知道了。",
+                  "text_id": "Huanglong_main_1_2EX_5_35",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_14:27",
+                  "selected_index": 2
+                },
+                {
+                  "sequence": 269,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "鉴心小道长可寻到所要寻之人？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_6_1"
+                },
+                {
+                  "sequence": 270,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "是，小道已寻到致远小兄弟，接下来打算随伏波运送物资的队伍返回城内，先去与宗业爷爷报个平安。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_2"
+                },
+                {
+                  "sequence": 271,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不是说致远不肯走？",
+                  "text_id": "Huanglong_main_1_2EX_6_3",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_25:2",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 272,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "致远本心纯朴，因受宗业爷爷的影响，对亲身行军作战有了执念，一直想出自己的一份力量。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_5"
+                },
+                {
+                  "sequence": 273,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "我与漂泊者、秧秧姑娘一路行来，所见所闻。此时此刻，不远处的前方应该远比我们这一路所看到的景象都更加艰难与激烈。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_6"
+                },
+                {
+                  "sequence": 274,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "这些世间百态由战而生，因战生苦。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_7"
+                },
+                {
+                  "sequence": 275,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "容父师父之前告诉过我，“上士得道于三军，中士得道于都市，下士得道于山林。”",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_8"
+                },
+                {
+                  "sequence": 276,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "致远之心所想，小道并非完全无法体会。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_9"
+                },
+                {
+                  "sequence": 277,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "但致远认为，从军夜归，那些严苛的训练考试并无必要，也不应区分普通人与共鸣者，他在战场，亦有自己能做之事，能对抗之敌。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_10"
+                },
+                {
+                  "sequence": 278,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我也这么认为。",
+                  "text_id": "Huanglong_main_1_2EX_6_11",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_25:8",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 279,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道觉得致远所说亦有其理所在，小道无法说服，于是，小道想起师父处事，在小道每行一事时，师父都要让我过一关，与师父切磋。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_15"
+                },
+                {
+                  "sequence": 280,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你打服他了？",
+                  "text_id": "Huanglong_main_1_2EX_6_16",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_25:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 281,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道并非想要致远平白挨一顿打，师父常通过招式切磋告诉小道道理，小道亦有所得。此次切磋，漂泊者认为我是赢，还是输？",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_31"
+                },
+                {
+                  "sequence": 282,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "你应当是假意认输。",
+                  "text_id": "Huanglong_main_1_2EX_6_18",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_25:10",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 283,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "“虚而不屈，动而愈出。多闻数穷，不若守中。”",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_20"
+                },
+                {
+                  "sequence": 284,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "漂泊者说的是，小道假意认输，却被致远看了出来。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_21"
+                },
+                {
+                  "sequence": 285,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "在切磋之后，致远意识到，他所在意的共鸣者与普通人的差别即使不存在，他也仍需努力，现在不过是空谈上阵杀敌。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_22"
+                },
+                {
+                  "sequence": 286,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "营内确有自己可做之事，但有可做之事，与为想做之事准备与努力并无半分冲突，上阵杀敌，需强健自身。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_23"
+                },
+                {
+                  "sequence": 287,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "小道听闻漂泊者与秧秧还有需要处理之事，若是漂泊者、秧秧姑娘之后得空，可来六羡茶馆一叙。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_27"
+                },
+                {
+                  "sequence": 288,
+                  "kind": "dialogue",
+                  "speaker": "鉴心",
+                  "text": "有缘遇见两位，甚幸之。",
+                  "speaker_id": 837,
+                  "text_id": "Huanglong_main_1_2EX_6_28"
+                },
+                {
+                  "sequence": 289,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "再会。",
+                  "text_id": "Huanglong_main_1_2EX_6_29",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_25:19",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 290,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "遇到鉴心小道长应当是意外，如果莽吉柿指向的是战争，今令尹想要说的究竟是什么呢？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_7_1"
+                },
+                {
+                  "sequence": 291,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "世间由战生，因战苦。",
+                  "text_id": "Huanglong_main_1_2EX_7_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 292,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者想到了什么？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_7_6"
+                },
+                {
+                  "sequence": 293,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我觉得……",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2EX_7_7"
+                },
+                {
+                  "sequence": 294,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（说起残象潮。）",
+                  "text_id": "Huanglong_main_1_2EX_7_8",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 295,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者是认为，残象潮是令尹想要通过莽吉柿告诉漂泊者的重要信息吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_7_11"
+                },
+                {
+                  "sequence": 296,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "如潮水般涌来的残象，若是防线溃败，不仅仅是瑝珑之难……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_7_12"
+                },
+                {
+                  "sequence": 297,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "尚是在战场后方，风中就已经充满了肃杀的气息……紧张、不安，戍边的将士们……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_7_16"
+                },
+                {
+                  "sequence": 298,
+                  "kind": "narration",
+                  "speaker": null,
+                  "display_label": "画面文字",
+                  "text": "听到秧秧的呼唤..意识逐渐清醒..",
+                  "text_id": "Flow_139000007_491"
+                },
+                {
+                  "sequence": 299,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "刚才怎么了？有哪里不舒服吗？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_1"
+                },
+                {
+                  "sequence": 300,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我好像……出现幻觉了。",
+                  "text_id": "Huanglong_main_1_2EX_60_2",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:1",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 301,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你吓了我一跳……刚才突然呆呆地愣在原地，怎么跟你说话都没反应，你看见什么了？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_3"
+                },
+                {
+                  "sequence": 302,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "我的视野似乎变成了残象的视角，看见了北落野的情景……",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2EX_60_4"
+                },
+                {
+                  "sequence": 303,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "（先描述青衣将军。）",
+                  "text_id": "Huanglong_main_1_2EX_60_5",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:3",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 304,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你描述的那个男人……率军的青龙具气吞四野，凌跃万军之势，那正是夜归的旌旗，也是独属于夜归军将领……忌炎的象征。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_7"
+                },
+                {
+                  "sequence": 305,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "而就在不远处的战场前线上，忌炎正率领千军万马，抵御残象潮。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_8"
+                },
+                {
+                  "sequence": 306,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "可我没见过忌炎。",
+                  "text_id": "Huanglong_main_1_2EX_60_9",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:5",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 307,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "会这么巧吗？我们来到战场附近，正巧镇戍军将领正率军冲锋陷阵，又凑巧正是此刻……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_11"
+                },
+                {
+                  "sequence": 308,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "你跨越了空间，感知到了不远处的战场景象……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_22"
+                },
+                {
+                  "sequence": 309,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "是真实的。",
+                  "text_id": "Huanglong_main_1_2EX_60_23",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:9",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 310,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "这场战事本身便是某种异动的征兆，或者二者兼有之。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_15"
+                },
+                {
+                  "sequence": 311,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "从北落野传来的流息，比以往所有时候，都更加压抑，令人窒息。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_17"
+                },
+                {
+                  "sequence": 312,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "此时此刻的战场上，一定存在某种东西，与你有着暂不明了的关联。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_18"
+                },
+                {
+                  "sequence": 313,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "我的身体里存在着东西。",
+                  "text_id": "Huanglong_main_1_2EX_60_25",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:12",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 314,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "与残象共感……？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_60_27"
+                },
+                {
+                  "sequence": 315,
+                  "kind": "choice",
+                  "speaker": "漂泊者",
+                  "text": "不管祂是什么。",
+                  "text_id": "Huanglong_main_1_2EX_60_29",
+                  "choice_key": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:0",
+                  "selected_index": 0
+                },
+                {
+                  "sequence": 316,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "漂泊者？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_58_1"
+                },
+                {
+                  "sequence": 317,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "之前白芷说过，树叶有残象频率波动。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2EX_58_2"
+                },
+                {
+                  "sequence": 318,
+                  "kind": "dialogue",
+                  "speaker": "漂泊者",
+                  "text": "最后一件信物，树叶指向的方向，在那。",
+                  "speaker_id": 354,
+                  "text_id": "Huanglong_main_1_2EX_58_3"
+                },
+                {
+                  "sequence": 319,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "……那是，中曲台地，祈池村。",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_2EX_58_4"
+                },
+                {
+                  "sequence": 320,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "有时强迫自己静下心审视自己的目标与计划，风中的讯息就会变得清晰，思维也会豁然开朗……",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_yindao_9_3"
+                },
+                {
+                  "sequence": 321,
+                  "kind": "dialogue",
+                  "speaker": "秧秧",
+                  "text": "不如漂泊者也来试试？",
+                  "speaker_id": 108,
+                  "text_id": "Huanglong_main_1_yindao_9_4"
+                }
+              ]
+            }
+          ],
+          "source_chapter": "瑝珑 第一章",
+          "source_act_id": 3
+        }
+      ]
+    }
+  ]
+}
