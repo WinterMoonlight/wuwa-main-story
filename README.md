@@ -2,7 +2,7 @@
 
 《鸣潮》主线的分章阅读稿。从《万象新声》到《予以明日的花束》，共 **44 节、80 个主线任务**。每个任务是一份 UTF-8 TXT，按章、节和任务的阅读顺序编号。
 
-[打开分块索引](主线分块索引.md) · [下载整包 ZIP](https://github.com/WinterMoonlight/wuwa-main-story/releases/download/snapshot-3.8.11/wuwa-main-story-3.8.11.zip) · [下载单文件 TXT](https://github.com/WinterMoonlight/wuwa-main-story/releases/download/snapshot-3.8.11/wuwa-main-story-full-3.8.11.txt) · [解析器源码](https://github.com/WinterMoonlight/wuwa-story-parser)
+[打开分块索引](主线分块索引.md) · [下载整包 ZIP](https://github.com/WinterMoonlight/wuwa-main-story/releases/download/snapshot-3.8.11/wuwa-main-story-3.8.11.zip) · [下载单文件 TXT](https://github.com/WinterMoonlight/wuwa-main-story/releases/download/snapshot-3.8.11/wuwa-main-story-full-3.8.11.txt) · [下载主线 JSON](https://github.com/WinterMoonlight/wuwa-main-story/releases/download/snapshot-3.8.11/wuwa-main-story-full-3.8.11.json) · [解析器源码](https://github.com/WinterMoonlight/wuwa-story-parser)
 
 > [!NOTE]
 > 文本来自 ConfigDB 3.8.11 快照，包含剧透。阅读稿保留原有缺口、可选交谈和顺序待核提示。
@@ -25,6 +25,8 @@
 ```
 
 每份 TXT 开头标注章、节、全局阅读序号和任务 ID。连读顺序依据任务前置条件、已核对的回顾和章节树整理。顺序依据不足的位置在索引和相关任务开头注明。
+
+JSON 按 `chapters[].sections[].tasks[].events[]` 组织。`quest_id` 是任务 ID，任务的 `sequence` 是全局阅读序号，事件的 `sequence` 是任务内序号。`kind` 区分对白、选项、字幕和提示等条目，`speaker` 和 `text` 分别保存说话人和正文。没有标注说话人的条目使用 `null`。
 
 ## 收录范围
 
